@@ -1,0 +1,148 @@
+﻿{
+  "version": "1.0",
+  "ai": {
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "temperature": 0.3,
+    "max_tokens": 8192,
+    "throttle_sec": 1,
+    "languages": ["zh", "en"],
+    "analysis_concurrency": 5,
+    "enrichment_concurrency": 5
+  },
+  "sources": {
+    "github": [
+      {
+        "type": "user_events",
+        "username": "karpathy",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "langchain-ai",
+        "repo": "langgraph",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "joaomdmoura",
+        "repo": "crewAI",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "Significant-Gravitas",
+        "repo": "AutoGPT",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "All-Hands-AI",
+        "repo": "OpenHands",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "microsoft",
+        "repo": "autogen",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "geekan",
+        "repo": "MetaGPT",
+        "enabled": true
+      },
+      {
+        "type": "repo_releases",
+        "owner": "OpenInterpreter",
+        "repo": "open-interpreter",
+        "enabled": true
+      }
+    ],
+    "hackernews": {
+      "enabled": true,
+      "fetch_top_stories": 30,
+      "min_score": 100
+    },
+    "rss": [
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "category": "ai-tools"
+      },
+      {
+        "name": "GitHub Trending - Daily",
+        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "enabled": true,
+        "category": "github-trending"
+      },
+      {
+        "name": "Lil'Log (Lilian Weng)",
+        "url": "https://lilianweng.github.io/feed.xml",
+        "enabled": true,
+        "category": "ai-research"
+      },
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/feed/",
+        "enabled": true,
+        "category": "ai-news"
+      }
+    ],
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        {
+          "subreddit": "MachineLearning",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 30
+        },
+        {
+          "subreddit": "LocalLLaMA",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 30
+        },
+        {
+          "subreddit": "ClaudeAI",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 20
+        }
+      ],
+      "users": [],
+      "fetch_comments": 5
+    }
+  },
+  "filtering": {
+    "ai_score_threshold": 7.0,
+    "time_window_hours": 24,
+    "max_items": 20,
+    "category_groups": {
+      "agent": {
+        "limit": 5,
+        "categories": ["ai-tools", "ai-research", "ai-news"]
+      },
+      "github": {
+        "limit": 5,
+        "categories": ["github-trending"]
+      }
+    },
+    "default_group": "other",
+    "default_group_limit": 3
+  },
+  "webhook": {
+    "enabled": false
+  }
+}

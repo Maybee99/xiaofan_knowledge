@@ -1,0 +1,63 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 环境变量（含 API Key）
+.env
+
+# Horizon 运行态数据
+Horizon/data/config.json
+Horizon/data/seen.json
+Horizon/data/summaries/*.md
+Horizon/data/subscribers.json
+Horizon/data/mcp.secrets.json
+Horizon/data/mcp-secrets.json
+Horizon/data/mcp-runs/
+Horizon/data/x_cookies_*.json
+
+# 临时文件
+*.zip
+*_temp/
+
+# 日志
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# uv
+.uv/
+.ruff_cache
+.pytest_cache
