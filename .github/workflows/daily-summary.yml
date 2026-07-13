@@ -35,37 +35,33 @@ jobs:
         run: cd Horizon && uv run horizon --hours 24
 
       - name: Copy ZH summary to quick capture
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
           DATE=$(date +'%Y-%m-%d')
           ZH_FILE="Horizon/data/summaries/horizon-${DATE}-zh.md"
           if [ -f "$ZH_FILE" ]; then
             mkdir -p "01_快捕区"
-            DEST="01_快捕区/Agent日报-${DATE}.md"
-            cp "$ZH_FILE" "$DEST"
-            echo "Copied to $DEST"
+            cp "$ZH_FILE" "01_快捕区/Agent日报-${DATE}.md"
+            echo "Copied OK"
           else
             echo "ZH summary not found: $ZH_FILE"
-            ls -la Horizon/data/summaries/ 2>/dev/null || echo "No summaries dir"
           fi
 
       - name: Commit summary to main branch
         run: |
           DATE=$(date +'%Y-%m-%d')
-          git config user.name "Horizon Bot"
-          git config user.email "horizon@bot.local"
-          git add "01_快捕区/Agent日报-${DATE}.md" 2>/dev/null || true
-          if git diff --cached --name-only | grep -q "01_快捕区"; then
-            git commit -m "📋 Agent日报 ${DATE}"
-            git push
-            echo "Committed and pushed"
-          else
-            echo "No new summary to commit"
+          FILE="01_快捕区/Agent日报-${DATE}.md"
+          if [ -f "$FILE" ]; then
+            git config user.name "Horizon Bot"
+            git config user.email "horizon@bot.local"
+            git add "$FILE"
+            if git commit -m "📋 Agent日报 ${DATE}"; then
+              git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+              git push
+              echo "Pushed OK"
+            else
+              echo "Nothing to commit"
+            fi
           fi
-
-      - name: Set current date as environment variable
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
