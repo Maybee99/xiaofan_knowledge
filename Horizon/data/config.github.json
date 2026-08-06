@@ -59,24 +59,14 @@
       }
     ],
     "reddit": {
-      "enabled": true,
-      "subreddits": [
-        {
-          "subreddit": "technology",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 50,
-          "category": "big-tech"
-        }
-      ],
+      "enabled": false,
+      "subreddits": [],
       "users": [],
       "fetch_comments": 3
     },
     "google_news": {
       "enabled": true,
-      "query": "能源政策 OR 碳中和 OR 电力改革 OR 光伏 OR 风电 OR 储能 OR 新能源汽车 OR 国家电网 OR 新能源",
+      "query": "能源政策 OR 可再生能源政策 OR 碳中和 OR 碳达峰 OR 电力改革 OR 数字能源 OR 智能电网 OR 虚拟电厂 OR 新型电力系统 OR IEA OR OPEC OR 欧盟能源 OR 美国能源部",
       "language": "zh",
       "country": "CN",
       "ceid": null,
