@@ -217,6 +217,168 @@ class DailySummarizer:
 
         return header + toc + "".join(body_parts)
 
+    async def generate_daily_brief_json(
+        self,
+        items: List[ContentItem],
+        date: str,
+        total_fetched: int,
+        language: str = "zh",
+    ) -> dict:
+        """Generate daily brief in JSON format for external API consumption.
+
+        Returns a lightweight JSON-serializable dict suitable for "每日速递"
+        display. Each item includes headline, tldr (one-line summary), and
+        key metadata — no long-form content.
+        """
+        from datetime import datetime, timezone
+
+        section_labels = SECTION_LABELS.get(language, SECTION_LABELS["en"])
+
+        # Group items by category
+        grouped: Dict[str, List[ContentItem]] = {}
+        for item in items:
+            cat = item.metadata.get("category") or "other"
+            grouped.setdefault(cat, []).append(item)
+
+        # Sort each group by score descending
+        for group_items in grouped.values():
+            group_items.sort(key=lambda x: x.ai_score or 0, reverse=True)
+
+        # Build sections in configured order
+        sections: list = []
+        rank = 0
+        for section_key in SECTION_ORDER:
+            section_items = grouped.pop(section_key, [])
+            if not section_items:
+                continue
+            section_name = section_labels.get(section_key, section_key)
+            items_json = []
+            for item in section_items:
+                rank += 1
+                items_json.append(self._format_brief_item(item, language, rank))
+            sections.append({
+                "key": section_key,
+                "title": section_name,
+                "items": items_json,
+            })
+
+        # Remaining categories (e.g. "other")
+        for section_key, section_items in grouped.items():
+            if not section_items:
+                continue
+            section_name = section_labels.get(section_key, f"\U0001f4cc {section_key}")
+            items_json = []
+            for item in section_items:
+                rank += 1
+                items_json.append(self._format_brief_item(item, language, rank))
+            sections.append({
+                "key": section_key,
+                "title": section_name,
+                "items": items_json,
+            })
+
+        return {
+            "meta": {
+                "date": date,
+                "title": "Horizon 每日速递",
+                "generated_at": datetime.now(timezone.utc).strftime(
+                    "%Y-%m-%dT%H:%M:%SZ"
+                ),
+                "total_fetched": total_fetched,
+                "total_selected": len(items),
+            },
+            "sections": sections,
+        }
+
+    def _format_brief_item(
+        self, item: ContentItem, language: str, rank: int
+    ) -> dict:
+        """Format a single ContentItem into a brief JSON object."""
+        meta = item.metadata
+
+        headline = meta.get(f"title_{language}") or item.title
+
+        # Extract first sentence as tldr
+        summary = (
+            meta.get(f"detailed_summary_{language}")
+            or meta.get("detailed_summary")
+            or item.ai_summary
+            or ""
+        )
+        tldr = self._extract_first_sentence(summary, language)
+
+        # Source name: prefer feed_name, fall back to author
+        source_name = meta.get("feed_name") or item.author or "unknown"
+
+        # Friendly publish date
+        if item.published_at:
+            if language == "zh":
+                published = (
+                    f"{item.published_at.month}月"
+                    f"{item.published_at.day}日 "
+                    f"{item.published_at:%H:%M}"
+                )
+            else:
+                day = item.published_at.strftime("%d").lstrip("0")
+                published = item.published_at.strftime(f"%b {day}, %H:%M")
+        else:
+            published = ""
+
+        # Discussion URL (only present for HackerNews-style sources)
+        discussion_url = None
+        raw_disc = meta.get("discussion_url")
+        if raw_disc:
+            safe_disc = _safe_url(raw_disc)
+            if safe_disc:
+                discussion_url = str(safe_disc)
+
+        result: dict = {
+            "rank": rank,
+            "headline": headline,
+            "url": str(item.url),
+            "tldr": tldr,
+            "source_type": item.source_type.value,
+            "source_name": source_name,
+            "published": published,
+            "score": item.ai_score,
+            "tags": item.ai_tags or [],
+        }
+        if discussion_url:
+            result["discussion_url"] = discussion_url
+
+        return result
+
+    @staticmethod
+    def _extract_first_sentence(text: str, language: str) -> str:
+        """Extract the first sentence from text, capped at ~100 chars."""
+        if not text:
+            return ""
+
+        if language == "zh":
+            # Match up to and including first 。！？
+            match = re.match(r"(.*?[。！？])", text)
+            first = match.group(1) if match else text
+            if len(first) > 100:
+                # Cut at last sentence-ending char within limit
+                truncated = first[:100]
+                last_end = max(
+                    truncated.rfind("。"),  # 。
+                    truncated.rfind("！"),  # ！
+                    truncated.rfind("？"),  # ？
+                )
+                if last_end > 10:
+                    first = truncated[: last_end + 1]
+                else:
+                    first = truncated + "…"  # …
+            return first
+
+        # English: first sentence ending with . ! ? followed by space or end
+        match = re.match(r"(.*?[.!?])(?:\s|$)", text)
+        first = match.group(1) if match else text
+        if len(first) > 200:
+            first = first[:197] + "..."
+        return first
+
     def generate_webhook_overview(
         self,
         items: List[ContentItem],
