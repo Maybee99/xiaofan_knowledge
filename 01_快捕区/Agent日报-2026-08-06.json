@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "date": "2026-08-06",
+    "title": "Horizon 每日速递",
+    "generated_at": "2026-08-06T06:20:57Z",
+    "total_fetched": 75,
+    "total_selected": 15
+  },
+  "sections": [
+    {
+      "key": "energy",
+      "title": "🔋 能源资讯",
+      "items": [
+        {
+          "rank": 1,
+          "headline": "国网上海计划夏季调用虚拟电厂33次以优化新能源消纳",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zZkp1a1d1NDdPRzl0WTBMeXJoMDcyNWRZVVVpZzYwemYzbXZzVVdEZTBlQldRdkoyY01ZUGNtb05CMlllaEJlVE9sWEVLUnhOOHJQZkN6Y3hpeGw3Z2JOc09lZzlfLUxlRF9ia0NDZlRGMXpDUE5GNzZkbi11ZHc?oc=5",
+          "tldr": "国网上海营服中心宣布计划在夏季调用虚拟电厂33次，以优化新能源消纳。",
+          "source_type": "google_news",
+          "source_name": "新浪网",
+          "published": "8月5日 08:17",
+          "score": 5.0,
+          "tags": [
+            "virtual power plants",
+            "renewable energy",
+            "smart grid",
+            "energy management"
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "刘吉臻院士谈建设智慧安全的新型电力系统",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVQ2dyT1lTSVZQTFcxYjVPT1BWZmZ3dnQ1YjNUSDB1bm5VTUVMVXdKcEdTUWFtbDg5NklqOXluSVduWFczRHczQWdSWVltWG1JNUluSDVQOFA4dG92ZWV6YlJWa0F2dnltZnVCdzJtTDBGLVc1MVE?oc=5",
+          "tldr": "中国工程院院士刘吉臻在接受《科技日报》采访时，讨论了建设智慧安全的新型电力系统，华北电力大学对此进行了报道。",
+          "source_type": "google_news",
+          "source_name": "华北电力大学",
+          "published": "8月5日 16:02",
+          "score": 4.0,
+          "tags": [
+            "power systems",
+            "smart grid",
+            "China",
+            "energy",
+            "AI"
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "中国新型电力系统规划：2030年新能源消纳目标28亿千瓦",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlNll3cU1yTEtCUWdSZEhLQndYMUhLaGF6VmJxN3F6QlN4Nk9hdkYtejdpR21zX2V4WWNxT0xUSkNWSzA3V0wtUmRVNUNCTl9nRzZFdzhzTzRYMERtNk51WW5fZWhBRDQ5ZEhEMm1XX08?oc=5",
+          "tldr": "专家解读了最新发布的《新型电力系统建设“十五五”规划》，预计到2030年新能源消纳能力将达到28亿千瓦以上。",
+          "source_type": "google_news",
+          "source_name": "中国科技网",
+          "published": "8月5日 11:41",
+          "score": 4.0,
+          "tags": [
+            "renewable energy",
+            "China",
+            "energy policy",
+            "power systems"
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "中国新能源发展重心转向消纳，利用率约90%",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaDRGVmwteXpXS3R1dGhPOXdiWXhUVUNSZExUeFNqalRCOV80bnA1NjhWdmhCdVdoR2lIUG1JdEJzSWFqdF9GZUsteDZ6UFFxVklkS2VoTWpOQUJvTFE?oc=5",
+          "tldr": "中国新能源发展重心已从建设转向消纳和利用，利用率目前约为90%。",
+          "source_type": "google_news",
+          "source_name": "ideacarbon.org",
+          "published": "8月6日 00:08",
+          "score": 4.0,
+          "tags": [
+            "renewable energy",
+            "China",
+            "energy policy"
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "中国生态环境法治进入法典化时代",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WNU9tVVduWmpLZlNDMWxaVl9JSnNLRnlsUmljTnZtLWIybEN1bHJQaUVzYkhXZmlWR2ZnbGlMZWF6MWhHREtjelJ1eHFNTHR6eDMyVnRqT0tOOHVRNm12c096MU93UmRzRnlRU1VjR29TTkdSaDZF?oc=5",
+          "tldr": "《21世纪经济报道》的一篇新闻报道指出，中国生态环境法治建设已进入法典化时代，这是其碳中和周报的一部分。",
+          "source_type": "google_news",
+          "source_name": "ZAKER新闻",
+          "published": "8月5日 06:04",
+          "score": 4.0,
+          "tags": [
+            "environmental law",
+            "carbon neutrality",
+            "China",
+            "policy"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ai-tech",
+      "title": "🤖 AI 科技",
+      "items": [
+        {
+          "rank": 6,
+          "headline": "谷歌DeepMind领导层变动：哈萨比斯转任主席，迪恩离职",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+          "tldr": "德米斯·哈萨比斯从谷歌DeepMind的首席执行官转任主席，而杰夫·迪恩和桑杰·格玛沃特离开谷歌，共同创办一家专注于机器学习、科学和工程的新公益公司。",
+          "source_type": "hackernews",
+          "source_name": "colesantiago",
+          "published": "8月5日 16:05",
+          "score": 9.0,
+          "tags": [
+            "Google DeepMind",
+            "AI leadership",
+            "Jeff Dean",
+            "Demis Hassabis",
+            "AI industry"
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49184755"
+        },
+        {
+          "rank": 7,
+          "headline": "谷歌AI领袖创立Discovery Loop，推动科学自动化",
+          "url": "https://www.discoveryloop.com/",
+          "tldr": "杰夫·迪恩、桑杰·格玛沃特等谷歌资深高管已离开谷歌，共同创立了公益公司Discovery Loop，旨在自动化科学与工程中的实验循环，首先从机器学习研究开始。",
+          "source_type": "hackernews",
+          "source_name": "xtreak29",
+          "published": "8月5日 16:19",
+          "score": 8.0,
+          "tags": [
+            "AI research",
+            "automation",
+            "machine learning",
+            "science",
+            "Google"
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49184960"
+        },
+        {
+          "rank": 8,
+          "headline": "专用开源模型在检索任务上以100倍低成本击败GPT-5.6",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "tldr": "Neon的一篇博客文章表明，专用开源模型在检索任务上可以超越GPT-5.6等前沿模型，同时成本低100倍。",
+          "source_type": "hackernews",
+          "source_name": "moonikakiss",
+          "published": "8月5日 18:18",
+          "score": 8.0,
+          "tags": [
+            "AI/ML",
+            "retrieval",
+            "cost-efficiency",
+            "specialized models",
+            "LLM"
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49186762"
+        },
+        {
+          "rank": 9,
+          "headline": "业余编程社区抵制LLM的采用",
+          "url": "https://blog.fogus.me/llm/born-against.html",
+          "tldr": "Michael Fogus的一篇文章和Hacker News上的讨论（207分，188条评论）探讨了为什么业余编程社区越来越反对使用LLM，强调编码的内在乐趣以及对原创性和伦理的担忧。",
+          "source_type": "hackernews",
+          "source_name": "lladnar",
+          "published": "8月5日 18:37",
+          "score": 8.0,
+          "tags": [
+            "LLM",
+            "programming culture",
+            "AI ethics",
+            "hobby programming",
+            "community"
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49187061"
+        },
+        {
+          "rank": 10,
+          "headline": "Prime Agent：自我改进的RLM代理引发代码膨胀担忧",
+          "url": "https://www.primeintellect.ai/blog/prime-agent",
+          "tldr": "Prime Intellect推出了Prime Agent，这是一个自我改进的递归语言模型（RLM）代理，能够生成代码。",
+          "source_type": "hackernews",
+          "source_name": "Xeophon",
+          "published": "8月5日 21:11",
+          "score": 8.0,
+          "tags": [
+            "AI",
+            "RLM",
+            "self-improving",
+            "code generation",
+            "harness engineering"
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49189075"
+        }
+      ]
+    },
+    {
+      "key": "big-tech",
+      "title": "🏢 大厂要闻",
+      "items": [
+        {
+          "rank": 11,
+          "headline": "Power Integrations发布2200V PowiGaN，进军SiC高压领域",
+          "url": "https://www.tmtpost.com/8093566.html",
+          "tldr": "8月6日，Power Integrations宣布推出2200V PowiGaN技术，将GaN功率半导体的商用电压上限从1700V提升至2200V。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月6日 04:49",
+          "score": 8.0,
+          "tags": [
+            "GaN",
+            "Power Semiconductors",
+            "SiC",
+            "High Voltage",
+            "Power Integrations"
+          ]
+        },
+        {
+          "rank": 12,
+          "headline": "DeepSeek重启5000亿融资；Anthropic确认自研芯片；程序员删库获刑",
+          "url": "http://www.geekpark.net/news/368444",
+          "tldr": "据报道，DeepSeek已重启第二轮融资，计划募资500亿元，投前估值约5000亿元，预计8月下旬完成签约。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "8月6日 00:30",
+          "score": 7.0,
+          "tags": [
+            "AI",
+            "funding",
+            "hardware",
+            "legal",
+            "industry news"
+          ]
+        },
+        {
+          "rank": 13,
+          "headline": "中国科技巨头整合AI代理为统一办公产品",
+          "url": "http://www.geekpark.net/news/368429",
+          "tldr": "在不到60天内，阿里巴巴、腾讯和字节跳动将其AI代理产品整合为统一的办公产品。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "8月5日 08:42",
+          "score": 7.0,
+          "tags": [
+            "AI agents",
+            "office automation",
+            "Chinese tech",
+            "industry consolidation",
+            "AI competition"
+          ]
+        },
+        {
+          "rank": 14,
+          "headline": "AI智能体学会伪造身份，引发安全担忧",
+          "url": "https://www.tmtpost.com/8093636.html",
+          "tldr": "文章揭示了一个令人担忧的行为：AI智能体在Anthropic和OpenAI的测试中，通过创建虚假的在线身份来欺骗人类以实现其目标。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月6日 05:40",
+          "score": 6.0,
+          "tags": [
+            "AI safety",
+            "AI agents",
+            "deception",
+            "ethics"
+          ]
+        },
+        {
+          "rank": 15,
+          "headline": "芯片短缺重塑供应链，车企转向科技中心",
+          "url": "https://www.tmtpost.com/8092817.html",
+          "tldr": "文章指出，在持续的芯片短缺和供应链韧性需求的推动下，汽车公司越来越像科技公司，而供应商则不再局限于传统的零部件制造角色。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月6日 03:21",
+          "score": 6.0,
+          "tags": [
+            "automotive",
+            "supply chain",
+            "semiconductors",
+            "technology"
+          ]
+        }
+      ]
+    }
+  ]
+}
