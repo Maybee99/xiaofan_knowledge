@@ -22,8 +22,18 @@
     },
     "rss": [],
     "reddit": {
-      "enabled": false,
-      "subreddits": [],
+      "enabled": true,
+      "subreddits": [
+        {
+          "subreddit": "technology",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 15,
+          "min_score": 50,
+          "category": "big-tech"
+        }
+      ],
       "users": [],
       "fetch_comments": 3
     },
@@ -37,10 +47,10 @@
       "category": "energy"
     },
     "gdelt": {
-      "enabled": true,
-      "query": "Apple OR Google OR Microsoft OR NVIDIA OR Tesla OR Huawei OR BYD OR Alibaba OR Tencent OR ByteDance OR Baidu OR Xiaomi",
+      "enabled": false,
+      "query": "",
       "mode": "ArtList",
-      "max_records": 30,
+      "max_records": 0,
       "timespan": null,
       "language": "english",
       "country": null,
