@@ -15,31 +15,20 @@
   "sources": {
     "github": [],
     "hackernews": {
-      "enabled": true,
+      "enabled": false,
       "fetch_top_stories": 20,
-      "min_score": 50,
-      "category": "tech-global"
+      "min_score": 50
     },
     "rss": [],
     "reddit": {
-      "enabled": true,
-      "subreddits": [
-        {
-          "subreddit": "MachineLearning",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 20,
-          "category": "tech-global"
-        }
-      ],
+      "enabled": false,
+      "subreddits": [],
       "users": [],
       "fetch_comments": 3
     },
     "google_news": {
       "enabled": true,
-      "query": "能源政策 OR 可再生能源 OR 碳中和 OR 电力改革 OR 华为 OR 比亚迪 OR 宁德时代 OR 阿里巴巴 OR 腾讯 OR 百度 OR 字节跳动 OR 小米 OR 京东 OR 拼多多 OR 美团 OR 蚂蚁集团 OR 滴滴 OR 蔚来 OR 理想汽车 OR 小鹏汽车",
+      "query": "能源政策 OR 可再生能源 OR 碳中和 OR 电力改革 OR 华为 OR 比亚迪 OR 宁德时代 OR 阿里巴巴 OR 腾讯 OR 百度 OR 字节跳动 OR 小米 OR 京东 OR 拼多多 OR 美团 OR 蔚来 OR 理想汽车 OR 小鹏汽车 OR 国家电网 OR 中石油 OR 中石化",
       "language": "zh",
       "country": "CN",
       "ceid": null,
@@ -48,7 +37,7 @@
     },
     "gdelt": {
       "enabled": true,
-      "query": "energy policy OR renewable energy OR carbon neutral OR solar power OR wind power OR electric vehicle OR Apple OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA OR OpenAI OR Tesla OR Anthropic OR DeepMind OR Anthropic",
+      "query": "energy policy OR renewable energy OR carbon neutral OR solar power OR wind power OR electric vehicle OR Apple OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA OR OpenAI OR Tesla OR Anthropic OR DeepMind OR oil gas nuclear OPEC",
       "mode": "ArtList",
       "max_records": 75,
       "timespan": null,
@@ -58,28 +47,23 @@
     }
   },
   "filtering": {
-    "ai_score_threshold": 6.0,
+    "ai_score_threshold": 4.0,
     "time_window_hours": 24,
     "max_items": 20,
     "category_groups": {
       "domestic": {
         "name": "国内要闻",
-        "limit": 7,
+        "limit": 9,
         "categories": ["domestic"]
       },
       "international": {
         "name": "国际要闻",
-        "limit": 7,
+        "limit": 9,
         "categories": ["international"]
-      },
-      "tech": {
-        "name": "科技动态",
-        "limit": 3,
-        "categories": ["tech-global", "tech-innovation"]
       }
     },
     "default_group": "other",
-    "default_group_limit": 3
+    "default_group_limit": 2
   },
   "webhook": {
     "enabled": false
