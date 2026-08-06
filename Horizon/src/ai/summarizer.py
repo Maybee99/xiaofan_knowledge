@@ -88,6 +88,21 @@ LABELS = {
     },
 }
 
+# Section labels and display order for category-grouped output
+SECTION_LABELS = {
+    "en": {
+        "energy": "🔋 Energy & Industry",
+        "ai-tech": "🤖 AI & Technology",
+        "big-tech": "🏢 Big Tech Companies",
+    },
+    "zh": {
+        "energy": "🔋 能源资讯",
+        "ai-tech": "🤖 AI 科技",
+        "big-tech": "🏢 大厂动态",
+    },
+}
+SECTION_ORDER = ["energy", "ai-tech", "big-tech"]
+
 
 class DailySummarizer:
     """Generates daily Markdown summaries from pre-analyzed content items."""
@@ -126,20 +141,81 @@ class DailySummarizer:
             "---\n\n"
         )
 
-        # TOC
-        toc_entries = []
-        for i, item in enumerate(items):
-            _t = item.metadata.get(f"title_{language}") or item.title
-            t = _escape_markdown(_t)
-            if language == "zh":
-                t = _pangu(t)
-            score = item.ai_score or "?"
-            toc_entries.append(f"{i + 1}. [{t}](#item-{i + 1}) \u2b50\ufe0f {score}/10")
-        toc = "\n".join(toc_entries) + "\n\n---\n\n"
+        # Group items by category
+        section_labels = SECTION_LABELS.get(language, SECTION_LABELS["en"])
+        grouped: Dict[str, List[ContentItem]] = {}
+        for item in items:
+            cat = item.metadata.get("category") or "other"
+            grouped.setdefault(cat, []).append(item)
 
-        parts = [self._format_item(item, labels, language, i + 1) for i, item in enumerate(items)]
+        # Sort each group by score descending
+        for group_items in grouped.values():
+            group_items.sort(key=lambda x: x.ai_score or 0, reverse=True)
 
-        return header + toc + "".join(parts)
+        # Build TOC with sections
+        toc_lines = []
+        item_counter = 1
+        flat_index: Dict[str, int] = {}  # item id -> global index
+        for section_key in SECTION_ORDER:
+            section_items = grouped.pop(section_key, [])
+            if not section_items:
+                continue
+            section_name = section_labels.get(section_key, section_key)
+            toc_lines.append(f"### {section_name}\n")
+            for item in section_items:
+                _t = item.metadata.get(f"title_{language}") or item.title
+                t = _escape_markdown(_t)
+                if language == "zh":
+                    t = _pangu(t)
+                score = item.ai_score or "?"
+                toc_lines.append(f"{item_counter}. [{t}](#item-{item_counter}) \u2b50\ufe0f {score}/10")
+                flat_index[item.id] = item_counter
+                item_counter += 1
+            toc_lines.append("")
+        # Remaining categories (e.g. "other")
+        for section_key, section_items in grouped.items():
+            if not section_items:
+                continue
+            section_name = section_labels.get(section_key, f"\ud83d\udccc {section_key}")
+            toc_lines.append(f"### {section_name}\n")
+            for item in section_items:
+                _t = item.metadata.get(f"title_{language}") or item.title
+                t = _escape_markdown(_t)
+                if language == "zh":
+                    t = _pangu(t)
+                score = item.ai_score or "?"
+                toc_lines.append(f"{item_counter}. [{t}](#item-{item_counter}) \u2b50\ufe0f {score}/10")
+                flat_index[item.id] = item_counter
+                item_counter += 1
+            toc_lines.append("")
+        toc = "\n".join(toc_lines) + "\n---\n\n"
+
+        # Render body with section headers
+        body_parts: List[str] = []
+        rendered_sections: Dict[str, List[ContentItem]] = {}
+        for item in items:
+            cat = item.metadata.get("category") or "other"
+            rendered_sections.setdefault(cat, []).append(item)
+
+        for section_key in SECTION_ORDER:
+            section_items = rendered_sections.pop(section_key, [])
+            if not section_items:
+                continue
+            section_name = section_labels.get(section_key, section_key)
+            body_parts.append(f"## {section_name}\n\n")
+            for item in section_items:
+                idx = flat_index.get(item.id, 0)
+                body_parts.append(self._format_item(item, labels, language, idx))
+        for section_key, section_items in rendered_sections.items():
+            if not section_items:
+                continue
+            section_name = section_labels.get(section_key, f"\ud83d\udccc {section_key}")
+            body_parts.append(f"## {section_name}\n\n")
+            for item in section_items:
+                idx = flat_index.get(item.id, 0)
+                body_parts.append(self._format_item(item, labels, language, idx))
+
+        return header + toc + "".join(body_parts)
 
     def generate_webhook_overview(
         self,
