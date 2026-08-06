@@ -8,91 +8,19 @@
     "temperature": 0.3,
     "max_tokens": 8192,
     "throttle_sec": 1,
-    "languages": ["zh", "en"],
+    "languages": ["zh"],
     "analysis_concurrency": 5,
     "enrichment_concurrency": 5
   },
   "sources": {
-    "github": [
-      {
-        "type": "user_events",
-        "username": "karpathy",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "langchain-ai",
-        "repo": "langgraph",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "joaomdmoura",
-        "repo": "crewAI",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "Significant-Gravitas",
-        "repo": "AutoGPT",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "All-Hands-AI",
-        "repo": "OpenHands",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "microsoft",
-        "repo": "autogen",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "geekan",
-        "repo": "MetaGPT",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "OpenInterpreter",
-        "repo": "open-interpreter",
-        "enabled": true
-      }
-    ],
+    "github": [],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 30,
-      "min_score": 100
+      "fetch_top_stories": 20,
+      "min_score": 50,
+      "category": "tech-ai"
     },
-    "rss": [
-      {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
-        "enabled": true,
-        "category": "ai-tools"
-      },
-      {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-        "enabled": true,
-        "category": "github-trending"
-      },
-      {
-        "name": "Lil'Log (Lilian Weng)",
-        "url": "https://lilianweng.github.io/feed.xml",
-        "enabled": true,
-        "category": "ai-research"
-      },
-      {
-        "name": "The Decoder",
-        "url": "https://the-decoder.com/feed/",
-        "enabled": true,
-        "category": "ai-news"
-      }
-    ],
+    "rss": [],
     "reddit": {
       "enabled": true,
       "subreddits": [
@@ -101,57 +29,57 @@
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 30
-        },
-        {
-          "subreddit": "LocalLLaMA",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
           "fetch_limit": 10,
-          "min_score": 30
-        },
-        {
-          "subreddit": "ClaudeAI",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 20
+          "min_score": 20,
+          "category": "tech-ai"
         }
       ],
       "users": [],
-      "fetch_comments": 5
+      "fetch_comments": 3
+    },
+    "google_news": {
+      "enabled": true,
+      "query": "能源政策 OR 可再生能源 OR 碳中和 OR 电力改革",
+      "language": "zh",
+      "country": "CN",
+      "ceid": null,
+      "max_results": 30,
+      "category": "energy-policy"
+    },
+    "gdelt": {
+      "enabled": true,
+      "query": "energy policy OR renewable energy OR carbon neutral OR solar power OR wind power OR electric vehicle",
+      "mode": "ArtList",
+      "max_records": 50,
+      "timespan": null,
+      "language": "english",
+      "country": null,
+      "category": "industry-news"
     }
   },
   "filtering": {
-    "ai_score_threshold": 7.0,
+    "ai_score_threshold": 6.0,
     "time_window_hours": 24,
     "max_items": 20,
     "category_groups": {
-      "energy_policy": {
-        "limit": 12,
-        "categories": [
-          "energy-policy",
-          "energy-government-notice",
-          "new-energy-regulation",
-          "carbon-policy",
-          "power-industry-news"
-        ]
+      "energy-policy": {
+        "name": "能源政策",
+        "limit": 6,
+        "categories": ["energy-policy", "renewable-energy", "carbon-neutral"]
       },
-      "energy_market": {
-        "limit": 5,
-        "categories": [
-          "energy-industry-dynamic",
-          "new-energy-news",
-          "grid-information",
-          "oil-gas-daily"
-        ]
+      "industry-news": {
+        "name": "行业资讯",
+        "limit": 6,
+        "categories": ["industry-news", "energy-market"]
+      },
+      "tech": {
+        "name": "科技动态",
+        "limit": 6,
+        "categories": ["tech-ai", "tech-innovation"]
       }
     },
     "default_group": "other",
-    "default_group_limit": 3
+    "default_group_limit": 2
   },
   "webhook": {
     "enabled": false
