@@ -20,7 +20,44 @@
       "min_score": 30,
       "category": "ai-tech"
     },
-    "rss": [],
+    "rss": [
+      {
+        "name": "36氪",
+        "url": "https://36kr.com/feed",
+        "enabled": true,
+        "category": "big-tech"
+      },
+      {
+        "name": "虎嗅",
+        "url": "https://www.huxiu.com/rss/0.xml",
+        "enabled": true,
+        "category": "big-tech"
+      },
+      {
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/feed",
+        "enabled": true,
+        "category": "big-tech"
+      },
+      {
+        "name": "钛媒体",
+        "url": "https://www.tmtpost.com/rss.xml",
+        "enabled": true,
+        "category": "big-tech"
+      },
+      {
+        "name": "极客公园",
+        "url": "https://www.geekpark.net/rss",
+        "enabled": true,
+        "category": "big-tech"
+      },
+      {
+        "name": "新浪科技",
+        "url": "https://tech.sina.com.cn/rss/news.xml",
+        "enabled": true,
+        "category": "big-tech"
+      }
+    ],
     "reddit": {
       "enabled": true,
       "subreddits": [
@@ -39,12 +76,12 @@
     },
     "google_news": {
       "enabled": true,
-      "query": "能源政策 OR 碳中和 OR 电力改革 OR 新能源 OR 华为 OR 比亚迪 OR 阿里巴巴 OR 腾讯 OR 字节跳动 OR 小米 OR 百度 OR 宁德时代 OR 蔚来 OR 京东",
+      "query": "能源政策 OR 碳中和 OR 电力改革 OR 光伏 OR 风电 OR 储能 OR 新能源汽车 OR 国家电网 OR 新能源",
       "language": "zh",
       "country": "CN",
       "ceid": null,
-      "max_results": 50,
-      "category": "domestic"
+      "max_results": 40,
+      "category": "energy"
     },
     "gdelt": {
       "enabled": false,
@@ -62,10 +99,10 @@
     "time_window_hours": 24,
     "max_items": 20,
     "category_groups": {
-      "domestic": {
-        "name": "国内要闻",
-        "limit": 8,
-        "categories": ["domestic"]
+      "energy": {
+        "name": "能源资讯",
+        "limit": 7,
+        "categories": ["energy"]
       },
       "ai-tech": {
         "name": "AI 科技",
@@ -73,8 +110,8 @@
         "categories": ["ai-tech"]
       },
       "big-tech": {
-        "name": "国际大厂",
-        "limit": 6,
+        "name": "大厂要闻",
+        "limit": 7,
         "categories": ["big-tech"]
       }
     },
