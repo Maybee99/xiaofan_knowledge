@@ -38,9 +38,9 @@
     },
     "gdelt": {
       "enabled": true,
-      "query": "Apple OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA OR OpenAI OR Tesla OR Anthropic OR Huawei OR BYD OR CATL OR Alibaba OR Tencent OR ByteDance OR Baidu OR Xpeng OR NIO OR Li Auto OR Xiaomi",
+      "query": "Apple OR Google OR Microsoft OR Amazon OR NVIDIA OR Tesla OR OpenAI OR Meta",
       "mode": "ArtList",
-      "max_records": 75,
+      "max_records": 50,
       "timespan": null,
       "language": "english",
       "country": null,
