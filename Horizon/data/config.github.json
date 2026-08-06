@@ -15,9 +15,10 @@
   "sources": {
     "github": [],
     "hackernews": {
-      "enabled": false,
-      "fetch_top_stories": 20,
-      "min_score": 50
+      "enabled": true,
+      "fetch_top_stories": 15,
+      "min_score": 30,
+      "category": "ai-tech"
     },
     "rss": [],
     "reddit": {
@@ -28,22 +29,22 @@
     },
     "google_news": {
       "enabled": true,
-      "query": "能源政策 OR 可再生能源 OR 碳中和 OR 电力改革 OR 华为 OR 比亚迪 OR 宁德时代 OR 阿里巴巴 OR 腾讯 OR 百度 OR 字节跳动 OR 小米 OR 京东 OR 拼多多 OR 美团 OR 蔚来 OR 理想汽车 OR 小鹏汽车 OR 国家电网 OR 中石油 OR 中石化",
+      "query": "能源政策 OR 可再生能源 OR 碳中和 OR 电力改革 OR 国家电网 OR 中石油 OR 中石化 OR 光伏 OR 风电 OR 储能 OR 氢能 OR 核能 OR 新能源汽车 OR 碳排放",
       "language": "zh",
       "country": "CN",
       "ceid": null,
       "max_results": 60,
-      "category": "domestic"
+      "category": "energy"
     },
     "gdelt": {
       "enabled": true,
-      "query": "energy policy OR renewable energy OR carbon neutral OR solar power OR wind power OR electric vehicle OR Apple OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA OR OpenAI OR Tesla OR Anthropic OR DeepMind OR oil gas nuclear OPEC",
+      "query": "Apple OR Google OR Microsoft OR Meta OR Amazon OR NVIDIA OR OpenAI OR Tesla OR Anthropic OR Huawei OR BYD OR CATL OR Alibaba OR Tencent OR ByteDance OR Baidu OR Xpeng OR NIO OR Li Auto OR Xiaomi",
       "mode": "ArtList",
       "max_records": 75,
       "timespan": null,
       "language": "english",
       "country": null,
-      "category": "international"
+      "category": "big-tech"
     }
   },
   "filtering": {
@@ -51,19 +52,24 @@
     "time_window_hours": 24,
     "max_items": 20,
     "category_groups": {
-      "domestic": {
-        "name": "国内要闻",
-        "limit": 9,
-        "categories": ["domestic"]
+      "energy": {
+        "name": "能源资讯",
+        "limit": 7,
+        "categories": ["energy"]
       },
-      "international": {
-        "name": "国际要闻",
-        "limit": 9,
-        "categories": ["international"]
+      "ai-tech": {
+        "name": "AI科技",
+        "limit": 5,
+        "categories": ["ai-tech"]
+      },
+      "big-tech": {
+        "name": "大厂动态",
+        "limit": 7,
+        "categories": ["big-tech"]
       }
     },
     "default_group": "other",
-    "default_group_limit": 2
+    "default_group_limit": 1
   },
   "webhook": {
     "enabled": false
