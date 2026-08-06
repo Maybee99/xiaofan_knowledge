@@ -39,12 +39,12 @@
     },
     "google_news": {
       "enabled": true,
-      "query": "能源政策 OR 碳中和 OR 电力改革 OR 可再生能源 OR 新能源",
+      "query": "能源政策 OR 碳中和 OR 电力改革 OR 新能源 OR 华为 OR 比亚迪 OR 阿里巴巴 OR 腾讯 OR 字节跳动 OR 小米 OR 百度 OR 宁德时代 OR 蔚来 OR 京东",
       "language": "zh",
       "country": "CN",
       "ceid": null,
-      "max_results": 40,
-      "category": "energy"
+      "max_results": 50,
+      "category": "domestic"
     },
     "gdelt": {
       "enabled": false,
@@ -62,19 +62,19 @@
     "time_window_hours": 24,
     "max_items": 20,
     "category_groups": {
-      "energy": {
-        "name": "能源资讯",
-        "limit": 7,
-        "categories": ["energy"]
+      "domestic": {
+        "name": "国内要闻",
+        "limit": 8,
+        "categories": ["domestic"]
       },
       "ai-tech": {
-        "name": "AI科技",
+        "name": "AI 科技",
         "limit": 5,
         "categories": ["ai-tech"]
       },
       "big-tech": {
-        "name": "大厂动态",
-        "limit": 7,
+        "name": "国际大厂",
+        "limit": 6,
         "categories": ["big-tech"]
       }
     },
