@@ -263,6 +263,18 @@ class HorizonOrchestrator:
                 summary_path = self.storage.save_daily_summary(today, summary, language=lang)
                 self.console.print(f"💾 Saved {lang.upper()} summary to: {summary_path}\n")
 
+                # Generate JSON daily brief (ZH only for now)
+                if lang == "zh":
+                    brief_data = await summarizer.generate_daily_brief_json(
+                        important_items, today, len(all_items), language=lang
+                    )
+                    brief_path = self.storage.save_daily_brief(
+                        today, brief_data, language=lang
+                    )
+                    self.console.print(
+                        f"💾 Saved {lang.upper()} brief JSON to: {brief_path}\n"
+                    )
+
                 # Copy to docs/ for GitHub Pages
                 try:
                     from pathlib import Path
