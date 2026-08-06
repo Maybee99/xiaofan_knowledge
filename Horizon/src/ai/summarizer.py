@@ -293,19 +293,46 @@ class DailySummarizer:
     def _format_brief_item(
         self, item: ContentItem, language: str, rank: int
     ) -> dict:
-        """Format a single ContentItem into a brief JSON object."""
+        """Format a single ContentItem into a brief JSON object with full content."""
         meta = item.metadata
 
         headline = meta.get(f"title_{language}") or item.title
 
-        # Extract first sentence as tldr
+        # Full summary (not truncated)
         summary = (
             meta.get(f"detailed_summary_{language}")
             or meta.get("detailed_summary")
             or item.ai_summary
             or ""
         )
-        tldr = self._extract_first_sentence(summary, language)
+
+        # Background context
+        background = (
+            meta.get(f"background_{language}")
+            or meta.get("background")
+            or ""
+        )
+
+        # Community discussion text
+        discussion = (
+            meta.get(f"community_discussion_{language}")
+            or meta.get("community_discussion")
+            or ""
+        )
+
+        # Reference links
+        references: list = []
+        for source in meta.get("sources") or []:
+            ref_title = source.get("title", "")
+            ref_url = source.get("url", "")
+            safe_ref_url = _safe_url(ref_url) if ref_url else None
+            if safe_ref_url:
+                references.append({
+                    "title": ref_title,
+                    "url": str(safe_ref_url),
+                })
+            elif ref_title:
+                references.append({"title": ref_title})
 
         # Source name: prefer feed_name, fall back to author
         source_name = meta.get("feed_name") or item.author or "unknown"
@@ -336,13 +363,20 @@ class DailySummarizer:
             "rank": rank,
             "headline": headline,
             "url": str(item.url),
-            "tldr": tldr,
+            "tldr": self._extract_first_sentence(summary, language),
+            "summary": summary,
             "source_type": item.source_type.value,
             "source_name": source_name,
             "published": published,
             "score": item.ai_score,
             "tags": item.ai_tags or [],
         }
+        if background:
+            result["background"] = background
+        if discussion:
+            result["discussion"] = discussion
+        if references:
+            result["references"] = references
         if discussion_url:
             result["discussion_url"] = discussion_url
 
