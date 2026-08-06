@@ -1,4 +1,4 @@
-﻿name: Daily Horizon Summary
+name: Daily Horizon Summary
 
 on:
   schedule:
@@ -38,12 +38,19 @@ jobs:
         run: |
           DATE=$(date +'%Y-%m-%d')
           ZH_FILE="Horizon/data/summaries/horizon-${DATE}-zh.md"
+          ZH_JSON="Horizon/data/summaries/horizon-${DATE}-zh.json"
+          mkdir -p "01_快捕区"
           if [ -f "$ZH_FILE" ]; then
-            mkdir -p "01_快捕区"
             cp "$ZH_FILE" "01_快捕区/Agent日报-${DATE}.md"
-            echo "Copied OK"
+            echo "Markdown copied OK"
           else
             echo "ZH summary not found: $ZH_FILE"
+          fi
+          if [ -f "$ZH_JSON" ]; then
+            cp "$ZH_JSON" "01_快捕区/Agent日报-${DATE}.json"
+            echo "JSON copied OK"
+          else
+            echo "ZH brief JSON not found: $ZH_JSON"
           fi
 
       - name: Commit summary to main branch
