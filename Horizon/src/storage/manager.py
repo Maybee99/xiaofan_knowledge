@@ -127,6 +127,24 @@ class StorageManager:
 
         return filepath
 
+    def save_daily_brief(self, date: str, data: dict, language: str = "zh") -> Path:
+        """Save daily-brief JSON alongside the markdown summary.
+
+        Args:
+            date: Date string (YYYY-MM-DD).
+            data: JSON-serializable dict from DailySummarizer.
+            language: Output language code.
+
+        Returns:
+            Path to the saved JSON file.
+        """
+        filename = f"horizon-{date}-{language}.json"
+        filepath = safe_output_path(self.summaries_dir, filename)
+        _atomic_write_text(
+            filepath, json.dumps(data, indent=2, ensure_ascii=False)
+        )
+        return filepath
+
     def load_subscribers(self) -> list:
         """Loads the list of email subscribers."""
         subscribers_path = self.data_dir / "subscribers.json"
