@@ -91,17 +91,17 @@ LABELS = {
 # Section labels and display order for category-grouped output
 SECTION_LABELS = {
     "en": {
-        "energy": "🔋 Energy & Industry",
+        "domestic": "🔋 Energy & Domestic Tech",
         "ai-tech": "🤖 AI & Technology",
-        "big-tech": "🏢 Big Tech Companies",
+        "big-tech": "🏢 International Big Tech",
     },
     "zh": {
-        "energy": "🔋 能源资讯",
+        "domestic": "🔋 国内要闻",
         "ai-tech": "🤖 AI 科技",
-        "big-tech": "🏢 大厂动态",
+        "big-tech": "🏢 国际大厂",
     },
 }
-SECTION_ORDER = ["energy", "ai-tech", "big-tech"]
+SECTION_ORDER = ["domestic", "ai-tech", "big-tech"]
 
 
 class DailySummarizer:
