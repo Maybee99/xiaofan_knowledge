@@ -91,7 +91,7 @@
     "category_groups": {
       "energy": {
         "name": "能源资讯",
-        "limit": 7,
+        "limit": 5,
         "categories": ["energy"]
       },
       "ai-tech": {
@@ -101,7 +101,7 @@
       },
       "big-tech": {
         "name": "大厂要闻",
-        "limit": 7,
+        "limit": 5,
         "categories": ["big-tech"]
       }
     },
