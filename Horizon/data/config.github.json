@@ -130,13 +130,24 @@
     "time_window_hours": 24,
     "max_items": 20,
     "category_groups": {
-      "agent": {
-        "limit": 5,
-        "categories": ["ai-tools", "ai-research", "ai-news"]
+      "energy_policy": {
+        "limit": 12,
+        "categories": [
+          "energy-policy",
+          "energy-government-notice",
+          "new-energy-regulation",
+          "carbon-policy",
+          "power-industry-news"
+        ]
       },
-      "github": {
+      "energy_market": {
         "limit": 5,
-        "categories": ["github-trending"]
+        "categories": [
+          "energy-industry-dynamic",
+          "new-energy-news",
+          "grid-information",
+          "oil-gas-daily"
+        ]
       }
     },
     "default_group": "other",
