@@ -94,14 +94,16 @@ SECTION_LABELS = {
         "energy": "🔋 Energy News",
         "ai-tech": "🤖 AI & Technology",
         "big-tech": "🏢 Big Tech Companies",
+        "customer-service": "🎧 Customer Service",
     },
     "zh": {
         "energy": "🔋 能源资讯",
         "ai-tech": "🤖 AI 科技",
         "big-tech": "🏢 大厂要闻",
+        "customer-service": "🎧 客服业务",
     },
 }
-SECTION_ORDER = ["energy", "ai-tech", "big-tech"]
+SECTION_ORDER = ["energy", "ai-tech", "big-tech", "customer-service"]
 
 
 class DailySummarizer:

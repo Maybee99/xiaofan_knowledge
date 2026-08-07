@@ -20,7 +20,7 @@ from .prompts import (
     CONCEPT_EXTRACTION_SYSTEM, CONCEPT_EXTRACTION_USER,
     CONTENT_ENRICHMENT_SYSTEM, CONTENT_ENRICHMENT_USER,
 )
-from .utils import parse_json_response
+from .utils import parse_json_response, strip_surrogates
 from ..models import ContentItem
 
 
@@ -87,7 +87,11 @@ class ContentEnricher:
             return []
 
         return [
-            {"title": r.get("title", ""), "url": r.get("href", ""), "body": r.get("body", "")}
+            {
+                "title": strip_surrogates(r.get("title", "")),
+                "url": strip_surrogates(r.get("href", "")),
+                "body": strip_surrogates(r.get("body", "")),
+            }
             for r in (results or [])
         ]
 

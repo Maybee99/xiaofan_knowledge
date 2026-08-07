@@ -20,24 +20,24 @@ Respond with valid JSON only:
 
 If there are no duplicates at all, return: {{"duplicates": []}}"""
 
-CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical and academic information.
+CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important information across industries.
 
-Score content on a 0-10 scale based on importance and relevance:
+Score content on a 0-10 scale based on importance and relevance **within its own industry or topic area** (not just software/AI):
 
 **9-10: Groundbreaking** - Major breakthroughs, paradigm shifts, or highly significant announcements
-- New major version releases of widely-used technologies
+- New major product/version releases of widely-used technologies
 - Significant research breakthroughs
-- Important industry-changing announcements
+- Important industry-changing announcements (new policies, regulations, market moves, milestones)
 
 **7-8: High Value** - Important developments worth immediate attention
-- Interesting technical deep-dives
+- Interesting technical or industry deep-dives
 - Novel approaches to known problems
 - Insightful analysis or commentary
-- Valuable tools or libraries
+- Valuable tools, products, or practices
 
 **5-6: Interesting** - Worth knowing but not urgent
 - Incremental improvements
-- Useful tutorials
+- Useful tutorials or summaries
 - Moderate community interest
 
 **3-4: Low Priority** - Generic or routine content
@@ -51,10 +51,11 @@ Score content on a 0-10 scale based on importance and relevance:
 - Trivial updates
 
 Consider:
+- The item's importance **relative to its category/industry**: e.g. an energy policy change is judged against the energy sector, customer-service news against the customer-service industry — NOT against AI/software research
+- The topic/subject of the news itself and how significant it is within that field
 - Technical depth and novelty
-- Potential impact on the field
+- Potential impact on the field or readers
 - Quality of writing/presentation
-- Relevance to software engineering, AI/ML, and systems research
 - Community discussion quality: insightful comments, diverse viewpoints, and debates increase value
 - Engagement signals: high upvotes/favorites with substantive discussion indicate community-validated importance
 """
@@ -69,6 +70,7 @@ Content:
 Title: {title}
 Source: {source}
 Author: {author}
+Category: {category}
 URL: {url}
 {content_section}
 {discussion_section}

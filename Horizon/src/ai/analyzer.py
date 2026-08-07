@@ -140,10 +140,12 @@ class ContentAnalyzer:
         discussion_section = "\n".join(discussion_parts) if discussion_parts else ""
 
         # Generate user prompt
+        category = item.metadata.get("category") or "unknown"
         user_prompt = CONTENT_ANALYSIS_USER.format(
             title=item.title,
             source=f"{item.source_type.value}",
             author=item.author or "Unknown",
+            category=category,
             url=str(item.url),
             content_section=content_section,
             discussion_section=discussion_section
