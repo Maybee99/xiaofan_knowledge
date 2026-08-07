@@ -71,8 +71,15 @@ jobs:
           else
             git commit -m "📋 Agent日报 ${DATE}"
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-            git push
-            echo "Pushed OK"
+            # 远端可能已有新提交（如 cron 修改），先 fetch+rebase 再 push，失败则重试
+            for i in 1 2 3; do
+              if git fetch origin && git rebase origin/main && git push; then
+                echo "Pushed OK"
+                break
+              fi
+              echo "Push attempt $i failed, retrying..."
+              sleep 5
+            done
           fi
 
       - name: Deploy to GitHub Pages
