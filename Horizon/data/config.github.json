@@ -56,6 +56,12 @@
         "url": "https://tech.sina.com.cn/rss/news.xml",
         "enabled": true,
         "category": "big-tech"
+      },
+      {
+        "name": "客服业务",
+        "url": "https://news.google.com/rss/search?q=%E5%AE%A2%E6%9C%8D%20OR%20%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1%20OR%20%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D%20OR%20%E5%91%BC%E5%8F%AB%E4%B8%AD%E5%BF%83%20OR%20%E5%AE%A2%E6%88%B7%E4%BD%93%E9%AA%8C&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "customer-service"
       }
     ],
     "reddit": {
@@ -87,22 +93,27 @@
   "filtering": {
     "ai_score_threshold": 4.0,
     "time_window_hours": 24,
-    "max_items": 20,
+    "max_items": 40,
     "category_groups": {
       "energy": {
         "name": "能源资讯",
-        "limit": 5,
+        "limit": 10,
         "categories": ["energy"]
       },
       "ai-tech": {
         "name": "AI 科技",
-        "limit": 5,
+        "limit": 10,
         "categories": ["ai-tech"]
       },
       "big-tech": {
         "name": "大厂要闻",
-        "limit": 5,
+        "limit": 10,
         "categories": ["big-tech"]
+      },
+      "customer-service": {
+        "name": "客服业务",
+        "limit": 10,
+        "categories": ["customer-service"]
       }
     },
     "default_group": "other",
