@@ -2,7 +2,7 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    - cron: '45 1 * * *'
+    - cron: '15 2 * * *'
   workflow_dispatch:
 
 jobs:
