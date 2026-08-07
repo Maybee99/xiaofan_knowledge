@@ -1,0 +1,12 @@
+{
+  "name": "xiaofan-local-api",
+  "version": "1.0.0",
+  "description": "本地读取日报 JSON/Markdown 文件",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
