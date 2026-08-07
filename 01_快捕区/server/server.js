@@ -6,15 +6,33 @@ const app = express();
 const PORT = 3000;
 const DATA_DIR = path.join(__dirname, "..");
 
-// ============ 请求日志中间件 ============
+// ============ 日志工具 ============
 
+function timestamp() {
+  const now = new Date();
+  const y = now.getFullYear();
+  const mo = String(now.getMonth() + 1).padStart(2, "0");
+  const d = String(now.getDate()).padStart(2, "0");
+  const h = String(now.getHours()).padStart(2, "0");
+  const mi = String(now.getMinutes()).padStart(2, "0");
+  const s = String(now.getSeconds()).padStart(2, "0");
+  return `[${y}-${mo}-${d} ${h}:${mi}:${s}]`;
+}
+
+// ---- 请求日志中间件 ----
 app.use(function (req, res, next) {
   const start = Date.now();
-  res.on("finish", function () {
-    console.log("[" + new Date().toLocaleString("zh-CN", { hour12: false }) + "]",
-      req.method, req.originalUrl, "→", res.statusCode,
-      "(" + (Date.now() - start) + "ms)");
-  });
+  const clientIp = req.headers["x-forwarded-for"] || req.socket.remoteAddress || "-";
+  console.log(`${timestamp()} --> ${req.method} ${req.originalUrl}  [${clientIp}]`);
+
+  // 记录响应完成
+  const origEnd = res.end;
+  res.end = function () {
+    const duration = Date.now() - start;
+    console.log(`${timestamp()} <-- ${req.method} ${req.originalUrl}  ${res.statusCode}  (${duration}ms)`);
+    origEnd.apply(res, arguments);
+  };
+
   next();
 });
 
@@ -41,7 +59,6 @@ function formatDate(d) {
 // ============ 读取日报 ============
 
 function readReport(targetDate) {
-  // 优先读 JSON
   const jsonFile = path.join(DATA_DIR, "Agent日报-" + targetDate + ".json");
   if (fs.existsSync(jsonFile)) {
     const data = JSON.parse(fs.readFileSync(jsonFile, "utf-8"));
@@ -50,21 +67,8 @@ function readReport(targetDate) {
       total_fetched: data.meta.total_fetched,
       total_selected: data.meta.total_selected,
       sections: data.sections,
-      format: "json",
     };
   }
-
-  // 回退读 Markdown
-  const mdFile = path.join(DATA_DIR, "Agent日报-" + targetDate + ".md");
-  if (fs.existsSync(mdFile)) {
-    const content = fs.readFileSync(mdFile, "utf-8");
-    return {
-      date: targetDate,
-      content: content,
-      format: "markdown",
-    };
-  }
-
   return null;
 }
 
@@ -85,25 +89,29 @@ function getReport(targetDate) {
   throw new Error("未找到 " + targetDate + " 及之前 30 天内的日报");
 }
 
+function listAvailableDates() {
+  const files = fs.readdirSync(DATA_DIR)
+    .filter(function (f) {
+      return /^Agent日报-(\d{4}-\d{2}-\d{2})\.json$/.test(f);
+    })
+    .map(function (f) {
+      const m = f.match(/^Agent日报-(\d{4}-\d{2}-\d{2})\.json$/);
+      return m[1];
+    })
+    .sort(function (a, b) { return b.localeCompare(a); });
+  return files;
+}
+
 function listReports() {
   const files = fs.readdirSync(DATA_DIR)
     .filter(function (f) {
-      return /^Agent日报-(\d{4}-\d{2}-\d{2})\.(json|md)$/.test(f);
+      return /^Agent日报-(\d{4}-\d{2}-\d{2})\.json$/.test(f);
     })
     .map(function (f) {
-      const m = f.match(/^Agent日报-(\d{4}-\d{2}-\d{2})\.(json|md)$/);
+      const m = f.match(/^Agent日报-(\d{4}-\d{2}-\d{2})\.json$/);
       const filePath = path.join(DATA_DIR, f);
       const stat = fs.statSync(filePath);
-      return { filename: f, date: m[1], format: m[2], size: stat.size };
-    });
-
-  // 同一天有 json+md 时只保留 json
-  const seen = {};
-  return files
-    .filter(function (f) {
-      if (seen[f.date] && seen[f.date] === "json") return false;
-      seen[f.date] = f.format;
-      return true;
+      return { filename: f, date: m[1], size: stat.size };
     })
     .sort(function (a, b) { return b.date.localeCompare(a.date); });
 }
@@ -119,6 +127,7 @@ app.get("/", function (_req, res) {
     usage: {
       latest: "GET /latest?date=today|yesterday|2026-08-06",
       list: "GET /list",
+      dates: "GET /dates",
       report: "GET /report/2026-08-06",
     },
   });
@@ -137,6 +146,15 @@ app.get("/list", function (_req, res) {
   try {
     const files = listReports();
     res.json({ success: true, total: files.length, data: files });
+  } catch (err) {
+    res.status(500).json({ success: false, error: err.message });
+  }
+});
+
+app.get("/dates", function (_req, res) {
+  try {
+    const dates = listAvailableDates();
+    res.json({ success: true, total: dates.length, data: dates });
   } catch (err) {
     res.status(500).json({ success: false, error: err.message });
   }
@@ -164,5 +182,6 @@ app.listen(PORT, "0.0.0.0", function () {
   console.log("  GET /latest?date=yesterday");
   console.log("  GET /latest?date=2026-08-06");
   console.log("  GET /list");
+  console.log("  GET /dates");
   console.log("  GET /report/2026-08-06");
 });
