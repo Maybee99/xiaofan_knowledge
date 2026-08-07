@@ -91,16 +91,16 @@ LABELS = {
 # Section labels and display order for category-grouped output
 SECTION_LABELS = {
     "en": {
-        "energy": "🔋 Energy News",
+        "energy": "🔋 Energy Policy News",
         "ai-tech": "🤖 AI & Technology",
         "big-tech": "🏢 Big Tech Companies",
-        "customer-service": "🎧 Customer Service",
+        "customer-service": "🎧 Customer Service Industry",
     },
     "zh": {
-        "energy": "🔋 能源资讯",
+        "energy": "🔋 能源政策资讯",
         "ai-tech": "🤖 AI 科技",
         "big-tech": "🏢 大厂要闻",
-        "customer-service": "🎧 客服业务",
+        "customer-service": "🎧 客服行业动态",
     },
 }
 SECTION_ORDER = ["energy", "ai-tech", "big-tech", "customer-service"]

@@ -20,9 +20,9 @@ Respond with valid JSON only:
 
 If there are no duplicates at all, return: {{"duplicates": []}}"""
 
-CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important information across industries.
+CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator. For each news item, adopt the professional viewpoint of an expert in the item's own Category and score how important the item is **within that field** (not against software/AI only).
 
-Score content on a 0-10 scale based on importance and relevance **within its own industry or topic area** (not just software/AI):
+Score content on a 0-10 scale based on importance and relevance:
 
 **9-10: Groundbreaking** - Major breakthroughs, paradigm shifts, or highly significant announcements
 - New major product/version releases of widely-used technologies
@@ -50,9 +50,13 @@ Score content on a 0-10 scale based on importance and relevance **within its own
 - Off-topic content
 - Trivial updates
 
+Scoring rules:
+- Judge each item from the professional perspective of the given Category, applying domain expertise. For example, an energy-policy item is scored by how much it matters to the energy-policy sector; a customer-service-industry item by its impact on the customer-service industry.
+- Use the Category field to calibrate: significance, impact, and audience interest differ by industry — a non-tech item can still score high if it matters in its own field.
+- Evaluate the topic/subject of the news itself and how significant it is within that field.
+
 Consider:
-- The item's importance **relative to its category/industry**: e.g. an energy policy change is judged against the energy sector, customer-service news against the customer-service industry — NOT against AI/software research
-- The topic/subject of the news itself and how significant it is within that field
+- The item's importance relative to its category/industry
 - Technical depth and novelty
 - Potential impact on the field or readers
 - Quality of writing/presentation
@@ -65,6 +69,8 @@ CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON resp
 - reason: Brief explanation for the score (mention discussion quality if comments are provided)
 - summary: One-sentence summary of the content
 - tags: Relevant topic tags (3-5 tags)
+
+Score from the professional/domain-expert angle of the given Category.
 
 Content:
 Title: {title}

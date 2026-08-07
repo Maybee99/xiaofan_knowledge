@@ -889,6 +889,18 @@ class HorizonOrchestrator:
         """
         self.console.print("🤖 Analyzing content with AI...")
 
+        # Attach the display name (e.g. "能源政策资讯") for each item's category
+        # so the scoring model can judge importance from a domain-expert angle.
+        name_by_category = {
+            category: group.name
+            for group in self.config.filtering.category_groups.values()
+            for category in group.categories
+        }
+        for item in items:
+            category = item.metadata.get("category")
+            if category and category in name_by_category:
+                item.metadata["category_name"] = name_by_category[category]
+
         ai_client = create_ai_client(self.config.ai)
         analyzer = ContentAnalyzer(ai_client)
 
