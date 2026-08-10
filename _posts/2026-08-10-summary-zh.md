@@ -1,0 +1,963 @@
+---
+layout: default
+title: "Horizon Summary: 2026-08-10 (ZH)"
+date: 2026-08-10
+lang: zh
+---
+
+> 从 104 条内容中筛选出 40 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [“十五五”电网投资超 5 万亿元](#item-1) ⭐️ 8.0/10
+2. [国际能源署发布 2026 年全球电动汽车展望，应对市场不确定性](#item-2) ⭐️ 8.0/10
+3. [全球最大构网型磷酸铁锂储能电站（1GW/4GWh）并网](#item-3) ⭐️ 8.0/10
+4. [碳达峰后挑战：中国“十五五”气候规划聚焦非二氧化碳温室气体与碳市场](#item-4) ⭐️ 8.0/10
+5. [美国能源部推出开放权重科研大模型 GS1，开放贡献者入口](#item-5) ⭐️ 7.0/10
+6. [虚拟电厂：不建厂也能发电的新产业链](#item-6) ⭐️ 7.0/10
+7. [以能源转型支撑全面绿色转型](#item-7) ⭐️ 7.0/10
+8. [高纪凡在 CIES 2026：倡导技术长期主义与光储协同](#item-8) ⭐️ 7.0/10
+9. [智能电驱配件市场激增，弗迪 5 个月装出 85 万套](#item-9) ⭐️ 7.0/10
+10. [三星与橡树岭国家实验室合作开发下一代加热技术](#item-10) ⭐️ 7.0/10
+
+### 🤖 AI 科技
+
+11. [Meta 推出 Muse Glimmer：30B 参数本地智能体模型](#item-11) ⭐️ 8.0/10
+12. [Rust SIMD 抽象现已可在 GPU 上运行](#item-12) ⭐️ 8.0/10
+13. [扎克伯格批评封闭 AI 对手，重申 Meta 开源承诺](#item-13) ⭐️ 8.0/10
+14. [伊利诺伊州法律强制操作系统级年龄验证，引发 Linux 社区强烈反对](#item-14) ⭐️ 8.0/10
+15. [Needle2：面向边缘设备的 14MB 智能体大语言模型](#item-15) ⭐️ 8.0/10
+16. [Stoa Markets 推出 GPU 和 AI 服务器市场](#item-16) ⭐️ 8.0/10
+17. [利用超长中断攻击系统管理模式](#item-17) ⭐️ 8.0/10
+18. [亚马逊支持天然气电厂，或成美国最大气候污染源](#item-18) ⭐️ 8.0/10
+19. [Squeak 6.1 发布：经典 Smalltalk 环境迎来更新](#item-19) ⭐️ 7.0/10
+20. [将 LLM 输出人性化是适得其反的](#item-20) ⭐️ 7.0/10
+
+### 🏢 大厂要闻
+
+21. [苹果手表或弃用屏幕，转向音频与触觉反馈](#item-21) ⭐️ 8.0/10
+22. [字节跳动 To B 转型：战略与市场现实的错位](#item-22) ⭐️ 8.0/10
+23. [长鑫存储 IPO 估值 3 万亿：安徽“延迟满足”策略的胜利](#item-23) ⭐️ 8.0/10
+24. [蚂蚁集团旗下公司寻求独立融资，推动 AI 与全球化业务](#item-24) ⭐️ 8.0/10
+25. [阿里巴巴推出国内首个 AI 语音生产力平台 CosyVoice Studio](#item-25) ⭐️ 8.0/10
+26. [Whatnot 估值达 200 亿美元，主导美国直播电商](#item-26) ⭐️ 8.0/10
+27. [苹果测试长鑫存储芯片；腾讯将 WorkBuddy 列为战略重点；宇树科技开启申购](#item-27) ⭐️ 8.0/10
+28. [星海 V6 预售 10.49 万元起，华为智驾下探十万级大六座](#item-28) ⭐️ 7.0/10
+29. [Seedance 2.5 之后，AI 视频进入 Harness 时代](#item-29) ⭐️ 7.0/10
+30. [阿维塔 07L 上市，起售价 22.99 万元，全系搭载华为 ADS 5](#item-30) ⭐️ 7.0/10
+
+### 🎧 客服行业动态
+
+31. [Airbnb 股价飙升 17%，CEO 称 AI 已解决 45%客服问题](#item-31) ⭐️ 8.0/10
+32. [天润云中期净利润预增最高 80%，AI 客服收入翻倍](#item-32) ⭐️ 7.0/10
+33. [中消协点名批评 AI 客服](#item-33) ⭐️ 7.0/10
+34. [蔚来居 2026 上半年新能源售后服务排名榜首](#item-34) ⭐️ 7.0/10
+35. [设计驱动的 AI 智能体：塑造客户体验](#item-35) ⭐️ 7.0/10
+36. [美国女子冒充客服盗取 500 万美元加密货币](#item-36) ⭐️ 7.0/10
+37. [海天酱油保质期内现虫，客服回应称夏季酱亚麻蝇高发](#item-37) ⭐️ 6.0/10
+38. [丰巢再回应法语文凭丢失事件，否认客服承诺成功寄件](#item-38) ⭐️ 6.0/10
+39. [高铁座位被挤占：12306 扫码解决](#item-39) ⭐️ 6.0/10
+40. [微信朋友圈灰度测试 AI 帮写与点评](#item-40) ⭐️ 6.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [“十五五”电网投资超 5 万亿元](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZ2dWLTR3U1M5Wk9xRHRtSDJTVDJVaUgzNjFGNGJYNzREUVN5SVNtVG45Yy1mUDJUSDdxNUtybWZXRHd3bHNULVpOZnpaZV9tUjVBbVlBX1BSVFVj?oc=5) ⭐️ 8.0/10
+
+中国“十五五”规划期间电网投资将超过 5 万亿元，标志着新型电力系统建设开启新周期。该规划旨在 2030 年初步建成新型电力系统，并加速电网投资与调节能力建设。 这笔巨额投资标志着中国向更具韧性、更有利于可再生能源并网的电网战略转型，为设备制造商、电网运营商和技术提供商带来巨大市场机遇。这凸显了中国对能源转型和碳中和目标的坚定承诺。 据报道，仅国家电网的投资就可能达到 4 万亿元，其中配电网和微电网占比高达 40%。该规划强调加强调峰能力、智能调度和新型电力系统建设。
+
+google\_news · 电力头条 · 8月10日 07:40
+
+**背景**: 新型电力系统是一项战略性举措，旨在整合高比例可再生能源、增强电网灵活性并提升能源安全。它涉及升级输电网络、部署储能和推进数字技术。“十五五”规划（2026-2030 年）为这一转型绘制了路线图，电网投资是关键驱动力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.toutiao.com/article/7612911811175662086/">国家电网&quot;十五五&quot;4万亿投资地图全面解析，产业链机遇一文读懂！</a></li>
+<li><a href="https://www.sohu.com/a/992000641_122568810">国家电网“十五五”4万亿投资地图全面解析，产业链机遇一文读懂！</a></li>
+<li><a href="https://www.toutiao.com/article/7534367369544778291/">国家电网公司十五五期间的规划方向和投资重点是什么？</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电网投资`, `#十五五`, `#新型电力系统`, `#能源政策`, `#中国`
+
+---
+
+<a id="item-2"></a>
+## [国际能源署发布 2026 年全球电动汽车展望，应对市场不确定性](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vdW9RNGdqTjRreFBPRjNKR2FrdkxqZFo1VmZGUll3RlRUNF9NbkFETVo1Q0pqSlFjcWVDUERDM2NFdS1oTUZpbElJaFFmN0U3?oc=5) ⭐️ 8.0/10
+
+国际能源署（IEA）发布了 2026 年全球电动汽车展望更新，分析了不确定时期的电动汽车市场。此次更新提供了关于电动汽车部署、充电基础设施和电池需求的最新数据和预测。 该报告是能源政策和行业战略的重要参考，为全球不确定性中不断演变的电动汽车市场提供了关键见解。它为政策制定者、制造商和投资者提供趋势和挑战的信息，影响能源转型和交通领域的决策。 《全球电动汽车展望》是一份年度出版物，结合历史数据分析和预测，涵盖电动汽车部署、充电基础设施、电池需求和政策发展等领域。2026 年版在电动汽车倡议（EVI）的支持下编制，并使用来自 EV Volumes 和国家机构等来源的数据。
+
+google\_news · 发现报告 · 8月10日 12:50
+
+**背景**: 国际能源署的《全球电动汽车展望》追踪全球向电动出行转型的进展，提供关于电动汽车销售、基础设施和政策的数据与分析。它被各国政府和行业广泛用于了解市场动态和规划未来。2026 年更新正值不确定时期，供应链、政策变化和技术变革等因素影响着市场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/global-ev-outlook-2026">Global EV Outlook 2026 – Analysis - IEA</a></li>
+<li><a href="https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2026">Global EV Outlook 2026 - Data product - IEA</a></li>
+<li><a href="https://iea.blob.core.windows.net/assets/8995fa9b-3808-4440-ae33-b32f4f240adb/GEVO-2026_Webinar-28-forPDF.pdf">Global EV Outlook 2026 - iea.blob.core.windows.net</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#Electric Vehicles`, `#Global EV Outlook`, `#Energy Policy`, `#Market Analysis`
+
+---
+
+<a id="item-3"></a>
+## [全球最大构网型磷酸铁锂储能电站（1GW/4GWh）并网](https://news.google.com/rss/articles/CBMiYEFVX3lxTE10SFRwbUVJQzdNZVdpRjNuRmhTb2ZWS1p2RGpRQUxtd2FXaEtIbHBoeHJrdTNMWW8zdThLbjZTeXdYMmwzNVEyMUFVeDBVV1NUSW1pZlZBVlJQMEx5RmxDRQ?oc=5) ⭐️ 8.0/10
+
+万帮数字能源已将全球最大的构网型磷酸铁锂（LFP）储能电站（1GW/4GWh）并网。这标志着公用事业规模电池储能系统部署的一个重要里程碑。 该项目展示了构网型储能技术的可扩展性和可行性，这对于可再生能源并网和维持电网稳定至关重要。它为全球大型储能项目树立了新标杆，并可能加速其他地区的采用。 该电站采用磷酸铁锂（LFP）电池，具有高安全性和长循环寿命。构网型技术使储能系统能够主动调节频率和电压，在电力系统中扮演“领导者”角色，不同于传统的跟网型系统。
+
+google\_news · mcn.solarbe.com · 8月10日 01:12
+
+**背景**: 构网型储能是一种创新模式，储能系统主动设定电压和频率，为电网提供稳定性。这在弱电网地区或高比例可再生能源并网时尤为重要。LFP 电池因其安全性和长寿命而受到青睐，成为固定式储能的流行选择。该项目的规模（1GW/4GWh）是前所未有的，凸显了中国推动大规模储能发展的决心。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/grid-forming-energy-storage-rising-star-reshaping-global-landscape-sl03c">Grid - Forming Energy Storage : A Rising Star Reshaping the Global...</a></li>
+<li><a href="https://exencell.com/blogs/grid-following-vs-grid-forming-energy-storage-what-s-the-difference-and-why-does-it-matter">Grid Following vs. Grid Forming Energy Storage : What&#x27;s the...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy storage`, `#grid-forming`, `#lithium iron phosphate`, `#renewable integration`, `#China`
+
+---
+
+<a id="item-4"></a>
+## [碳达峰后挑战：中国“十五五”气候规划聚焦非二氧化碳温室气体与碳市场](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xeWoweWZFSlBCbUtUa0tpc1FWUjN3b1BjZUVnVldEUWJyWFRLOUo5dlo1N1A0alg1c09JZmNnM1BYSzZNejNETlA0NG1IbFlRdFU3ODVzbnRORWVSeWFnQXFjYw?oc=5) ⭐️ 8.0/10
+
+中国生态环境部正在起草“十五五”规划期（2026-2030 年）的国家气候变化应对方案，重点关注碳达峰后的挑战，包括非二氧化碳温室气体和碳排放权交易市场。 这标志着政策从单纯实现二氧化碳达峰转向全面温室气体管理，可能重塑中国气候战略，影响相关行业和碳市场参与者。这表明中国致力于在二氧化碳之外进行更深入的减排。 根据 2014 年国家清单，非二氧化碳温室气体（如甲烷和氧化亚氮）约占中国温室气体总排放量的 18.4%（以二氧化碳当量计）。该规划可能将这些气体纳入碳交易市场并设定减排目标。
+
+google\_news · 新浪网 · 8月10日 02:30
+
+**背景**: 中国承诺在 2030 年前实现碳达峰，2060 年前实现碳中和。全国碳排放权交易市场于 2021 年启动，目前主要覆盖电力行业。将其扩展至非二氧化碳气体和其他行业是实现全面气候治理的关键一步。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://jf2.hep.com.cn/6feb6914347a44eb9e6f147172612a97.pdf?response-content-disposition=attachment;+filename=%E6%88%91%E5%9B%BD%E9%9D%9E%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E6%B8%A9%E5%AE%A4%E6%B0%94%E4%BD%93%E6%8E%92%E6%94%BE%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%B2%BB%E7%90%86.pdf">我国 非 二 氧 化 碳 温 室 气 体 排放的系统治理</a></li>
+<li><a href="http://m.huankong.net/news_view_587_146.html">非 二 氧 化 碳 温 室 气 体 的来源主要有哪些？ -青岛环控设备</a></li>
+<li><a href="https://huanbao.bjx.com.cn/news/20210429/1150082.shtml">王倩：厘清 碳 中和概念 重视 非 碳 温 室 气 体 减排-北极星大 气 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#碳达峰`, `#气候变化`, `#碳排放权交易`, `#能源政策`, `#生态环境部`
+
+---
+
+<a id="item-5"></a>
+## [美国能源部推出开放权重科研大模型 GS1，开放贡献者入口](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EaG5IaHZPNC1WWVRWZ1Z6Wk5RTnJoUHVBd3RYYTR0SlRfdlJ2QTkwcmF4OTZzOUY4REg1UEN1SEN3Z1JkSVE1VEE0amgzQQ?oc=5) ⭐️ 7.0/10
+
+美国能源部联合企业、国家实验室和学术机构推出了面向科学研究的开放权重基础模型 Genesis-Science-1（简称 GS1）。尽管 GS1 尚未正式发布，但其贡献者入口现已开放，用于征集训练数据和技术能力。 这一举措标志着 AI for Science（AI4S）领域的重要里程碑，可能推动能源及相关领域科研范式的变革。通过提前开放贡献者入口，它促进了广泛合作，可能加速领域专用 AI 模型的开发，影响全球研究人员和机构。 该模型的参数规模和架构尚未公布。该计划名为“创世纪计划”，于 2025 年 11 月启动，GS1 目前处于数据收集阶段。
+
+google\_news · 观点网 · 8月10日 10:37
+
+**背景**: 开放权重基础模型是指权重公开可访问的 AI 模型，研究人员可以针对特定任务进行微调。美国白宫报告《科学：一个新的黄金时代》强调人工智能正在改变科学研究，该项目与该愿景一致，为科学发现提供专用模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.guandian.cn/article/20260810/582881.html">美国能源部联合多方推出科研大模型GS1 尚未正式发布已开放贡献者入口 ...</a></li>
+<li><a href="https://news.qq.com/rain/a/20260810A08VNM00">AI4S又一里程碑！美国“创世纪计划”推出科研大模型 现已进入数据收集阶...</a></li>
+<li><a href="https://i.ifeng.com/c/8vTuyw7b9O1">美国能源部联合多方推出科研大模型GS1 尚未正式发布已开放贡献者入口_...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#科研大模型`, `#美国能源部`, `#GS1`
+
+---
+
+<a id="item-6"></a>
+## [虚拟电厂：不建厂也能发电的新产业链](https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vc0RqZW9tTmxZZVNuWktzN0tWZ2JQOTd3S29GV3JKZE1XdExGaVhNd19vQnVtODYzZlp5czVuOG5vV1pTRFlsVTBQTGNndXM0OGF2SU9DY1BqbWhPd2pBLXhXaVp0djlZa0Rqbkd2NldHTFJSVnc?oc=5) ⭐️ 7.0/10
+
+文章探讨了虚拟电厂如何在不建厂的情况下实现发电，并强调了这一模式背后形成的新产业链。文章指出，虚拟电厂不仅仅是概念，而是具有实际经济效益的可行方案。 这之所以重要，是因为虚拟电厂是能源领域的关键创新，有助于可再生能源消纳、电网稳定和市场化交易。它们对能源政策和相关产业发展具有重大影响，可能改变电力的生产和消费方式。 文章提到，一些人通过参与虚拟电厂每年可赚取超过百万元，表明其具有实际盈利能力。文章还提及了促进虚拟电厂高质量发展的讨论，如青岛的研讨会，并指出虚拟电厂依赖信息通信和智能控制技术来聚合分布式资源。
+
+google\_news · 新浪财经 · 8月10日 08:25
+
+**背景**: 虚拟电厂是一种系统，将多个分布式能源资源（如太阳能电池板、电池和柔性负载）聚合起来，作为一个单一电厂运行。它利用先进的通信和控制技术来平衡供需，在不建设实体电厂的情况下提供电网服务。虚拟电厂日益被视为整合可再生能源和增强电网可靠性的解决方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjx.com.cn/html/20221116/1269377.shtml">虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网</a></li>
+<li><a href="https://www.sprixin.com/Smart/Virtual/">虚 拟 电 厂 _ 北京国能日新</a></li>
+<li><a href="https://news.qq.com/rain/a/20230825A01G6K00">news.qq.com/rain/a/20230825A01G6K00</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 相关新闻标题显示出热情与谨慎并存。一个标题强调虚拟电厂不仅仅是 PPT 概念，人们可以赚取可观收入，而另一个则讨论促进高质量发展的思考，表明对机遇和挑战的平衡看法。
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#新能源`, `#产业链`, `#电网`
+
+---
+
+<a id="item-7"></a>
+## [以能源转型支撑全面绿色转型](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WdVpLM1l4QVdDWkx6eUNRMGpuQmlNLVZzOXJsZjdjV3k4aFJVbmEtd2pGdEt1SnhuTmM2azZtNGJibHMzbXNLY0xlbTJXQzByRmozSkZMRGdud3puLWFxSHVRTDJSUE5XNkh4aWJR?oc=5) ⭐️ 7.0/10
+
+人民网发表文章，强调能源转型是支撑经济社会全面绿色转型的关键路径。文章阐述了转向更清洁能源的战略重要性。 该文章反映了中国在能源政策上的官方立场，表明对可再生能源和绿色发展的持续政策支持。它为行业和投资者提供了指导，强化了国家能源转型的方向。 该文章由主要官方媒体人民网发布，表明其权威性。它侧重于政策解读，而非引入新数据或突破，属于高层政策声明。
+
+google\_news · 人民网 · 8月9日 21:55
+
+**背景**: 能源转型是指从化石燃料向可再生和低碳能源的转变。在中国，这一转型是实现 2060 年碳中和目标以及促进可持续经济增长的更广泛努力的一部分。
+
+**标签**: `#能源转型`, `#绿色转型`, `#能源政策`, `#中国`
+
+---
+
+<a id="item-8"></a>
+## [高纪凡在 CIES 2026：倡导技术长期主义与光储协同](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkSjFQbVdPTzVMbk9FdTY5aFRZWGh2NWRvenR2Q01HS3pRczE1TVdTUnBMLXhHQnhiUEtBVHVkeWY2azhJRHF4Q1lmVUJnZ3k5dXpSOFlpT3ZFT195T2J1eg?oc=5) ⭐️ 7.0/10
+
+在 CIES 2026 上，光伏行业知名人士高纪凡发表主题演讲，强调技术长期主义的重要性以及光伏与储能系统协同发展的必要性。他的发言为能源行业指明了可持续和集成发展的战略方向。 这很重要，因为它标志着行业思维从短期收益向长期技术投资的转变，这对可再生能源的成熟至关重要。强调光储协同可能推动政策和投资决策，加速向更具韧性和高效的能源电网转型。 该演讲在 CIES 2026 这一重要能源会议上发表，但现有内容未披露具体细节和确切提议。高纪凡强调“技术长期主义”，暗示呼吁持续研发投入而非短期市场胜利。
+
+google\_news · mcn.solarbe.com · 8月10日 09:37
+
+**背景**: CIES（中国国际储能大会）是中国储能领域的重要活动，汇聚行业领袖讨论趋势和政策。“光储协同”指光伏发电与储能系统的集成部署，以解决间歇性问题并提高电网稳定性。能源行业的“技术长期主义”强调对创新和基础设施的持续投资，而非追求短期财务回报。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.ne21.com/news/show-227115.html">储 能涨了384%， 光 储 协 同 天然占便宜！_ 世纪新能源网 Century New...</a></li>
+<li><a href="https://archive.org/stream/ChinaXiv-202303.08991V1/202303.08991v1_djvu.txt">Full text of &quot; 能 源 发展趋势与 能 源 科 技 发展方向的几点思考&quot;</a></li>
+
+</ul>
+</details>
+
+**标签**: `#光储协同`, `#技术长期主义`, `#能源政策`, `#光伏`, `#储能`
+
+---
+
+<a id="item-9"></a>
+## [智能电驱配件市场激增，弗迪 5 个月装出 85 万套](https://news.google.com/rss/articles/CBMiYkFVX3lxTE45Q080VlNVM1V2NWZ2LURPdFRUQjgzTkZrcENjbU8xYzNlR3dteF9CbE1iVWlHeVQ1NlRQQ0ZvdmVsVjNwMG14cnM1eWw3QWpBbTlrRnJDamhIZFJkT1N1X1pR?oc=5) ⭐️ 7.0/10
+
+智能电驱系统配件市场快速增长，弗迪（比亚迪子公司）5 个月内装出 85 万套。文章从三个维度分析市场格局，并附有 FAQ。 这一增长标志着新能源汽车行业的重大转变，凸显了智能电驱配件日益重要的地位。它为供应商和车企等行业参与者提供了宝贵见解，因为该市场预计将从 2024 年的 770 亿美元增长至 2035 年的 2000 亿美元。 弗迪 5 个月装出 85 万套，凸显其在供应商领域的领先地位，而华为 DriveONE 和吉利等竞争对手也在积极布局。市场受高压化、集成化、智能化、标准化和芯片国产化等趋势驱动。
+
+google\_news · 新浪网 · 8月10日 13:45
+
+**背景**: 智能电驱系统集成了电机、控制器和减速器，为电动汽车提供高效动力。弗迪系成立于 2020 年，是比亚迪旗下专注于电驱动系统等核心零部件的子公司。市场正从硬件堆料向软件定义转变，华为、吉利等主要玩家在效率和集成度上展开竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://auto.sina.cn/2026-08-02/detail-inikwkfn9991962.d.html?vt=4">智能电驱系统品牌谁更强？2026年十大实力榜单深度解析+FAQ</a></li>
+<li><a href="https://auto.sina.cn/2026-07-13/detail-inihrsuz7450315.d.html?vt=4">2026智能电驱系统深度对比：华为、比亚迪、第三方谁更强？3大维度拆解...</a></li>
+<li><a href="https://auto.sina.cn/2026-07-25/detail-iniiytzh9077570.d.html?vt=4">智能电驱系统配件市场快速增长：五大趋势重塑千亿赛道+FAQ|后轮转向|O...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智能电驱`, `#新能源汽车`, `#市场格局`, `#弗迪`
+
+---
+
+<a id="item-10"></a>
+## [三星与橡树岭国家实验室合作开发下一代加热技术](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmZtbFFLTG04V015alFvRFZaTlVJTTdrWjBRVEdmZUZxZzRjdG1BLVJpNHRaRGNUTUdaWWxMaWVwOEpRRVQ3VDBqNVJKMlZYc2xQSkRpaVVtTW5uVzk4bDBXSFBGbDFYbDRFem5LRUs5alc2T0Q5enNlVDFjOXdfLWxrbW84RDBuNmwyUzZrV2Y5SGI0Q3l6a3NSQVNEWmRNcEJpZlpheHdkd2Noc2dRQ0J0UXE2UQ?oc=5) ⭐️ 7.0/10
+
+三星电子宣布与美国能源部橡树岭国家实验室（ORNL）合作，开发下一代加热技术，具体是一种能够在零下 30 摄氏度以下的极端温度下提供高效稳定供暖的热泵技术。 此次合作可能推动高效节能供暖解决方案的突破，尤其是在寒冷气候下，有望减少碳排放和能源成本。这也凸显了产业界与实验室合作推进清洁能源技术的趋势。 该热泵设计用于在低至零下 30 摄氏度的温度下可靠运行，这对传统热泵来说是一个重大挑战。此次合作利用了 ORNL 在材料科学和能源研究方面的专业知识，而三星则发挥其制造和商业能力。
+
+google\_news · Moomoo · 8月10日 04:10
+
+**背景**: 橡树岭国家实验室是美国能源部系统中最大的科学和能源实验室，在核能、材料科学和超级计算等领域有着悠久的研究历史。热泵是电气化供暖的关键技术，但其在极寒条件下的效率会下降，限制了其在寒冷地区的应用。此次合作旨在克服这一限制。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finwires.com/zh-CN/article/%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%83%BD%E6%BA%90%E9%83%A8%E6%A9%A1%E6%A0%91%E5%B2%AD%E5%9B%BD%E5%AE%B6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%90%88%E4%BD%9C-%E5%8A%A0%E9%80%9F%E4%B8%8B%E4%B8%80%E4%BB%A3%E4%BE%9B%E7%83%AD%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91-7095620">三星电子与美国能源部橡树岭国家实验室合作，加速下一代供热技术研发 ...</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%A9%A1%E6%A0%91%E5%B2%AD%E5%9B%BD%E5%AE%B6%E5%AE%9E%E9%AA%8C%E5%AE%A4">橡树岭国家实验室 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E6%A9%A1%E6%A0%91%E5%B2%AD%E5%9B%BD%E5%AE%B6%E5%AE%9E%E9%AA%8C%E5%AE%A4/3047964">美国橡树岭国家实验室 - 百度百科 INNO.7 橡树岭国家实验室 - 知乎 美国橡树岭国家实验室开发先进检测系统，为ITER项目提供关键技术支持 ... 橡树岭国家实验室 - 维基百科，自由的百科全书 橡树岭国家实验室 - 知乎专栏</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#加热技术`, `#合作研发`, `#三星电子`, `#橡树岭国家实验室`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [Meta 推出 Muse Glimmer：30B 参数本地智能体模型](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) ⭐️ 8.0/10
+
+Meta 推出了 Muse Glimmer，这是一个 300 亿参数的开源权重模型，专为常驻本地智能体工作流优化。它可在单个消费级 GPU 上运行，在 NVIDIA 平台上每秒可处理高达 2 万 token。 这标志着向高效端侧 AI 迈出的重要一步，可能将 AI 推理从大型数据中心转向本地设备。它有望催生 24/7 个人智能体等新应用场景，并减少对云基础设施的依赖。 Muse Glimmer 采用稠密架构，每个 token 激活全部参数，确保复杂工作流的高可靠性和可预测延迟。它集成了多步推理、工具调用、多模态理解和故障恢复能力，并已在 Hugging Face 上发布。
+
+hackernews · riordan · 8月10日 10:10 · [社区讨论](https://news.ycombinator.com/item?id=49241679)
+
+**背景**: 智能体 AI 指的是能够自主执行任务、使用工具并完成多步工作流的模型。传统上，这类模型需要强大的云服务器，但模型压缩和硬件效率的进步使其现在可以在本地运行。Meta 的发布顺应了端侧 AI 的广泛趋势，其他开源权重模型如 Qwen 也体现了这一方向。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://huggingface.co/meta-models/Muse-Glimmer-30B">meta-models/Muse-Glimmer-30B · Hugging Face</a></li>
+<li><a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model">Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device | Meta AI Research</a></li>
+<li><a href="https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/">Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA | NVIDIA Technical Blog</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对本地智能体模型的潜力感到兴奋，将其比作 Web 服务器从 Apache 到 Nginx 的转变。有人指出即将发布的 Muse Spark 1.2 权重对 Meta 具有战略意义，还有人期待与 Qwen3.8 27B 的对比。
+
+**标签**: `#Meta`, `#AI model`, `#local AI`, `#agent workflows`, `#open weights`
+
+---
+
+<a id="item-12"></a>
+## [Rust SIMD 抽象现已可在 GPU 上运行](https://www.vectorware.com/blog/simd-on-gpu/) ⭐️ 8.0/10
+
+VectorWare 宣布 Rust 的可移植 SIMD 库（core::simd）现在可用于 GPU 编程，使得相同的 SIMD 代码无需修改即可在 CPU 和 GPU 上运行。这是通过将 Rust 的 Simd 抽象映射到 GPU 的 warp 级操作来实现的。 这一进展通过统一 CPU 和 GPU 的 SIMD 抽象简化了 GPU 编程，可能减少对单独着色器语言或 CUDA 内核的需求。它可能通过提高开发者的生产力和代码可移植性，对高性能计算和 AI 工作负载产生重大影响。 该实现利用了 Rust 的可移植 SIMD，它会在目标平台上编译为最佳可用的 SIMD 指令。然而，可移植 SIMD 目前仅在 nightly Rust 工具链上可用，这可能限制其在稳定项目中的采用。
+
+hackernews · sagacity · 8月10日 18:12 · [社区讨论](https://news.ycombinator.com/item?id=49247477)
+
+**背景**: SIMD（单指令多数据）允许处理器同时对多个数据点执行相同操作，从而提高计算密集型任务的性能。传统上，SIMD 是 CPU 中心的概念，而 GPU 编程需要单独的 CUDA 或 GLSL 等语言。Rust 的 core::simd 提供了一个可移植的抽象，现在可以针对 GPU，可能统一编程模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.vectorware.com/blog/simd-on-gpu/">Rust SIMD on the GPU - VectorWare</a></li>
+<li><a href="https://elsolitario.org/en/2026/08/10/vectorware-portable-simd-gpu-rust/">SIMD on GPU: Rust&#x27;s core::simd Runs on Warps Unchanged</a></li>
+<li><a href="https://doc.rust-lang.org/core/simd/index.html">core::simd - Rust</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论强调了对可移植 SIMD 可移植性的担忧，指出固定 SIMD 宽度的规范使其在性能上不可移植。一位用户指出可移植 SIMD 仅在 nightly 上可用，他们不得不切换到 fearless\_simd crate 以获得稳定支持。另一位用户表示惊讶 SIMD 可以应用于 GPU，并询问具有竞争性能的复杂算法示例。
+
+**标签**: `#Rust`, `#GPU`, `#SIMD`, `#High-Performance Computing`
+
+---
+
+<a id="item-13"></a>
+## [扎克伯格批评封闭 AI 对手，重申 Meta 开源承诺](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) ⭐️ 8.0/10
+
+马克·扎克伯格公开批评封闭式 AI 竞争对手，并重申 Meta 对开源 AI 模型的承诺，宣布 Meta 将开放其最新 AI 模型 Muse Spark 1.2 的权重。此举直接挑战了 OpenAI 和谷歌等竞争对手。 此事意义重大，因为它可能改变 AI 领域的竞争格局，推动开源模型成为封闭系统的可行替代方案。它可能影响行业标准以及围绕 AI 安全和可及性的政策讨论。 Meta 计划开放其最新 AI 模型 Muse Spark 1.2 的权重，同时保留部分专有组件以管理安全风险。分析人士指出，较小的开源模型可以在设备上运行，从而降低云成本并提高响应速度。
+
+hackernews · root-parent · 8月10日 14:06 · [社区讨论](https://news.ycombinator.com/item?id=49243880)
+
+**背景**: 开源 AI 模型允许开发者访问和修改底层代码和权重，从而促进创新和定制化。相比之下，像 OpenAI 的 GPT-4 这样的封闭模型是专有的，由其创建者控制。随着两种方法在安全性、控制性和可及性方面各有取舍，关于开放与封闭 AI 的争论愈演愈烈。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html">Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic</a></li>
+<li><a href="https://www.briefs.co/news/meta-unveils-open-weight-ai-model-to-challenge-rivals/">Meta Unveils Open-Weight AI Models to Challenge Rivals</a></li>
+<li><a href="https://www.axios.com/2026/04/06/meta-open-source-ai-models">Scoop: Meta to open source versions of its next AI models</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论情绪复杂。一些用户称赞 Meta 的开源贡献，尽管对扎克伯格不信任，但承认其积极影响。其他人质疑扎克伯格的动机，认为这可能是他在失利时改变规则的策略。少数人强调开源 AI 对竞争和可及性的潜在好处。
+
+**标签**: `#AI`, `#Open Source`, `#Meta`, `#Zuckerberg`, `#Industry Strategy`
+
+---
+
+<a id="item-14"></a>
+## [伊利诺伊州法律强制操作系统级年龄验证，引发 Linux 社区强烈反对](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/) ⭐️ 8.0/10
+
+伊利诺伊州通过了 HB5511 法案（《数字年龄保证法案》），要求操作系统提供商、设备制造商和应用商店在 2028 年 1 月 1 日前实施年龄验证。该法律要求用户在账户设置时自我声明年龄区间，甚至影响到 Linux 等开源系统。 该法律开创了政府强制在操作系统层面进行年龄检查的先例，可能重塑在线隐私和匿名性。它对开源社区构成重大挑战，这些社区可能拒绝遵守，从而引发法律冲突和关于执法的争论。 该法律要求“涵盖的制造商”在账户设置时构建年龄验证界面，提供年龄区间：13 岁以下、13-15 岁、16-17 岁和 18 岁以上。它适用于生效日期前销售的设备，通过操作系统更新实施。该要求是自我声明而非身份证验证，但批评者认为它仍然损害匿名性。
+
+hackernews · speckx · 8月10日 20:20 · [社区讨论](https://news.ycombinator.com/item?id=49249150)
+
+**背景**: 年龄验证法律日益普遍，旨在保护未成年人免受不适当内容的影响。然而，操作系统层面的强制要求是新颖的，它将责任从内容提供商转移到平台本身。Linux 作为开源和去中心化的系统，缺乏中央权威来执行此类要求，因此遭到广泛反对。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://itsfoss.com/news/illinois-age-verification-bill/">Illinois Just Told Every Operating System to Start Reporting Your Kid&#x27;s Age</a></li>
+<li><a href="https://linuxstans.com/illinois-hb5511-operating-system-age-verification/">Illinois HB5511: What It Means for Linux and Open Source</a></li>
+<li><a href="https://action.freespeechcoalition.com/bill/illinois-digital-age-assurance-act/">Illinois Digital Age Assurance Act – Action Center</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了强烈反对，一位 Linux 发行版创始人誓言永远不会实施该功能。其他人批评该法律的设计，指出它依赖于自我声明而非真正的验证，并质疑此类法律背后的政治动机。一些人强调在离线优先或去中心化系统上执行年龄检查的实际不可能性。
+
+**标签**: `#age verification`, `#legislation`, `#Linux`, `#privacy`, `#open source`
+
+---
+
+<a id="item-15"></a>
+## [Needle2：面向边缘设备的 14MB 智能体大语言模型](https://cactuscompute.com/needle) ⭐️ 8.0/10
+
+Cactus Compute 发布了 Needle2，这是一个 14MB 的智能体大语言模型，面向边缘设备，在 Raspberry Pi 5 上实现每秒 500 个 token，在 VR 头显上达到每秒 400-1500 个 token，并改进了工具调用和结构化提取功能。 此次发布凸显了微型大语言模型在设备端 AI 方面的巨大潜力，使得在廉价手机、可穿戴设备和机器人上实现智能助手成为可能，无需依赖云端。这可能推动边缘 AI 的普及，并显著降低功耗。 Needle2 是一个 45M 参数、2 比特压缩的模型，运行内存仅 28MB。它采用简单注意力网络，每个 token 仅消耗 70 MFLOPs，而传统 transformer 需要 164 MFLOPs，并支持在 Mac/PC 上几分钟到几小时内完成微调。
+
+hackernews · HenryNdubuaku · 8月10日 17:22 · [社区讨论](https://news.ycombinator.com/item?id=49246804)
+
+**背景**: 边缘 AI 传统上集中在高性能 PC 和 Mac 上，但绝大多数联网设备是低功耗的物联网设备。像 Needle2 这样的微型大语言模型旨在通过极小的体积和高效的性能，将智能带到这些设备上。简单注意力网络通过移除 MLP，依赖外部知识源（如工具列表）来简化 transformer 架构。2 比特压缩进一步减小模型体积，同时保持性能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md">needle/docs/simple_attention_networks.md at main · cactus-compute/needle</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attention_%28machine_learning%29">Attention (machine learning) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论显示了对微型大语言模型领域的兴趣，有人称赞其概念，但也指出网页演示的局限性。用户询问了如何规划工具调用的 DAG 以及这类模型是如何创建的，还有用户赞赏了微调功能，以便在浏览器中部署。
+
+**标签**: `#micro-LLM`, `#edge AI`, `#on-device inference`, `#agentic AI`, `#tool calling`
+
+---
+
+<a id="item-16"></a>
+## [Stoa Markets 推出 GPU 和 AI 服务器市场](https://www.stoaexchange.com/) ⭐️ 8.0/10
+
+YC S26 初创公司 Stoa Markets 推出了一个面向新旧 GPU 和 AI 服务器的市场，旨在解决 AI 硬件市场中的流动性和融资挑战。该平台标准化了报价请求（RFQ）并促进结算，首月 RFQ 金额超过 3 亿美元。 该市场可能显著改善 GPU 转售和融资市场的流动性和透明度，目前该市场分散且依赖人工。通过提供可验证的交易数据，它可能为较小的云服务商和初创公司带来更优惠的融资条件，并可能影响更广泛的 AI 基础设施生态系统。 Stoa 对经销商进行企业尽职调查（KYB），并要求买家明确配置、状况、保修、位置和交付条款。平台不持有硬件，并根据交易量收取分级费用。社区成员对 GPU 使用历史验证、防欺诈措施以及个人可访问性提出了疑问。
+
+hackernews · erenberke · 8月10日 16:35 · [社区讨论](https://news.ycombinator.com/item?id=49246057)
+
+**背景**: GPU 是数据中心建设中的关键抵押品，但融资条件往往取决于承购方的信用状况。二手 GPU 市场不透明，交易通过电话和电子表格进行，缺乏标准化的定价信息。Stoa 旨在为这一市场带来透明度和效率，类似于 Kelley Blue Book 对二手车定价的标准化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.gpu.fm/blog/gpu-server-financing-leasing-guide">GPU Server Financing and Leasing Guide for AI Teams | gpu.fm</a></li>
+<li><a href="https://uvation.com/articles/ai-server-financing-should-you-buy-lease-or-rent-for-ai-at-scale">AI Server Financing : Buy vs Lease vs Rent – A Strategic Guide</a></li>
+<li><a href="https://www.denodo.com/en/glossary/hyperscalers-definition-importance-key-providers">Hyperscalers : Definition , Importance, and Key Providers | Denodo</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员表达了兴趣，但对 GPU 使用历史验证、防欺诈措施以及平台是否对个人开放表示担忧。一些人质疑定价的透明度和 RFQ 到完成交易的实际转化率，以及交易绕过平台的风险。
+
+**标签**: `#GPU marketplace`, `#AI infrastructure`, `#hardware financing`, `#YC startup`, `#data center`
+
+---
+
+<a id="item-17"></a>
+## [利用超长中断攻击系统管理模式](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii) ⭐️ 8.0/10
+
+一名安全研究人员演示了一种新技术，通过触发极长的中断来利用系统管理模式（SMM），揭示了固件设计缺陷和 SMM 的不透明性。该技术在 GitHub 仓库中详细说明，为底层硬件利用提供了新的攻击途径。 这一发现意义重大，因为 SMM 是一种高度特权的 CPU 模式，通常对操作系统和用户不可见，使其成为复杂攻击的主要目标。它强调了加强固件安全性的必要性，并可能影响硬件供应商设计和验证 SMM 处理程序的方式。 该技术利用了 SMM 处理程序通常具有超时值，且必须长于系统中可能的最长 I/O 操作，但极长的指令可能超过这些超时值，导致意外行为。研究人员还维护了一个相关仓库“asm-hall-of-shame”，探索单指令性能的绝对下限。
+
+hackernews · WhiteDawn · 8月10日 16:03 · [社区讨论](https://news.ycombinator.com/item?id=49245491)
+
+**背景**: 系统管理模式（SMM）是 x86 处理器中的一种特殊操作模式，用于电源管理和硬件控制等系统级功能。它在独立且受保护的内存区域（SMRAM）中运行，操作系统无法访问，使其成为攻击者绕过安全机制的有吸引力的目标。此前已在多种固件中发现了 SMM 漏洞，如 callout 缺陷，可导致权限提升和任意代码执行。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cvefeed.io/vuln/detail/CVE-2021-39298">CVE-2021-39298 - AMD System Management Mode SMM Interrupt ...</a></li>
+<li><a href="https://www.sentinelone.com/labs/zen-and-the-art-of-smm-bug-hunting-finding-mitigating-and-detecting-uefi-vulnerabilities/">Zen and the Art of SMM Bug Hunting | Finding, Mitigating and ... SMM Callout Vulnerabilities in UEFI - eclypsium.com VU#746790 - SMM callout vulnerabilities identified in ... Gigabyte UEFI Firmware Vulnerability Let Attackers Execute ... Insyde BIOS SMM Memory Corruption Security Update Multiple SMM memory corruption vulnerabilities in SMM module</a></li>
+<li><a href="https://eclypsium.com/blog/smm-callout-vulnerabilities-in-uefi/">SMM Callout Vulnerabilities in UEFI - eclypsium.com</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论指出，固件设计者预见到了此类攻击，但通常将超时值的选择交给供应商；一些人认为该技术需要 root 权限，因此与其说是传统漏洞，不如说是“夺回对硬件的控制权”。其他人则注意到演示风格的幽默性，并质疑其实际可利用性，认为极长的指令还必须与 SMM 操作交互才能有效。
+
+**标签**: `#SMM`, `#security`, `#hardware`, `#exploit`, `#firmware`
+
+---
+
+<a id="item-18"></a>
+## [亚马逊支持天然气电厂，或成美国最大气候污染源](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/) ⭐️ 8.0/10
+
+亚马逊正在投资德克萨斯州的一座天然气发电厂，为其大型数据中心供电，该电厂可能成为美国最大的单一气候污染源。此举与亚马逊公开的气候承诺相悖。 这凸显了 AI 数据中心的快速扩张与企业气候目标之间日益加剧的矛盾。此举可能为其他科技公司树立先例，并引发关于 AI 环境代价的政策辩论。 该发电厂是德克萨斯州一个大型数据中心项目的一部分。亚马逊的温室气体排放量持续上升，公司也承认 AI 数据中心的电力需求对其长期气候承诺构成风险。
+
+hackernews · pjmlp · 8月10日 21:26 · [社区讨论](https://news.ycombinator.com/item?id=49249971)
+
+**背景**: AI 数据中心消耗大量电力，全球数据中心的能源使用预计将大幅增长。天然气是化石燃料，燃烧时会产生二氧化碳，导致气候变化。像亚马逊这样的公司已承诺减少碳足迹，但 AI 的能源需求使其难以实现这些目标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">Amazon funds biggest gas power plant in US despite climate ...</a></li>
+<li><a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">New Amazon Data Center Stokes Worry It Would Be the Most ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表示强烈不满，有人说化石燃料必须立即停止使用。还有人讽刺地指出需要可靠的 24/7 能源来源，暗示核能。一些人指出了重复讨论和相关文章。
+
+**标签**: `#AI`, `#data centers`, `#climate change`, `#energy policy`, `#Amazon`
+
+---
+
+<a id="item-19"></a>
+## [Squeak 6.1 发布：经典 Smalltalk 环境迎来更新](https://squeak.org/release_notes/6.1/) ⭐️ 7.0/10
+
+Squeak 6.1 已发布，标志着这个开源 Smalltalk 编程系统的最新版本。该版本在之前的 6.0 版本基础上进行了增量改进和更新。 Squeak 6.1 的重要性在于它延续了 Smalltalk 的遗产，Smalltalk 对面向对象编程和 UI 框架产生了深远影响。此次发布使该平台在教育、研究和复古计算爱好者中保持相关性，确保其历史影响得以延续。 发布说明强调了 Morphic 框架的持续包含，该框架支持图形化和交互式应用程序开发。此次更新是 OpenSmalltalk VM 生态系统的一部分，候选版本表明与 Squeak 6.0/5.3 捆绑包兼容，并有望支持 Cuis 7。
+
+hackernews · fniephaus · 8月10日 12:15 · [社区讨论](https://news.ycombinator.com/item?id=49242653)
+
+**背景**: Squeak 是 Smalltalk 的现代开源实现，Smalltalk 是 20 世纪 70 年代在施乐帕洛阿尔托研究中心开发的先驱性面向对象编程语言。它采用 Morphic 框架，支持低成本的图形化和交互式应用程序开发。Squeak 已用于教育、多媒体、游戏、研究和商业领域，其实时编码环境允许开发者在运行时检查和修改代码。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://squeak.org/">Squeak/Smalltalk</a></li>
+<li><a href="https://squeak.org/development/">Squeak/Smalltalk | Development</a></li>
+<li><a href="https://wiki.squeak.org/squeak">Squeak Swiki</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了对 Squeak 影响的怀旧和赞赏，一位用户指出学习 Smalltalk 能澄清面向对象编程的真正含义，并且 JavaScript 的许多优点源自 Smalltalk。另一位早期贡献者祝贺团队，并提到首个 Morphic 游戏 SameGame 仍然存在。讨论还涉及运行时代码检查的价值、与 Glamorous Toolkit 的比较，以及关于 Morphic 架构资源的需求。
+
+**标签**: `#Smalltalk`, `#Squeak`, `#Programming Languages`, `#UI Frameworks`, `#Retro Computing`
+
+---
+
+<a id="item-20"></a>
+## [将 LLM 输出人性化是适得其反的](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb) ⭐️ 7.0/10
+
+作者认为将 LLM 输出人性化是适得其反的，主张更直接、更实用的回应。这引发了关于风格在 AI 沟通中作用的讨论。 这挑战了 AI 中的常见做法，可能影响开发者设计提示词和设定用户期望的方式。它突出了 AI 交互中自然性与效率之间的权衡。 文章提到，将风格强加给 LLM 是有损的，可能会插入新的废话。还讨论了子代理生成人类可读摘要可能丢失保真度的问题。
+
+hackernews · kuberwastaken · 8月10日 13:35 · [社区讨论](https://news.ycombinator.com/item?id=49243474)
+
+**背景**: LLM 在大量文本上训练，这些文本通常来自网络，包含非正式和对话式语言。人性化输出涉及提示模型采用友好、对话式的语气，这有时会降低清晰度或引入不必要的冗长。争论的焦点在于这种风格是否有利于用户体验，还是对 AI 沟通的准确性和效率有害。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.actmorehuman.com/guides/humanize-llm-prompts">Humanize LLM Prompts - Complete Guide | Act More Human</a></li>
+<li><a href="https://dl.acm.org/doi/full/10.1145/3786304.3787880">Implicit Humanization in Everyday LLM Moral Judgments</a></li>
+<li><a href="https://claude.com/blog/best-practices-for-prompt-engineering">Prompt engineering best practices for 2026 | Claude by Anthropic</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论显示出复杂的情绪：一些人认为过度人性化可能令人困惑，而另一些人则认为人性化对采用至关重要。一位用户分享了一个提示词，以强制非个人化、分析性的回应，另一位用户指出风格可能比内容对成功更重要。
+
+**标签**: `#LLM`, `#AI output`, `#prompt engineering`, `#humanization`, `#AI communication`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [苹果手表或弃用屏幕，转向音频与触觉反馈](https://www.ifanr.com/1674558?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 8.0/10
+
+据报道，苹果正在探索一款无屏幕的未来 Apple Watch 设计，转而依赖音频和触觉反馈进行交互和健康监测。如果这一概念得以实现，将标志着与传统智能手表界面的重大背离。 无屏幕的 Apple Watch 可能重新定义可穿戴设备的交互方式，使设备更加无缝且不具侵入性，同时优先考虑健康功能。这一转变可能影响整个可穿戴行业，促使竞争对手重新思考自身的设计理念。 该概念侧重于音频和触觉反馈，可能使用先进的触觉执行器和基于语音的界面来传递信息。然而，目前尚不清楚用户在没有视觉显示的情况下如何完成复杂任务或阅读详细的健康数据。
+
+rss · 爱范儿 · 8月10日 07:30
+
+**背景**: 传统智能手表依赖触摸屏进行交互，但可穿戴领域正在出现无屏幕设计，利用触觉反馈和语音控制来提供更自然的用户体验。触觉反馈技术通过振动或压力模拟触感，与音频结合时，可以在无需视觉注意的情况下传递信息。苹果的探索与可穿戴 UX 中强调极简主义和以健康为中心功能的更广泛趋势相一致。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.szmorrison.com/AI_smartwatches_smartglasses/How_to_Design_Smartwatch_Interface_for_Seamless_App_Integration_1782702137559.html">How to Design Smartwatch Interface for Seamless App ...</a></li>
+<li><a href="https://think.design/blog/wearables-ux-smartwatch-ui-design-development/">UX for Wearables in 2026: Beyond the Small Screen - Think Design</a></li>
+<li><a href="https://elitacwearables.com/haptic-feedback-wearables/">Wearable haptic devices: Develop truly haptic ... — Elitac Wearables</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple Watch`, `#wearable technology`, `#screen-less design`, `#interaction design`, `#health monitoring`
+
+---
+
+<a id="item-22"></a>
+## [字节跳动 To B 转型：战略与市场现实的错位](https://www.tmtpost.com/8098332.html) ⭐️ 8.0/10
+
+文章分析了字节跳动在 To B 转型中战略口号、组织动作与市场行为之间的错位，并指出其内在矛盾。文章质疑这种错位是转型期的正常阵痛，还是无法消解的内在矛盾的显性征兆。 这一分析意义重大，因为字节跳动的 To B 转型是中国最大科技公司之一的重大战略转变，而错位可能影响其与微软、谷歌等竞争对手的竞争力。这些见解对其他正在经历类似转型的互联网巨头具有参考价值。 近期的组织调整包括将飞书产品团队并入豆包，并将飞书 GTM 团队整合进火山引擎，成立新的“创造力服务平台”。CEO 梁汝波承认字节跳动的大模型暂时落后，公司正聚焦 To B 生产力，直接与微软 Copilot 和 Google Workspace 竞争。
+
+rss · 钛媒体 · 8月10日 15:13
+
+**背景**: 字节跳动以 TikTok 和抖音等消费者应用闻名，在激烈的 AI 竞争中正转向企业服务（To B）。公司一直在整合其 AI 能力，如豆包、飞书和火山引擎，以打造类似 Microsoft 365 Copilot 的 AI 办公全家桶。这一战略转变涉及重大的组织重组和市场重新定位。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/2069114416273085584">字节跳动全员会：聚焦主干业务，AI业务重点转向ToB 生产力</a></li>
+<li><a href="https://aiproducthub.cn/newsflash/bytedance-all-hands-strategy-pivots-to-b/">字节跳动承认大模型落后 战略重心转向To B | AI产品库</a></li>
+<li><a href="https://news.qq.com/rain/a/20260803A03TDU00">字节ToB变阵，一次新AI入口之争_腾讯新闻</a></li>
+
+</ul>
+</details>
+
+**标签**: `#字节跳动`, `#To B转型`, `#战略分析`, `#组织变革`
+
+---
+
+<a id="item-23"></a>
+## [长鑫存储 IPO 估值 3 万亿：安徽“延迟满足”策略的胜利](https://www.tmtpost.com/8082275.html) ⭐️ 8.0/10
+
+长鑫存储技术股份有限公司在上交所启动 IPO，估值高达 3 万亿元人民币，标志着中国半导体行业的历史性里程碑。该公司的成功归功于安徽省“延迟满足”的长期发展战略。 此次 IPO 是中国存储芯片行业的里程碑事件，有望重塑全球 DRAM 市场格局，成为继三星和 SK 海力士之后的第三极。同时，它也验证了耐心、长期的区域产业政策的有效性，为中国其他地区提供了可借鉴的模式。 长鑫存储成立于 2017 年，总部位于安徽合肥，采用 IDM（垂直整合制造）模式，专注于 DRAM 的设计、晶圆制造和测试。公司在上交所上市，股票代码 688825，3 万亿元的估值反映了其战略重要性和市场潜力。
+
+rss · 钛媒体 · 8月10日 10:45
+
+**背景**: DRAM（动态随机存取存储器）是一种广泛用于计算机和移动设备的半导体存储器。全球 DRAM 市场长期由三星、SK 海力士和美光主导。长鑫存储是中国推动半导体自主化的关键企业，其 IPO 被视为减少对外国存储芯片依赖的重要一步。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-cn/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8">长鑫存储 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/24468763">长鑫存储技术有限公司 - 百度百科</a></li>
+<li><a href="https://c.m.163.com/news/a/L408S4HP05118O92.html">长鑫IPO一步登顶三万亿： 安 徽 「 延 迟 满 足 」性格的胜利</a></li>
+
+</ul>
+</details>
+
+**标签**: `#长鑫存储`, `#IPO`, `#半导体`, `#存储芯片`, `#区域经济`
+
+---
+
+<a id="item-24"></a>
+## [蚂蚁集团旗下公司寻求独立融资，推动 AI 与全球化业务](https://www.tmtpost.com/8097997.html) ⭐️ 8.0/10
+
+蚂蚁国际已完成 12 亿美元的 A 轮股权融资，蚂蚁集团和阿里巴巴集团参与了本轮投资，以推动其全球支付和数字化解决方案。报道称，蚂蚁集团旗下其他三家关联公司也在寻求独立融资，标志着向外部投资纪律的转变。 此举标志着蚂蚁集团进行战略重组，将其 AI 和全球业务置于外部投资者的监督之下，可能提升治理水平并释放价值。这反映了中国科技巨头分拆业务单元以增强灵活性和获取资本的趋势，可能重塑金融科技格局。 据路透社报道，蚂蚁国际在本轮融资前的估值为 100 亿美元。公司计划利用这笔资金加速跨境支付、代理商务解决方案以及面向全球企业的企业服务。
+
+rss · 钛媒体 · 8月10日 10:18
+
+**背景**: 蚂蚁集团，前身为蚂蚁金服，是中国金融科技巨头，运营着全球最大的移动支付平台之一支付宝。公司一直在全球扩张并大力投资 AI 技术。通过为旗下公司寻求独立融资，蚂蚁集团旨在引入外部纪律，并可能为未来的 IPO 或战略合作做准备。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://logicity.in/en/blog/ant-international-raises-1-2b-to-push-global-payments">Ant International raises $1.2B to push global payments | Logicity</a></li>
+<li><a href="https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ant-international-raises-1-2-billion-to-fuel-global-expansion/articleshow/132530223.cms">Global Market: Ant International raises $1.2 billion to fuel ...</a></li>
+<li><a href="https://www.ant-intl.com/en/news/detail/?id=ant-international-raises-approx-USD1_2-billion-in-series-a-equity-financing-to-boost-cross-border-payments-agentic-commerce-solutions-for-global-businesses&amp;redirect=news">Ant International Raises approx. US$1.2 billion in Series A ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Ant Group`, `#fintech`, `#funding`, `#AI`, `#corporate restructuring`
+
+---
+
+<a id="item-25"></a>
+## [阿里巴巴推出国内首个 AI 语音生产力平台 CosyVoice Studio](http://www.geekpark.net/news/368638) ⭐️ 8.0/10
+
+8 月 7 日，阿里巴巴推出国内首个 AI 语音生产力平台 CosyVoice Studio，整合了语音识别、语音合成和实时语音交互三大核心能力。该平台基于阿里自研的 Qwen-Audio 语音大模型家族，其中 Qwen-Audio-3.0-Realtime 在 Artificial Analysis 的语音到语音指数中排名全球第一。 这标志着国内 AI 语音行业从单点工具竞争转向平台级竞争，可能重塑行业格局。随着语音成为 AI 交互的关键入口，CosyVoice Studio 有望为国内语音驱动生产力工具的广泛应用提供基础设施。 CosyVoice Studio 覆盖“听、创、聊”全链路，并利用千问、钉钉、高德、淘天等真实业务场景进行优化。2026 年第一季度全球语音 AI 领域融资总额超过 70 亿美元，海外平台如 ElevenLabs 估值已超百亿美元，凸显了市场潜力。
+
+rss · 极客公园 · 8月10日 12:41
+
+**背景**: 语音交互正成为人机交互的核心方式，不再只是打字的补充。大语言模型使语音助手能够理解上下文并完成任务，推动了“语音原生”产品的兴起。在国内，语音 AI 市场一直碎片化，单点工具分散，给需要端到端解决方案的用户带来了摩擦。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://apps.microsoft.com/detail/xp88w11pj2v0t8">Wispr Flow: AI Voice-to-Text - Download and install on ...</a></li>
+<li><a href="https://aividpipeline.com/zh/blog/elevenlabs-vs-vapi-2026">ElevenLabs vs Vapi 2026： 全 栈 语 音 平 台 还是编排层</a></li>
+<li><a href="https://elevenlabsai.cn/">ElevenLabs - AI 语 音 合成与声 音 克隆 平 台</a></li>
+
+</ul>
+</details>
+
+**标签**: `#阿里巴巴`, `#AI语音`, `#生产力平台`, `#大厂动态`, `#行业趋势`
+
+---
+
+<a id="item-26"></a>
+## [Whatnot 估值达 200 亿美元，主导美国直播电商](http://www.geekpark.net/news/368627) ⭐️ 8.0/10
+
+美国直播电商初创公司 Whatnot 完成了 5.45 亿美元的 G 轮融资，估值达 200 亿美元，目前占据西方直播电商市场约 60%的份额。2025 年，该公司 GMV 达到 80 亿美元，用户日均观看时长超过 80 分钟。 这一里程碑挑战了直播电商在美国无法成功的普遍看法，而 Facebook、Instagram 和亚马逊等大型科技公司在此领域均告失败。Whatnot 的成功证明了西方市场可行的模式，可能重塑电商战略，并为初创企业和投资者提供借鉴。 Whatnot 于 2019 年创立，最初是 Funko Pop 收藏品的交易平台，创始人为 Grant LaFontaine 和 Logan Head，两人均曾任科技产品经理。2020 年平台转向直播拍卖，2021 年 GMV 增长 20 倍，并扩展到数百个品类，包括球星卡、球鞋和时尚等。
+
+rss · 极客公园 · 8月10日 08:31
+
+**背景**: 直播电商将实时视频与产品销售相结合，这一模式在中国通过淘宝直播等平台蓬勃发展。在美国，大型科技公司的尝试因用户参与度不足和内容质量差而失败。Whatnot 通过专注于小众收藏品和社区驱动的拍卖，利用直播形式的稀缺性和社交互动，实现了差异化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.whatnot.com/">Whatnot : Shop, Sell, Connect</a></li>
+<li><a href="https://liveshopfront.com/platforms/whatnot">Whatnot — Live Commerce Platform Guide | LiveShopFront</a></li>
+<li><a href="https://digg.com/tech/xo6s0pti">Whatnot Raises $545M Series G at $20B Valuation · Digg</a></li>
+
+</ul>
+</details>
+
+**标签**: `#live commerce`, `#e-commerce`, `#startup`, `#US market`, `#Whatnot`
+
+---
+
+<a id="item-27"></a>
+## [苹果测试长鑫存储芯片；腾讯将 WorkBuddy 列为战略重点；宇树科技开启申购](http://www.geekpark.net/news/368581) ⭐️ 8.0/10
+
+据《华尔街日报》报道，苹果正在测试中国制造商长鑫存储（CXMT）的存储芯片，用于 iPhone 和 MacBook。同时，腾讯据报已将 WorkBuddy 列为其优先级最高的 AI 应用之一，宇树科技也在科创板开启申购。 苹果可能采用长鑫存储芯片，标志着其半导体供应链的多元化，可能重塑存储芯片行业并减少对传统供应商的依赖。腾讯对 WorkBuddy 的战略倾斜凸显了 AI 应用竞争的加剧，而宇树科技的 IPO 则标志着人形机器人领域的一个里程碑。 长鑫存储是中国最大的 DRAM 制造商，惠普和宏碁已在销往美国以外市场的设备中使用其芯片。宇树科技 IPO 的预计中签率在万分之二至万分之三之间，按平均首日涨幅计算，单签盈利有望超过 20 万元。此外，甲骨文因知识产权和安全担忧，禁止在 OpenJDK 贡献中使用 AI 生成代码。
+
+rss · 极客公园 · 8月10日 00:16
+
+**背景**: 长鑫存储（CXMT）是一家成立于 2016 年的中国 DRAM 制造商，专注于存储芯片的设计与生产。苹果测试其芯片之际，正值 AI 需求引发的全球内存短缺。腾讯的 WorkBuddy 是一款面向办公任务的 AI 智能体，是该公司在 AI 应用领域更广泛布局的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-hans/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8">长 鑫 存 储 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.workbuddy.ai/">WorkBuddy - AI Agent for Everyday Office Work</a></li>
+<li><a href="https://www.cnpp.cn/pinpai/140875.html">长 鑫 存 储 CXMT 简介- 长 鑫 存 储 内 存 颗粒-十大品牌网CNPP</a></li>
+
+</ul>
+</details>
+
+**标签**: `#苹果`, `#长鑫存储`, `#芯片供应`, `#腾讯`, `#AI应用`
+
+---
+
+<a id="item-28"></a>
+## [星海 V6 预售 10.49 万元起，华为智驾下探十万级大六座](https://www.ifanr.com/1674592?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+东风风行开启星海 V6 预售，这款大六座 MPV 起售价 10.49 万元，搭载华为高阶智能驾驶系统（ADS）。新车提供 400km 乾崑尊享型和 510km 乾崑旗舰型两种配置。 这标志着华为智能驾驶技术向大众市场普及的重要一步，将高阶辅助驾驶带入十万级价格区间。此举可能加剧经济型电动车市场的竞争，并加速智能驾驶功能在整个行业的普及。 星海 V6 是东风风行与华为自 2019 年合作研发的纯电动六座 MPV。该车于 2026 年 4 月 24 日在 2026 北京车展首发亮相，并计划于 2026 年第三季度正式上市。
+
+rss · 爱范儿 · 8月10日 09:59
+
+**背景**: 华为 ADS（高阶智能驾驶系统）是一种高阶智能驾驶解决方案，通过激光雷达、摄像头等多传感器融合感知，并依托 GOD 网络、PDP 网络等算法，实现高速、城区领航辅助驾驶及智能泊车等功能。该系统以“乾崑”品牌推广，需注意它属于辅助驾驶系统，并非完全自动驾驶，驾驶员需保持注意力并随时准备接管。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BA%E6%99%BA%E9%A9%BEADS/67671624">华为智驾ADS - 百度百科</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%98%9F%E6%B5%B7V6/67366645">星海V6 - 百度百科</a></li>
+<li><a href="https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E%E9%A3%8E%E8%A1%8C%E6%98%9F%E6%B5%B7+V6/67689099">东风风行星海 V6_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#华为智驾`, `#星海V6`, `#智能驾驶`, `#汽车行业`, `#价格战`
+
+---
+
+<a id="item-29"></a>
+## [Seedance 2.5 之后，AI 视频进入 Harness 时代](https://www.ifanr.com/1674604?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+文章探讨了 Seedance 2.5 发布后，AI 视频生成正进入“Harness 时代”的趋势，认为其可能成为视频模型的 Codex。 这标志着 AI 视频生成从单纯的模型能力转向编排与集成，可能使视频创作更加普及和生产就绪。它可能影响企业和创作者使用 AI 视频工具的方式，类似于 Codex 对软件工程的影响。 Seedance 2.5 由字节跳动开发，支持 4K 分辨率和 30 秒视频生成，并能一次性生成同步声音。“Harness 时代”概念指的是从基于框架的编排转向 harness 工程，编排层成为战略资产。
+
+rss · 爱范儿 · 8月10日 09:48
+
+**背景**: Seedance 是字节跳动推出的文生视频模型，于 2025 年 6 月发布，2.0 版本因其逼真度而走红。在 AI 编程领域，OpenAI 的 Codex 是一个处理软件工程任务的 AI 代理，而 AI 领域的“Harness 时代”指的是从编写编排代码转向构建引导强大 AI 模型的 harness。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Seedance_2.0">Seedance 2.0</a></li>
+<li><a href="https://replicate.com/bytedance/seedance-2.5">Seedance 2 . 5 | Video Generation API</a></li>
+<li><a href="https://www.youtube.com/watch?v=C_GG5g38vLU">Harnesses in AI: A Deep Dive — Tejas Kumar, IBM - YouTube AI Agent Frameworks Are Dying? Welcome to the Harness Era Software After AI | Tomasz Tunguz AI Superstream: AI Harnesses [Video] - learning.oreilly.com The Harness Era | AI Engineering - Medium Harness Engineering 101 The Harness Era: Why Enterprise AI Architecture Matters More ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI视频生成`, `#Seedance 2.5`, `#行业趋势`, `#大厂动态`
+
+---
+
+<a id="item-30"></a>
+## [阿维塔 07L 上市，起售价 22.99 万元，全系搭载华为 ADS 5](https://www.ifanr.com/1674579?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+阿维塔科技正式推出新款“智美大五座豪华 SUV”阿维塔 07L，起售价 22.99 万元（限时权益价 21.99 万元起）。全系搭载华为乾崑 ADS 5 智驾系统，车身相比标准版阿维塔 07 有所加长。 此次上市通过搭载华为最新的 ADS 5 系统，增强了阿维塔在竞争激烈的新能源汽车市场中的地位，有望提升智能驾驶能力并吸引科技爱好者。这也反映了车企与科技巨头合作以差异化产品的趋势。 阿维塔 07L 车身尺寸为 4910×1980×1650mm，轴距 2990mm，是首批搭载华为乾崑 ADS 5 的车型之一，配备 896 线图像级激光雷达和太行分布式三电机电驱系统。共推出 Elite 纯电版、Max+纯电版和 Ultra 三电机纯电版三个版本，售价区间为 22.99 万至 27.99 万元。
+
+rss · 爱范儿 · 8月10日 09:27
+
+**背景**: 华为乾崑 ADS 5 是华为于 2026 年 4 月发布的先进智能驾驶系统，基于 WEWA 2.0 架构，并搭载面向自动驾驶的乾崑 OS。该系统旨在发展为自动驾驶的 AI 智能体，具备安全功能和自我优化的驾驶策略。阿维塔是长安汽车旗下的高端新能源汽车品牌，以其独特设计和与华为在智能驾驶技术上的合作而闻名。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://auto.sina.cn/2026-07-21/detail-iniiqquv2422202.d.html?vt=4">华为ADS 5.0智驾系统将于7月底免费升级|鸿蒙智行|智界v9|智界R7|阿维...</a></li>
+<li><a href="https://auto.huawei.com/cn/ads/">乾崑智驾 - 华为乾崑智能汽车解决方案</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%99%BA%E9%A9%BEADS+5/67673757">华为乾崑智驾ADS 5 - 百度百科</a></li>
+<li><a href="https://www.autohome.com.cn/news/202608/1316307.html">【图】权益后售21.99... | 汽车之家</a></li>
+<li><a href="https://www.youtube.com/watch?v=KTnZn4iiA3s">阿 维 塔 07 L 上市发布会精彩回顾 | Highlights from the AVATR... - YouTube</a></li>
+<li><a href="https://lw.news.cn/20260810/895aadc6295e43aa914ae07b55153e64/c.html">“智美大五座豪华SUV” 阿 维 塔 07 L 上市 22.99万元起-瞭望周刊社</a></li>
+
+</ul>
+</details>
+
+**标签**: `#阿维塔`, `#新能源汽车`, `#华为ADS`, `#智能驾驶`, `#新车发布`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-31"></a>
+## [Airbnb 股价飙升 17%，CEO 称 AI 已解决 45%客服问题](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVByX2pobzFBZlRXMXlEeUZsZmhWY3AxYzlmVDFWQW1tMlZtNjJzenUzRHR3M09BUEo2a3NUTUdzb2xsMlZrSTVfWkFyb0Jvc0xOZ2plb1k5a3F2NDU4X2dvWHNZNjdkVjdjY2JLSzJZRGxMTXgtYWNLTWNTeExMV256eTBoQ3RYcXFqVUpOR1hPRURuMzlZWmZWdlJCdThnNERlTktIdm5kVnRvbTJpdDRnMk5zdWJmM3l3WkhyV0xiTVFCMTZnMTZNendxZDM3NFVtdXVnZEZLaUcxb2gtWl9ZQ2w3eUFSa0k5ZC1zb1JpODAxRXlVU25ZcHZYdFdIeFE0Q0lodHU?oc=5) ⭐️ 8.0/10
+
+Airbnb 股价飙升 17%，此前 CEO 布莱恩·切斯基宣布，AI 现已自主解决 45%的客服问题。这标志着 AI 驱动的客户支持在大型企业中取得了重要里程碑。 这一进展展示了 AI 在客户服务中的实际商业影响，可能重塑行业对自动化的预期。市场的强烈反应表明投资者对 AI 提升效率和节省成本的能力充满信心。 AI 机器人去年在美国率先推出，现正扩展至全球，支持 11 种语言。Airbnb 还将 AI 应用于房东入驻等更多领域，表明其更广泛的 AI 战略。
+
+rss · 客服行业动态 · 8月10日 03:46
+
+**背景**: Airbnb 是领先的住宿和旅行体验在线市场。该公司一直在大力投资 AI，以改善客户服务、个性化和欺诈检测，旨在提升用户体验和运营效率。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/">Airbnb gets into hotels, expands AI for host onboarding and ...</a></li>
+<li><a href="https://fortune.com/2026/03/09/how-ai-has-transformed-customer-service-at-airbnb/">How AI has transformed customer service at Airbnb - Fortune</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI in Customer Service`, `#Airbnb`, `#Automation`, `#Customer Support`, `#Stock Market Impact`
+
+---
+
+<a id="item-32"></a>
+## [天润云中期净利润预增最高 80%，AI 客服收入翻倍](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkt6X0t2RWcyeFV2dko0dG9KOVJrLWl1alRLallieUhiblc5VUZLbl8xNFM5TzZvRUtGc0hVZEkwRkNLTXlTSjVtb09mdkw4QlZ3amdQbHItRk0wcXV6SHphSUttYTlwNHNRbzhDN200TUVNTEVXUDNOOXlOeHlsOURlYWtHVkJkZDZTSVdtVzc3U1NwaXc?oc=5) ⭐️ 7.0/10
+
+天润云（港股：02167）于 2026 年 8 月 7 日发布正面盈利预告，预计中期净利润同比增长 60%至 90%。公司还表示，上半年 AI 客服产品线收入同比翻倍，此前 2026 年 3 月平台 Token 调用量环比大涨 60%。 这一强劲的财务表现凸显了 AI 客服解决方案的快速商业化，这是 SaaS 和客户服务行业的关键趋势。这表明 AI 驱动产品正成为云客户互动供应商的主要收入来源，可能影响投资者情绪和行业采用率。 净利润增长主要归因于 AI 相关产品组合的快速增长，以及由 AI Agent 技术驱动的研发流程整体优化。公司 AI 相关业务收入在 2025 年增长超过 105%，2026 年一季度 AI 收入延续翻倍增长，这一势头延续至上半年。
+
+rss · 客服行业动态 · 8月10日 03:24
+
+**背景**: 天润云是一家提供云原生客户联络解决方案的 SaaS 服务提供商，创建于 2006 年，于 2022 年 6 月在香港联交所上市。公司通过 SaaS 及 VPC 模式，提供基于人工智能的智能客服、云呼叫中心等产品与服务，客户覆盖金融、科技、汽车、保险等多个行业。近年来，公司 SaaS 业务营收占比均超过 92%。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimuzxr2870212.shtml">天 润 云 中期净利 润 同比预增最高80% AI 客 服 收入同比翻倍</a></li>
+<li><a href="https://www.finet.com.cn/keyword?keyword=%E5%A4%A9%E6%B6%A6%E4%BA%91">财华智库网 - 天 润 云</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%A4%A9%E6%B6%A6%E4%BA%91%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/61513371">天润云股份有限公司_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#天润云`, `#财务业绩`, `#客户服务`, `#行业趋势`
+
+---
+
+<a id="item-33"></a>
+## [中消协点名批评 AI 客服](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3JaUkZENGt6bmo1enJhdzNMcndjelNhY3BGc2x3SmZxYXRDb3R2ZGRzajJkSFN2ZWpwOHpBMG0tVzhKdVBNaFBzRVp4b1RtUHo4ZUxiX3VtLUNMUTJydUNxaXdTMzZ0amdQaDBqLW5wLXI5ajN1VWIwQlNVUjJGb1QxU2VsMG1J?oc=5) ⭐️ 7.0/10
+
+中国消费者协会（中消协）公开批评 AI 客服，质疑其有效性，并对消费者待遇表示担忧。这标志着监管和消费者权益方面对 AI 在客服领域广泛使用的明确立场。 这一批评凸显了消费者对 AI 客服日益增长的不满，可能促使监管审查，并推动企业改进 AI 系统或提供更好的人工后备支持。这可能会重塑中国各行业的客户服务实践。 该新闻基于中国主要媒体搜狐的报道，反映了中国消费者协会的官方立场。批评聚焦于 AI 在处理复杂查询方面的局限性以及缺乏情感互动，这可能导致消费者不满。
+
+rss · 客服行业动态 · 8月10日 13:30
+
+**背景**: 中国消费者协会（中消协）是 1984 年成立的全国性消费者权益保护组织，隶属于国家市场监督管理总局。AI 客服利用人工智能技术，如自然语言处理和机器学习，自动回复客户咨询。虽然它提供全天候服务并节省成本，但在处理复杂问题和缺乏人性化共情方面常常力不从心，导致消费者投诉。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E6%B6%88%E5%8D%8F">中国消费者协会 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/675902440">什么是AI客服以及它的特点和优势？ - 知乎</a></li>
+<li><a href="https://baike.baidu.com/item/AI%E5%AE%A2%E6%9C%8D/63588839">AI客服 - 百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#消费者权益`, `#客户服务`, `#中消协`, `#行业监管`
+
+---
+
+<a id="item-34"></a>
+## [蔚来居 2026 上半年新能源售后服务排名榜首](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdnhwWXhHeXBUazNvWndSWEl3NlV0TDZ0am51aGdZUXB0aGZlQ1kzbW5sSDFpMERzRlpwRlFCempFMVliemxUOHA4Nk1wWXlnZ21ITWpmNV9Xdw?oc=5) ⭐️ 7.0/10
+
+根据市场调研机构杰兰路发布的排名，蔚来在 2026 年上半年新能源汽车售后服务能力排名中以 87.38 分位列第一，连续第三次夺冠。该排名于 2026 年 8 月 10 日发布。 该排名凸显了蔚来在新能源汽车领域客户服务方面的领先地位，为服务质量和竞争定位树立了标杆。它强调了售后服务作为行业关键差异化因素的重要性日益增加，影响着客户忠诚度和品牌声誉。 该排名基于杰兰路的研究，蔚来以 87.38 分位居最高，行业整体平均得分有所下滑。此外，蔚来品牌净推荐值（NPS）达 81.9，位居新能源品牌第一；ES8 车型净推荐值达 85.3，位居纯电车型第一。
+
+rss · 客服行业动态 · 8月10日 14:54
+
+**背景**: 杰兰路是一家市场调研机构，定期评估新能源汽车品牌在各项指标上的表现，包括售后服务能力。蔚来是一家中国电动汽车制造商，构建了包括蔚来能源（NIO Power）、蔚来服务（NIO Service）和蔚来中心（NIO House）在内的综合服务体系，覆盖售前、售后及用户体验。净推荐值（NPS）是衡量客户忠诚度和满意度的常用指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260810A0DFWT00">杰兰路2026上半年新能源售后服务能力排名：蔚来公司第一</a></li>
+<li><a href="https://www.163.com/dy/article/L40C6MBT0552YPJK.html">杰兰路2026上半年新能源售后服务榜发布，蔚来公司三连冠</a></li>
+<li><a href="https://article.pchome.net/info/15451.html">杰兰路发布新能源车售后服务榜：蔚来三连冠，行业整体得分下滑</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新能源`, `#售后服务`, `#客户服务`, `#蔚来`, `#行业排名`
+
+---
+
+<a id="item-35"></a>
+## [设计驱动的 AI 智能体：塑造客户体验](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkN3bElNRlFjOTIxVmhQT1dhZmdFSXVkU3QzNXJHVDlMc0FyTEpNd1d6RlhKVlBmOTRlN3dSMGd3RTZoSGV0V0c5ZGViN2hJRXBUdnNSZ2M0RW83YjU4ZWFVQTBnZ2xjV3Nfa21DMGg1aUxHTUFwX1A1MzM4M1RMM0RsVQ?oc=5) ⭐️ 7.0/10
+
+文章讨论了设计驱动的 AI 智能体如何显著影响客户体验，强调了潜在的好处和陷阱。它强调了在客户服务中部署 AI 智能体时深思熟虑的设计的重要性。 这很重要，因为 AI 智能体在客户服务中的应用越来越广泛，其设计可能成就或破坏客户体验。设计不佳的智能体可能让用户感到沮丧，而设计良好的智能体则能提升满意度和忠诚度，影响业务成果。 文章可能涵盖了设计 AI 智能体的原则，优先考虑用户信任、透明度和无缝交互。它也可能讨论了常见的陷阱，如缺乏人工监督和无法处理复杂查询。
+
+rss · 客服行业动态 · 8月10日 10:34
+
+**背景**: AI 智能体是使用人工智能执行任务或提供服务的软件系统，通常在客户服务场景中。设计驱动的方法侧重于以用户为中心的设计原则，以确保 AI 交互直观、可信且有效。文章似乎是关于 AI 智能体时代服务设计更广泛讨论的一部分，强调创建无缝的人机交互。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.aubergine.co/insights/designing-for-ai-agents">Designing for AI Agents: A human-centered approach for 2025</a></li>
+<li><a href="https://uxplanet.org/service-design-in-the-era-of-ai-agents-96af88467333">Service Design in the Era of AI Agents | by Nick Babich | UX ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI agents`, `#customer experience`, `#design`, `#customer service`, `#CX`
+
+---
+
+<a id="item-36"></a>
+## [美国女子冒充客服盗取 500 万美元加密货币](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pLUktUG11anR5T2QtTHNzLXRQTHd0SEk3QmFMcVZNbDNTMWJQNlFwQXRKQ04wanJubGhQaGEwMWJ3aVlxd1RxcmlaNkd2Uk00LVNianZPZW1TZzVCbnFJV05naWxOUQ?oc=5) ⭐️ 7.0/10
+
+区块链调查员 ZachXBT 揭露了一名美国女子冒充客服人员，通过社会工程学手段盗取了超过 500 万美元的加密货币。该诈骗计划利用欺骗手段诱使受害者交出数字资产。 这一事件凸显了加密货币领域社会工程学威胁的日益严重，冒充可信客服角色可能导致重大财务损失。它强调了加强验证流程和提高用户意识以防范此类诈骗的紧迫性。 该诈骗涉及女子冒充客服代表以获取受害者信任，诱骗他们泄露私钥或转移资金。ZachXBT 的调查追踪了被盗资产，可能有助于执法部门识别嫌疑人。
+
+rss · 客服行业动态 · 8月10日 12:15
+
+**背景**: 社会工程学攻击利用的是人的心理而非技术漏洞，通常通过冒充可信实体进行。在加密货币领域，由于交易不可逆且具有假名性，此类诈骗尤其具有破坏性。ZachXBT 是一位知名的独立区块链调查员，曾帮助追回数百万美元被盗资金并协助逮捕嫌疑人。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/ZachXBT">ZachXBT</a></li>
+<li><a href="https://www.researchgate.net/publication/342838296_Exploiting_the_Human_Factor_Social_Engineering_Attacks_on_Cryptocurrency_Users">(PDF) Exploiting the Human Factor: Social Engineering Attacks on...</a></li>
+<li><a href="https://www.onesafe.io/blog/hidden-dangers-social-engineering-cryptocurrency">What is Social Engineering in Cryptocurrency ? - OneSafe Blog</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#security`, `#cryptocurrency fraud`, `#social engineering`, `#impersonation`
+
+---
+
+<a id="item-37"></a>
+## [海天酱油保质期内现虫，客服回应称夏季酱亚麻蝇高发](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SblJ0bFoxZk1RWnZUV1ZKOVlkeERyVXFYcHhKYmxJQkozOTloM2VGSWlQMS1TOTFBM2VqZTFtWi1peUV3QjdKVkV3?oc=5) ⭐️ 6.0/10
+
+海天酱油在保质期内被曝出现白色虫子，公司客服回应称，这是由于夏季酱亚麻蝇高发所致。 该事件涉及知名品牌和食品安全问题，考验海天的危机应对和公众沟通能力。它凸显了企业在处理产品质量投诉和维护消费者信任方面面临的挑战。 客服将虫子归因于酱亚麻蝇，这种蝇类常在夏季在开封的酱油中产幼虫。公司强调，正确储存，如擦净瓶口并盖紧瓶盖，可以防止生虫。
+
+rss · 客服行业动态 · 8月10日 05:54
+
+**背景**: 酱亚麻蝇（学名：Liosarcophaga dux）是一种麻蝇科昆虫，偏好酱油、豆瓣酱等发酵酱类食品。它采用卵胎生方式，直接产下活幼虫，因此开封后的容器中可能很快出现虫子。开封后的正确储存对于防止污染至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E9%85%B1%E9%BA%BB%E8%9D%87/62955843">酱麻蝇 - 百度百科</a></li>
+<li><a href="https://www.toutiao.com/article/7385481610314990099/">人民日报权威揭秘酱油生虫之谜：酱亚麻蝇的“偷食”之旅</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/708114197">酱油大问题？！买来的酱油竟然生虫了？ - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#food safety`, `#crisis management`, `#consumer complaint`, `#Haitian`
+
+---
+
+<a id="item-38"></a>
+## [丰巢再回应法语文凭丢失事件，否认客服承诺成功寄件](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCaGtjZjBiMWhpV0V0SFo2MmdPNnd6bjYxZk9KZm5UVUxHNWdOWmRvRGRZdWpaZUtZRzd1SDV2Vmc3V3czRnBxbVVRMzBnVUI2WlVSVkNxZ0d4cmhZV3c?oc=5) ⭐️ 6.0/10
+
+丰巢就柜机故障导致法语文凭丢失事件再次作出回应，强调客服未曾说过成功寄件。公司重申了清晰沟通和责任界定的重要性。 该事件凸显了客服沟通和记录准确性的重要性，尤其是在服务故障引发争议时。它为企业在处理公众投诉和界定责任方面提供了案例参考，可能影响行业实践。 回应澄清了客服并未确认成功寄件，这是责任争议的关键点。事件涉及柜机故障导致贵重文件丢失，引发关于责任和赔偿的疑问。
+
+rss · 客服行业动态 · 8月10日 03:16
+
+**背景**: 丰巢是中国广泛使用的智能快递柜服务，用于包裹的投递和取件。柜机偶尔会出现故障，导致物品未能妥善存放或丢失等问题。在这种情况下，公司与用户之间的清晰沟通对于确定责任和有效解决投诉至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.php.cn/faq/2147824.html">丰 巢 柜 子关不上怎么办_ 丰 巢 投递 故 障 处理方案【指南】-PHP中文网</a></li>
+<li><a href="https://tousu.sina.com.cn/complaint/view/17350477339">丰 巢 柜 机 器 故 障 导致退货失效_快递投诉_黑猫投诉_新浪网</a></li>
+<li><a href="https://fcbox.com/pages/product/introduce.html">丰 巢 官网— 丰 巢 自助快递服务</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服沟通`, `#客户投诉`, `#责任界定`, `#公关回应`, `#服务行业`
+
+---
+
+<a id="item-39"></a>
+## [高铁座位被挤占：12306 扫码解决](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sOFdYbTFGczZSdGlINmxLc1hLMnlXWjFrSjUyNURzZTBreTNnUVhyUjROajlkYW9GREs3eV9uRjN5Y3VvaUMtUzhsWXpQa3h0UW50ZUJIVDFaWEU?oc=5) ⭐️ 6.0/10
+
+一名女子在高铁上抱怨邻座免票儿童不断挤占她的双人座空间，而孩子的奶奶全程未出声。12306 客服回应称，乘客可扫描座位上的二维码求助列车员解决此类问题。 该事件凸显了公共交通中常见的客服问题，展示了 12306 等官方渠道如何为座位纠纷提供实用解决方案。它强调了清晰的投诉机制对保障乘客舒适度和权益的重要性。 事件发生在高铁上，原本 D、F 双人座因儿童挤占而实际坐了三人。12306 回应称，免票儿童应坐在大人身上，不能影响他人空间，乘客可扫描座位上的二维码求助列车员。
+
+rss · 客服行业动态 · 8月10日 15:01
+
+**背景**: 在中国高铁系统中，符合一定身高或年龄条件的儿童可免票乘车，但无独立座位，需与成人共座。当这些儿童占用过多空间时，常引发座位纠纷。座位上的 12306 二维码是官方渠道之一，乘客可通过扫码在旅途中报告问题并寻求帮助。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.msn.com/zh-cn/travel/%E9%93%81%E8%B7%AF%E6%97%85%E8%A1%8C/%E9%AB%98%E9%93%81%E5%8F%8C%E4%BA%BA%E5%BA%A7%E8%A2%AB%E5%85%8D%E7%A5%A8%E5%84%BF%E7%AB%A5%E6%8C%A4%E6%88%903%E4%BA%BA%E5%BA%A7-12306%E5%9B%9E%E5%BA%94%E5%85%8D%E7%A5%A8%E5%84%BF%E7%AB%A5%E6%8C%A4%E5%8D%A0%E9%82%BB%E5%BA%A7%E7%A9%BA%E9%97%B4-%E5%85%8D%E7%A5%A8%E5%84%BF%E7%AB%A5%E5%8F%AF%E5%9D%90%E5%A4%A7%E4%BA%BA%E8%BA%AB%E4%B8%8A-%E4%B8%8D%E8%83%BD%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA%E7%A9%BA%E9%97%B4/ar-AA29LTwK">高 铁 双人 座 被 免 票 儿 童 挤 成3人 座 ；12306...</a></li>
+<li><a href="https://news.mydrivers.com/1/1142/1142736.htm">news.mydrivers.com/1/1142/1142736.htm</a></li>
+<li><a href="https://www.163.com/dy/article/L406GFIH053469LG.html">高 铁 DF两人 座 被 免 票 儿 童 挤 成“三人 座 ”，12306...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 该新闻未提供社区评论，因此无法获取具体观点或情绪。
+
+**标签**: `#customer service`, `#high-speed rail`, `#12306`, `#complaint resolution`, `#public transport`
+
+---
+
+<a id="item-40"></a>
+## [微信朋友圈灰度测试 AI 帮写与点评](https://news.google.com/rss/articles/CBMicEFVX3lxTE45a3VvWC1ObWQxVVJldm1Ca0JCUGVPU2pvNm5zcllvT1lBS0d0MXdLZ2ZjRUhja1ZaT1d1TEVnVG1BUEZ5dks4Q1lvczZQM282WEJaeE1PM0JfeFY5OVBCQ1ZMaDFMaFFFSDFvMzEtVG0?oc=5) ⭐️ 6.0/10
+
+微信已开始在朋友圈灰度测试两项新 AI 功能：“AI 帮写”和“AI 点评”。腾讯客服确认该功能正在逐步开放，8 月 7 日有网友晒出内测截图。 这标志着 AI 在主流社交平台上的整合迈出重要一步，可能改变用户创作和互动的方式。这也预示着 AI 辅助社交互动的更广泛趋势，可能影响用户体验，甚至社交平台上的客服互动模式。 该功能隶属于微信 AI 助手“小微”，目前处于小范围灰度测试阶段。开放是逐步进行的，并非所有用户都能立即使用，全面开放的具体时间尚不明确。
+
+rss · 客服行业动态 · 8月10日 05:00
+
+**背景**: 微信朋友圈是用户与好友分享文字、图片和视频的核心社交功能。AI 帮写和点评利用大语言模型生成或建议内容，帮助用户撰写帖子或回复他人。这反映了行业更广泛的趋势，即平台整合 AI 以提升用户参与度和内容创作效率。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://post.smzdm.com/p/a5rgdgkx/">微 信 朋 友 圈 开 测 &quot; AI 帮 写 + AI ...&quot;</a></li>
+<li><a href="https://zixun.agfbvin.cn/2026/08/c3uyyo.doc">微 信 内 测 朋 友 圈 新 功 能 ：支持 AI 帮 写 、 点 评 _晚报</a></li>
+
+</ul>
+</details>
+
+**标签**: `#微信`, `#AI`, `#客服`, `#社交平台`
+
+---
