@@ -1,0 +1,853 @@
+---
+layout: default
+title: "Horizon Summary: 2026-08-11 (ZH)"
+date: 2026-08-11
+lang: zh
+---
+
+> 从 102 条内容中筛选出 39 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [“十五五”电网投资将超 5 万亿元](#item-1) ⭐️ 8.0/10
+2. [中国发布《氢能发展报告（2026）》](#item-2) ⭐️ 8.0/10
+3. [中国十九部门联合发布气候变化政策](#item-3) ⭐️ 8.0/10
+4. [智能微电网：新型电力系统的韧性基石与黄金赛道](#item-4) ⭐️ 7.0/10
+5. [东方电气推出同轴 M-G 同步并网装备](#item-5) ⭐️ 7.0/10
+6. [虚拟电厂助力工业零碳供热](#item-6) ⭐️ 7.0/10
+7. [四川大学研究人员揭示热浪驱动臭氧污染机制](#item-7) ⭐️ 7.0/10
+8. [冰球突破手机版宣布 2028 年前实现碳中和](#item-8) ⭐️ 7.0/10
+9. [OPEC 7 月日产量增加 117 万桶，复苏持续](#item-9) ⭐️ 6.0/10
+10. [AG 源 MTN1：将碳中和铸入竞争力](#item-10) ⭐️ 5.0/10
+
+### 🤖 AI 科技
+
+11. [Nvidia 推出 Nemotron 3.5 Lightning 和 NeMo Switchyard，助力高效 AI](#item-11) ⭐️ 8.0/10
+12. [压缩即预测：一个细致的视角](#item-12) ⭐️ 8.0/10
+13. [Mojo 1.0 发布：高性能 Python 超集语言的重要里程碑](#item-13) ⭐️ 8.0/10
+14. [研究人员从专有 LLM API 中窃取隐藏推理痕迹](#item-14) ⭐️ 8.0/10
+15. [英格兰有望消除丙型肝炎](#item-15) ⭐️ 8.0/10
+16. [Grok Bot：AI 代理自动化浏览器任务，引发安全担忧](#item-16) ⭐️ 8.0/10
+17. [用笔式绘图机制作全息图：简单易行的 DIY 技术](#item-17) ⭐️ 7.0/10
+18. [OpenAI 伦理主管上任不到一年即离职](#item-18) ⭐️ 7.0/10
+19. [对互联网时代前求职方式的怀旧回顾](#item-19) ⭐️ 5.0/10
+
+### 🏢 大厂要闻
+
+20. [字节 AI 战略：12%税率、不蒸馏、押注 5 万亿](#item-20) ⭐️ 8.0/10
+21. [苹果的买方霸权首次在中国失效](#item-21) ⭐️ 8.0/10
+22. [英伟达调动 5000 亿美元，算力金融化加速](#item-22) ⭐️ 8.0/10
+23. [华为、理想、小鹏、小米：世界模型与 VLA 之争](#item-23) ⭐️ 8.0/10
+24. [中国人形机器人上市潮：宇树之后的定价挑战](#item-24) ⭐️ 8.0/10
+25. [王兴重仓宇树：一步战略妙棋](#item-25) ⭐️ 8.0/10
+26. [脑机接口行业加速：脑数据成为 AI 的下一个前沿](#item-26) ⭐️ 8.0/10
+27. [影溯科技创始人：互联网视频是空间智能的“太阳能”](#item-27) ⭐️ 8.0/10
+28. [小鹏 G9L 预售价 25.98 万元，精简座椅瞄准全球市场](#item-28) ⭐️ 7.0/10
+29. [零跑 A05 以 6.39 万元起售，旨在重新定义平价电动车](#item-29) ⭐️ 7.0/10
+
+### 🎧 客服行业动态
+
+30. [中消协点名批评 AI 客服](#item-30) ⭐️ 7.0/10
+31. [合力亿捷亮相亚马逊云科技巡展：智能客服从交付工具转向交付智能生产力](#item-31) ⭐️ 6.0/10
+32. [良品铺子鸡胸肉吃出铁块，消费者获赔 500 元仍追查来源](#item-32) ⭐️ 6.0/10
+33. [迪卡侬否认客服电话接入私人手机为官方设置](#item-33) ⭐️ 5.0/10
+34. [腾讯小范围内测 AI 代写朋友圈文案与评论](#item-34) ⭐️ 5.0/10
+35. [中邮钱包提醒警惕假冒客服的短信诈骗](#item-35) ⭐️ 5.0/10
+36. [兴业银行客服中心多措并举解决客户急难愁盼问题](#item-36) ⭐️ 5.0/10
+37. [普洛斯上海多园区拓展半导体芯片产业客户](#item-37) ⭐️ 5.0/10
+38. [罗图家居客服回应争议广告语](#item-38) ⭐️ 5.0/10
+39. [北京警方拦截冒充客服诈骗，止损 7.5 万元](#item-39) ⭐️ 5.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [“十五五”电网投资将超 5 万亿元](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUdEYWxldEt3Y3pNb0JnYnhIVTB2Mm1udzhvbjJnV045V1gwT3FkV29ndGFaeE5qbWdNTksyQ2FxVEJ1XzF2T1JUMXBiVWlUVlV1NWJNTU1fTm0zNGRlX3FhbWp5eF9Pb0RNelVOamxsRXQyRnlqN2NQZEZ2U29nc01KNm5UUE5UMmpkQw?oc=5) ⭐️ 8.0/10
+
+国家电网宣布“十五五”期间（2026-2030 年）固定资产投资规模预计达 4 万亿元，较“十四五”增长 40%。叠加南方电网及地方电网投入，“十五五”期间我国电网总投资规模预计将突破 5 万亿元。 这一巨额投资标志着中国对能源转型和碳中和目标的坚定承诺，将推动新型电力系统建设。它将加速电网现代化和可再生能源并网，为设备制造商、技术提供商及整个能源行业带来重大机遇。 仅国家电网的 4 万亿元投资就创历史新高，较前一个五年计划增长 40%。总投资突破 5 万亿元包括南方电网及地方电网的投入，体现了全国范围内加强能源安全和支持新型电力系统的努力。
+
+google\_news · 21财经 · 8月11日 03:36
+
+**背景**: 新型电力系统是中国能源战略中的关键概念，强调可再生能源整合、智能电网和数字化。十五五期间（2026-2030 年）是实现碳中和目标的关键时期，电网投资对于容纳日益增长的风能和太阳能发电至关重要。这一投资建立在十四五期间已进行的重大电网升级基础上。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.bjnews.com.cn/detail/1785487144129512.html">碳讨|“ 十 五 五 ” 电 网 投 资 超 5 万 亿 元 ，谁在重塑能源基础设施</a></li>
+<li><a href="https://news.metal.net.cn/content-197-7951739-1.html">news.metal.net.cn/content-197-7951739-1.html</a></li>
+<li><a href="https://www.tfcaijing.com/touch/article/page/413958705956654b4145624c43442b397846555933413d3d">tfcaijing.com/touch/article/page/413958705956654b4145624c43442...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#China`, `#grid investment`, `#energy policy`, `#15th Five-Year Plan`, `#carbon neutrality`
+
+---
+
+<a id="item-2"></a>
+## [中国发布《氢能发展报告（2026）》](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5) ⭐️ 8.0/10
+
+中国国家能源局于 2026 年 8 月 11 日发布了《中国氢能发展报告（2026）》，详细阐述了氢能产业的现状和未来规划。报告指出，2025 年我国氢能产业规模持续扩增，生产消费保持全球引领。 该报告作为权威政策文件，为中国氢能产业提供了战略方向，对政策制定者、行业利益相关者和研究人员具有重要影响。它凸显了中国对清洁能源的承诺及其在全球氢能市场中的引领作用。 报告指出，2025 年中国氢能产业持续增长，生产消费保持全球领先。此外，中国首个百万方盐穴储氢工程投产运行，标志着氢能迈入产业化新阶段。
+
+google\_news · 能源界 · 8月11日 03:45
+
+**背景**: 氢能是中国清洁能源战略的关键组成部分，旨在减少碳排放并实现碳中和。该报告由国家能源局发布，为行业发展提供官方数据和政策指导。报告发布之际，中国正进入“十五五”规划期，氢能在国家能源转型中扮演着重要角色。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/20260811/de5edbfaa0de4df2897c2acdb0b62a4c/c.html">中 国 氢 能 发 展 报 告 （ 2026 ）--- 国 家 能 源局</a></li>
+<li><a href="https://m.mysteel.com/a/26081115/4690F2ACA0261486_abc.html">国 家 能 源局 发 布《 中 国 氢 能 发 展 报 告 （ 2026 ）》-我的钢铁网</a></li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/04-25/10610696.shtml">chinanews.com.cn/gn/ 2026 /04-25/10610696.shtml</a></li>
+
+</ul>
+</details>
+
+**标签**: `#氢能`, `#能源政策`, `#中国`, `#发展报告`, `#清洁能源`
+
+---
+
+<a id="item-3"></a>
+## [中国十九部门联合发布气候变化政策](https://news.google.com/rss/articles/CBMilAJBVV95cUxPT19JcDVKN1pCREprSFVJMGQ3T1hOQ3oyQ0p0cW5HcTVkRVFFbWxsY0NQMHRkSHVWTEl2ek80eXNrT3RHaGZqRkdRUXA1NnBGUG5Rc241RTVZMUZaOG8wUkJOazNseXM4Qm53a29DNTdDWVdXemtCal9Nc01rbG81MUJNMmR4TVd6ZHZKN0F2dVByY3lJamFmTjVxSnJzSUFPdUNjV1l0QWRfSzR2cFFER0NrNVFjcGhLM1lYVzJSNHlvTVBnTGNnQnE5V19jeHMxTTE4SnNIU1U1eDEzYVZldG1nNlNXbmdKUFF5WWJ1SUZ5WHAtWmw0cUlFNDA1LXZHbzZMR25DYVdQLTFHS3VTY3JYbDQ?oc=5) ⭐️ 8.0/10
+
+中国十九个政府部门联合发布了一份应对气候变化的重要政策文件，标志着前所未有的跨部门协调行动。该消息由新浪财经报道，但具体政策细节尚未公布。 此次联合发布表明中国采取全政府方式应对气候变化的决心，可能加速其碳中和目标的实施。十九个部门的参与表明气候政策将整合到能源、工业、交通等领域，可能重塑国家能源政策格局。 该政策文件由十九个部门联合发布，但具体名称、内容和实施措施在现有信息中尚未披露。消息来源于新浪财经，缺乏细节表明后续可能会有官方公告。
+
+google\_news · 新浪财经 · 8月11日 07:36
+
+**背景**: 中国承诺在 2030 年前实现碳达峰，2060 年前实现碳中和。为实现这些目标，政府已发布一系列政策文件，而多部门协作被视为协调各经济部门行动的关键。此次联合发布符合中国强调自上而下协调和部门整合的总体气候治理框架。
+
+**标签**: `#气候变化`, `#能源政策`, `#中国`, `#多部门协作`
+
+---
+
+<a id="item-4"></a>
+## [智能微电网：新型电力系统的韧性基石与黄金赛道](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGxmcWFlcW9GNXpGMHlEVGZ2MVlFRjRydEluMEh2QnM5TFFUM2lHTlRYU01GcTZreDdNQnRDRE9FamJEcGI4dG1VYm5FZFlOTlpNUEZ3UFl5TlhxUS1xUmNoYXZiR1Y5emNMWERLbXh1SGZLZFRZSGVqam5ER29CQy1MMmNDZWhhWU5jRw?oc=5) ⭐️ 7.0/10
+
+搜狐新闻的这篇文章探讨了智能微电网作为新型电力系统“韧性基石”和“黄金赛道”的作用，强调了其在能源转型背景下的重要性。 这很重要，因为智能微电网对于增强电力系统应对极端事件的韧性以及整合可再生能源至关重要，符合全球能源转型趋势。文章的观点可能影响能源政策和电力行业的投资决策。 正如评分理由所指出的，文章缺乏具体数据或深入分析，但将智能微电网定位为新型电力系统的关键组成部分。它强调了韧性的需求和市场增长潜力，但没有提供技术细节。
+
+google\_news · 搜狐网 · 8月11日 04:52
+
+**背景**: 智能微电网是本地化的能源系统，可以独立运行或与主电网协调运行，整合太阳能、风能等分布式能源资源以及储能和控制系统。它们通过在停电期间提供备用电源并支持可变可再生能源的整合来增强电网韧性。“新型电力系统”的概念指的是传统电网转型以适应高比例可再生能源，需要先进技术来保证稳定性和灵活性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/20260717/6f6583d9a1454929be0c7fc88732361c/c.html">多能互补织密保供网 电 力 系 统 韧 性 不断提升---国家能源局</a></li>
+<li><a href="https://news.bjx.com.cn/html/20260113/1479206.shtml">news.bjx.com.cn/html/20260113/1479206.shtml</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智能微电网`, `#新型电力系统`, `#能源政策`, `#韧性`, `#黄金赛道`
+
+---
+
+<a id="item-5"></a>
+## [东方电气推出同轴 M-G 同步并网装备](https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFVsSUhWekxTZVVRcUJhOG9PSDdnelNvT0pTcDhjNndIc1hqelBiVmxfMkdwVXM2Z3BZYWNMOVdmTGZqblhleWFyYWRhNHpudWgyUHVpRE5CQ1R4X25WMzB6c20waW5IRzR3R081T1JKT0tRVGhMaDJNOEhtU3QzY3hyMHpOZGEyRk9kUjRBSkxNYUVHbVhF?oc=5) ⭐️ 7.0/10
+
+东方电气推出了同轴 M-G（电动机-发电机）同步并网装备，为新型电力系统提供了可靠的并网方案。这一创新解决了可再生能源并网面临的挑战。 这一进展意义重大，因为它增强了电网稳定性，促进了可再生能源的消纳，对低碳能源转型至关重要。它为并网提供了新的技术路径，有望在行业内得到广泛应用。 同轴 M-G 同步并网装备可能利用电动机-发电机组提供同步惯量和电压支撑，增强电网韧性。新闻中未披露具体技术参数和性能数据。
+
+google\_news · 新浪财经 · 8月11日 12:32
+
+**背景**: 在新型电力系统中，风能、太阳能等可再生能源具有随机性、波动性和间歇性，不同于传统可控的火电。并网技术，如跟网型和构网型技术，对维持电网稳定至关重要。同轴 M-G 同步装备通过提供物理同步惯量，有助于稳定电网，是一种新颖的方法。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.bjx.com.cn/mnews/20241209/1415361.shtml">构 网 型 技 术 ，“构”的是一张 电 网 吗？ -北极星 电 力 新 闻 网</a></li>
+<li><a href="https://jsuese.scu.edu.cn/rc-pub/front/front-article/download/47407157/lowqualitypdf/%E2%80%9C%E5%8F%8C%E7%A2%B3%E2%80%9D%E7%9B%AE%E6%A0%87%E4%B8%8B%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%BA%E4%B8%BB%E4%BD%93%E7%9A%84%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%B4%A1%E7%8C%AE%E3%80%81%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8C%91%E6%88%98.pdf">Carbon Neutrality: Contribution, Key Techniques, and Challenges</a></li>
+
+</ul>
+</details>
+
+**标签**: `#东方电气`, `#新型电力系统`, `#并网技术`, `#能源装备`
+
+---
+
+<a id="item-6"></a>
+## [虚拟电厂助力工业零碳供热](https://news.google.com/rss/articles/CBMickFVX3lxTFAzTWpTREU1YmxZUkx3UU1ENVFaalpRc2hPb3ZUNktDTEpUOFdjU2ZHZlMxdjBIQUJyYUwyMm44aTdxWmJMSDVjeVVMNHM2RXBIVDNoUHVuWkZtbi1hc1B2VldMRWJIR09SZDhxYzgxLXRPZw?oc=5) ⭐️ 7.0/10
+
+文章提出通过虚拟电厂实现工业零碳供热的新路径，将柔性资源转变为电网支柱。它强调了虚拟电厂与工业供热的结合，以增强电网稳定性和脱碳。 该方法通过为工业供热脱碳提供可扩展的解决方案，同时支持电网稳定，可能对能源政策和工业实践产生重大影响。它将虚拟电厂定位为能源转型的关键技术，可能影响未来的投资和监管。 文章强调了虚拟电厂在聚合分布式能源资源和实现灵活负荷管理方面的作用。它还讨论了热泵作为工业零碳供热的主要技术，指出其高效率以及替代传统锅炉的潜力。
+
+google\_news · 新浪财经 · 8月11日 03:07
+
+**背景**: 虚拟电厂（VPP）聚合多种分布式能源资源，如太阳能、风能和储能，以提供负荷平衡和削峰填谷等电网服务。工业零碳供热通常依赖电动热泵，热泵利用电力传递热量，可实现较高的性能系数（COP），使其成为化石燃料锅炉的有前景的替代方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjx.com.cn/html/20221116/1269377.shtml">虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网</a></li>
+<li><a href="https://www.shihuantong.com/news/10614.html">江亿院士： 工 业 零 碳 用 热 ， 热 泵是唯一可能的方式_节能装备资讯_世环通</a></li>
+<li><a href="https://m.bjnews.com.cn/detail/1746774315129248.html">碳 讨| 工 业 供 热 “绿”变记：高温 热 泵将成为 零 碳 园区的 供 热 标配</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#零碳供热`, `#能源政策`, `#工业脱碳`, `#电网稳定性`
+
+---
+
+<a id="item-7"></a>
+## [四川大学研究人员揭示热浪驱动臭氧污染机制](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3RPTE9FSllkd3plRjVPN2g3dk9KV2JUbDhma1RyOWJIMUhkYzN1a0pyOUVYeVlOVmV4c281bzlGSGFZMnFmV0pBQ0dRQkdmYVoxTVhjaDBpcDlkMFJ0RE9mODFrNWEtSThjbVEtTHVJbS1UcEI5MWl6Z2RHOWhIT0pHbmJlME1nRUxINg?oc=5) ⭐️ 7.0/10
+
+四川大学碳中和学院的研究人员揭示了热浪加剧臭氧污染的机制，为气候和空气质量政策提供了关键的科学见解。 这项研究意义重大，因为它阐明了气候变化导致的热浪如何加剧臭氧污染。研究结果可为空气质量管理与气候适应政策提供依据，有助于保护公众健康并指导碳中和行动。 该研究确定了高温增加臭氧形成的具体途径，可能涉及增强的光化学反应以及 VOCs 和 NOx 等前体物排放的增加。研究强调，在热浪期间减少前体物排放是缓解臭氧污染的关键。
+
+google\_news · 搜狐网 · 8月11日 10:14
+
+**背景**: 臭氧污染是主要的空气质量问题，尤其在城市地区，它是在阳光照射下由氮氧化物（NOx）和挥发性有机化合物（VOCs）发生光化学反应生成的。热浪会加速这些反应并增加前体物排放，导致臭氧浓度升高。理解这一机制对于制定在气候变暖背景下有效应对臭氧污染的策略至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ah.ifeng.com/c/8HsNa7XM4wk">ah.ifeng.com/c/8HsNa7XM4wk</a></li>
+<li><a href="http://www.idealyiqi.com/NewsDetail/3088641.html">臭 氧 污 染 防治， 臭 氧 污 染 来源-USIDEAL...</a></li>
+<li><a href="https://tskunmao.com/pages/article/view/id/233061">tskunmao.com/pages/article/view/id/233061</a></li>
+
+</ul>
+</details>
+
+**标签**: `#heatwave`, `#ozone pollution`, `#climate policy`, `#air quality`, `#carbon neutrality`
+
+---
+
+<a id="item-8"></a>
+## [冰球突破手机版宣布 2028 年前实现碳中和](https://news.google.com/rss/articles/CBMic0FVX3lxTE01MUpHQlZMTHlTMzdBelRPcjcxMEJNc0F3ZlFDNk5vMjF2M0ppWVVrc04yQ2hvOU1ua0I5U3N5U3Uxc3c2Y3padDNZVUxZQXZKRFJmYUMtMy0zTmlhbFRIcHAtMG9DTFVqek1BTzROV1pSU2s?oc=5) ⭐️ 7.0/10
+
+冰球突破手机版下载宣布承诺不晚于 2028 年实现运营碳中和，将自己定位为游戏行业绿色转型的引领者。 这一公告具有重要意义，为其他游戏公司树立了榜样，可能加速整个行业向可持续实践的转变。它也符合全球和国家层面的碳中和目标，如中国的 3060 目标。 该公告缺乏关于如何实现这一目标的具体细节，如减排措施或抵消策略。消息来源为游戏媒体，且新闻似乎基于新闻稿，因此需要进一步核实。
+
+google\_news · 电玩巴士 · 8月11日 12:22
+
+**背景**: 运营碳中和是指将公司自身运营（如能源使用、设施）产生的温室气体排放与等量的减排或抵消相平衡。全球许多公司正在设定类似目标以应对气候变化，通常与国家目标保持一致，如中国承诺 2030 年前碳达峰、2060 年前碳中和。游戏行业虽然传统上不是主要排放源，但由于环保意识增强和监管压力，越来越关注可持续发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.gz.chinanews.com.cn/qt/2021-10-28/doc-ihasizte3699183.shtml">中 国平安宣布于2030年实现 运 营 “ 碳 中 和 ”- 中 国新闻网—贵州新闻</a></li>
+<li><a href="https://news.bjx.com.cn/html/20250425/1438716.shtml">20个 碳 词，秒懂 碳 中 和 ！ -北极星 碳 管家网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#碳中和`, `#游戏行业`, `#绿色转型`, `#能源政策`
+
+---
+
+<a id="item-9"></a>
+## [OPEC 7 月日产量增加 117 万桶，复苏持续](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMEx5dG5nd0huSTM1M1RkMGFJWHFFMmphWEhqblNpV1lUVVMyMk9zZWVyR3pFNjlRR3JDT1FKZ2V2bkViazI0c1ZjZWVGcEN5c1R4LUxrbFpQdWVZVXNwbXB5RTdGUjJQM25qcnBsLWlta3lEVDAwQnVwSTAzZmJWNzl1WjdtRmxIWVdjVG9lZEF5VktmS19FT0RRRkxJUVM1ZzZaVlUtVXg1dVpF?oc=5) ⭐️ 6.0/10
+
+据路透社调查，OPEC 7 月原油日产量增加 117 万桶，达到 1985 万桶，延续了 5 月以来的复苏势头。 产量增加表明全球石油供应稳步复苏，可能影响油价和能源市场稳定。政策制定者、投资者和行业分析师密切关注这一数据，以判断供需平衡。 此次增产主要由海湾产油国带动，11 个成员国共同推动了产量上升。数据基于路透社调查，反映了此前减产协议的逐步放宽。
+
+google\_news · 8world · 8月10日 22:51
+
+**背景**: OPEC 及其盟友（即 OPEC+）在疫情期间实施深度减产以支撑油价。随着需求复苏，他们逐步增加产量。7 月调查显示产量持续反弹，符合该组织逐步放松减产的计划。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.8world.com/world/opec-oil-output-rises-further-july-led-by-gulf-producers-reuters-survey-3245031">路透社：7月 OPEC 原 油 日 产 量 增117万桶 延续 复 苏 势头 - 8world</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OPEC`, `#原油产量`, `#能源市场`, `#供应复苏`
+
+---
+
+<a id="item-10"></a>
+## [AG 源 MTN1：将碳中和铸入竞争力](https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUkxKWXdnN1BPaVVqYzZaQ2tibFQwSDA0a2pJR0kzR1hES2hxUUYxU0VWOWhob243QkRtTW5hUDRrQkZ0UmFTUllidXkzTk9XZVVzZlRqOTE?oc=5) ⭐️ 5.0/10
+
+来自 womenofchina.com 的文章讨论了 AG 源 MTN1 如何将碳中和融入其商业战略，以增强竞争力并在绿色未来中取胜。文章强调了该公司与中国碳达峰和碳中和目标对齐的做法。 这反映了企业将碳中和作为竞争优势的更广泛趋势，对能源政策和企业可持续性具有重要意义。它展示了企业如何响应中国 2030 年碳达峰和 2060 年碳中和承诺，可能影响行业实践。 文章似乎具有宣传性质，缺乏技术深度，侧重于公司愿景而非具体措施。它发布在一个普通的女性网站上，这可能限制其对技术受众的可信度。
+
+google\_news · womenofchina.com · 8月11日 12:38
+
+**背景**: 碳中和是指通过平衡排放和吸收的碳来实现净零碳排放。中国承诺到 2030 年实现碳达峰，到 2060 年实现碳中和，促使企业将绿色战略融入运营。这篇文章似乎是企业简介或宣传材料，强调 AG 源 MTN1 对这一目标的承诺。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://totin.cn/?p=2184">totin.cn/?p=2184</a></li>
+<li><a href="https://m.bjx.com.cn/mnews/20210913/1176449.shtml">m.bjx.com.cn/mnews/20210913/1176449.shtml</a></li>
+
+</ul>
+</details>
+
+**标签**: `#carbon neutrality`, `#competitiveness`, `#green future`, `#energy policy`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [Nvidia 推出 Nemotron 3.5 Lightning 和 NeMo Switchyard，助力高效 AI](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) ⭐️ 8.0/10
+
+Nvidia 发布了 Nemotron 3.5 Lightning，这是一个开放的 30B MoE 模型，具有 3B 激活参数，以及 NeMo Switchyard，一个用于智能模型路由的开源库。这些工具旨在提供更快、更高效的智能体 AI，输出速度提升高达 4 倍，任务完成速度提升 30%。 此次发布凸显了行业向更小、更高效的模型和智能路由的转变，这可以在保持性能的同时降低成本和延迟。它使组织能够更有效地部署专用 AI 智能体，可能加速各行业的采用。 Nemotron 3.5 Lightning 是一个混合专家（MoE）模型，总参数为 30B，但只有 3B 激活参数，因此快速高效。它已在 Hugging Face 上提供，可用于商业用途；NeMo Switchyard 是一个基于 Rust 的代理，用于跨模型路由 LLM 流量，平衡能力、成本和延迟。
+
+hackernews · droidjj · 8月11日 19:35 · [社区讨论](https://news.ycombinator.com/item?id=49263340)
+
+**背景**: 混合专家（MoE）模型每个 token 只激活部分参数，从而在保持容量的同时实现高效。模型路由是根据任务复杂性和成本等因素将每个请求定向到最合适的模型，这对于管理多样化的 AI 工作负载至关重要。Nvidia 的 NeMo 平台提供了构建、定制和部署 AI 模型的工具。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/">NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents | NVIDIA Technical Blog</a></li>
+<li><a href="https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/">NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI | NVIDIA Blog</a></li>
+<li><a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4">nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 · Hugging Face</a></li>
+<li><a href="https://github.com/NVIDIA-NeMo/Switchyard">GitHub - NVIDIA-NeMo/Switchyard · GitHub</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论对小型高效模型表示热情，一位用户指出向更小模型的趋势可能推动结构性演变。另一位用户提出了关于路由如何处理提示缓存的技術问题，还有一位批评基准测试中省略了 Qwen 模型。还有用户分享了在 Apple Silicon 上通过 MLX 运行该模型的积极体验。
+
+**标签**: `#Nvidia`, `#AI models`, `#efficient AI`, `#model routing`, `#open source`
+
+---
+
+<a id="item-12"></a>
+## [压缩即预测：一个细致的视角](https://ngrok.com/blog/compression-is-prediction) ⭐️ 8.0/10
+
+文章《压缩即预测》认为压缩从根本上就是预测，借鉴了信息论和机器学习。该文引发了社区讨论，获得 163 分和 68 条评论，细化了关于泛化和有损压缩的细微差别。 这一观点挑战了“LLM 只是下一个词预测器”的说法，并提供了一个统一的框架来理解 AI。它将信息论的理论概念与实际的机器学习联系起来，可能影响研究人员对模型训练和泛化的思考方式。 讨论强调，仅当数据分布完全代表所有未来问题时，压缩才等同于预测；泛化需要处理可能不同的测试分布。有损压缩可能忽略罕见的边缘情况，这是泛化的一个局限。
+
+hackernews · nikolay · 8月11日 19:49 · [社区讨论](https://news.ycombinator.com/item?id=49263497)
+
+**背景**: 在信息论中，数据压缩减少表示信息所需的比特数，可以是无损或有损的。像 LLM 这样的机器学习模型被训练来预测下一个词，这可以看作是对训练数据的一种压缩。泛化是指模型在未见数据上表现良好的能力，这是机器学习的一个关键目标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Data_compression">Data compression - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Generalization_%28machine_learning%29">Generalization (machine learning)</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论普遍同意这一论点，并引用了相关资源，如 Grant Sanderson 的视频。一些评论者补充了细微差别，指出只有在特定条件下压缩才等于预测，并且有损压缩可能无法很好地泛化。其他人则认为这是反对“LLM 不能有新想法”这一观点的有用直觉。
+
+**标签**: `#compression`, `#prediction`, `#information theory`, `#machine learning`, `#LLM`
+
+---
+
+<a id="item-13"></a>
+## [Mojo 1.0 发布：高性能 Python 超集语言的重要里程碑](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) ⭐️ 8.0/10
+
+Modular 发布了 Mojo 1.0，这是其专为高性能 AI 计算设计的 Python 超集语言的第一个稳定版本。此次发布标志着一个重要里程碑，公司重申了在 2026 年开源编译器和工具链的承诺。 Mojo 1.0 意义重大，因为它旨在将 Python 的易用性与 Rust 和 C++ 等系统语言的性能相结合，可能加速 AI 开发。其发布可能影响 AI 工具生态系统，为现有的高性能 Python 库和框架提供替代方案。 Mojo 基于 MLIR 编译器框架，能够针对 CPU、GPU、TPU 和其他加速器进行编译，并支持 SIMD 优化，且开发者干预极少。值得注意的是，成为 Python 完全超集的目标已被撤回；路线图现在指出，Mojo 可能会也可能不会演变为完全超集，如果不能也没关系。
+
+hackernews · dayanruben · 8月11日 16:56 · [社区讨论](https://news.ycombinator.com/item?id=49261128)
+
+**背景**: Mojo 是 Modular 开发的专有系统编程语言，专为 AI 和高性能计算设计。它采用类似 Python 的语法，但融入了受 Rust 启发的静态类型和借用检查器，旨在同时提供开发人员生产力和运行时性能。该语言基于 MLIR 编译器框架，该框架允许高级优化并针对多种硬件。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mojo_%28programming_language%29">Mojo (programming language ) - Wikipedia</a></li>
+<li><a href="https://mojolang.org/">Mojo</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论反映了兴趣与怀疑的混合。一些用户对语言的目的和价值表示困惑，指出缺乏清晰的一页概述和闭源编译器是缺点。其他人质疑 Python 超集目标的状态以及开源延迟，而少数人仍对 Mojo 的潜力抱有希望。
+
+**标签**: `#Mojo`, `#programming language`, `#AI`, `#high-performance computing`, `#release`
+
+---
+
+<a id="item-14"></a>
+## [研究人员从专有 LLM API 中窃取隐藏推理痕迹](https://stolen-thoughts.com/) ⭐️ 8.0/10
+
+研究人员展示了一种方法，通过将输出重放到较弱的兄弟模型中，从专有 LLM API 中提取隐藏的推理痕迹，相关细节已在新论文和网站中公布。该攻击利用跨会话兼容性，跨多个模型和提供商恢复加密的推理痕迹。 这引发了对 AI 对齐和知识产权保护的重大担忧，因为隐藏的推理痕迹通常被视为专有信息，可能包含敏感内容。这可能影响提供商如何保护其 API，以及研究人员和用户与前沿模型的交互方式。 该攻击涉及将前沿模型的痕迹重放到较弱的兄弟模型中，以越狱并恢复隐藏推理。论文描述了加密推理痕迹的特征，并表明来自同一提供商的兼容解码器模型可以跨多种模型、提供商和痕迹格式恢复推理。
+
+hackernews · quantumgarbage · 8月11日 13:22 · [社区讨论](https://news.ycombinator.com/item?id=49257876)
+
+**背景**: 专有 LLM API 通常隐藏其推理痕迹以保护知识产权并防止滥用。然而，这项研究表明，通过利用跨会话兼容性和较弱的兄弟模型，这些痕迹可以被恢复，从而削弱了安全措施。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/pdf/2608.09867">Stealing Reasoning Traces from Proprietary LLM APIs</a></li>
+<li><a href="https://www.alphaxiv.org/abs/2608.09867">Stealing Reasoning Traces from Proprietary LLM APIs | alphaXiv</a></li>
+<li><a href="https://ai-alert.org/posts/model-extraction-attacks-explained/">Model Extraction Attacks: How Adversaries Steal AI via the API</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了不同观点：一些人认为“窃取”用词不当，因为用户已为令牌付费；另一些人指出，只需禁用思考并提供“deep\_think”工具也能暴露推理。有人好奇这是否被故意允许，并对训练数据污染表示担忧。
+
+**标签**: `#AI security`, `#LLM reasoning`, `#model extraction`, `#proprietary APIs`, `#AI alignment`
+
+---
+
+<a id="item-15"></a>
+## [英格兰有望消除丙型肝炎](https://www.bbc.com/news/articles/c75gk620r22o) ⭐️ 8.0/10
+
+得益于广泛的筛查和治疗计划，英格兰有望成为首批消除丙型肝炎的国家之一。该计划显著减少了感染人数，使该国接近世界卫生组织的消除目标。 这一里程碑证明了通过公共卫生措施消除慢性病毒性疾病的可行性，可能为其他国家提供范例。它也凸显了主动筛查和可及治疗在减轻疾病负担、预防肝癌及其他并发症方面的重要性。 该计划包括广泛检测，特别是在高风险群体中，并使用高效的直接抗病毒药物。英国国家医疗服务体系（NHS）在协调这些工作中发挥了核心作用，该国现在有望提前实现世界卫生组织 2030 年的消除目标。
+
+hackernews · stevekemp · 8月11日 12:41 · [社区讨论](https://news.ycombinator.com/item?id=49257377)
+
+**背景**: 丙型肝炎是一种血源性病毒，主要影响肝脏，若不治疗，常导致慢性感染、肝硬化和肝癌。世界卫生组织设定了到 2030 年消除丙型肝炎这一公共卫生威胁的全球目标，要求以 2015 年为基线，将新感染和死亡人数分别减少 90%和 65%。英格兰的进展归功于减少危害服务、改进筛查以及可治愈治疗的可及性。
+
+**社区讨论**: 社区评论反映了个人宽慰和更广泛的政治评论。一位用户分享了早期诊断和治疗的个人经历，对筛查表示感激。其他人则指出与美国形成对比，美国传染病正在复苏，并质疑为何该计划仅限于英格兰而非整个英国。另一位评论者推测该计划可能与肝癌发病率下降有关。
+
+**标签**: `#public health`, `#hepatitis C`, `#disease elimination`, `#NHS`, `#screening`
+
+---
+
+<a id="item-16"></a>
+## [Grok Bot：AI 代理自动化浏览器任务，引发安全担忧](https://x.ai/bot) ⭐️ 8.0/10
+
+xAI 推出了 Grok Bot，这是一种新的基于代理的交互范式，通过接管用户浏览器并访问凭据来自动化浏览器任务。这标志着 AI 代理用户体验的重大进步，从传统提示转向自主代理。 这一发展可能重塑用户与 AI 的交互方式，使代理更加自主并能够执行复杂任务。然而，它也引发了严重的安全和隐私问题，因为能够访问所有账户的代理可能容易受到数据泄露、删除或通过提示注入被劫持的影响。 据报道，该机器人会从浏览器中获取用户凭据并接管，这是一个重大的安全风险。社区成员指出，虽然交互感觉自然，但缺乏监督以及持续后台运行的潜在可能令人担忧。此外，还有关于像亚马逊这样的提供商如何检测和阻止此类代理的问题，特别是如果它们在云基础设施上运行。
+
+hackernews · rvz · 8月11日 17:23 · [社区讨论](https://news.ycombinator.com/item?id=49261514)
+
+**背景**: AI 代理是能够自主执行任务的软件程序，通常使用大型语言模型（LLM）来理解和执行指令。浏览器自动化涉及使用脚本或代理来控制 Web 浏览器，可以通过无头浏览器或专用工具实现。从标签补全到提示再到代理的演变代表了人机交互的进步，代理越来越多地处理复杂的多步骤任务。然而，这种自主性引入了新的安全挑战，例如凭据被盗和未经授权访问的风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Agent-based_model">Agent-based model - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Multi-agent_system">Multi-agent system - Wikipedia</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S209657962500021X">A new human-computer interaction paradigm: Agent interaction model based on large models and its prospects - ScienceDirect</a></li>
+<li><a href="https://nhimg.org/articles/headless-browser-bot-attacks-are-outpacing-basic-detection-methods/">Headless browser bot attacks are outpacing basic detection methods</a></li>
+<li><a href="https://www.linkedin.com/pulse/convenience-vs-control-security-implications-chromes-new-steier-ifpye">Convenience vs. control: The security implications of Chrome’s new...</a></li>
+<li><a href="https://developer.chrome.com/docs/automation-and-testing/headless">Chrome Headless mode | Automation and testing | Chrome for...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了兴奋与担忧的混合情绪。一些用户认为这种交互范式自然且是合乎逻辑的下一步，而另一些用户则对代理持续运行并访问所有账户感到焦虑，担心数据泄露或被劫持。还有关于用户体验跟随 OpenAI 引领以及防止网站检测的技术挑战的讨论。
+
+**标签**: `#AI agents`, `#UX`, `#security`, `#browser automation`, `#Grok`
+
+---
+
+<a id="item-17"></a>
+## [用笔式绘图机制作全息图：简单易行的 DIY 技术](https://blog.jordan.matelsky.com/Penplotter-holography/) ⭐️ 7.0/10
+
+Jordan Matelsky 发表了一篇博客文章，演示了如何使用笔式绘图机制作全息图，并提供了易于理解的技术说明。该文章因其创造性方法而获得了社区的积极反馈。 该项目展示了笔式绘图机的新颖应用，将其用途从传统绘图扩展到全息术领域。它为创客和爱好者提供了一个无需专业设备即可探索全息术的便捷入口，可能激发更多 DIY 创新。 该技术借鉴了手绘全息术的方法，例如 William Beaty 所描述的技术，并使用笔式绘图机来生成所需的图案。作者通过橄榄油、指纹和手机屏幕的类比来解释核心概念，使读者更容易理解。
+
+hackernews · DemiGuru · 8月11日 18:51 · [社区讨论](https://news.ycombinator.com/item?id=49262811)
+
+**背景**: 全息术是一种记录并重建光场以产生三维图像的技术。传统全息图需要精密的光学装置和专用材料，但手绘全息图使用简单工具创建衍射图案，从而产生全息效果。笔式绘图机是计算机控制的设备，能在纸上绘制精确线条，因此适合制作此类全息图所需的复杂图案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.jordan.matelsky.com/Penplotter-holography/">Making holograms with a pen plotter – Jordan Matelsky – Code...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员称赞该帖子是“老式互联网”风格的乐趣，将其与 Tom7 的作品相提并论，并赞赏用橄榄油和指纹类比来解释概念。一位评论者提到了相关的“磨损全息术”技术，并建议将笔换成针，另一位则引用了 Steve Mould 解释全息图的视频。
+
+**标签**: `#holography`, `#pen plotter`, `#maker`, `#DIY`, `#graphics`
+
+---
+
+<a id="item-18"></a>
+## [OpenAI 伦理主管上任不到一年即离职](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0) ⭐️ 7.0/10
+
+OpenAI 伦理主管 Chloé Bakalar 于 7 月离职，距她 2025 年 8 月入职不到一年。她的离职并未公开宣布，公司也未指定继任者。 此次离职凸显了将伦理融入 AI 开发所面临的挑战，并引发对 OpenAI 在伦理治理方面承诺的质疑。这可能标志着 AI 行业中伦理角色被边缘化的更广泛趋势。 Bakalar 是 OpenAI 唯一专职伦理学家，此前曾在 Meta 担任首席伦理学家六年。《金融时报》报道了她的离职，但 OpenAI 未公开解释或指定接替者。
+
+hackernews · ilamont · 8月11日 12:23 · [社区讨论](https://news.ycombinator.com/item?id=49257160)
+
+**背景**: AI 伦理角色通常是咨询性质而非决策性质，影响力有限。公司可能聘请伦理学家以表明责任感，但这些团队往往缺乏影响产品开发的权力。Bakalar 的离职正值对 AI 安全和治理的广泛担忧之际。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft">OpenAI &#x27;s Only Dedicated Ethicist Has Left With No... - Decrypt</a></li>
+<li><a href="https://thecurrencyanalytics.com/technology/openais-ethics-role-sits-empty-after-chloe-bakalars-quiet-exit-283285">OpenAI &#x27;s Ethics Role Sits Empty After Chloé Bakalar &#x27;s Quiet Exit</a></li>
+<li><a href="https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave">Why Did OpenAI ’s Head of Ethics Chloé Bakalar Leave? | AI Magazine</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对企业的伦理承诺表示怀疑，有人认为伦理团队往往没有实权。还有人指出 Bakalar 在 Meta 的经历表明她了解这些动态，并推测 OpenAI 关于 LLM 的理念可能与她的观点相冲突。
+
+**标签**: `#OpenAI`, `#AI ethics`, `#corporate governance`, `#AI safety`
+
+---
+
+<a id="item-19"></a>
+## [对互联网时代前求职方式的怀旧回顾](https://ironicsans.ghost.io/how-we-used-to-get-jobs/) ⭐️ 5.0/10
+
+这篇文章回顾了互联网时代前的求职流程，并将其与现代数字招聘进行对比。文章强调了当时主要通过报纸分类广告、邮寄简历和电话联系来寻找工作。 这种怀旧的视角提供了对招聘方式演变的文化和历史洞察，有助于理解当前的招聘实践。它还引发了关于模拟方法潜在优势的讨论，例如减少候选人过载和更多个人关注。 文章提到求职者会邮寄简历并等待电话，通常依赖答录机或他人代接电话。文章还指出，当时的编程测试是在纸上进行的，例如在一张行式打印机纸上指出 C++链表实现中的错误。
+
+hackernews · speckx · 8月11日 18:09 · [社区讨论](https://news.ycombinator.com/item?id=49262211)
+
+**背景**: 在互联网出现之前，求职依赖于报纸和邮政邮件等实体媒介。这个过程较慢且更具地方性，但它也起到了自然过滤的作用，减少了申请人数，并允许更彻底的评估。这一背景有助于解释怀旧情绪以及认为模拟招聘在某些方面可能更好的逆向观点。
+
+**社区讨论**: 社区评论分享了关于旧流程的个人轶事，一位用户称赞它是一种努力和展示的过滤器，对雇主和雇员都有利。另一位评论者提出了逆向观点，认为模拟方法在减少候选人过载和鼓励对员工投资方面明显更好。还有一条幽默的评论提到，虽然报纸上仍有大公司的招聘广告，但申请却毫无进展。
+
+**标签**: `#job hunting`, `#history`, `#recruitment`, `#nostalgia`, `#analog`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-20"></a>
+## [字节 AI 战略：12%税率、不蒸馏、押注 5 万亿](https://www.tmtpost.com/8098796.html) ⭐️ 8.0/10
+
+字节跳动正在推行一种独特的 AI 战略，强调生态闭环，与阿里巴巴和腾讯形成差异化。该公司实施了 12%的税率政策，禁止模型蒸馏，并押注 5 万亿美元的市场机会。 这一战略凸显了字节跳动构建自给自足 AI 生态的雄心，可能重塑中国科技巨头之间的竞争格局。这也表明其对长期自主创新的承诺，而非短期利益，可能影响行业实践。 12%的税率政策可能指字节生态内的收入分成或佣金率。据报道，创始人张一鸣强制执行的“不蒸馏”规则，禁止 Seed 团队对任何外部模型（包括开源模型）进行模型蒸馏。
+
+rss · 钛媒体 · 8月11日 10:38
+
+**背景**: 模型蒸馏是一种让较小模型从较大、能力更强的模型中学习的技术，常用于快速提升性能。字节跳动拒绝使用该技术，被认为是其大语言模型落后于竞争对手的原因之一，尽管其在 AI 视频生成领域领先，如 Seedance 2.0 模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.aigc.bar/AI%E8%B5%84%E8%AE%AF%E6%96%87%E7%AB%A0/2026/08/06/zhang-yiming-bans-ai-model-distillation">张一鸣严禁大模型蒸馏：字节跳动拒绝捷径背后的AI长期主义 | AIGC.BAR</a></li>
+<li><a href="https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimizpr0703082.shtml">字节跳动创始人表态：不对AI模型进行“蒸馏”_新浪财经_新浪网</a></li>
+<li><a href="https://ai.zol.com.cn/1227/12275729.html">字节跳动禁用AI蒸馏技术，坚持大模型长期自主创新_人工智能-中关村在线</a></li>
+
+</ul>
+</details>
+
+**标签**: `#字节跳动`, `#AI战略`, `#大厂竞争`, `#生态闭环`
+
+---
+
+<a id="item-21"></a>
+## [苹果的买方霸权首次在中国失效](https://www.tmtpost.com/8098899.html) ⭐️ 8.0/10
+
+以在成品市场强大议价能力著称的苹果，在与中国存储芯片供应商长鑫存储的降价谈判中遭遇阻力。这标志着苹果的买方霸权首次在中国失效。 这一事件标志着全球存储芯片供需格局的转变，AI 驱动的需求赋予了长鑫存储等供应商前所未有的定价权。这可能迫使苹果调整其供应链策略，并可能影响其产品定价。 据报道，苹果曾考虑将中国长鑫存储纳入供应链以降低成本，但进一步压低采购价格的谈判遭遇阻碍。目前，AI 需求驱动的存储芯片市场供应紧张，使供应商拥有议价优势。
+
+rss · 钛媒体 · 8月11日 10:38
+
+**背景**: 苹果历来凭借其庞大的订单量对供应商拥有强大的议价能力。然而，存储芯片市场目前正处于周期性上行阶段，AI 应用带动了 DRAM 和 NAND 闪存的强劲需求。这导致供应紧张，使长鑫存储等供应商得以抵制降价，打破了通常的买卖双方动态。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://tg.okhk.net/posts/10727">tg.okhk.net/posts/10727</a></li>
+<li><a href="https://m.cnbeta.com.tw/view/1567296.htm">苹 果 向 中 国 长鑫采购 存 储 芯 片 的计划正面临搁浅风险 - cnBeta.COM...</a></li>
+<li><a href="https://m.163.com/dy/article/L3UU7CJ3051191D6.html">m.163.com/dy/article/L3UU7CJ3051191D6.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#苹果`, `#供应链`, `#存储芯片`, `#议价权`, `#中国市场`
+
+---
+
+<a id="item-22"></a>
+## [英伟达调动 5000 亿美元，算力金融化加速](https://www.tmtpost.com/8098887.html) ⭐️ 8.0/10
+
+据报道，英伟达正寻求联合 Apollo、黑石、Brookfield、高盛及 KKR 等华尔街巨头，为 AI 基础设施项目筹集高达 5000 亿美元的资金。这标志着算力资源金融化的重大举措。 这一举措标志着算力被当作金融资产来对待，可能重塑 AI 基础设施的融资和建设方式。它可能加速 AI 发展，但也可能使控制权集中在少数科技和金融巨头手中。 这笔资金将用于 AI 芯片采购和电力生产，其中英伟达出资 10 亿美元，Brookfield 在相关交易中最高出资 90 亿美元。此外，英伟达计划在美国本土生产 AI 超级计算机，投资 5000 亿美元用于国内制造。
+
+rss · 钛媒体 · 8月11日 10:38
+
+**背景**: 算力金融化是指将计算能力视为可交易的金融资产，类似于商品或证券。这一趋势由 AI 基础设施的巨大资本需求驱动，超出了传统企业预算，促使科技公司寻求涉及机构投资者的新融资模式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wallstreetcn.com/articles/3779115">英 伟 达 联手华尔街六大巨头，筹 5000 亿 美 元 押注AI...</a></li>
+<li><a href="https://m.gelonghui.com/p/5740326">英 伟 达 牵手SK海力士： 5000 亿 美 元 “豪赌”韩国AI</a></li>
+<li><a href="https://www.shudns.com/tiyu/dianjing/61736.html">英 伟 达 将在 美 生产AI超级 计 算机： 计 划 投 资 5000 ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#英伟达`, `#算力金融化`, `#AI基础设施`, `#大厂动态`
+
+---
+
+<a id="item-23"></a>
+## [华为、理想、小鹏、小米：世界模型与 VLA 之争](https://www.tmtpost.com/8099113.html) ⭐️ 8.0/10
+
+通过对七篇论文的深入拆解，揭示了华为、理想、小鹏、小米等头部车企在下一代智能驾驶架构上采取的不同技术路线，即世界模型与视觉-语言-动作（VLA）模型之争。 这一技术路线之争将塑造中国自动驾驶的未来，影响安全性、用户体验和竞争格局。所选架构可能决定哪些公司在下一阶段智能驾驶中占据领先地位。 文章分析了七篇论文，指出世界模型侧重于预测未来状态和模拟环境，而 VLA 模型则整合感知、语言理解和动作生成。理想汽车在 NVIDIA GTC 2025 上展示的 MindVLA 是 VLA 路线的典型代表，旨在让汽车成为“贴心的专职司机”，能够听得懂、看得见、找得到。
+
+rss · 钛媒体 · 8月11日 10:19
+
+**背景**: 自动驾驶正从基于规则的系统演变为端到端深度学习模型。世界模型（如 Waymo 的 Genie3）生成交互式 3D 环境以预测驾驶场景，而 VLA 模型则结合视觉、语言和动作，实现更接近人类的推理和决策。这些方法代表了实现更高级别自动驾驶的竞争范式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developer.horizon.auto/blog/13290">Waymo...</a></li>
+<li><a href="https://m.xnyauto.com/news/59089.html">理想MindVLA：融合多智能，革新 自 动 驾 驶 架 构 _新能源汽车网</a></li>
+<li><a href="https://m.163.com/dy/article/JQU9LFMQ0511B8LM.html">理想汽车发布下一代 自 动 驾 驶 架 构 MindVLA_手机网易网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智能驾驶`, `#世界模型`, `#VLA`, `#华为`, `#理想`, `#小鹏`, `#小米`
+
+---
+
+<a id="item-24"></a>
+## [中国人形机器人上市潮：宇树之后的定价挑战](https://www.tmtpost.com/8098819.html) ⭐️ 8.0/10
+
+文章分析了宇树科技 IPO 后中国人形机器人公司面临的估值挑战与定价逻辑，宇树的 IPO 定价达到了 610 亿元。文章探讨了这些公司应如何在资本市场中被定价。 这很重要，因为宇树的 IPO 为中国人形机器人行业树立了标杆，影响后续众多公司的融资和 IPO 定价。其结果将塑造这一新兴领域的资本配置和行业发展。 文章指出，宇树科技 610 亿元的 IPO 估值基于约 60%的高毛利率和“人形机器人第一股”的稀缺地位，但 130 多家同行中许多仍在“卖故事”，尚未大规模商业化。定价逻辑必须区分有实际收入的公司和依赖未来潜力的公司。
+
+rss · 钛媒体 · 8月11日 08:55
+
+**背景**: 人形机器人是一项前沿技术，预计将进入工厂和家庭，但大规模应用尚未实现。宇树科技以 150 元发行价、610 亿元估值上市，是中国资本市场的里程碑事件，既反映了技术价值，也体现了国家对硬科技的战略支持。此类公司的估值往往取决于未来潜力而非当前盈利。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://h5.ifeng.com/c/vivo/v002zThVWv73Gzr2VEO4j3zx75C3kr7gIhAeEOtcHWkY-_0E__?isNews=1&amp;showComments=0">人 形 机 器 人 估 值 真相：宇树毛利60%背后，130家同行仍在卖故事</a></li>
+<li><a href="https://m.21jingji.com/article/20260811/herald/537c82c2cce01410536e1929fc523a1d.html">王兴重仓王兴兴，这盘棋到底有多大？ - 21财经</a></li>
+<li><a href="https://www.hstong.com/news/detail/25091817211763359">王兴兴对手，Figure 估 值 2700亿 港美股资讯 | 华盛通</a></li>
+
+</ul>
+</details>
+
+**标签**: `#人形机器人`, `#IPO`, `#估值`, `#宇树科技`, `#机器人产业`
+
+---
+
+<a id="item-25"></a>
+## [王兴重仓宇树：一步战略妙棋](https://www.tmtpost.com/8098120.html) ⭐️ 8.0/10
+
+美团在 CEO 王兴的带领下，大幅增加了对宇树科技的投资，此时宇树正准备在上交所科创板上市。这是美团继今年早些时候参与 B2 轮融资后，对宇树的第二次投资。 这笔投资使美团能够在快速发展的机器人和配送领域占据先机，并可能将宇树的机器人整合到其物流和配送业务中。这也标志着大型科技公司与领先机器人创新者之间的战略协同，可能重塑这两个行业的竞争格局。 宇树科技由王兴兴于 2016 年创立，最初专注于四足机器人，并于 2024 年扩展至人形机器人，第二代产品售价约为 16,000 美元。美团的投资是 C 轮融资的一部分，该轮融资筹集了数十亿元人民币，且宇树的 IPO 注册已获中国证监会批准。
+
+rss · 钛媒体 · 8月11日 08:40
+
+**背景**: 美团是中国领先的生活服务电子商务平台，以食品配送和本地服务闻名。宇树科技是机器人行业的重要参与者，尤其在四足和人形机器人领域。这笔投资反映了科技公司投资具身智能和机器人技术以提升配送和物流自动化与效率的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Unitree_Robotics">Unitree Robotics</a></li>
+<li><a href="https://en.tmtpost.com/post/7263532">Unitree Robotics Raises Several Billion Yuan in Series C Funding</a></li>
+<li><a href="https://hangzhouhomes.com/index/index/newdetail?id=389&amp;lang=en">Unitree IPO a boost to robotics sector | Living in... | Hangzhou Homes</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Unitree`, `#Meituan`, `#IPO`, `#robotics`, `#investment`
+
+---
+
+<a id="item-26"></a>
+## [脑机接口行业加速：脑数据成为 AI 的下一个前沿](http://www.geekpark.net/news/368694) ⭐️ 8.0/10
+
+2026 年初，脑机接口（BCI）行业迎来重大融资和技术进展：Neuralink 将全球临床试验参与者扩大到 21 人，OpenAI 领投了 Merge Labs 约 2.5 亿美元的种子轮融资，专注于超声脑机接口，Synchron 完成了 2 亿美元的 D 轮融资。在中国，2026 年第一季度该领域发生了 17 起融资，总额约 38 亿元，而由彭雷和陈天桥创立的格式塔公司完成了 4.2 亿元的天使+轮融资，累计融资接近 1 亿美元。 AI 与 BCI 的融合将脑数据定位为开发先进 AI 模型的关键新数据源，可能加速 AGI 的进程。大量资本涌入和主要玩家的战略布局表明，BCI 正从实验室演示转向实际临床应用，对医疗、人机交互和 AI 发展具有深远影响。 格式塔公司成立于 2026 年 1 月，采用超声脑机接口技术，利用功能性超声成像（fUS）读取血流变化，以及经颅聚焦超声（tFUS）进行神经调控，旨在覆盖比电极方法更大的脑区。该公司正在构建一个整合电信号、超声、血流、核磁影像和行为数据的大脑基础模型，并与傅利叶智能合作，在具身智能训练中采集脑信号，以测试这些数据是否能提升模型的泛化能力。
+
+rss · 极客公园 · 8月11日 13:00
+
+**背景**: 脑机接口（BCI）从 1924 年最早的脑电图记录发展到现代的侵入式和非侵入式方法。侵入式 BCI 如 Neuralink 将电极直接植入大脑，以高时间分辨率记录神经活动，而非侵入式方法使用头皮传感器。超声 BCI 是一种新兴方法，利用聚焦超声读取血流变化（fUS）和调控深部脑区（tFUS），提供了一种可能更安全、覆盖范围更广的替代方案。随着 AI 模型从语言扩展到物理和生物领域，脑数据成为训练更先进 AI 系统的宝贵资源，该领域正吸引大量投资。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.comentropy.org/2023/post/7297">河套 IT TALK——TALK 37：（原创）全图说 脑 机 接 口 （ BCI ...</a></li>
+<li><a href="https://m.okjike.com/originalPosts/65bae40b3b9c66cae46995ba">Neuralink 完成首例人类大 脑 植入，这意味着 什 - 即刻App</a></li>
+<li><a href="https://www.podamed.com/newsinfo/10998515.html">超 声 前沿：Nature专栏评述 超 声 “读心”-上海波达医疗科技有限责任公司</a></li>
+
+</ul>
+</details>
+
+**标签**: `#脑机接口`, `#AI`, `#融资`, `#Neuralink`, `#OpenAI`
+
+---
+
+<a id="item-27"></a>
+## [影溯科技创始人：互联网视频是空间智能的“太阳能”](http://www.geekpark.net/news/368667) ⭐️ 8.0/10
+
+影溯科技创始人章国锋提出利用互联网视频作为空间智能的可扩展数据源，将单目视频转化为 3D 数据。该公司计划今年实现单目视频转 360 度动态场景，并开始批量转制。 这种方法可能解决空间智能领域的关键数据瓶颈，大幅降低数据获取成本，从而加速世界模型和具身 AI 的发展。它为昂贵的遥操作和第一人称数据采集方法提供了一种可扩展的替代方案。 这家成立一年的上海公司于今年 6 月完成新一轮融资，将主要用于模型训练与数据引擎建设。章国锋称，与传统实地采集再加重建的模式相比，这种方法整体成本至少下降一至两个数量级。
+
+rss · 极客公园 · 8月11日 07:30
+
+**背景**: 世界模型旨在让 AI 理解并预测物理世界的动态，但它们需要海量的 3D 数据。当前的数据采集方法如遥操作和第一人称采集成本高昂且规模有限。影溯科技提议利用互联网上已有的海量视频作为“太阳能”来源，将 2D 视频转化为结构化的 3D/4D 数据来训练这些模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.aitntnews.com/newDetail.html?newId=15507">全在这里了，小白也可以一文读懂的“ 世 界 模 型 ”</a></li>
+<li><a href="https://today.line.me/tw/v3/article/DRW03yo">什 麼 是 AI「 世 界 模 型 」？ 為 什 麼李飛飛、Google... | LINE TODAY</a></li>
+
+</ul>
+</details>
+
+**标签**: `#空间智能`, `#3D数据`, `#世界模型`, `#影溯科技`, `#数据供给`
+
+---
+
+<a id="item-28"></a>
+## [小鹏 G9L 预售价 25.98 万元，精简座椅瞄准全球市场](https://www.ifanr.com/1674751?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+小鹏公布了 G9L 的预售价为 25.98 万元，这款新车型相比标准版 G9 减少了座椅数量，标志着其向全球市场战略转移。 此举反映了小鹏优化产品线并拓展国际市场的战略，可能加剧全球电动汽车市场的竞争，并为消费者提供更实惠的大型 SUV 选择。 G9L 定位为大型 SUV，采用精简的座椅布局，可能为五座配置，以降低成本并迎合全球偏好。25.98 万元的预售价明显低于标准版 G9 的起售价，表明其注重性价比。
+
+rss · 爱范儿 · 8月11日 16:27
+
+**背景**: 小鹏是中国领先的电动汽车制造商，以智能电动汽车技术闻名。G9 是其旗舰 SUV，而 G9L 似乎是针对全球市场推出的更实惠版本，因为全球市场对座椅数量的偏好可能与国内市场不同。
+
+**标签**: `#小鹏`, `#新能源汽车`, `#G9L`, `#全球市场`, `#产品发布`
+
+---
+
+<a id="item-29"></a>
+## [零跑 A05 以 6.39 万元起售，旨在重新定义平价电动车](https://www.ifanr.com/1674769?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+零跑推出了 A05，这是一款起售价为 6.39 万元（约 8800 美元）的纯电小型车，瞄准 10 万元以内的电动车细分市场。该车型旨在通过低价提供有竞争力的配置，从而颠覆市场。 A05 的激进定价可能加剧中国平价电动车市场的价格竞争，可能迫使竞争对手降价或提升配置。此举可能加速平价电动车的普及，并重塑消费者对入门级电动车的期望。 A05 是一款起售价为 6.39 万元的紧凑型电动车，但提供的资料中未详细说明续航、电池容量和配置等级等具体规格。该车型是零跑在 10 万元以内细分市场提供高价值产品战略的一部分。
+
+rss · 爱范儿 · 8月11日 16:25
+
+**背景**: 在中国快速增长的新能源汽车市场中，价格竞争日益激烈，尤其是在平价细分市场。许多汽车制造商正在推出平价电动车以抢占市场份额，10 万元以内的细分市场正变得越来越拥挤。零跑作为相对较新的参与者，旨在通过以有竞争力的价格提供先进配置来实现差异化。
+
+**标签**: `#零跑`, `#纯电小车`, `#新能源汽车`, `#价格战`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-30"></a>
+## [中消协点名批评 AI 客服](https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3NqUHRRcW5JeU9FZjhsZUYyWjdYWkhTUXpjaExORml3ZXoweFZiV1J2bHYzLWpVcTIyOVJZd2F6Z3d1ek1pR1BsOTROenluN2hTV2wxWjJ2bEs4cm9tZUJNTS00Um5OVWlxVno1NTlpSll6TDJBZHJNdEFXUURGSWJoQ24zLW52NzhmaVhJdFZlbGxiM0ZoRw?oc=5) ⭐️ 7.0/10
+
+中国消费者协会（中消协）公开点名批评 AI 客服系统，指出其存在的问题令消费者不满，并可能损害消费者权益。新浪财经对此进行了报道，引发了对当前 AI 客服缺陷的关注。 这一批评意义重大，表明监管机构开始关注 AI 客服的质量问题，而 AI 客服已在各行各业广泛应用。这可能促使企业改进其 AI 系统或确保更好的人工转接，最终有利于消费者权益和服务标准的提升。 中消协的批评聚焦于 AI 客服无法有效解决问题，导致消费者不满并可能侵犯权益，例如退货退款处理不及时。报道指出，传统智能客服系统往往无法处理非标准查询，增加了投诉量和人工客服的工作负担。
+
+rss · 客服行业动态 · 8月11日 01:55
+
+**背景**: AI 客服利用聊天机器人和自动化系统处理客户咨询，旨在降低成本、提高效率。然而，这些系统在处理复杂或细微的请求时常常力不从心，导致用户体验不佳。中消协是中国政府下属的保护消费者权益的组织，其批评可能影响行业实践和监管政策。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ai.fenmiao.group/archives/1833.html">“ AI 客 服 快把人逼疯了”！ 人民日报：技术虽好，但绝非万能 – 分秒 AI ...</a></li>
+<li><a href="https://www.woshipm.com/ai/6136473.html">利用 AI ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#消费者权益`, `#客服行业`, `#中消协`
+
+---
+
+<a id="item-31"></a>
+## [合力亿捷亮相亚马逊云科技巡展：智能客服从交付工具转向交付智能生产力](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUjYtTFVCaHB3ZE82eG9JS3g2QWdvN2ktSy1SRTAyY0FXVmVEWFl4dkFCQ3A4YVY4UWRQZG0tc0hfNHhEdWRrYVdYRVNJMXBHbEpaazg0TnQtYVlSd2tRTzA3X214M2xZWGJNXzR0M0U?oc=5) ⭐️ 6.0/10
+
+合力亿捷在亚马逊云科技巡展上展示了其智能客服解决方案，强调从交付工具向交付智能生产力的战略转变。该公司着重展示了 AI 客服 Agent 如何变革企业运营。 这一转变反映了更广泛的行业趋势，即客服供应商正从提供独立工具转向提供集成 AI 驱动的生产力提升。这表明智能客服正成为企业效率的关键驱动力，可能影响企业采用 AI 的方式。 巡展演示可能包括与 AWS 服务（如 Amazon Bedrock）集成的 AI 客服 Agent，以提供可扩展的解决方案。该公司的做法与 AWS 推动在其云平台上实现生成式 AI 应用的方向一致。
+
+rss · 客服行业动态 · 8月11日 08:52
+
+**背景**: 智能客服系统利用自然语言处理和机器学习等 AI 技术来自动回复和辅助人工客服。AWS 提供云基础设施和 AI 服务（如 Amazon Bedrock），使企业能够大规模构建和部署此类系统。从交付工具转向交付生产力意味着供应商现在更关注可衡量的业务成果，而不仅仅是软件功能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.hollycrm.com/news/compnews/9356.html">合 力 亿 捷 亮相百胜广州巡讲，以AI 客 服 Agent...</a></li>
+<li><a href="https://www.cbismb.com/cloud/58899">亚 马 逊 云 科 技 在Amazon Bedrock上推出100...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智能客服`, `#亚马逊云科技`, `#生产力`, `#行业动态`
+
+---
+
+<a id="item-32"></a>
+## [良品铺子鸡胸肉吃出铁块，消费者获赔 500 元仍追查来源](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IcDE3TEtEbzNGaDNWdXlfUTBwN0VoU3M0OVA4bFF2Nko4bmpPTV82VVdQN09HT1YwcERGOG42OG9vTUVjWVpmbkN2Mk5NZ1U1djV2UE92MkY3V2pBQVpZanJWR01HUQ?oc=5) ⭐️ 6.0/10
+
+一名消费者在良品铺子的鸡胸肉产品中发现铁块，并获得 500 元补偿，但仍坚持要求查明异物来源。客服表示无法准确溯源，并称生产均经过合格质检和第三方检测。 这一事件凸显了食品行业在异物污染和消费者信任方面持续面临的挑战。它强调了透明沟通和健全质量保证流程的必要性，因为消费者越来越要求问责制和精确的可追溯性。 补偿金额为 500 元，消费者仍坚持查明铁块来源。公司客服解释称无法精确溯源，但所有生产均经过合格质检和第三方检测。
+
+rss · 客服行业动态 · 8月11日 05:53
+
+**背景**: 良品铺子是中国知名的零食品牌。涉及异物的食品安全事件可能对品牌声誉产生重大影响。在中国，食品生产者必须实施质量控制措施，第三方检测常用于验证产品安全。然而，由于供应链和生产过程的复杂性，对单个污染物的精确溯源可能很困难。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.21jingji.com/article/20260811/herald/22af1e72dca55c89c386a0d04cda229f.html">良 品 铺子鸡胸肉中吃出铁块， 消 费 者 获500...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#food safety`, `#consumer rights`, `#quality control`, `#crisis management`
+
+---
+
+<a id="item-33"></a>
+## [迪卡侬否认客服电话接入私人手机为官方设置](https://news.google.com/rss/articles/CBMia0FVX3lxTE5hcnUtRXpHNjU1UlpMSnRwYk16Z0ZOQXQyY3F5c1hYUUt6UTVOLW1Id0N2RzU2OXJSZlV2c2hsbV95SWxJcVItQXhYejRGc3pCWjZDOFkySFNPWFJFdENRZWJZVjVKb1pxaWdn?oc=5) ⭐️ 5.0/10
+
+迪卡侬回应了有关其客服电话被转接至私人手机的报道，澄清这并非品牌的官方设置。 这一事件凸显了客服电话转接中可能存在的漏洞，可能影响品牌信任和客户隐私。它强调了核实官方联系渠道的重要性，以防止欺诈或沟通失误。 该报道源自中国一家新闻媒体，迪卡侬的回应表明该转接并非公司授权。目前尚未披露进一步的技术细节或调查结果。
+
+rss · 客服行业动态 · 8月11日 12:21
+
+**背景**: 客服电话号码是消费者与品牌互动的重要渠道，任何错误转接都可能导致隐私泄露或诈骗。公司通常通过验证渠道设立官方热线，偏离这些渠道可能引起混乱并削弱信任。这一事件提醒消费者核实官方联系信息，也提醒公司加强其通信基础设施的安全。
+
+**标签**: `#customer service`, `#brand reputation`, `#phone support`, `#retail`, `#incident`
+
+---
+
+<a id="item-34"></a>
+## [腾讯小范围内测 AI 代写朋友圈文案与评论](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DYXhxOHdRSkZNd3V2am5ua2tNWWhGSDB3ODl0dFlRX0o5TmlGZjF1T2NndW05Y0R0YVpGRmd1aFc5bGJUSDFXTFpJT1QxZkc5ZjhWN1B5aDM?oc=5) ⭐️ 5.0/10
+
+腾讯正在小范围内测一项 AI 功能，可以代写朋友圈文案并建议评论，其客服已确认此事。该功能目前仅对部分用户开放。 此举标志着腾讯将 AI 融入日常社交互动的努力，可能改变用户在微信上创作内容的方式。同时，它也可能为其他社交平台的 AI 辅助内容生成开创先例。 据报道，该 AI 功能包含两个工具：一个用于起草文案，另一个用于建议评论。目前正通过灰度测试逐步推出，仅少数用户可用，且尚未有官方公告。
+
+rss · 客服行业动态 · 8月11日 02:40
+
+**背景**: 微信朋友圈是微信应用内一个流行的社交动态功能，用户可分享文字、图片和视频。AI 写作助手利用自然语言处理生成类似人类的文本，帮助用户克服写作障碍或节省时间。腾讯一直在投资 AI 技术，如混元模型，以增强其产品。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.remio.ai/post/tencent-tests-ai-writing-in-wechat-moments-but-human-voice-is-the-real-test">Tencent Tests AI Writing in WeChat Moments , but Human Voice Is...</a></li>
+<li><a href="https://eu.36kr.com/en/p/3933165490519175">AI -Powered WeChat Moments Post Writing Trend: Why the Nostalgia...</a></li>
+<li><a href="https://min.news/en/tech/f97950507684f123ac3add01d0d6d162.html">WeChat &#x27;s input box has undergone a major change, with AI ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#Tencent`, `#customer service`, `#social media`, `#content generation`
+
+---
+
+<a id="item-35"></a>
+## [中邮钱包提醒警惕假冒客服的短信诈骗](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mVzY5UU9PZ3lBQXdtbE9lb2d0S3Q1b3hXVklqR3pGSmZJQk5EazdmMWNYLU83b3M5cVhVSHpyeUpZWldUdEtfeUZsWmxZZjdnZFBTOFNYa0hFRXR6NGc?oc=5) ⭐️ 5.0/10
+
+中邮钱包作为金融服务提供商，发布了一条安全提醒，警告用户警惕冒充客服人员的短信钓鱼诈骗。该通知强调了识别和防范此类欺诈行为的重要性。 这一提醒意义重大，因为针对金融服务用户的短信钓鱼诈骗是一种常见且代价高昂的威胁。通过提高意识，它有助于保护客户免受经济损失，并强调在数字时代保持警惕的必要性。 该通知特别强调了诈骗者通过短信冒充客服人员的骗局，通常诱骗用户泄露敏感信息或点击恶意链接。它建议用户核实此类信息的真实性，切勿通过未经核实的渠道分享个人或财务信息。
+
+rss · 客服行业动态 · 8月11日 10:15
+
+**背景**: 短信钓鱼（也称为 smishing）是一种社会工程攻击，犯罪分子发送看似来自合法组织的短信，诱骗收件人提供个人信息或下载恶意软件。金融机构经常发布此类骗局的警告，以教育客户并降低欺诈风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bidemi.com/help/298.htm">bidemi.com/help/298.htm</a></li>
+<li><a href="https://www.dxfyvb.com/TemplateForm_view.aspx?id=67&amp;ClassOneID=37">揭秘电 信 诈 骗 手段 守住你的血汗钱—定兴丰源村镇银行股份有限公司</a></li>
+
+</ul>
+</details>
+
+**标签**: `#短信诈骗`, `#客服安全`, `#防骗提醒`, `#金融安全`
+
+---
+
+<a id="item-36"></a>
+## [兴业银行客服中心多措并举解决客户急难愁盼问题](https://news.google.com/rss/articles/CBMicEFVX3lxTFBwR2Z5cHBZZ08zSlRqeWFSZ3N2LTlFZTg3NGloeHFxa01RMUEwQ2RZS2U1cmUzS0ZpRFZabXNKc3JaRzNSM3c5eVh6TWhpZ28zczFnck9YOUFBVkUzMFRfb2M0LW1wQWJQVGxhRnJxQzQ?oc=5) ⭐️ 5.0/10
+
+据杭州网财经频道报道，兴业银行客服中心已采取多项措施解决客户“急难愁盼”问题。具体措施在提供的内容中未详细说明。 这反映了中国银行业持续提升客户服务质量和响应能力的努力，对客户满意度和银行业信任度至关重要。此举可能为其他金融机构树立榜样。 该文章来自杭州网财经频道，聚焦客服中心的举措，但缺乏具体技术细节或量化成果。新闻评分中等（5.0/10），表明这是常规改进而非重大创新。
+
+rss · 客服行业动态 · 8月11日 10:12
+
+**背景**: 银行客服中心处理各种咨询、投诉和请求。“急难愁盼”是一个中文短语，指客户面临的紧急、困难、令人担忧和期盼的问题。银行通常采取措施简化流程、提高响应速度并提升整体服务质量，以满足监管要求和客户需求。
+
+**标签**: `#客户服务`, `#银行`, `#问题解决`, `#服务改进`
+
+---
+
+<a id="item-37"></a>
+## [普洛斯上海多园区拓展半导体芯片产业客户](https://news.google.com/rss/articles/CBMib0FVX3lxTE5hVmFWSVkyaWNOT1FtRTQxU0c4N0N3WDZmVXktc20zbkExVnhSQjhyYnBZYTZFZmVlUm9yT1Qwc1VJRzVhN1lVWUgtV2lIa3k5Q2tKZU8wejBMNldlbU9DR0VyNFY2bE12Y0pKUm14QQ?oc=5) ⭐️ 5.0/10
+
+普洛斯作为领先的物流和工业基础设施提供商，已在上海多个园区拓展半导体芯片产业客户，以支持新质生产力的发展。此举与中国对高科技产业的战略关注相一致。 这一扩张表明半导体行业对专业化工业空间的需求日益增长，而半导体行业对中国技术自主至关重要。这也凸显了普洛斯在促进战略产业发展中的作用，可能吸引更多高科技租户并推动当地经济发展。 公告未说明新客户数量或涉及的具体园区，但强调了普洛斯服务半导体行业的战略重点。“新质生产力”一词指的是由技术创新和高质量发展驱动的生产力，是中国的一个关键政策概念。
+
+rss · 客服行业动态 · 8月11日 04:08
+
+**背景**: 普洛斯是一家全球物流和工业房地产公司，在中国拥有重要业务，提供现代化仓库和商业园区。半导体行业需要具备高标准洁净度、电力和连接性的专业设施，这使得像普洛斯这样的工业园区具有吸引力。“新质生产力”概念由中国领导层提出，强调创新驱动增长，特别是在高科技领域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.logisticnet.com.tw/publicationArticle.asp?id=1038">GLP ...</a></li>
+<li><a href="https://www.mohurdic.org.cn/xw/jsyw/art/2024/art_9648b824a39149a6bc1d0edb13a1e275.html">读懂 新 质 生 产 力 ，从“12345”基本架构开始【 新 质 生 产 力 书摘01】</a></li>
+
+</ul>
+</details>
+
+**标签**: `#GLP`, `#semiconductor`, `#Shanghai`, `#customer service`, `#industrial parks`
+
+---
+
+<a id="item-38"></a>
+## [罗图家居客服回应争议广告语](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ybTZGYUpxUkktVGVOOW55Mm1ISkl2V0FOYThSRHRCNEhtc1pHRFo1ZjFMQXB2OWZaY2phczR3RjR4SDlFOTdXcFh1VUEzd2NPMzh2NjBNMXN0cEdFY3F3OFZRQWg1b3lfelBFaXlaUHQ?oc=5) ⭐️ 5.0/10
+
+罗图家居客服就产品包装标语“穿越整个中国来睡你”引发的公众批评作出回应，该标语被许多人认为令人不适。回应旨在处理争议并澄清品牌意图。 这一事件凸显了客户服务行业中危机沟通和品牌管理的重要性，因为一句不受欢迎的标语可能迅速损害品牌声誉。同时，它也强调了企业在营销中需对文化和社会规范保持敏感的必要性。 该标语出现在产品包装上，因其性暗示而受到批评，并在社交媒体上引发负面反应。客服回应是品牌应对风波的一部分，但现有内容中未提供回应的具体细节。
+
+rss · 客服行业动态 · 8月11日 07:30
+
+**背景**: 在中国，被认为粗俗或不恰当的营销标语，尤其是带有性暗示的，可能迅速成为病毒式争议。企业通常依靠客服团队发布公开道歉或澄清，以减轻声誉损害。此案例反映了社会对企业社会责任和尊重性广告的更广泛期望。
+
+**标签**: `#客户服务`, `#危机公关`, `#品牌管理`, `#舆情应对`
+
+---
+
+<a id="item-39"></a>
+## [北京警方拦截冒充客服诈骗，止损 7.5 万元](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmZrMUNvUjg5cGZRQlNTdWxkaGE3N0hBOGR5Znh1d290OHFlMExhbUFMQnZKQUdKeTRJX3p1NDk1Q3VneVFvUnhETldYeDVEQkdSLWNrYmNCcEF4VGhCc25LdkdDS3U3dUk5c3RJdnY1OUUxc092NWVSYWhlZnlnNFdKUEhLSzBK?oc=5) ⭐️ 5.0/10
+
+北京警方拦截了一起冒充客服帮助关闭续费服务的诈骗，阻止受害者损失 7.5 万元。该事件由搜狐新闻报道。 此事件凸显了冒充客服诈骗的普遍性，强调提高安全意识和验证流程的必要性。它提醒客户和合法服务代表都应核实身份，以防财产损失。 诈骗分子冒充客服，以帮助关闭续费服务为由实施诈骗，这是常见的获取信任的手段。警方及时介入拦截转账，为受害者挽回了 7.5 万元。
+
+rss · 客服行业动态 · 8月11日 10:57
+
+**背景**: 冒充诈骗是一种常见的欺诈形式，犯罪分子冒充客服等可信实体来欺骗受害者。此类诈骗常利用客户对服务流程不熟悉的特点，诱导其付款或泄露敏感信息。当局建议通过官方渠道核实身份，并对陌生来电保持警惕。
+
+**标签**: `#customer service`, `#scam prevention`, `#security`, `#fraud`
+
+---
