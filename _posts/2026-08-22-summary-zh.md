@@ -1,0 +1,768 @@
+---
+layout: default
+title: "Horizon Summary: 2026-08-22 (ZH)"
+date: 2026-08-22
+lang: zh
+---
+
+> 从 57 条内容中筛选出 35 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [锻造新型电力系统的“中国方案”](#item-1) ⭐️ 8.0/10
+2. [中国反腐机构聚焦碳交易廉洁](#item-2) ⭐️ 7.0/10
+3. [充换电与云计算用电增长超 40%，电网如何保障稳定与绿色转型](#item-3) ⭐️ 7.0/10
+4. [ORNL 新实验室加速铀-233 清理与锕-225 交付](#item-4) ⭐️ 7.0/10
+5. [伊拉克寻求 OPEC+批准以将石油产量翻倍](#item-5) ⭐️ 7.0/10
+6. [美国能源部长称霍尔木兹原油流量是市场数据两倍](#item-6) ⭐️ 7.0/10
+7. [美国钨业子公司获选启动 1800 万美元锑冶炼资助谈判](#item-7) ⭐️ 7.0/10
+8. [碳中和成为新能源入场券，谁在裸游？](#item-8) ⭐️ 6.0/10
+9. [气候危机下，香港应跟随国家迈向碳中和目标](#item-9) ⭐️ 6.0/10
+10. [伊朗美国谈判转向停火；特朗普谨慎行事](#item-10) ⭐️ 5.0/10
+
+### 🤖 AI 科技
+
+11. [苹果在 macOS 27 Golden Gate 中弃用 hdiutil](#item-11) ⭐️ 7.0/10
+12. [为什么你的本地大语言模型感觉比实际更笨](#item-12) ⭐️ 7.0/10
+13. [匹兹堡捡废金属：个人叙事](#item-13) ⭐️ 6.0/10
+14. [Racket 友好入门：面向 Lisp 爱好者的速通指南](#item-14) ⭐️ 6.0/10
+15. [NetBSD 2005 年文章在 Hacker News 引发怀旧讨论](#item-15) ⭐️ 4.0/10
+16. [以数字命名的 AI 实验室引发社区趣味讨论](#item-16) ⭐️ 4.0/10
+
+### 🏢 大厂要闻
+
+17. [AI 基建热潮或引发 3 万亿美元隐形债务，次贷式危机隐现](#item-17) ⭐️ 8.0/10
+18. [TCL 中环收购一道新能成为国家反内卷标杆](#item-18) ⭐️ 8.0/10
+19. [阿里重组：电商合并、芯片整合、千问分拆；宇树科技科创板上市；Anthropic 营收激增](#item-19) ⭐️ 8.0/10
+20. [DeepSeek 上线多模态模型；微信新功能遭吐槽；多家车企召回](#item-20) ⭐️ 8.0/10
+21. [Windows：AI PC 的绊脚石](#item-21) ⭐️ 7.0/10
+22. [阿里巴巴战略转向：AI 与基础设施成为核心](#item-22) ⭐️ 7.0/10
+23. [订单跑在收入前：万国数据揭示数据中心真相](#item-23) ⭐️ 7.0/10
+24. [中银消金：利润暴涨的逻辑](#item-24) ⭐️ 7.0/10
+25. [更强的 GLM-5.3 为何没有刷屏？](#item-25) ⭐️ 7.0/10
+26. [OpenAI Codex 与 Claude Code 之争：企业市场定胜负](#item-26) ⭐️ 7.0/10
+
+### 🎧 客服行业动态
+
+27. [新国标整治 AI 客服车轱辘话](#item-27) ⭐️ 8.0/10
+28. [找人工客服比登天还难](#item-28) ⭐️ 7.0/10
+29. [AI 客服造成损失如何维权？](#item-29) ⭐️ 7.0/10
+30. [特斯拉澄清近 300 万辆召回处理方式](#item-30) ⭐️ 7.0/10
+31. [柚家厨房纸巾因致癌物被召回，客服电话秒挂](#item-31) ⭐️ 6.0/10
+32. [AI 客服成企业故意设置的障碍](#item-32) ⭐️ 5.0/10
+33. [客服仍在发朋友圈，深蓝变美遭限制消费令，退款无门](#item-33) ⭐️ 5.0/10
+34. [抖音发布紧急安全提醒](#item-34) ⭐️ 5.0/10
+35. [为什么用户觉得微信新版聊天框难看](#item-35) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [锻造新型电力系统的“中国方案”](https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkQ0RXJCOXI0QUExdzMxdXc0dzhKdW5faHF5ekltMVhFY0hwcGg3bXNNZk1JYjk0VF90aFU2UDhmTm9sYlY1SEpKaWlyd1dqc3pyRHc4UkJuQ2hGWU1zUWlEMTlTT1NLWXUwNnBNNWpKS1U2WEVzSjYtMXlIX2lhSDJn?oc=5) ⭐️ 8.0/10
+
+新华网发布的一篇访谈探讨了中国新型电力系统的建设，强调其在能源转型中的关键作用。访谈概述了为适应可再生能源而升级电网的战略方法和政策方向。 这很重要，因为新型电力系统是中国碳中和目标以及整合波动性可再生能源的核心。来自权威访谈的见解可以指导行业利益相关者和政策制定者推进能源转型。 访谈可能涵盖电网稳定性、储能以及从同步发电机向逆变器型资源转变等技术方面。它还可能讨论可再生能源的随机性、波动性和间歇性等挑战，以及先进控制系统的必要性。
+
+google\_news · 新华网江苏频道 · 8月22日 02:05
+
+**背景**: 新型电力系统是指旨在容纳高比例可再生能源（如风能和太阳能）的电网，这些能源具有波动性和间歇性。与传统依赖可控火电的系统不同，新系统需要增强灵活性、储能和数字技术以维持稳定。中国一直在积极推动这一转型，作为其“双碳”目标的一部分，即到 2030 年碳达峰，到 2060 年碳中和。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf">nea.gov.cn/download/xxdlxtfzlpsgk.pdf</a></li>
+<li><a href="https://jsuese.scu.edu.cn/rc-pub/front/front-article/download/47407157/lowqualitypdf/%E2%80%9C%E5%8F%8C%E7%A2%B3%E2%80%9D%E7%9B%AE%E6%A0%87%E4%B8%8B%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%BA%E4%B8%BB%E4%BD%93%E7%9A%84%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%B4%A1%E7%8C%AE%E3%80%81%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8C%91%E6%88%98.pdf">Carbon Neutrality: Contribution, Key Techniques, and Challenges</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新型电力系统`, `#能源政策`, `#中国方案`, `#电力转型`
+
+---
+
+<a id="item-2"></a>
+## [中国反腐机构聚焦碳交易廉洁](https://news.google.com/rss/articles/CBMibkFVX3lxTE8wNjc5NG5jejZaSmV5VDc2YTFSRUJIVVcwcG5fbDRXd3IyQnZraEFJc2s4OHYtLTBxQ3hwaXNsWmZPVWhReXY3bFVyMTZjMExESUZHNEpQMjRSdDZEbTM3X2loZ2RyY09wdDd2OC1B?oc=5) ⭐️ 7.0/10
+
+中国最高反腐机构中央纪委国家监委（CCDI）发表文章，强调需要维护碳交易市场的廉洁性，突出能源转型中的清廉治理。 这表明中国对快速增长的碳市场加强监管审查，该市场对实现气候目标至关重要。它强调了政府致力于防止新兴环保领域腐败的决心，影响参与碳交易的企业和官员。 这篇文章题为《深度关注丨守护“碳”路清风》，发布在中央纪委国家监委官方网站上。文章可能讨论了碳信用核查和交易过程中的欺诈、串通和权力滥用等风险。
+
+google\_news · ccdi.gov.cn · 8月21日 22:30
+
+**背景**: 中国于 2021 年 7 月启动了全国碳排放权交易市场，最初覆盖电力行业。作为全球覆盖范围最大的碳市场，它是减少温室气体排放的关键工具。然而，随着大量资金通过碳信用交易流动，腐败和监管漏洞问题令人担忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://36kr.com/p/1230704703378056">一文读懂： 什 么 是 “ 碳 交 易 ”？ 将带来哪些机遇？ -36氪</a></li>
+<li><a href="https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/ztjj/srxxgcesjzyjwscqhjs/xxgc/article946db157059a4d5fa80b9dd27a9df5d2.html">hnsjw.gov.cn/sitesources/hnsjct/page_pc/ztjj/srxxgcesjzyjwscqhjs/xxgc...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#碳交易`, `#反腐败`, `#能源政策`, `#监管`, `#中国`
+
+---
+
+<a id="item-3"></a>
+## [充换电与云计算用电增长超 40%，电网如何保障稳定与绿色转型](https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjdybnhmUGk1MVdYLVREcHBpVnN0UE5HUW9neFZsOEZwS3FQNmQyWUpFblg5U0VwWEU4ZVo5Y3Y5NGNaVXlxNVppNmxUTWhlUzkxbF9OZDljNjFNT2t3b0N0YnJYYWVHV0VrMk55dkhfQ3hfcFJId1FkRkdjWG1ObTNfaw?oc=5) ⭐️ 7.0/10
+
+报道指出，充换电设施和云计算的用电量增长超过 40%，引发了对电网如何在保障供应稳定的同时推进绿色转型的讨论。 新兴领域用电需求的快速增长对电网稳定性和可再生能源并网构成重大挑战，凸显了电网升级、需求侧管理和政策支持的紧迫性，以确保可靠和可持续的电力供应。 报道特别提到，充换电设施和云计算的用电量均增长超过 40%，并讨论了电网容量管理、绿电绿证等措施以应对这些挑战。
+
+google\_news · 新浪新闻\_手机新浪网 · 8月22日 00:16
+
+**背景**: 电动汽车充电基础设施和云计算数据中心是新兴的主要电力消费者。随着这些领域的扩张，它们对电网（尤其是在高峰时段）造成了额外压力。绿色转型涉及转向可再生能源和提高能源效率，这需要与电网运行进行仔细规划和协调。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://jining.sdnews.com.cn/jnxw/202604/t20260414_4664422.htm">济宁出台12项举措保障大功率 充 电 设 施 用 电 - 济宁频道</a></li>
+<li><a href="https://zfxxgk.nea.gov.cn/2024-09/12/c_1212397891.htm">关于十四届全国人大二次会议第7693号建议的答复摘要-国家能源局网站</a></li>
+<li><a href="https://lilys.ai/zh/notes/data-center-power-20251106/ai-power-grid-strain">生成式人工智能的巨大耗 电 量正在让我们的 电 网不堪重负</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电网稳定`, `#绿色转型`, `#用电增长`, `#充换电`, `#云计算`
+
+---
+
+<a id="item-4"></a>
+## [ORNL 新实验室加速铀-233 清理与锕-225 交付](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UNUoyanpkcERiR0h2NENuNnVvWWtveEN2REtyYms3blU3SkJDZk9FRDVIX3ZrNUZSNExqODBsWmVEUUhNbVZjVWIzNUR6ckFZd0VXZWFZT0k?oc=5) ⭐️ 7.0/10
+
+橡树岭国家实验室（ORNL）在 2026 号楼设立了一个新实验室，由 Teledyne Brown Engineering 负责装备，旨在加速其铀-233（U-233）库存的高优先级清理工作，并加快向研究机构及癌症治疗设施交付锕-225（Ac-225）。 这一进展意义重大，因为它解决了两个关键问题：遗留铀-233 库存带来的环境和安全风险，以及全球锕-225 短缺的问题——锕-225 是癌症靶向α疗法中很有前景的同位素。通过简化这两个流程，ORNL 可以加强核废料管理，并改善救命医用同位素的供应链。 新实验室专门用于处理铀-233 清理和锕-225 生产。Teledyne Brown Engineering 负责装备该设施，以支持锕-225 的加工和分发。据 Isotek 总裁兼项目主管莎拉·谢弗表示，该项目已达成半程里程碑，使实验室更接近消除一项重大历史风险。
+
+google\_news · 维度网 · 8月22日 20:43
+
+**背景**: 铀-233 是一种可裂变同位素，在 20 世纪中期曾为潜在用于核反应堆和武器而生产，但现在被视为需要谨慎处置的遗留废料。锕-225 是一种放射性同位素，半衰期为 10 天，通过α衰变释放，使其在癌症靶向α疗法（TAT）中非常有效。然而，锕-225 极为稀缺，生产方法有限，阻碍了其临床应用。ORNL 的新实验室旨在同时解决铀-233 的清理和锕-225 的生产问题，可能通过从衰变的铀-233 或其他来源中提取锕-225。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.wedoany.com/shortnews/456251.html">美国 ORNL 新 实 验 室 加速 铀 - 233 清 理 与锕-225交付 - 维度网</a></li>
+<li><a href="https://www.ccnta.cn/article/24640.html">橡树 Ridge 铀 - 233 ...</a></li>
+<li><a href="https://zh.wikipedia.org/zh-my/%E9%8C%92-225">锕 - 225 - 维基百科，自由的百科全书</a></li>
+
+</ul>
+</details>
+
+**标签**: `#核能政策`, `#铀-233清理`, `#锕-225`, `#医疗同位素`, `#ORNL`
+
+---
+
+<a id="item-5"></a>
+## [伊拉克寻求 OPEC+批准以将石油产量翻倍](https://news.google.com/rss/articles/CBMikAJBVV95cUxOakgxcURNUVpRSWpTbmlqRnRHQ3lhcEdvZXBLa2NpaDFZcjRZTFhWVnZFRjRoN3V3UmgxbmR5YllFSHptRmZMRzhYRTh0WHlYZ2FTazd6VlNYbzBmQXRiWjl1Zjl4Umlhak5kYWtCaU1DNnJieW01bGFJQmJVeFFLSmxSQVdYVmZLXzlQTDAzVXZySGVUaHRkNU8tS1dramxocndlRmNBZlZ0WEJyWTdNQWNPbXJzdHlXakZmTmplaEJpcFpjR2lDTmw1eDB1WG9HM2V2YkJXaTdPRkhXSVoyLUxBY2RTM2RwODMtNDM0NVY1dEYxd2I0VTV4bDhKZlN5UGxqTnJxUk1VNTRZR0pKQw?oc=5) ⭐️ 7.0/10
+
+伊拉克已请求 OPEC+允许其将石油产能翻倍，目标是从当前水平提高到每日超过 480 万桶。该请求正值伊拉克寻求扩大油气行业并到 2030 年实现天然气自给自足之际。 这一请求可能重塑全球石油供应预期，并考验 OPEC+的配额谈判，可能影响油价和市场稳定。它凸显了成员国生产雄心与集团集体产量管理之间的紧张关系。 伊拉克目前的产能已超过每日 480 万桶，该国目标是将其翻倍。该请求是扩大出口能力和到 2030 年实现天然气自给自足更广泛计划的一部分，雪佛龙等公司可能参与其中。
+
+google\_news · idnfinancials.com · 8月22日 04:06
+
+**背景**: OPEC+是由产油国组成的集团，通过设定生产配额来管理全球供应并稳定价格。作为重要成员，伊拉克必须遵守这些配额，但其翻倍产量的请求需要重新谈判其分配额。该集团正在进行的产能评估（决定未来年份的配额）可能会受到伊拉克请求的影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Petroleum_industry_in_Iraq">Petroleum industry in Iraq - Wikipedia</a></li>
+<li><a href="https://www.fool.com/investing/2026/08/21/iraq-wants-to-more-than-double-its-oil-output-in-six-years-heres-what-it-means-for-chevron/">Iraq Wants to More Than Double Its Oil Output in... | The Motley Fool</a></li>
+<li><a href="https://gccbusinesswatch.com/news/iraq-oil-production-capacity-surpasses-4-8-million-barrels-per-day-as-baghdad-targets-gas-self-sufficiency/">Iraq Oil Production Capacity Surpasses 4.8 Million Barrels Per Day</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Iraq`, `#OPEC+`, `#oil production`, `#energy policy`, `#global oil market`
+
+---
+
+<a id="item-6"></a>
+## [美国能源部长称霍尔木兹原油流量是市场数据两倍](https://news.google.com/rss/articles/CBMiSEFVX3lxTE01SWtmVmhYNkhFbEJ5LVRscDY3S3hRbzJwcnV4NWRVSUFEWF9lMzBGVXc4MFFQX3N1eGE1ZVVicVd1UzB1V2dUMA?oc=5) ⭐️ 7.0/10
+
+美国能源部长克里斯·赖特声称，通过霍尔木兹海峡的原油流量是市场观测数据的两倍，这与船舶追踪数据相矛盾。这一声明是在地区紧张局势持续之际作出的，引发了对市场透明度的质疑。 这一说法可能影响全球石油市场情绪和政策决策，因为霍尔木兹海峡是全球约 20%石油供应的关键咽喉要道。如果实际流量确实高于报告值，可能会影响供需平衡和定价，但差异也凸显了能源市场数据可靠性的潜在问题。 这一说法由美国能源部长克里斯·赖特提出，他表示通过霍尔木兹海峡的油轮交通已恢复到战前水平，并有军事护航协助。然而，CNN 和其他基于船舶追踪数据的分析表明，流量明显较低，部长的声明似乎将实际流量夸大了多达 100%。
+
+google\_news · 财联社 · 8月22日 00:17
+
+**背景**: 霍尔木兹海峡是伊朗和阿曼之间的狭窄水道，全球约 20%的石油通过该海峡，使其成为全球能源安全的关键咽喉要道。通过该海峡的石油流量通常通过船舶追踪数据和港口报告来测量，但由于报告延迟或政治动机，可能会出现差异。美国能源部长的言论正值地区紧张局势加剧之际，任何对这些流量的干扰都将对世界石油市场产生严重影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://english.almanar.com.lb/article/115112/">CNN Challenges US Energy Secretary ’s Claims of Normalized Oil ...</a></li>
+<li><a href="https://www.investmentwatchblog.com/oil-soars-back-above-90-bb-as-trump-admin-lies-about-oil-traffic-through-hormuz-being-back-to-normal/">Oil Soars Back above $90/bb as Trump... - Investment Watch Blog</a></li>
+<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz - About - IEA</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#霍尔木兹海峡`, `#原油流量`, `#美国能源部`, `#市场数据`
+
+---
+
+<a id="item-7"></a>
+## [美国钨业子公司获选启动 1800 万美元锑冶炼资助谈判](https://news.google.com/rss/articles/CBMiWEFVX3lxTE40N2QtMXFLZmdWSVh0OEtCM3pGOXBiSnNkTTYxR1ZOTXNQMWhmM2FjRDZJOGxtb2o1VzBPQUhHeC0yNEdKdHlQa2JvcE9LR25xQ3V3YnZUTzM?oc=5) ⭐️ 7.0/10
+
+美国钨业（American Tungsten）的子公司已被美国能源部选中，开始就 1800 万美元的锑冶炼资助进行谈判。这标志着在增强国内关键矿产加工能力方面迈出了重要一步。 锑是国防和可再生能源应用中的关键矿产，这笔资助凸显了美国减少对外国供应链（尤其是对中国）依赖的努力。该资助可能推动国内锑生产，增强国家安全和经济韧性。 这笔 1800 万美元的资助是美国能源部确保关键矿产更广泛计划的一部分，目前谈判正在进行中。该项目可能涉及先进的冶炼技术，以解决传统火法冶金工艺带来的环境问题。
+
+google\_news · 维度网 · 8月22日 03:23
+
+**背景**: 锑是一种稀缺、不可再生的战略金属，用于阻燃剂、合金和军事应用。中国主导全球锑生产，冶炼产能占全球 70%以上，促使西方国家寻求替代来源。美国能源部一直在大力投资关键矿产项目以打破这种依赖，近期数亿美元的承诺便是例证。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chyxx.com/wiki/1215916.html">锑 冶 炼 产业百科_产业链_行业现状_智研咨询</a></li>
+<li><a href="http://www.jskx.org/news/2693.cshtml">锑 ，稀缺但被忽视的不可再生战略小金属-江苏省矿业协会</a></li>
+<li><a href="https://xitu-tech.com/news/america-just-bet-355-million-to-break-chinas-grip-on-critical-minerals/">美 国 能 源 部 豪掷3.55亿 美 元，誓破中 国 关 键 矿 产 垄断 - 希图科技</a></li>
+
+</ul>
+</details>
+
+**标签**: `#锑冶炼`, `#美国能源部`, `#关键矿产`, `#供应链安全`, `#能源政策`
+
+---
+
+<a id="item-8"></a>
+## [碳中和成为新能源入场券，谁在裸游？](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzT1BpNUlFMFFRMGFobUVtWVFsN3ItYnQ1RE9vOTdFRHdhdzRZUlBrZlBaM0JwUXlIcEEwckxnQkt5QUtfbFlIcFI4TXU3clU3VENRQzBTdDVFRjQ?oc=5) ⭐️ 6.0/10
+
+汽车之家的一篇文章探讨了碳中和如何成为进入新能源市场的先决条件，并质疑哪些企业尚未为此做好准备。 这一趋势标志着新能源企业市场准入的收紧，可能重塑竞争格局，并加速向低碳技术的转型。它影响着能源行业的老牌企业和新进入者。 文章可能强调碳中和现已成为市场准入的关键标准，但由于仅提供了标题和来源，具体细节有限。讨论可能涉及政策影响和行业准备情况。
+
+google\_news · 汽车之家 · 8月22日 16:12
+
+**背景**: 碳中和是指通过平衡排放与清除来实现二氧化碳净零排放，通常目标年份为 2050 年或 2060 年。中国政府已承诺 2030 年前实现碳达峰，2060 年前实现碳中和，这推动了对新能源行业更严格的监管和市场准入要求。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.thepaper.cn/baijiahao_11654669">两会热议的 “ 碳 达峰” 和 “ 碳 中 和 ” 究竟 是 什 么</a></li>
+<li><a href="https://nev.ofweek.com/2020-02/ART-71011-8110-30428429.html">工信部欲放宽 新 能 源 汽车 准 入 门槛，行业前景良好 - OFweek...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#碳中和`, `#新能源`, `#能源政策`, `#市场准入`
+
+---
+
+<a id="item-9"></a>
+## [气候危机下，香港应跟随国家迈向碳中和目标](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQcWhaQUtDbmZIUkxaN25CNzhzWmtzY3BzZHR4WVFwMUpIQWVhcHZQUEgtaGtOdXhNVEF1UXZqeFVkb20wRmRBdlBWSU80STU2N3lVNjMtbFRNeUk5all6d3dIVXEzaHhQYXZLdU1vdFRVZDBQSTR4dXo0NzMxVFpSOVV5NDIyQkNFWGVjT1JYeWg5Y09XV185Vk85REhMZWVFdHJqQUpWM1VXYzRSM1BJdThYUEZoVkc4SXFBTHhlcWZmel9yWGxMSUZWcDB0VEN1b1ZRVEEzWU5OZGM5SXBwNllOQkIyMnpYMmVKLTFDUGljS0h6V3k5MWlvLXkxaTF2VDNBSFB2QlRGenJKVXNaVWdQblFGSFhtb3UwbVdFUXhBczJzWEVxS3AtMHVoUzBBMDQ2b0RoN2pQMUJUeUZjUXNkcTJ0MXIyMlJOWk11RFVfcFU4Qm9BTVg3Nmd6MTlHcXhPX2k3bFJsOUpITTU4RmljcVhoMWNYTnhGcWNVdk1sYlJUS0k0NEprNW1mNDVLR09vb09PdE5fZ1l0QWhLS2ZBNkhtZnltX0tv?oc=5) ⭐️ 6.0/10
+
+香港 01 的一篇评论文章认为，香港应与中国内地的碳中和目标保持一致，以应对紧迫的气候危机。文章强调香港需要加快能源转型，采取与国家战略一致的政策。 这篇文章凸显了香港在履行国家气候承诺方面面临的压力，可能影响本地政策讨论和公众意识。它强调了次国家地区与国家气候目标保持一致的大趋势，这对全球减排至关重要。 这篇文章是本地新闻媒体的评论文章，可能讨论了香港《气候行动计划 2050》及其碳中和目标。它可能提及可再生能源采用和能效提升等具体政策，但摘要中未提供具体数据。
+
+google\_news · 香港01 · 8月22日 08:00
+
+**背景**: 碳中和是指通过平衡排放与移除或抵消来实现二氧化碳净零排放。中国承诺在 2030 年前实现碳达峰，2060 年前实现碳中和，而香港设定了 2050 年的目标。由温室气体排放引起的气候危机要求包括香港在内的所有地区采取紧急行动，香港尤其容易受到极端天气事件的影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.master-insight.com/article/23863">砥礪前行 從減 碳 到 碳 中 和 | 余遠騁 - 灼見名家</a></li>
+<li><a href="https://unwire.pro/2025/11/20/greenhongkong/columnist/">實現 碳 中 和 的良 策 大學生新思維展示如何利用科技實現</a></li>
+<li><a href="https://sdmatters.cuhk.edu.hk/zh-hans/striving-for-climate-justice-for-the-underprivileged-mitigating-extreme-weather-with-urban-design-and-elderly-support/">sdmatters.cuhk.edu.hk/zh-hans/striving-for-climate-justice-for-the...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#carbon neutrality`, `#Hong Kong`, `#climate policy`, `#energy transition`
+
+---
+
+<a id="item-10"></a>
+## [伊朗美国谈判转向停火；特朗普谨慎行事](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02MGx6SzNJUjl5eDJ1NEhLWkdjM3FocnNDMG5oRVAwdkRTWXRTWmUzaDl0eFQ2WG9ZZ3ZYQWYyNFRqeFdDYWFibQ?oc=5) ⭐️ 5.0/10
+
+伊朗宣布与美国谈判的重心已转为实现彻底停战，而特朗普总统表示他不想仓促行事。 这一进展对全球能源市场和地缘政治稳定具有重要意义，因为朝向停火的任何进展都可能缓解中东紧张局势，并可能稳定油价。能源政策专业人士应密切关注这些谈判，因为它们可能影响供应预期和风险溢价。 该报道是财联社的简短标题，未提供详细分析或具体条款。谈判的确切状态以及朝向停火的具体步骤仍不清楚。
+
+google\_news · 财联社 · 8月22日 19:48
+
+**背景**: 伊朗与美国关系长期紧张，谈判通常围绕核问题和地区安全展开。谈判重心转向彻底停战表明冲突可能降级，这可能对中东和全球石油市场产生广泛影响。
+
+**标签**: `#Iran`, `#US`, `#ceasefire`, `#geopolitics`, `#energy policy`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [苹果在 macOS 27 Golden Gate 中弃用 hdiutil](https://lapcatsoftware.com/articles/2026/8/7.html) ⭐️ 7.0/10
+
+苹果已在 macOS 27 Golden Gate 中弃用了命令行工具 hdiutil，表明其功能将迁移到 diskutil。这一变化由 Lapcat Software 于 2026 年 8 月 7 日的博客文章宣布。 这一弃用影响了依赖 hdiutil 进行磁盘映像管理和脚本编写的开发者和系统管理员，可能会破坏长期存在的工作流程。这反映了苹果整合命令行工具的持续趋势，用户可能需要进行重大调整。 hdiutil 一直是用于创建、转换和挂载 .dmg 和 .iso 等磁盘映像的核心工具。虽然苹果尚未提供具体的移除时间表，但弃用表明 diskutil 最终将取代其功能，不过某些功能（如 RAM 磁盘创建）可能没有直接等效的替代。
+
+hackernews · zdw · 8月22日 19:04 · [社区讨论](https://news.ycombinator.com/item?id=49402741)
+
+**背景**: hdiutil 是 macOS 中用于管理磁盘映像的命令行工具，对软件分发和系统管理至关重要。DMG 等磁盘映像广泛用于分发应用程序，而 hdiutil 提供了创建和操作这些映像的主要接口。此次弃用是苹果简化开发者工具的更广泛战略的一部分，但引发了关于向后兼容性和现有脚本稳定性的担忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://amazingalgorithms.com/commands/hdiutil-macos/">hdiutil macOS - Man Page</a></li>
+<li><a href="https://iboysoft.com/wiki/hdiutil.html">What is hdiutil &amp; How to Use It to Convert DMG to ISO</a></li>
+<li><a href="https://digitash.com/apple/macos/use-macos-hdiutil-command-manage-disk-images/">How to Use the macOS hdiutil Command to Manage Disk Images</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论对苹果的弃用做法表示怀疑，一些人指出苹果经常忽略错误报告，向后兼容性只是偶然的。其他人指出，类似工具如 xip 已被弃用多年但仍在使用，表明 hdiutil 可能不会很快消失。还有人担心 RAM 磁盘创建等特定功能的丢失。
+
+**标签**: `#macOS`, `#Apple`, `#developer tools`, `#deprecation`, `#scripting`
+
+---
+
+<a id="item-12"></a>
+## [为什么你的本地大语言模型感觉比实际更笨](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ⭐️ 7.0/10
+
+文章解释了本地大语言模型（LLM）常常因为量化、采样设置和聊天模板问题而显得比实际更笨。文章指出，即使底层模型能力很强，这些因素也会显著降低其表现。 这很重要，因为许多用户出于隐私、成本或定制化考虑部署本地 LLM，但他们可能无意中使用了次优配置。理解这些陷阱可以帮助从业者在不更换更大或云端模型的情况下提升模型性能。 关键细节包括：量化（如 4 位或 2.58 位格式）会降低精度，采样参数（如温度和 top-p）需要针对每个模型进行调整。此外，GGUF 元数据中常常缺少聊天模板，导致运行时回退到 ChatML，从而降低性能。
+
+hackernews · felineflock · 8月22日 18:14 · [社区讨论](https://news.ycombinator.com/item?id=49402232)
+
+**背景**: 量化通过降低权重的精度来减小模型大小，这可能会引入轻微的精度下降。采样设置控制输出的随机性和创造性，聊天模板则格式化对话历史以供模型使用。像 Ollama 这样的本地 LLM 运行时依赖这些组件来生成连贯的回复。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/understanding-quantization-llms-making-large-language-pranav-k-jha-whbae">Understanding Quantization in LLMs : Making Large Language...</a></li>
+<li><a href="https://huggingface.co/docs/transformers/v4.43.2/en/chat_templating">Templates for Chat Models · Hugging Face</a></li>
+<li><a href="https://blog.promptlayer.com/temperature-setting-in-llms/">LLM Temperature Setting : Control Randomness &amp; Creativity</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论分享了实际经验：一位用户对 MacBook Pro 上的 Qwen 3.8 27B MLX 印象深刻，另一位则质疑 Ollama 是否存在根本性问题。另一位评论者的关键见解是，聊天模板问题往往是真正的罪魁祸首，而不是量化，他们建议在归咎于其他因素之前先检查 GGUF 模板标记。
+
+**标签**: `#local-llm`, `#quantization`, `#chat-template`, `#ollama`, `#llm-quality`
+
+---
+
+<a id="item-13"></a>
+## [匹兹堡捡废金属：个人叙事](https://twitter.com/moxie/status/2091218652133732491) ⭐️ 6.0/10
+
+Moxie Marlinspike 发布了一篇关于匹兹堡捡废金属的个人博客文章，写于 2006 年，但直到现在才发布。文章反思了经济必要性和非正式回收经济。 这篇文章因其对 socioeconomic 问题的人性化视角而在科技社区引起共鸣，引发关于经济不平等和城市拾荒的讨论。它强调了在科技主导的讨论中个人叙事的重要性。 据评论指出，这篇文章写于 2006 年，但直到现在才发布。文章详细描述了作者捡废金属的经历，包括钢材的低价（每磅 0.04 美元）及其周围的非正式经济。
+
+hackernews · tosh · 8月22日 18:08 · [社区讨论](https://news.ycombinator.com/item?id=49402189)
+
+**背景**: 捡废金属是一种非正式活动，个人收集并出售金属废料以供回收。在像匹兹堡这样经济困难的城市，它可以为有需要的人提供微薄收入。文章还触及了城市贫困和维持回收系统的隐性劳动的更广泛背景。
+
+**社区讨论**: 评论中既有对个人博客时代的怀旧，也有对捡废金属的实际观察。一些人分享当地轶事，而另一些人则讨论经济现实和安全问题，例如盗窃电气设备中的铜。
+
+**标签**: `#scrap metal`, `#socioeconomics`, `#urban scavenging`, `#recycling`, `#personal narrative`
+
+---
+
+<a id="item-14"></a>
+## [Racket 友好入门：面向 Lisp 爱好者的速通指南](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) ⭐️ 6.0/10
+
+这篇文章对 Racket（一种现代 Lisp 方言）进行了简洁但假设性很强的介绍，涵盖了其语法和特性。它假设读者已经了解 lambda 等概念，因此更像是一次速通，而非面向初学者的友好教程。 Racket 在编程语言设计和教育领域具有重要意义，这篇文章提升了它在技术社区中的可见度。讨论既包含对 Lisp 历史的怀旧，也涉及对 Racket 实际应用的担忧，反映了关于 Lisp 家族语言的更广泛争论。 这篇文章的标签包括 Racket、Lisp、函数式编程和 AI，评分为 6.0/10，获得 168 分和 70 条评论。社区讨论中提到了 Lisp 在流行文化中的引用（如《神奇数字马戏团》），以及对文章假设性的技术批评。
+
+hackernews · signa11 · 8月22日 14:08 · [社区讨论](https://news.ycombinator.com/item?id=49399898)
+
+**背景**: Racket 是一种通用、多范式的编程语言，是 Lisp 的现代方言，也是 Scheme 的后代。它被设计为编程语言设计和实现的平台，允许程序员轻松添加新的语法结构。像 Racket 这样的 Lisp 方言使用基于列表的统一语法，而 lambda（匿名函数）等概念是函数式编程的基础。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Racket_%28programming_language%29">Racket ( programming language ) - Wikipedia</a></li>
+<li><a href="https://racket-lang.org/">Racket</a></li>
+<li><a href="https://stackoverflow.com/questions/11223403/what-are-the-differences-between-clojure-scheme-racket-and-common-lisp">What are the differences between Clojure, Scheme/ Racket and...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了复杂的情绪：一些人分享了早期使用 Lisp 的怀旧记忆，而另一些人则批评这篇文章并非真正对初学者友好。还有关于 Racket 部署挑战的技术讨论，以及 Lisp 在流行媒体中的引用，表明人们对这门语言的实际应用既有赞赏也有担忧。
+
+**标签**: `#Racket`, `#Lisp`, `#Programming Languages`, `#Functional Programming`, `#AI`
+
+---
+
+<a id="item-15"></a>
+## [NetBSD 2005 年文章在 Hacker News 引发怀旧讨论](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) ⭐️ 4.0/10
+
+一篇 2005 年关于作者 NetBSD 使用经历的个人文章被分享到 Hacker News，引发了用户间的怀旧讨论。该帖子获得了 4.0/10 的中等评分，表明其对更广泛科技领域的影响有限。 这一新闻凸显了社区对 NetBSD 的持久喜爱，NetBSD 以其可移植性和简洁性著称。它反映了对早期开源系统的怀旧趋势，这可能影响当前关于操作系统设计和社区价值的讨论。 这篇 2005 年的文章来自 NetBSD 宣传邮件列表，讲述了作者对该操作系统的积极体验，包括其在过时硬件上运行的能力和内置文档。Hacker News 的评论显示，用户们深情回忆使用 NetBSD 的经历，其中一位用户正考虑在社区基础设施中部署它。
+
+hackernews · gnyeki · 8月22日 19:07 · [社区讨论](https://news.ycombinator.com/item?id=49402781)
+
+**背景**: NetBSD 是一个免费、开源的类 Unix 操作系统，于 1993 年首次发布，以其在多种硬件平台上的可移植性而闻名。它强调简洁的设计和正确性，使其成为爱好者和研究者的最爱。这篇文章反映了个人计算更具实验性的时代，像 NetBSD 这样的操作系统提供了动手体验，与今天更面向消费者的系统形成对比。
+
+**社区讨论**: 评论表达了对 NetBSD 可靠性和可移植性的怀旧和赞赏，一位用户指出它“能在任何旧垃圾上运行”且“从未出错”。另一位用户幽默地纠正了文章中的语法错误，还有一位用户考虑在社区项目中使用 NetBSD。总体情绪是积极和怀旧的，没有重大分歧。
+
+**标签**: `#NetBSD`, `#Operating Systems`, `#Nostalgia`, `#Open Source`
+
+---
+
+<a id="item-16"></a>
+## [以数字命名的 AI 实验室引发社区趣味讨论](https://quantumi.sh/public/labs.html) ⭐️ 4.0/10
+
+一篇博客文章幽默地列举了以数字命名的 AI 实验室，包括 ElevenLabs、TwelveLabs 和 ThirteenLabs，并提到 ElevenLabs 和 TwelveLabs 共同举办 23Labs 黑客马拉松。文章还指出了其他数字实验室名称，如 41labs.ai 和 1337labs.org。 这一轻松观察反映了 AI 行业中初创公司采用数字或黑客语名称以在拥挤市场中脱颖而出的趋势。社区的参与表明，命名惯例可以引发关注，并在 AI 爱好者中培养一种同志情谊。 该博客文章托管在 quantumi.sh，作者为“quantumish”，他对流量激增表示惊讶。社区成员分享了其他例子，如 41labs.ai 和 1337labs.org，并提到 ElevenLabs 和 TwelveLabs 正在共同举办 23Labs 黑客马拉松。
+
+hackernews · jemoka · 8月22日 14:54 · [社区讨论](https://news.ycombinator.com/item?id=49400408)
+
+**背景**: AI 实验室通常选择独特的名称来建立品牌形象，像 ElevenLabs（以语音 AI 闻名）和 TwelveLabs（以视频理解闻名）这样的数字名称已经变得广为人知。这一趋势延伸到黑客语，如 1337labs.org，其中“1337”意为“leet”或“精英”。这种命名风格有助于公司显得现代且精通技术，同时也能营造一种有趣的社区文化。
+
+**社区讨论**: 社区觉得这篇文章很有趣，并通过分享其他数字实验室名称（如 41labs.ai 和 1337labs.org）来参与互动。一些评论提到 23Labs 黑客马拉松的共同举办，作者对流量表示惊讶，表明回应积极且有趣。
+
+**标签**: `#AI labs`, `#naming conventions`, `#humor`, `#community discussion`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-17"></a>
+## [AI 基建热潮或引发 3 万亿美元隐形债务，次贷式危机隐现](https://www.tmtpost.com/8112363.html) ⭐️ 8.0/10
+
+一项新分析警告，AI 基础设施建设可能催生高达 3 万亿美元的隐形债务，并将其与次贷危机相提并论。文章强调，真实需求无法阻止泡沫，现金流才是偿还债务的关键。 这之所以重要，是因为潜在的 AI 债务泡沫可能对科技行业和整个金融体系构成系统性风险，类似于次贷危机引发 2008 年金融危机。投资者、政策制定者和科技公司需要警惕这些风险，以避免严重的经济衰退。 文章指出，隐性租赁承诺和杠杆押注正在膨胀，大型科技公司的隐性债务已估计达 1.65 万亿美元。国际清算银行（BIS）警告称，对金融稳定的直接风险看似温和，但前提是 AI 领域能实现强劲的财务回报。
+
+rss · 钛媒体 · 8月22日 10:26
+
+**背景**: AI 基础设施热潮涉及对数据中心、芯片和能源的大规模投资，通常通过债务和租赁安排融资。次贷危机的类比源于这些债务往往隐藏在资产负债表之外，如果 AI 收入未能实现，可能引发一波违约。历史类比包括互联网泡沫和 2000 年代初的电信建设，当时基础设施过度建设导致了经济衰退。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://gworky.com/article/ai-infrastructure-debt-leverage-risks">The risks of AI infrastructure debt and leverage | Groundwork</a></li>
+<li><a href="https://gzmato.com/blog/post/big-tech-hidden-debt-1-65-trillion-ai-infrastructure-risk">Big Tech Hidden Debt Hits $1.65 Trillion: AI Infrastructure Risk ...</a></li>
+<li><a href="https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/">The Subprime AI Crisis Is Here</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 未提供社区评论，但文章的高分和标签表明它引发了广泛讨论。分析师和读者可能争论 AI 热潮是否属于泡沫、现金流在维持投资中的作用，以及监管是否充分。
+
+**标签**: `#AI基建`, `#债务风险`, `#次贷危机`, `#科技金融`, `#行业分析`
+
+---
+
+<a id="item-18"></a>
+## [TCL 中环收购一道新能成为国家反内卷标杆](https://www.tmtpost.com/8112690.html) ⭐️ 8.0/10
+
+TCL 中环收购一道新能已被国家正式确立为光伏行业反内卷的第一典型案例。这标志着政策明确支持通过整合来解决产能过剩问题。 这一认可标志着中国光伏产业政策转向，鼓励龙头企业通过整合而非价格战来应对竞争。它为其他面临类似产能过剩和内卷问题的行业提供了战略模板，可能重塑竞争格局。 此次收购被视为 TCL 中环在行业产能过剩中巨亏下的一场“豪赌”。该案例预计将加速市场化整合，通威收购丽豪清能等类似举措也被视为标杆。
+
+rss · 钛媒体 · 8月22日 09:58
+
+**背景**: 近年来，中国光伏产业面临严重的产能过剩和“内卷”（激烈竞争导致低利润）。政府一直在推动“反内卷”政策，此次收购是首个获得国家明确支持的整合案例，为未来并购树立了先例。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.163.com/dy/article/L4V3CUO205118O92.html?clickfrom=w_dy">&quot; TCL ...&quot;</a></li>
+<li><a href="https://stock.10jqka.com.cn/20260416/c676039413.shtml">巨亏之下的豪赌： TCL 中 环 能 否穿越 光 伏 寒冬 | 同花顺财经</a></li>
+<li><a href="https://m.gelonghui.com/p/4069851">光 伏 “ 反 内 卷 ”进入深水区，通威 并 购 丽豪清能或加速 行 业 格局重塑</a></li>
+
+</ul>
+</details>
+
+**标签**: `#光伏`, `#反内卷`, `#并购整合`, `#TCL中环`, `#产业政策`
+
+---
+
+<a id="item-19"></a>
+## [阿里重组：电商合并、芯片整合、千问分拆；宇树科技科创板上市；Anthropic 营收激增](https://www.tmtpost.com/8112858.html) ⭐️ 8.0/10
+
+阿里巴巴于 8 月 20 日宣布重大重组，将电商业务合并为统一的“阿里巴巴电子商务集团”，将云与芯片设计业务整合为“AI 云计算服务”，并将千问 AI 模型业务分拆为独立子公司。与此同时，宇树科技于 8 月 19 日在科创板上市，成为 A 股“人形机器人第一股”，而 Anthropic 的年化营收据传在 7 月底已突破 650 亿美元。 这些动态标志着科技行业的战略转变：阿里巴巴正加大对 AI 和云计算的整合力度，而宇树科技上市凸显了人形机器人商业化的加速。Anthropic 的营收激增凸显了 AI 公司的快速扩张，可能重塑 AI 市场的竞争格局。 阿里重组包括将淘宝、天猫和盒马鲜生合并为电商集团，并将云与芯片设计部门平头哥整合进 AI 云服务。宇树科技 IPO 募资 42.02 亿元，Anthropic 年化营收从 5 月的 470 亿美元增长至 650 亿美元以上，调整后经营利润转正。
+
+rss · 钛媒体 · 8月22日 08:22
+
+**背景**: 阿里巴巴一直在重组以聚焦 AI 和云计算，以应对激烈竞争。宇树科技是中国领先的人形机器人制造商，其上市反映了投资者对具身 AI 兴趣的增长。Anthropic 是一家以 Claude 模型闻名的 AI 初创公司，其营收增长凸显了 AI 服务需求的旺盛。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.163.com/dy/article/L4SESLA205118O92.html">阿里启动重大重组：电商合并、云芯片整合、千问分拆为独立子公司|云计算|云服务|电子商务|知名企业|阿里巴巴集团_网易订阅</a></li>
+<li><a href="https://industry.cfi.cn/p20260818000056.html">三重利好,钱的流向真变了 20CM涨停!688503紧急提示- CFi.CN 中财网</a></li>
+<li><a href="https://www.cls.cn/detail/2456549">半 年 翻7倍！ Anthropic “ 年 化 营 收 ”据传已突破 650 亿 美 元</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 本条新闻未提供社区评论。
+
+**标签**: `#阿里巴巴`, `#宇树科技`, `#Anthropic`, `#业务架构`, `#AI`
+
+---
+
+<a id="item-20"></a>
+## [DeepSeek 上线多模态模型；微信新功能遭吐槽；多家车企召回](http://www.geekpark.net/news/369206) ⭐️ 8.0/10
+
+DeepSeek 发布了多模态模型 DeepSeek-V4-Flash-Vision-Exp，通过其 API 提供，支持图像输入，可用于图像描述、OCR 和图表分析等任务。据报道，该模型的多模态 Agent 能力接近 Anthropic 的 Opus-4.8。 这一进展缩小了开源与专有多模态 AI 模型之间的差距，可能加速 AI Agent 在实际应用中的采用。同时加剧了主要 AI 实验室之间的竞争，为开发者带来更多选择和更低成本。 该模型支持 JPEG、PNG、GIF 和 WebP 格式，并保持与 DeepSeek-V4-Flash 相当的文本能力。这是一个实验性版本，允许根据实际使用情况进行快速迭代。
+
+rss · 极客公园 · 8月22日 00:23
+
+**背景**: 多模态 AI 模型可以处理文本和图像，从而支持视觉问答和图像描述等任务。Agent 基准测试评估模型使用工具和执行多步骤任务的能力，这对于构建能够与软件和网页交互的 AI Agent 至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iweaver.ai/blog/deepseek-v4-flash-vision-exp/">DeepSeek V4 Flash Vision Exp: Vision API, Benchmarks &amp; Cost</a></li>
+<li><a href="https://officechai.com/ai/deepseek-releases-v4-flash-vision-exp-matches-opus-4-8-on-some-multimodal-benchmarks/">DeepSeek Releases V4-Flash-Vision-Exp, Matches Opus 4.8 On Some ...</a></li>
+<li><a href="https://emergent.sh/news/deepseek-v4-flash-vision-exp-officially-e664c">DeepSeek-V4-Flash-Vision-Exp Launches: New Multimodal AI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DeepSeek`, `#多模态AI`, `#大厂动态`, `#AI模型`, `#行业新闻`
+
+---
+
+<a id="item-21"></a>
+## [Windows：AI PC 的绊脚石](https://www.ifanr.com/1676189?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+爱范儿的一篇文章指出，Windows 正成为 AI PC 发展的瓶颈，可能阻碍行业进步。 这很重要，因为 AI PC 是科技公司关注的焦点，如果 Windows 不能适应，可能会减缓创新和普及，影响制造商和消费者。 文章强调了 Windows 在系统开销、兼容性问题以及缺乏优化的 AI 功能等方面的挑战，这些可能限制 AI PC 的性能和用户体验。
+
+rss · 爱范儿 · 8月22日 10:00
+
+**背景**: AI PC 是配备专用 AI 加速器（如 NPU）的个人电脑，可在本地运行 AI 任务。Windows 是 PC 的主流操作系统，但其架构和功能可能未完全针对 AI 工作负载优化，导致潜在瓶颈。
+
+**标签**: `#Windows`, `#AI PC`, `#Microsoft`, `#PC industry`, `#technology`
+
+---
+
+<a id="item-22"></a>
+## [阿里巴巴战略转向：AI 与基础设施成为核心](https://www.tmtpost.com/8112848.html) ⭐️ 7.0/10
+
+阿里巴巴宣布战略调整，将投资重心从即时零售和电商转向 AI 基础设施和大模型能力建设。从本季度开始，AI 已成为公司唯一的前进路径。 这一转向凸显了阿里巴巴将 AI 作为主要增长引擎的决心，可能重塑其与腾讯、百度等竞争对手的市场地位。对投资者和科技行业而言，这标志着资源的大规模重新配置，可能加速中国 AI 的商业化进程。 公司已构建了包括算力芯片、云平台和大模型在内的全栈 AI 生态系统。它正在通过千问 APP 和千问办公等产品探索商业化路径，同时将视频生成模型 Happy Horse 和开放世界模型 Happy Oyster 并入其 AI 事业部。
+
+rss · 钛媒体 · 8月22日 10:27
+
+**背景**: 阿里巴巴传统上依赖电商和即时零售获取收入，但最近的财报显示成本上升和自由现金流下降。公司此前已从“1+6+N”架构精简为“四大金刚”结构，聚焦 AI 云和即时零售。如今，它正加倍押注 AI 作为未来增长的关键，这与科技巨头纷纷重金投资大语言模型和 AI 基础设施的行业趋势一致。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://xueqiu.com/1078525202/406132242">外卖不打了，钱全拿去搞AI， 阿 里 一个季度又砸出670...</a></li>
+<li><a href="https://post.smzdm.com/p/al4mm69p/">阿 里 巴 巴 ：AI...</a></li>
+<li><a href="https://www.hafoo.com.hk/news/hans/notice/202512053583735014">双轮驱动提振 阿 里 巴 巴 即 时 零 售 崛起与全栈AI如何重塑电商巨头增长曲线</a></li>
+
+</ul>
+</details>
+
+**标签**: `#阿里巴巴`, `#AI战略`, `#基础设施`, `#电商转型`
+
+---
+
+<a id="item-23"></a>
+## [订单跑在收入前：万国数据揭示数据中心真相](https://www.tmtpost.com/8112373.html) ⭐️ 7.0/10
+
+文章分析了万国数据的财务表现，指出 AI 相关订单激增与收入确认之间存在显著时间差，第四季度净亏损同比扩大 162%。 这种错位凸显了数据中心运营商在将 AI 驱动需求转化为利润方面面临的挑战，影响投资者预期和行业估值。同时，尽管 AI 长期增长，但短期可能存在供给过剩风险。 万国数据第四季度净亏损 2.72 亿元人民币，同比扩大 162%，年度亏损 6.69 亿元，同比扩大 51%。某细分业务收入同比增长 111.6%，表明需求强劲，但由于沉重的资本支出和折旧，盈利能力滞后。
+
+rss · 钛媒体 · 8月22日 10:26
+
+**背景**: 数据中心是容纳计算基础设施的物理设施，其盈利能力取决于利用率和定价。AI 工作负载需要大量计算能力，推动了对数据中心的需求，但建设和运营涉及高昂的前期成本和较长的回报周期。万国数据是中国领先的数据中心提供商，其财务状况反映了更广泛的行业趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.hstong.com/news/detail/21031119003860305">净亏损同比扩大162%， 万 国 数 据 能否学到Equinix... | 华盛通</a></li>
+<li><a href="https://www.dashunet.cn/archives/801">同比增长111.6%，从 万 国 数 据 财 报看中 国 云前景</a></li>
+
+</ul>
+</details>
+
+**标签**: `#数据中心`, `#AI算力`, `#万国数据`, `#行业分析`
+
+---
+
+<a id="item-24"></a>
+## [中银消金：利润暴涨的逻辑](https://www.tmtpost.com/8112417.html) ⭐️ 7.0/10
+
+本文分析了中银消费金融在消费金融行业进入存量博弈阶段背景下利润暴涨的原因，重点阐述了公司在成熟市场中的战略调整。 该分析具有重要意义，因为它揭示了一家大型消费金融公司如何在行业转型期实现增长，为从业者和投资者提供了宝贵经验。它反映了中国消费金融行业整合和效率提升的广泛趋势。 文章指出，快速扩张和轻松获利的时代已经结束，取而代之的是缓慢的存量博弈周期。文中提到的具体策略包括积极处置不良资产和建立合作关系，例如该公司在 2024 年披露了超过 70 期不良资产包。
+
+rss · 钛媒体 · 8月22日 10:26
+
+**背景**: 消费金融公司是中国持牌金融机构，提供个人消费贷款。行业已进入成熟期，竞争焦点从新增市场转向存量客户。中银消费金融是最早的持牌消费金融公司之一，其近期利润暴涨归因于资产质量改善和运营效率提升。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.mp.oeeee.com/a/BAAFRD0000202507311108177.html">从亏3亿到赚1.5亿！ 中 银 消 金 左手甩不良，右手搭合作 | 南都N视频</a></li>
+<li><a href="https://juejin.cn/post/7229178686431690810">27家持牌 消 金 业绩PK...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#消费金融`, `#中银消金`, `#利润增长`, `#行业趋势`
+
+---
+
+<a id="item-25"></a>
+## [更强的 GLM-5.3 为何没有刷屏？](https://www.tmtpost.com/8112832.html) ⭐️ 7.0/10
+
+文章讨论了 GLM-5.3 的发布，该模型性能大幅提升，但并未引起广泛关注。文章质疑其增强的能力能否转化为商业成功。 这很重要，因为 GLM-5.3 的发布是 AI 行业的一件大事，而其缺乏热度引发了对 AI 模型商业化的质疑。结果可能影响企业如何权衡技术突破与市场策略。 根据搜索结果，GLM-5.3 提供三种思考等级（Low、High、Max），其中 Low 版本已超越 GLM-5.2 Max，接近 Claude Fable 5。它在 CyberGym、Exploit Bench 等安全测试中排名第一，但一些用户反映其安全机制在自动化工具链中频繁触发拒绝，导致开发流程中断。
+
+rss · 钛媒体 · 8月22日 10:14
+
+**背景**: GLM-5.3 是智谱 AI 开发的大型语言模型，智谱 AI 是中国领先的人工智能公司。该模型的发布是中国 AI 行业竞争格局的一部分，DeepSeek 和 MiniMax 等公司也在争夺市场份额。AI 模型的商业化是一个关键挑战，公司必须在技术创新与实际应用和收入生成之间取得平衡。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/AI_Art/M.1786940675.A.C81.html">Re: [閒聊] GLM 5 . 3 發布 已有kimiK3等級編程 能 力 - 看板 AI_Art...</a></li>
+<li><a href="https://www.163.com/dy/article/L4SLSB7G0511DPVD.html">GLM 5 . 3 更强却更难用了？我们让它和 5.2 做了同一个北京城市驾驶游戏</a></li>
+<li><a href="https://lordserial18.life/manyvoices/read/163_com_dy_article_l4hed5vh05198nmr_html_d4261fd4">摩根大通： GLM - 5 . 3 升 级+DeepSeek 提 价重塑中国AI...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 搜索结果中包含一个 PTT 讨论，用户注意到 GLM-5.3 的性能显著提升，有些人将其编程能力与 Kimi K3 相提并论。然而，也有批评认为该模型的安全机制过于严格，使其在自动化工作流中更难使用。
+
+**标签**: `#GLM-5.3`, `#AI模型`, `#商业变现`, `#大厂动态`
+
+---
+
+<a id="item-26"></a>
+## [OpenAI Codex 与 Claude Code 之争：企业市场定胜负](https://www.tmtpost.com/8112879.html) ⭐️ 7.0/10
+
+文章分析了 OpenAI Codex 与 Anthropic Claude Code 之间的竞争态势，指出企业市场将是决定胜负的关键战场。文章强调，尽管 Codex 进入市场较晚，但它受益于 OpenAI 更深入的企业分发渠道和 Deployment Company 服务部门。 这很重要，因为 AI 编程助手正迅速成为工程团队不可或缺的工具，而 Codex 与 Claude Code 之间的竞争将塑造 AI 驱动软件开发未来的格局。企业细分市场的胜负很可能决定哪个平台能占据主导市场份额，从而影响开发者、企业以及更广泛的 AI 生态系统。 根据搜索结果，Codex 比 Claude Code 晚了大约十八个月进入市场，但它所在的供应商拥有更深入的企业分发渠道。此外，OpenAI 收购 Ona 使 Codex 能够运行数天，而 Claude Code 的后台子代理运行时间较短但更深入。
+
+rss · 钛媒体 · 8月22日 10:14
+
+**背景**: AI 编程助手是利用大型语言模型帮助开发者编写、审查和调试代码的工具。OpenAI 的 Codex 和 Anthropic 的 Claude Code 是两个领先的例子，它们各有不同的优势和集成生态系统。企业市场对技术和合规标准要求更高，因此成为这些工具的关键考验。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://rejoicehub.com/blogs/openai-codex-vs-claude-code">OpenAI Codex vs Claude Code : 2026 Buyer&#x27;s Guide</a></li>
+<li><a href="https://theplanettools.ai/blog/anthropic-overtakes-openai-ramp-business-adoption-may-2026">Anthropic 34.4% Just Passed OpenAI — Ramp... | ThePlanetTools.ai</a></li>
+<li><a href="https://andrew.ooo/answers/codex-ona-cloud-agents-vs-claude-code-background-tasks-june-2026/">Codex +Ona Cloud Agents vs Claude Code ... — andrew.ooo</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI编程`, `#OpenAI`, `#Claude`, `#企业市场`, `#竞争`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-27"></a>
+## [新国标整治 AI 客服车轱辘话](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EdVNIWUduLWZuNDZRSV9NTnVqempLeml0SlMwWHBkbDU1ZEtiOWxZQ2JSbTVIVkk3VG9oZVUxaEFrUVNZWWdzX05fQUZ5eDBKdElNd1IxTFRMQVl2WGc?oc=5) ⭐️ 8.0/10
+
+一项新的国家标准将于 2026 年 9 月 1 日实施，要求平台提供便捷的“转人工”选项，并在紧急情况下自动转接人工客服。该标准名为《顾客联络服务 人工与智能客户服务协同要求》，旨在遏制 AI 客服无用的重复回复。 该规定直接解决了消费者普遍遇到的痛点，提升了用户体验和客户服务的责任性。它将迫使企业重新设计其 AI 系统，确保人工支持可及，并可能为其他国家树立先例。 该标准要求平台设置“转人工”菜单选项，并在涉及人身、财产安全的场景下自动转接人工客服。此外，企业不得再以“AI 回答不代表公司立场”为由推卸责任。
+
+rss · 客服行业动态 · 8月22日 11:18
+
+**背景**: AI 客服在各行业已普遍应用，但许多用户难以接通人工客服，导致不满和投诉。中国消费者协会报告称，关于 AI 客服的投诉显著增加，部分平台的人工支持几乎无法接通。这项新国家标准是规范 AI 应用、保护消费者权益的更广泛努力的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://k.sina.com.cn/article_7879996032_1d5af328006801mih2.html?from=tech">跟AI客服聊了6分钟才转人工，新国标2026年9月强制一键转接能否终结&#x27;智能客服躲猫猫&#x27;？|服务|中消协|运营商|系统|老年人_新浪新闻</a></li>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-08-18/doc-inintaua0172650.shtml">回复不算数、转人工困难，AI客服岂能成维权“拦路虎”_新浪财经_新浪网</a></li>
+<li><a href="https://cn.chinadaily.com.cn/a/202504/14/WS67fcd5f9a310e29a7c4a9089.html">事事关心 | AI客服尚不成熟，不要过早关闭“转人工” - 中国日报网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#国家标准`, `#客户服务`, `#用户体验`, `#行业规范`
+
+---
+
+<a id="item-28"></a>
+## [找人工客服比登天还难](https://news.google.com/rss/articles/CBMiWEFVX3lxTE91ZXpJcTZLR2ZET2MxQVFtcWU3S3hpNWh4UnY0R1czSkFfaHFCWVVJOVJMRnZ0S21KMVBPNmVNenJiVkwtSV9uWjJnRDN5amJic2tkaXZZU28?oc=5) ⭐️ 7.0/10
+
+驱动之家最近的一篇文章批评了客户在联系人工客服时面临的极大困难，强调了被困在自动化系统中的挫败感。文章呼吁建立更好的支持系统，优先考虑人工互动。 这个问题每天影响数百万消费者，反映了行业向自动化发展的趋势，但往往牺牲了用户体验。它强调了企业在效率与可及性之间取得平衡的必要性，可能影响客户服务政策和技术设计。 文章没有引用具体公司或数据，而是聚焦于“按 0 转人工”循环这一常见痛点。它指出，IVR（交互式语音应答）系统设计不佳以及对聊天机器人的过度依赖是造成该问题的原因。
+
+rss · 客服行业动态 · 8月22日 12:01
+
+**背景**: 客户服务越来越多地转向聊天机器人和 IVR 系统等自动化渠道以降低成本，但当客户需要复杂帮助时，这往往导致令人沮丧的体验。文章触及了一个被社交媒体放大的普遍消费者抱怨，促使一些公司重新考虑其支持策略。
+
+**标签**: `#customer service`, `#human agent`, `#support experience`, `#automation`, `#service quality`
+
+---
+
+<a id="item-29"></a>
+## [AI 客服造成损失如何维权？](https://news.google.com/rss/articles/CBMif0FVX3lxTFBXR0JaWm1VOGYzZUxmZ2JMMDdJUEhEMWF1NXc2NXA3Z014N1RoYVRxcURSVzZIZjduaXhOYkI4SDRER083YW9WUF9JSFprOHZRRWV5MDBJdFczVFdMcDVGRC1DY0pmcXByeU1VT3FmWHRkZ1lLNWpBLWNPcDFUSDg?oc=5) ⭐️ 7.0/10
+
+文章讨论了当 AI 客服聊天机器人提供错误信息导致消费者经济损失时，消费者可采取的法律维权途径，凸显了客户服务行业中日益突出的问题。 这很重要，因为随着 AI 客服的普及，AI 错误的责任问题对消费者、企业和监管机构都至关重要。它凸显了制定明确法律框架以保护消费者权益并确保 AI 部署问责制的必要性。 文章可能涉及具体的法律条款，如消费者保护法，并建议消费者采取保留证据、投诉等实际步骤。文章还可能引用法院对 AI 错误信息案件的不同判决，表明责任认定的复杂性。
+
+rss · 客服行业动态 · 8月22日 09:22
+
+**背景**: AI 客服聊天机器人越来越多地被企业用于处理咨询，但由于训练数据或算法的局限性，它们有时会提供不准确的信息。当这些错误造成经济损失时，消费者可以依据消费者保护法寻求法律救济，但法律环境仍在发展之中。文章针对这一新兴问题，为消费者提供了如何保护自己的指导。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.mp.oeeee.com/a/BAAFRD0000202605181592442.html">这次是豆包！ AI 说胡话的案子，都怎么判 | 南都N视频</a></li>
+<li><a href="https://science.cspress.com.cn/uploadfile/202602/bd9f16ecdb4618e.pdf">Evaluation Index System in the Era of Artificial Intelligence</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#消费者维权`, `#法律责任`, `#客户服务`, `#AI伦理`
+
+---
+
+<a id="item-30"></a>
+## [特斯拉澄清近 300 万辆召回处理方式](https://news.google.com/rss/articles/CBMibkFVX3lxTE5kcU1Eai1tS3R1Y215NUc2TnVJekJRT3NPQWpGbnUxQXk5eEVnM2F2NTRrdUhUSmpib2lDdTJEWkwtV09fMUpEdW15Q2hXS0N0SVoxOWVuVkk4cmg3T1d1bUhBRXJaM3RVQ21XMEtB?oc=5) ⭐️ 7.0/10
+
+特斯拉客服澄清了在中国近 300 万辆汽车的召回处理方式，表示并非所有车辆都需要进店。召回采用三项提示分级处理，贴纸将于 9 月底到店。 这一澄清影响中国数百万特斯拉车主，并展示了大型汽车制造商如何高效处理大规模召回物流。分级处理减少了客户不便和服务店拥堵，为行业召回沟通树立了先例。 此次召回由国家市场监管总局于 8 月 21 日下令，涉及近 300 万辆汽车。三项提示分级处理系统对问题进行分类，贴纸作为补救措施的一部分，将于 9 月底到店。
+
+rss · 客服行业动态 · 8月22日 12:25
+
+**背景**: 汽车行业召回很常见，但像这样大规模的召回需要精心规划。特斯拉的做法不要求所有车辆进店，而是采用分级通知和邮寄贴纸，旨在减少干扰。此次召回可能涉及紧急车门释放问题，正如 YouTube 视频中提到的中国命令。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall">Tesla recalls thousands of Model Ys at risk of... missing a sticker</a></li>
+<li><a href="https://www.youtube.com/watch?v=P-Td0s0Wz3Y">China Orders Tesla ’s Largest-Ever Recall For Nearly... - YouTube</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Tesla`, `#recall`, `#customer service`, `#automotive`, `#recall communication`
+
+---
+
+<a id="item-31"></a>
+## [柚家厨房纸巾因致癌物被召回，客服电话秒挂](https://news.google.com/rss/articles/CBMieEFVX3lxTE1RdGFoaUpMSGVyMnlxSXBTdWdVc3NtYXRhaHVkdk81c0I3ZXBmLUlJWnRHQlhNMXZ5blIwSGFhbmJnMWhYNkxXQVA1b1BHTlAzLTh5MmpKTHhkOHY3UG1sY1RCUEV4N3RLY21BSkdoRmZKZHd4TVJKSA?oc=5) ⭐️ 6.0/10
+
+上海柚家科技有限公司因其壁挂式厨房纸巾被检出丙烯酰胺（一种可能致癌物）含量超标，召回了 1500 件产品。公司承诺退货，但顾客反映客服电话被立即挂断。 这一事件凸显了产品召回期间危机处理和客户服务的严重失误，可能损害消费者信任。它强调了有效沟通和支持在维护品牌声誉和消费者安全中的重要性。 召回产品为柚家壁挂式厨房纸巾，规格为 210×195 毫米，两层，外包装为乳白色聚乙烯塑料袋。召回由上海市市场监督管理局发起，公司表示已更换问题产品的供应商。
+
+rss · 客服行业动态 · 8月22日 11:34
+
+**背景**: 丙烯酰胺是一种在高温烹饪（如油炸和烘焙）过程中自然形成的化学物质，被国际癌症研究机构（IARC）列为 2A 类可能致癌物。在纸巾等食品接触材料中，含量超标可能迁移至食品中，带来健康风险。产品召回是保护消费者的标准监管措施，但其效果取决于企业的响应速度和客户服务质量。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.jiemian.com/article/14946499.html">2A类致癌物含量超标， 柚 家 1500件壁挂 厨 房 纸 巾 被 召 回 | 界面新闻</a></li>
+<li><a href="https://www.163.com/dy/article/L4RJ4KTN051198AK.html">细思极恐！天天用来吸油擦锅的 厨 房 纸 检出 致 癌 物 ，1500件紧急 召 回 ！</a></li>
+<li><a href="https://www.bjnews.com.cn/detail/1787225188129264.html">因“丙烯酰胺含量过高”1500件 柚 家 厨 房 纸 巾 被 召 回 客 服 回 应 — 新京报</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客户服务`, `#产品召回`, `#危机处理`, `#消费者权益`
+
+---
+
+<a id="item-32"></a>
+## [AI 客服成企业故意设置的障碍](https://news.google.com/rss/articles/CBMickFVX3lxTE5pQTI5UGdEWjlVcGYwNW5TcmZhcnN1WVk4ejVXUnZub2JYTTRPSy1yZlBHbU1NOEZIZzQ1QnZacTN5U3BNUWFseHpacEFrT0o4bzRjVENCVXdqdFZ6bXR1WlJVbENPdzdvNmhORDAtSEVLQQ?oc=5) ⭐️ 5.0/10
+
+文章报道称，一些企业故意使用 AI 客服为客户设置障碍，使客户更难联系到人工客服。 这种做法可能损害客户体验和信任，导致客户流失。它凸显了客户服务行业中对 AI 技术滥用的日益关注。 文章缺乏具体例子或数据，但暗示企业可能以牺牲客户满意度为代价，将 AI 作为节省成本的措施。它暗示一些企业故意设计无用的 AI 系统，迫使客户放弃或采取额外步骤。
+
+rss · 客服行业动态 · 8月22日 02:26
+
+**背景**: AI 客服（如聊天机器人）被广泛用于处理常规咨询和降低运营成本。然而，当 AI 系统设计不佳或故意设置障碍时，可能会让客户感到沮丧并损害品牌声誉。文章触及了使用 AI 阻止客户联系的道德影响。
+
+**标签**: `#AI客服`, `#客户服务`, `#企业策略`, `#用户体验`
+
+---
+
+<a id="item-33"></a>
+## [客服仍在发朋友圈，深蓝变美遭限制消费令，退款无门](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fRHdteU1vLUx2cGtqSk9QSXpCdjBCeFpBLUd0cFpxQlhnZWoyT081T3NzNkpyUjlJR2lQMnJuT0daMktoV09nQloxRVNKWlpNVFpIWGJocjhpaGxSbjNtaTZrRGk?oc=5) ⭐️ 5.0/10
+
+医美平台深蓝变美被下达限制消费令，但其客服仍在社交媒体上发朋友圈，消费者的退款问题迟迟未解决。 这凸显了公司在财务困境下消费者退款难的问题，并引发对医美行业企业责任和监管力度的质疑。 限制消费令禁止公司进行高消费活动，但客服仍在发朋友圈表明业务可能仍在运营，使退款问题更加复杂。文章提到有消费者等待数月未收到承诺 7-14 个工作日返还的退款。
+
+rss · 客服行业动态 · 8月22日 04:02
+
+**背景**: 限制消费令是中国的一种法律措施，限制债务人（通常是被执行人）进行高消费活动，如乘坐飞机、入住高档酒店、购买不动产等，直至其履行义务。通常在公司或个人未履行法院判决时发出。在此案例中，深蓝变美被下达限制消费令表明其存在未解决的法律债务，但客服仍在发朋友圈暗示公司可能仍在运营，使消费者对退款感到困惑。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="http://cm.sdjingji.com/cm/2023/0508/116841.html">什 么 是 限 制 消 费 令 ？ 限 制 消 费 令 的内容 是 什 么 ？_ 闪电经济网</a></li>
+<li><a href="https://www.toutiao.com/zixun/7490440161085032502/">限 制 高 消 费 是 什 么 意思 - 今日头条</a></li>
+<li><a href="https://m.21jingji.com/article/20191109/herald/6839864c4bbe2997dc6ee63ab30758da.html">王思聪被 限 制 高 消 费 ，一文了解失信被执行人和 限 制 高 消 费 区别 - 21财经</a></li>
+<li><a href="https://m.mp.oeeee.com/a/BAAFRD000020210315453601.html">这个医 美 团购平台直播称“随时 退 款 ”，但有人半年都没收到钱 | 南都N视频</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#refund`, `#consumer protection`, `#company distress`
+
+---
+
+<a id="item-34"></a>
+## [抖音发布紧急安全提醒](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGkyekZlSFBkLVh2ZGF4YlFiQTNidUV2QTJMMTNoa0t4bjcyOVlNQktaY0V2bVBENFAwVGFpS1pSdVlOcFo5am45ei1ndFN1Zl9qYWowR2taR2pXS18zTVVNaEhyRmJYYWtIRXNsZG51YzBsd1JFeUN1YXI5eVBEbVB0WkdNWER5VUFwaUtIR2FCbmhYdkloUA?oc=5) ⭐️ 5.0/10
+
+据新浪财经报道，抖音（TikTok 的中国版）向其用户发布了紧急提醒。目前可获取的信息中未透露提醒的具体内容。 这一提醒意义重大，因为它可能涉及用户安全或防诈骗，对于维护平台信任至关重要。对于客服行业而言，此类公告对指导用户保护和服务响应非常重要。 该新闻内容简短，缺乏关于提醒内容或原因的具体细节。消息来源为新浪财经，这是一家中国主要的财经新闻媒体，表明该提醒可能具有财务影响。
+
+rss · 客服行业动态 · 8月22日 02:49
+
+**背景**: 抖音是中国流行的短视频平台，经常发布安全提醒以保护用户免受诈骗和其他风险。此类提醒通常涉及网络钓鱼、欺诈活动或账户安全等问题。该平台的主动沟通是其维护安全在线环境的更广泛努力的一部分。
+
+**标签**: `#Douyin`, `#customer service`, `#safety alert`, `#China`
+
+---
+
+<a id="item-35"></a>
+## [为什么用户觉得微信新版聊天框难看](https://news.google.com/rss/articles/CBMif0FVX3lxTE1QeldGUmtNdDNtUHEzbzh1amlZc0JmdEpSZzFpQmthMXVVOWNPd2w2b296VmlhYTQtZk9jN1MyZnJGWWNZejd6SEVzcDNWOHB1MXIzSVp1MEZsQ3hId0x0ZWNLZC1BQzZhLUVvRGtGQkZSOWg1SXJmbEJGdTZnYjg?oc=5) ⭐️ 4.0/10
+
+手机新浪网的一篇文章讨论了用户对微信近期聊天界面重新设计的不满，重点指出了美观方面的担忧。文章探讨了用户对新界面负面评价背后的原因。 这很重要，因为微信是全球使用最广泛的即时通讯应用之一，界面变化会显著影响用户体验和满意度。了解用户反馈有助于开发者优化设计选择，更好地满足用户期望。 文章聚焦于新聊天界面的视觉方面，如配色、布局和图标，用户认为这些方面不够吸引人。文章未提及任何技术细节或具体版本号。
+
+rss · 客服行业动态 · 8月22日 17:24
+
+**背景**: 微信是腾讯开发的综合性即时通讯应用，拥有超过十亿用户。UI/UX 设计在用户留存中起着关键作用，即使是微小的变化也可能引发庞大用户群的强烈反应。
+
+**标签**: `#WeChat`, `#UI design`, `#user experience`
+
+---
