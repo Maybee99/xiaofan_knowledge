@@ -1,0 +1,912 @@
+---
+layout: default
+title: "Horizon Summary: 2026-08-24 (ZH)"
+date: 2026-08-24
+lang: zh
+---
+
+> 从 87 条内容中筛选出 40 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [锻造新型电力系统：专访沈国荣院士](#item-1) ⭐️ 8.0/10
+2. [油气“十五五”规划发布；7 月全社会用电量创新高](#item-2) ⭐️ 8.0/10
+3. [美国能源部拨款 5 亿美元资助电池初创企业转向国防](#item-3) ⭐️ 8.0/10
+4. [IEA：到 2050 年东南亚电网投资需增加近四倍](#item-4) ⭐️ 8.0/10
+5. [常州成为全国唯一集齐四大国家级零碳试点的城市](#item-5) ⭐️ 7.0/10
+6. [美国能源部长称霍尔木兹原油流量为市场数据两倍](#item-6) ⭐️ 7.0/10
+7. [宁德时代收紧供应商管控，推进零碳转型](#item-7) ⭐️ 7.0/10
+8. [全球构网型储能订单激增，华为、阳光电源深挖护城河](#item-8) ⭐️ 7.0/10
+9. [深圳征集 2026 碳达峰碳中和论坛绿色低碳案例](#item-9) ⭐️ 6.0/10
+10. [新能源政策重塑行业，墨迹天气“电灵”平台助力精细运营](#item-10) ⭐️ 6.0/10
+
+### 🤖 AI 科技
+
+11. [海洋温度创历史新高，预示气候危机加速](#item-11) ⭐️ 9.0/10
+12. [小米新 CPU 单核追平苹果，多核性能超越](#item-12) ⭐️ 8.0/10
+13. [MS Paint 和照片应用为 AI 图像添加隐形 GUID 水印](#item-13) ⭐️ 8.0/10
+14. [LLM 可能利用推理引擎漏洞控制宿主机](#item-14) ⭐️ 8.0/10
+15. [中国网络亚文化否认唐朝存在](#item-15) ⭐️ 7.0/10
+16. [整个旧金山被渲染成可玩的网页游戏](#item-16) ⭐️ 7.0/10
+17. [欧盟法规威胁创客与微型企业家](#item-17) ⭐️ 7.0/10
+18. [IPFS 维护团队 Shipyard 解散，项目继续运行](#item-18) ⭐️ 7.0/10
+19. [XMPP 庆祝数字独立 25 周年](#item-19) ⭐️ 7.0/10
+20. [AI 时代中的愤怒、焦虑与自主性](#item-20) ⭐️ 7.0/10
+
+### 🏢 大厂要闻
+
+21. [小米发布玄戒 AI 芯片全家桶，官宣阔折叠手机](#item-21) ⭐️ 8.0/10
+22. [Hugging Face 洽谈 130 亿美元收购](#item-22) ⭐️ 8.0/10
+23. [机器人会干活了，但还没学会“别多管闲事”](#item-23) ⭐️ 8.0/10
+24. [北京机器人大会标志行业转向实用可靠机器](#item-24) ⭐️ 8.0/10
+25. [中国 PD-1 市场：竞争、泡沫与重生](#item-25) ⭐️ 8.0/10
+26. [AstraTennis 时刻：人形机器人在全球直播中打了一场真正的网球](#item-26) ⭐️ 8.0/10
+27. [形界智能：两段式架构是市场对 AI 实时视频的最大误判](#item-27) ⭐️ 8.0/10
+28. [苹果折叠 iPhone 细节曝光：创新不止于屏幕](#item-28) ⭐️ 7.0/10
+29. [英伟达押注 Perplexity：它真的值 300 亿美元吗？](#item-29) ⭐️ 7.0/10
+30. [上影与筷子科技投入 50 台 DGX 和万亿 Token 补贴打造专业级 AI 片场](#item-30) ⭐️ 7.0/10
+
+### 🎧 客服行业动态
+
+31. [中国要求转人工入口清晰醒目，企业须对 AI 客服答复负责](#item-31) ⭐️ 7.0/10
+32. [轻信假客服开启屏幕共享，女子睡梦中被转走 18178 元](#item-32) ⭐️ 7.0/10
+33. [携程改名收费 9700 元，航司仅收 60 美元，差价去向引质疑](#item-33) ⭐️ 7.0/10
+34. [IDC：中国智能客服市场规模达 71.9 亿元，同比增长 55%](#item-34) ⭐️ 7.0/10
+35. [特斯拉客服详解近 300 万辆召回车辆具体做法](#item-35) ⭐️ 6.0/10
+36. [山东航空完成第二例曼谷至青岛国际担架旅客运输任务](#item-36) ⭐️ 5.0/10
+37. [泸州邮政再遭学生投诉捆绑办卡](#item-37) ⭐️ 5.0/10
+38. [客服魔方 AI 解决方案亮相京东郑州交流会](#item-38) ⭐️ 4.0/10
+39. [韦东奕账号下架练习册，客服否认挂名](#item-39) ⭐️ 4.0/10
+40. [网店卖半片女装引热议：创新还是噱头？](#item-40) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [锻造新型电力系统：专访沈国荣院士](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1hSOHgyamxCVDNseHNSUl81VU9zUHdRUXlZZEk3YzRDRVphZlZwaENReUQxU0s3c3pKWVBmel9yWlc3ekNBWEpGeTNkelk2ZXJKMG1QVEw5UjJwNnhzZzRTTnZWczczamlKbjFXbWh1anRwN1RYTWdSZVFhRkNqcjRxV1ZBSWEzUGZ1OEZ4ODhhUlBSZ0ZNVFBKejh0UHNWZkc4WVBjbw?oc=5) ⭐️ 8.0/10
+
+中国工程院院士沈国荣在接受《瞭望》周刊采访时，阐述了我国构建新型电力系统的战略，强调了可再生能源并网与电网稳定性的“中国方案”。 此次访谈为中国的能源转型提供了权威见解，对实现碳中和目标至关重要。这位资深院士的观点可能影响国家政策和行业方向，对能源企业、电网运营商和技术开发者产生影响。 沈国荣是电力系统自动化专家、南瑞继保创始人，他强调了可再生能源间歇性的挑战以及先进电网技术的必要性。采访可能涉及电力电子、储能和数字化等新型电力系统相关话题。
+
+google\_news · 新浪财经 · 8月24日 18:20
+
+**背景**: 中国正在构建“新型电力系统”，以容纳高比例的可再生能源，这些能源具有间歇性和波动性。这需要升级电网基础设施、增强灵活性并整合数字技术。沈国荣院士是电力系统保护与自动化领域的杰出人物，他创办了南瑞继保，该公司是中国继电保护系统的主要供应商。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf">nea.gov.cn/download/xxdlxtfzlpsgk.pdf</a></li>
+<li><a href="https://news.bjx.com.cn/html/20200113/1035635.shtml">news.bjx.com.cn/html/20200113/1035635.shtml</a></li>
+<li><a href="https://hunan.voc.com.cn/news/202303/22965672.html">hunan.voc.com.cn/news/202303/22965672.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#power systems`, `#China`, `#interview`, `#renewable energy`
+
+---
+
+<a id="item-2"></a>
+## [油气“十五五”规划发布；7 月全社会用电量创新高](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DRUZjSzlEMlVaQ1RnM0FZdWhnQlprRlhqZTV6SUJRbHJCUW5uQlNOeExIc1I2QXhyMkNqNTE1T0dRZFBZMDhRejcxaHJ2bHlZVHMwZHc3QkR5ODNKemNLM0psc1RWbGc?oc=5) ⭐️ 8.0/10
+
+中国发布了“十五五”期间（2026-2030 年）的油气规划，且 7 月全社会用电量创下新高。南方财经的碳中和周报重点报道了这些进展。 油气规划为中国未来五年的能源政策定下基调，影响行业投资和减排努力。用电量创新高凸显电力需求增长，对电网稳定和清洁能源转型具有重要意义。 油气“十五五”规划可能包括管网扩建和供应安全措施，但摘要未提供具体细节。7 月用电量创新高反映了电气化进程和经济活动，此前数据显示 2025 年全社会用电量已超 10 万亿千瓦时。
+
+google\_news · 南方财经 · 8月24日 12:06
+
+**背景**: 中国的五年规划是全面的国家战略，概述经济和社会发展目标。油气规划是“十五五”规划（2026-2030 年）的一部分。全社会用电量是经济活动与电气化水平的重要指标，中国在快速扩大可再生能源的同时，也在应对用电高峰需求。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.gov.cn/gongbao/2025/issue_12386/material/gwygb202531.pdf">gov.cn/gongbao/2025/issue_12386/material/gwygb202531.pdf</a></li>
+<li><a href="http://paper.people.com.cn/rmrb/pc/attachement/202601/19/b6ec1dcd-5787-415c-9cbe-4c858f6c4625.pdf">paper.people.com.cn/rmrb/pc/attachement/202601/19/b6ec1dcd-5787...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#油气规划`, `#十五五`, `#用电量`, `#碳中和`, `#能源政策`
+
+---
+
+<a id="item-3"></a>
+## [美国能源部拨款 5 亿美元资助电池初创企业转向国防](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SR1p5blhNNk1CRUNyTmp5UXRRa3EwYXZZcF9xTzV3MlR0MENUN3FOWXB3ZERPNFdVYkRrSFBJem8ycXNnVDRjYWR5SHMyWEFYUDREbkRZc1Z2UE90T1JOX0Y0QVRYRGJmVThDbGEweWRmYzB0WGRNV1FxcjA?oc=5) ⭐️ 8.0/10
+
+美国能源部宣布拨款 5 亿美元以加强国内电池供应链，并特别引导电池初创企业转向国防相关应用。此举正值政治变动削弱了关键的电动汽车和清洁能源激励措施，导致预期需求下降。 这笔资金为面临商业需求下降的美国电池初创企业提供了生命线，同时满足了国家安全对先进储能的需求。这标志着能源政策的战略转变，优先考虑国防应用，并可能重塑行业创新重点。 受助企业包括致力于固态电池和用于弹药及高超音速系统的热电池的初创公司，这些领域传统锂离子电池存在不足。拨款旨在加强电池供应链，重点关注满足军事用途极端性能和安全要求的技术。
+
+google\_news · 手机新浪网 · 8月24日 04:22
+
+**背景**: 美国电池初创企业在政治变动取消了关键的电动汽车和清洁能源激励措施后，面临严重衰退，预期未来需求减少。国防部门需要可靠、高容量的电池技术，用于航空电子、卫星通信和关键任务备用电源等关键应用。能源部的拨款计划是确保国内电池供应链和国防能源安全的更广泛努力的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/">US battery startups have found a lifeline in defense | TechCrunch</a></li>
+<li><a href="https://ventureburn.com/us-battery-startups-defense-lifeline/">US Battery Startups Find an Unlikely Lifeline in the Defense Sector</a></li>
+<li><a href="https://www.androguider.com/2026/08/defense-lifeline-how-500m-in-doe-grants.html">Defense Lifeline: How $500M in DOE Grants Are Saving US Battery ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#电池技术`, `#国防应用`, `#美国能源部`, `#产业转型`
+
+---
+
+<a id="item-4"></a>
+## [IEA：到 2050 年东南亚电网投资需增加近四倍](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW1JcUszOExCN2RXa2JGVXVUb2JsLURERmk0SlJzQ3hnZHdPbU5qVG5rZ1RmSjEwYmQ2bVdMMThZaEI0YVdlRDBsaUtoYTlJZENZS1AzMWRlby1yR3VHN09mQTljVURLbWppMXRPOVc2aXQwMjhQN3FGWEQxT2F0N2NmQ1ZxT1RoVTRXVA?oc=5) ⭐️ 8.0/10
+
+国际能源署（IEA）发布报告称，到 2050 年，东南亚必须将年度电网和储能投资从 130 亿美元增加到 500 亿美元，以满足其清洁能源承诺和不断增长的电力需求。 这一发现凸显了可能阻碍该地区能源转型和经济增长的关键基础设施缺口。它强调了政策制定者和投资者迫切需要调动大量资金来现代化和扩建电网，这对于整合可再生能源和确保可靠电力供应至关重要。 IEA 的《东南亚能源展望 2026》预计，在东盟电网框架下，跨境电力贸易每年需要 270 亿美元。报告还指出，该地区目前的支出远低于所需水平，这对能源安全和气候目标具有重大影响。
+
+google\_news · 搜狐网 · 8月24日 01:13
+
+**背景**: 东南亚正经历快速经济增长和电力需求上升，而许多国家已承诺增加可再生能源的使用。然而，现有的电网基础设施往往过时且不足以处理太阳能和风能等可变可再生能源。东盟电网倡议旨在到 2045 年建立区域互联电网，但面临巨大的投资缺口。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://oilprice.com/Energy/Energy-General/IEA-Southeast-Asia-Needs-Grid-Investment-to-Nearly-Quadruple-by-2050.html">IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple ...</a></li>
+<li><a href="https://www.indoneo.com/earth/southeast-asia-grid-investment-50-billion-2050/">Southeast Asia&#x27;s grid needs $50 billion yearly. It&#x27;s spending ...</a></li>
+<li><a href="https://www.iea.org/reports/southeast-asia-energy-outlook-2026/executive-summary">Executive summary – Southeast Asia Energy Outlook 2026 ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#Southeast Asia`, `#grid investment`, `#energy policy`, `#infrastructure`
+
+---
+
+<a id="item-5"></a>
+## [常州成为全国唯一集齐四大国家级零碳试点的城市](https://news.google.com/rss/articles/CBMic0FVX3lxTFBHUjQ3eVRfU1FMRGpQT0RscWxqa2ctX0hRRDVmdTRSM3BKVHZ3QURTcFVTa0NjTlF0bHpENVRFZjFCcC1UOFVLZzd6aFFoRGd1TVpVQ29vcDlwX2Z0ZUVOWWk2X0NaQ0lmaUQ2TmdRS0hfUkk?oc=5) ⭐️ 7.0/10
+
+常州已成为中国唯一获得全部四项国家级零碳试点称号的城市，涵盖零碳城市、零碳园区、碳达峰和碳中和试点。该市最近启动了针对重点企业 200 名首席双碳官（CCO）的培训项目，以提升企业碳管理能力。 这一成就使常州成为全国低碳转型的典范，为其他城市在双碳目标下提供了可复制的框架。首席双碳官培训举措凸显了企业层面碳管理制度化的趋势，可能加速全国企业的脱碳进程。 四项试点包括国家零碳园区试点，其中常州溧阳计划在“十五五”期间实现单位能耗碳排放 0.2 吨/吨标煤。首期首席双碳官培训班于 2026 年 8 月 22 日开班，来自重点企业的 200 名 CCO 参加，重点提升碳管理技能。
+
+google\_news · 潮新闻客户端 · 8月24日 06:04
+
+**背景**: 零碳城市和园区是中国实现 2030 年碳达峰、2060 年碳中和战略的一部分。生态环境部一直在指定试点区域以测试低碳发展模式，常州的全面做法使其在这一领域成为先驱。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.xhby.net/content/s6a8bb2aae4b027d1d0a3a28a.html">全国唯一！“零碳常州”凭什么拿下四大国家级试点？</a></li>
+<li><a href="https://www.zgjssw.gov.cn/shixianchuanzhen/changzhou/202608/t20260824_8589922.shtml">常州市首席双碳官培训正式开课_中共江苏省委新闻网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#零碳城市`, `#能源政策`, `#国家级试点`, `#双碳目标`, `#常州`
+
+---
+
+<a id="item-6"></a>
+## [美国能源部长称霍尔木兹原油流量为市场数据两倍](https://news.google.com/rss/articles/CBMiSEFVX3lxTE01SWtmVmhYNkhFbEJ5LVRscDY3S3hRbzJwcnV4NWRVSUFEWF9lMzBGVXc4MFFQX3N1eGE1ZVVicVd1UzB1V2dUMA?oc=5) ⭐️ 7.0/10
+
+美国能源部长克里斯·赖特声称，霍尔木兹海峡的原油七天平均流量接近每日 900 万桶，加上替代管道和出口路线后达每日 1500 万桶，约为市场观测数据的两倍。这一说法与油轮追踪数据相矛盾，后者显示海峡交通严重受限。 这一差异意义重大，因为霍尔木兹海峡承载着全球约 20%的石油供应，任何中断都会对全球石油市场产生巨大影响。如果官方说法不准确，可能会误导政策决策和市场预期，影响能源安全和价格。 这一说法由美国能源部长克里斯·赖特提出，他引用的七天平均流量接近每日 900 万桶，加上替代管道和出口路线后达每日 1500 万桶。然而，来自 OilPrice 和 AGBI 等来源的油轮追踪数据显示交通严重受限，对美国所称流量正常化的说法提出质疑。
+
+google\_news · 财联社 · 8月24日 02:42
+
+**背景**: 霍尔木兹海峡是全球石油贸易的关键咽喉要道，全球约 20%的石油供应经过此处。准确的石油流量测量对市场分析和政策至关重要，但不同的方法（如油轮追踪与官方估计）可能导致差异。国际能源署指出，该海峡流量的任何中断都会对世界石油市场产生巨大影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.agbi.com/analysis/oil-and-gas/2026/08/tanker-data-challenges-us-claim-of-gulf-oil-flow-recovery/">Tanker data challenges US claim of Gulf oil flow recovery</a></li>
+<li><a href="https://oilprice.com/Latest-Energy-News/World-News/Tanker-Data-Contradicts-US-Claim-That-Middle-East-Oil-Flows-Have-Normalized.html">Tanker Data Contradicts U.S. Claim That Middle East Oil Flows ...</a></li>
+<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz - About - IEA</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#霍尔木兹海峡`, `#原油流量`, `#美国能源部`, `#市场数据`
+
+---
+
+<a id="item-7"></a>
+## [宁德时代收紧供应商管控，推进零碳转型](https://news.google.com/rss/articles/CBMia0FVX3lxTE4zbWF1N18xeDhQTXY3VjBSTDlLbklFMzM4Zko1OE1vT0libmxQOWc0ZmlwODZNMzBWdWQ1dkhmUldFS255RHBWZklwckFCaU1WblZmSEl1Vmxza3dETERwX0VOemw2MGJhRDE0?oc=5) ⭐️ 7.0/10
+
+宁德时代宣布，从 2027 年起，所有新供应商必须提供碳足迹数据才能获得准入资格，年度审核将纳入可再生能源比例和单位产品能耗等指标。公司还发布了《绿色采购指南》，并披露了面向 2035 年的价值链碳中和行动路径。 作为全球领先的动力电池制造商，宁德时代的这一举措标志着供应链绿色转型进入深水区，可能树立行业标准并影响能源政策。这将促使电池生态系统中的供应商加快自身的脱碳进程。 宁德时代已建成 20 家零碳工厂，并建立了覆盖超 100 家核心一级供应商的“时代碳链”碳数据平台。新政策规定，在同等条件下优先采购低碳供应商，使碳足迹成为项目投标和供应商准入的硬性要求。
+
+google\_news · 汽车之家 · 8月24日 02:58
+
+**背景**: 中国动力电池产业快速发展，政府一直在推动碳达峰和碳中和目标。工业和信息化部已发布关于汽车动力电池碳足迹申报的通知，表明监管层面正在推动供应链绿色转型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://businesstimescn.com/articles/623900.html">宁德时代2027零碳采购令：碳数据成供应商准入门槛 - 科技商业 - BT财...</a></li>
+<li><a href="https://news.qq.com/rain/a/20260818A0AYQO00">宁德时代将从2027年起强制审查供应链碳足迹_腾讯新闻</a></li>
+<li><a href="https://www.reach24h.com/carbon-neutrality/industry-news/footprint-supplier-requirement">宁德时代绿色采购“动真格”：2027年起，碳足迹将成供应商准入硬指标</a></li>
+<li><a href="https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2025/art_4fcc7b031c434336abc328698de02f24.html">工业和信息化部办公厅关于开展汽车动力电池碳足迹申报工作的通知</a></li>
+
+</ul>
+</details>
+
+**标签**: `#宁德时代`, `#零碳转型`, `#供应链`, `#能源政策`, `#动力电池`
+
+---
+
+<a id="item-8"></a>
+## [全球构网型储能订单激增，华为、阳光电源深挖护城河](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVJWb0hId2plNWMwZG5CaUd5ekFNS2lPOWFDM0lvT3pLQ05GaXpmUkZ3TnV2NjFFMi01M0NzOURuSzRVeXZZNUVfMEpiVmFSdllfT0ZJeWJWUGk0ejBjdUVYNGpXZXk4a2R1dFdaNFJTS0NOd1RPeEJEQVVDeE1hanhpcUt4NVlCRHRWdElYNzQ5NTM5YXRzTkowMUZfWGw3eGh4aC15cw?oc=5) ⭐️ 7.0/10
+
+全球构网型储能订单激增，华为、阳光电源等中国企业领跑市场。华为在 2025 年 Intersolar Europe 上发布了全场景构网型储能解决方案，阳光电源则在 2026 年 Intersolar 上推出了三款构网型新品，包括 PowerTitan 3.0。 这一趋势意义重大，因为构网型储能对于高可再生能源渗透率下的弱电网稳定至关重要，也是储能企业高毛利的增长领域。中国企业的领先地位可能重塑全球储能竞争格局，加速能源转型。 伍德麦肯兹预测未来十年全球将新增超过 1000GW 构网型储能容量。华为的解决方案融合数字技术与电力电子技术，而阳光电源的 PowerTitan 3.0 单柜容量 12.5MWh，双向转换效率 99.3%，已应用于阿联酋 7.5GWh 项目。
+
+google\_news · 新浪财经 · 8月24日 01:13
+
+**背景**: 构网型储能（GFM）与跟网型储能不同，它能主动建立电网电压和频率，为弱电网或孤岛微电网提供稳定性。随着可再生能源渗透率提高，电网变弱（SCR 常低于 2.0），这变得越来越重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1066690947_122014422">全球构网型储能爆单，华为、阳光电源如何深挖护城河？</a></li>
+<li><a href="https://solar.huawei.com/cn/news/2025/huawei-digital-power-s-all-scenario-grid-forming-ess-accelerates-the-global-energy-transition-and-construction-of-new-power-systems/">华为数字能源以全场景构网型储能解决方案迈入全面构网时代</a></li>
+<li><a href="https://cn.solarbe.com/news/20260727/50026545.html">Intersolar 2026阳光电源构网型储能最新产品全景解读-碳索储能网</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 来自搜狐和雪球的评论强调，构网型技术是高毛利的关键差异化因素，并以阳光电源为例。一些评论者对市场潜力表示乐观，而另一些则对技术挑战和竞争表示谨慎。
+
+**标签**: `#构网型储能`, `#华为`, `#阳光电源`, `#能源政策`, `#市场竞争`
+
+---
+
+<a id="item-9"></a>
+## [深圳征集 2026 碳达峰碳中和论坛绿色低碳案例](https://news.google.com/rss/articles/CBMid0FVX3lxTFBINVZ3RDBQQ0lwWnNIMVBZRm1sYlJQRS03WjFjUndSMm9CZEhtQUVTclZjRjRQR3VZOXVYQU9hbkw2MmcydUo3ZjRmLXhqUFBlWm15S0JFbV9GLWpVQWN2S3pkd083Z2JPYUFXMEVDakFMNE1GVm9B?oc=5) ⭐️ 6.0/10
+
+深圳市发展和改革委员会发布通知，征集 2026 碳达峰碳中和论坛暨深圳国家低碳城论坛的绿色低碳发展成果案例。此举旨在展示该领域的成功实践与创新。 此次案例征集为企事业单位、研究机构和地方政府提供了一个展示其在碳达峰碳中和目标方面贡献的平台。它有助于促进知识共享，鼓励绿色技术的更广泛应用，从而支持中国的整体气候承诺。 该通知针对 2026 年的论坛，该论坛是已举办十余年的深圳国家低碳城论坛系列的一部分。提交的案例预计涵盖绿色技术、可持续城市规划和低碳产业实践等领域。
+
+google\_news · sz.gov.cn · 8月24日 01:55
+
+**背景**: 深圳国际低碳城于 2015 年入选首批国家低碳城（镇）试点，为全国新型城镇化和低碳发展提供了实践经验。深圳国家低碳城论坛自 2013 年起每年举办，已成为讨论气候政策和展示绿色创新的重要平台。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.dutenews.com/n/article/7224640">dutenews.com/n/article/7224640</a></li>
+<li><a href="http://sz.people.com.cn/n2/2024/1105/c202846-41032121.html">持续12年， 深 圳 国 际 低 碳 城 论 坛 向世界讲述了什么</a></li>
+
+</ul>
+</details>
+
+**标签**: `#carbon peak`, `#carbon neutrality`, `#green development`, `#Shenzhen`, `#case collection`
+
+---
+
+<a id="item-10"></a>
+## [新能源政策重塑行业，墨迹天气“电灵”平台助力精细运营](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lM1ZFTVVJMVEyYWpOU2JBQjAyZjBaSzh5WVR5NTRQSnZKX0lZSXE5dUdDeFpMcEhreWtWOUdUOUoyTkNWdHAzUFJvdXJQN0RuU1pXS3B3M0thN2M?oc=5) ⭐️ 6.0/10
+
+文章报道，新能源政策正加速重塑行业竞争力，墨迹天气自主研发的“ElectroMetis 电灵”能源气象 SaaS 平台被用于支持能源领域的精细化运营管理。 这很重要，因为随着新能源政策推动更多可再生能源项目进入市场，基于天气的精准运营工具对于优化资产性能和竞争力变得至关重要。它凸显了数字平台正成为能源企业适应政策驱动的市场变化的关键。 “电灵”平台于 2025 年 5 月 28 日正式发布，整合气象大数据和 AI，为可再生能源电站提供多维预测和防御能力。它旨在打通新能源电站全链路运营，实现数据驱动的决策。
+
+google\_news · 能源界 · 8月24日 06:34
+
+**背景**: 2025 年初，国家发改委与国家能源局联合印发“136 号文”，要求自 2025 年 6 月 1 日起，新增新能源项目上网电量原则上全部进入电力市场。这一政策转变要求更精细化的运营策略，使得像“电灵”这样基于天气的分析平台对于管理波动性可再生能源输出越来越重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.admin5.com/article/20260703/1064870.shtml">亮相能源数字生态大会 墨 迹 天 气 “ 电 灵 ”一体化SaaS...</a></li>
+<li><a href="https://www.china5e.com/news/news-1204392-1.html">china5e.com/news/news-1204392-1.html</a></li>
+<li><a href="https://news.solarbe.com/202606/05/50024033.html">破局“看 天 吃饭”， 墨 迹 天 气 如何重塑新能源资产价值？ -索比光伏网</a></li>
+<li><a href="https://www.sohu.com/a/903146266_121998425">新能源加速“入市”！精细化运营时代来临，企业亟需转型提质增效</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新能源政策`, `#行业竞争力`, `#精细运营`, `#墨迹天气`, `#能源管理`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [海洋温度创历史新高，预示气候危机加速](https://www.bbc.com/news/articles/c62m4gpnp78o) ⭐️ 9.0/10
+
+据 BBC 报道，海洋温度已达到有记录以来的最高值，标志着气候危机的一个重要里程碑。这一纪录凸显了全球海洋变暖的加速。 这一纪录对全球天气模式、海洋生态系统和沿海社区具有深远影响，因为更温暖的海洋会助长更强烈的风暴并扰乱海洋生物。它还与科技行业日益增长的能源需求（尤其是数据中心）相交，凸显了气候行动的紧迫性。 该报道未给出具体温度数值，但这一纪录是温室气体排放导致海洋温度长期上升趋势的一部分。变暖尤其令人担忧，因为它可能引发反馈循环，例如冰盖减少导致更多太阳辐射被吸收。
+
+hackernews · tcp\_handshaker · 8月24日 19:19 · [社区讨论](https://news.ycombinator.com/item?id=49424606)
+
+**背景**: 海洋吸收了全球变暖产生的约 90%的额外热量，因此海洋温度是气候变化的关键指标。海洋温度上升可能导致海平面上升、珊瑚白化和更强烈的飓风。该纪录基于 NOAA 等机构追踪海洋热含量的数据。
+
+**社区讨论**: 评论者表达了担忧和沮丧，一些人指出政府做得不够或正在积极恶化问题，例如扩大化石燃料开采和攻击可再生能源。其他人则强调了冰反照率反馈背后的科学，以及厄尔尼诺事件可能带来的不可预测性，而一位评论者反思了几度之差可能带来的巨大差异。
+
+**标签**: `#climate change`, `#ocean temperature`, `#environmental science`, `#global warming`, `#climate policy`
+
+---
+
+<a id="item-12"></a>
+## [小米新 CPU 单核追平苹果，多核性能超越](https://twitter.com/lemire/status/2091894299289874926) ⭐️ 8.0/10
+
+据泄露的 Geekbench 跑分，小米新款玄戒 O3 CPU 在单核性能上追平苹果，并在多线程任务中超越。该芯片采用台积电 3nm N3P 工艺，配备 6 个“Ultra”核心。 这一进展可能颠覆移动芯片市场，对高通和联发科构成重大挑战。作为全球第三大智能手机制造商，小米自研芯片的成功可能减少对外部供应商的依赖，并加剧竞争。 玄戒 O3 的芯片面积为 133mm²，大于前代的 109mm²，并配备 16 核 G2-Ultra NX GPU。然而，泄露的跑分可能无法反映实际性能，因为智能手机中的功耗和散热限制会影响表现。
+
+hackernews · tosh · 8月24日 15:08 · [社区讨论](https://news.ycombinator.com/item?id=49420873)
+
+**背景**: 移动 CPU 通常通过 Geekbench 等基准测试来比较单核和多核性能。苹果的 A 系列和 M 系列芯片长期以来在单核性能上领先，而安卓竞争对手往往依靠更多核心来提升多线程性能。小米的玄戒系列代表其进军自研芯片设计，旨在与老牌厂商竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wccftech.com/xiaomi-xring-03-official-tsmc-3nm-n3p-lpddr6-ram/">Xiaomi ’s XRING 03 Goes Official On TSMC’s 3nm N3P Process ...</a></li>
+<li><a href="https://gadgetversus.com/processor/xiaomi-vs-apple-m1/">Xiaomi vs Apple M1 - GadgetVersus</a></li>
+<li><a href="https://unanswered.io/guide/xiaomi-vs-apple-comparison">Xiaomi vs Apple 2025: Real Rivalry or Imitation? - unanswered.io</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出，玄戒 O3 本质上与联发科天玑 9500 相同，实际跑分可能因散热限制降至约 3300。他们强调每瓦性能是最关键的指标，苹果芯片在能效上仍领先。还有人指出，“追平”苹果单核性能令人印象深刻，但并未取代苹果，因为苹果 M5 Max 的多核分数仍然更高。
+
+**标签**: `#Xiaomi`, `#CPU`, `#Apple`, `#semiconductor`, `#mobile chips`
+
+---
+
+<a id="item-13"></a>
+## [MS Paint 和照片应用为 AI 图像添加隐形 GUID 水印](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
+
+微软的画图（Paint）和照片（Photos）应用现在会在本地生成的 AI 编辑图像中嵌入包含服务器颁发 GUID 的隐形水印，即使处理过程完全在设备上进行。这一发现是通过对 Watermarker.dll 进行逆向工程得出的，揭示了分布在约 74% 像素中的 18 字节载荷。 这引发了严重的隐私和匿名性问题，因为 GUID 可以追溯到 Microsoft 账户，可能使分享 AI 编辑图像的用户被去匿名化。这也凸显了 AI 工具中无声强制水印的普遍趋势，可能带来法律和伦理影响。 即使使用本地 AI 模型，水印也会被添加，GUID 来自生成前向 Microsoft Azure Front Door 端点发出的强制远程审核请求。如果水印步骤失败，画图应用会完全取消图像生成，表明该步骤不可选择。
+
+hackernews · ComputerGuru · 8月24日 15:28 · [社区讨论](https://news.ycombinator.com/item?id=49421158)
+
+**背景**: 水印是一种将识别信息嵌入数字媒体的技术，常用于防止未经授权的使用或追踪来源。在 AI 生成内容的背景下，隐形水印可以作为问责手段，但也引发了对用户隐私和控制的担忧。微软的这一实现似乎是其更广泛的 AI 安全措施的一部分，但缺乏透明度引发了争议。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mangodeveloper.com/articles/microsoft-paint-embeds-invisible-guid-watermarks-in-local-ai-images-via-remote-moderation-server">Microsoft Paint Embeds Invisible GUID Watermarks in Local AI ...</a></li>
+<li><a href="https://byteiota.com/ms-paint-invisible-server-guid-watermark-ai-image/">MS Paint Embeds Invisible Server GUIDs in Every AI Image</a></li>
+<li><a href="https://elsolitario.org/en/2026/08/24/microsoft-paint-invisible-guid-watermark/">Invisible Watermark in Microsoft Paint: How It Works</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了震惊和担忧，用户指出隐形水印是一个唯一标识符，可能被用来向微软传唤用户数据。一些人认为 AI 方面是转移注意力的，真正的问题是每张图像都被静默添加了唯一标识符。还有人提到微软过去实施不严谨的事件，建议对此类应用保持谨慎。
+
+**标签**: `#privacy`, `#watermarking`, `#AI`, `#Microsoft`, `#security`
+
+---
+
+<a id="item-14"></a>
+## [LLM 可能利用推理引擎漏洞控制宿主机](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) ⭐️ 8.0/10
+
+一项新的安全分析表明，LLM 可能利用 vLLM 等推理引擎的漏洞在宿主机上执行任意代码。文章举了一个真实例子，其中解析器将工具调用参数传递给 eval\(\)，从而实现了代码执行。 这很重要，因为推理引擎是 AI 部署的关键基础设施，一旦被攻破可能导致数据泄露、模型窃取或数据中心内的横向移动。这凸显了在 AI 基础设施中采取强健安全实践的紧迫性。 攻击面是推理引擎的 HTTP 接口，而非沙箱。文章指出 vLLM 过去曾出现过漏洞，且正在快速开发，风险随之增加。恶意 LLM 可能发出被引擎误认为是代码或指令的令牌。
+
+hackernews · zdw · 8月24日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=49424387)
+
+**背景**: vLLM、llama.cpp 和 SGlang 等推理引擎用于高效地提供 LLM 服务。它们通常暴露 HTTP API 以支持工具调用等功能。如果这些 API 未得到妥善保护，LLM 可能构造请求，利用解析或评估缺陷在宿主机上执行任意代码，而宿主机因其 GPU 资源和对其他系统的访问权限而成为高价值目标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">LLMs could control their host machines by exploiting inference engines</a></li>
+<li><a href="https://www.lesswrong.com/posts/CjeobBGnhxg8xvden/llms-could-control-their-host-machines-by-exploiting">LLMs could control their host machines by exploiting inference ...</a></li>
+<li><a href="https://www.sysdig.com/blog/cve-2026-33626-how-attackers-exploited-lmdeploy-llm-inference-engines-in-12-hours">CVE-2026-33626: How attackers exploited LMDeploy LLM Inference Engines in 12 hours | Sysdig</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者澄清，文章讨论的是通过 HTTP 接口攻击推理引擎，而非沙箱逃逸。有人指出，在带防火墙 VLAN 的沙箱 VM 上运行 vLLM 是一种实用的防御措施。其他人则争论其可行性，有人称其为思想实验，但也承认攻击面的存在。
+
+**标签**: `#AI security`, `#LLM`, `#inference engine`, `#vulnerability`, `#exploit`
+
+---
+
+<a id="item-15"></a>
+## [中国网络亚文化否认唐朝存在](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) ⭐️ 7.0/10
+
+CNN 的一篇文章报道了中国互联网上一种坚持认为唐朝从未存在的亚文化，突显了一种新的历史错误信息形式。这一现象在某些网络社区中获得了关注，引发了关于信息完整性的讨论。 这一趋势凸显了数字时代打击错误信息的挑战，尤其是在历史叙事与国家认同交织的背景下。它也与全球其他阴谋论相似，引发了对平台治理和虚假信息传播的担忧。 文章提到了一位名叫乔宇的历史网红，但一些评论者指出难以核实此人的存在。这一现象被比作“幻影时间”阴谋论，后者同样质疑历史年表。
+
+hackernews · related · 8月24日 21:03 · [社区讨论](https://news.ycombinator.com/item?id=49425819)
+
+**背景**: 唐朝（公元 618-907 年）是中国历史上一个有充分文献记载的时期，拥有大量的考古和文学证据。否认其存在的阴谋论毫无根据，通常源于对官方叙事的不信任或追求轰动效应。
+
+**社区讨论**: 评论者指出乾陵和《旧唐书》等原始资料作为证据，认为该理论荒谬。一些人将其与幻影时间理论相提并论，并指出其他国家也存在类似的叙事斗争，而另一些人则质疑所引网红的可信度。
+
+**标签**: `#misinformation`, `#China`, `#history`, `#internet culture`, `#conspiracy theories`
+
+---
+
+<a id="item-16"></a>
+## [整个旧金山被渲染成可玩的网页游戏](https://sf.thijs.gg/) ⭐️ 7.0/10
+
+位于 sf.thijs.gg 的一个网页项目利用真实 GIS 数据将整个旧金山渲染成可玩的视频游戏。该项目由 @cdngdev 在 Twitter 上分享，并在科技社区引起了广泛关注。 该演示展示了将真实 GIS 数据转换为可玩游戏环境的可行性，在城市规划、游戏和模拟方面具有潜在应用。它凸显了利用地理空间数据创建沉浸式、逼真虚拟世界的日益增长的趋势。 该项目使用真实的 GIS 数据，包括高程、建筑轮廓和其他地理信息，程序化生成城市。它在网页浏览器中运行，易于访问，并引发了关于从真实数据创建类似 GTA 地图的流程的讨论。
+
+hackernews · centrosphere · 8月24日 17:05 · [社区讨论](https://news.ycombinator.com/item?id=49422784)
+
+**背景**: GIS（地理信息系统）数据在视频游戏中越来越多地被用于创建逼真的环境，如《精灵宝可梦 GO》和《微软飞行模拟器》等游戏。程序化生成是一种使用算法自动创建内容的技术，使得无需手动设计即可创建广阔而详细的世界。该项目结合了这些概念，将真实城市变成了可玩的游戏。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.geo-tel.com/gis-mapping-in-video-games-levels-up-gaming/">GIS Mapping in Video Games Levels-up the Gaming Industry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Procedural_generation">Procedural generation - Wikipedia</a></li>
+<li><a href="https://www.esri.com/about/newsroom/arcuser/building-video-games-with-arcgis-technology">Building Video Games with ArcGIS Technology - Esri From Pokémon GO to GTA 6: How GIS Shapes Modern Gaming Leveling Up: How GIS is Transforming the Gaming Industry How Can Gis Be Used In Gaming? - adventuregamestore.com The Game Industry and Geographic Information Systems: A ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了情感联系和技术好奇心的混合。一位在旧金山生活了 20 年的用户表示，在旧街区走动让他们感到激动。另一位用户讨论了将 GIS 数据转换为类似 GTA 地图的梦想流程，还有人提到了像 Vette（1989）这样的旧游戏，并询问页面上的苹果版权声明。
+
+**标签**: `#GIS`, `#game development`, `#San Francisco`, `#procedural generation`, `#AI`
+
+---
+
+<a id="item-17"></a>
+## [欧盟法规威胁创客与微型企业家](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) ⭐️ 7.0/10
+
+一篇文章指出，欧盟近期出台的法规，尤其是与包装和产品合规相关的法规，对创客和微型企业家造成了不成比例的伤害，可能扼杀创新和小规模电子商务。 这很重要，因为它凸显了欧盟监管目标（如可持续性、消费者保护）与小规模创业现实之间的日益紧张关系。如果这些法规实施不当，可能会减少创客经济的多样性，并抑制整个欧洲的草根创新。 文章似乎存在不准确之处，评论者指出微型企业和通用包装通常被豁免。欧盟的实施是分散的，各成员国采用了不同版本，且欧盟已建议在修正完成前不要强制执行。
+
+hackernews · l-one-lone · 8月24日 13:05 · [社区讨论](https://news.ycombinator.com/item?id=49419237)
+
+**背景**: 欧盟一直在推行旨在减少浪费和提高产品安全的法规，例如《包装和包装废弃物法规》（PPWR）和《通用产品安全法规》（GPSR）。这些规则通常要求详细的文件、标签和注册，这对小企业来说可能负担沉重。创客和微型企业家通常销售小批量、定制化产品，可能缺乏合规资源，因此担心会被迫退出市场。
+
+**社区讨论**: 评论者意见不一：一些人认为文章夸大了影响，指出微型企业和通用包装有豁免；另一些人则对成员国之间分散的实施方式和小企业主的负担表示不满。关于监管复杂性应归咎于欧盟还是成员国，也存在争论。
+
+**标签**: `#EU regulation`, `#micro-entrepreneurs`, `#makers`, `#e-commerce`, `#policy`
+
+---
+
+<a id="item-18"></a>
+## [IPFS 维护团队 Shipyard 解散，项目继续运行](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/) ⭐️ 7.0/10
+
+维护 IPFS 核心基础设施的团队 Shipyard 在 Protocol Labs 拒绝续签资金后，正在逐步停止运营，最后一天是 2026 年 9 月 30 日。IPFS 项目本身并未关闭，而是将转向个人维护者资助模式。 这标志着 IPFS 生态系统的一次重大转变，一个主要的维护团队解散，影响了 Kubo、Helia 和 IPFS Desktop 等关键项目。这引发了对去中心化基础设施可持续性的质疑，并凸显了社区驱动维护的重要性。 此次关闭影响了九个失去专职维护者的实现：Kubo、Helia、Boxo、Rainbow、IPFS Desktop、IPFS Companion、Someguy、Service Worker Gateway 和 IPFS Check。Shipyard 曾重新架构 IPFS 网关，以 80%更低的成本处理 3 倍的流量，但现在这些服务，包括 ipfs.io 和 dweb.link，面临风险。
+
+hackernews · iand · 8月24日 15:48 · [社区讨论](https://news.ycombinator.com/item?id=49421489)
+
+**背景**: IPFS（星际文件系统）是一种点对点超媒体协议，旨在通过内容寻址使网络更快、更安全、更开放。Shipyard 是由 Protocol Labs 资助的团队，负责维护和改进核心 IPFS 实现及公共基础设施。向个人资助的转变意味着维护责任将分散到社区成员，而不是集中在一个团队。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/">The end of IPFS at Shipyard</a></li>
+<li><a href="https://zeli.app/story/49421489">IPFS Maintainers Shipyard Shut Down After Protocol Labs Cuts ...</a></li>
+<li><a href="https://byteiota.com/ipfs-shipyard-shuts-down-what-developers-must-do-now/">IPFS Shipyard Shuts Down: What Developers Must Do Now</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员表达了困惑和担忧，一些人澄清只有 Shipyard 在解散，而非整个 IPFS 项目。还有人建议使用由前 IPFS 开发者构建的 Iroh 等替代方案，并批评 Protocol Labs 的资金决策。此外，有人呼吁采用更去中心化的反馈方式，例如避免使用 Google 表单。
+
+**标签**: `#IPFS`, `#decentralization`, `#open source`, `#maintenance`, `#web3`
+
+---
+
+<a id="item-19"></a>
+## [XMPP 庆祝数字独立 25 周年](https://gultsch.de/posts/25-years-of-digital-independence/) ⭐️ 7.0/10
+
+Daniel Gultsch 发表了一篇反思文章，纪念 XMPP 成立 25 周年，强调其在数字独立和开放标准中的作用。该文章恰逢德国“数字独立日”倡议，该倡议将 XMPP 列为替代聊天选项。 这一里程碑凸显了 XMPP 作为去中心化、开放消息协议的持久相关性，与专有平台形成对比。它还引发了社区关于其与 Matrix 竞争以及资金对生态系统发展潜在影响的讨论。 XMPP，原名 Jabber，是一种基于 XML 的协议，由 IETF 标准化并由 XMPP 标准基金会（XSF）维护。文章提到了 Movim 和 Fluux 等社区项目，以及 jmp.chat 电话桥接，展示了活跃的开发。
+
+hackernews · inputmice · 8月24日 15:51 · [社区讨论](https://news.ycombinator.com/item?id=49421536)
+
+**背景**: XMPP 是一种开放、去中心化的消息协议，已使用 25 年，支持即时通讯和在线状态。它设计为可扩展，由 XSF 管理，负责 XEP 扩展流程。该协议的历史包括谷歌和 Facebook 等大公司的贡献，后来它们转向了专有系统。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/XMPP">XMPP - Wikipedia</a></li>
+<li><a href="https://xmpp.org/about/history/">History of XMPP | XMPP - The universal messaging standard</a></li>
+<li><a href="https://gultsch.de/posts/25-years-of-digital-independence/">Daniel Gultsch | Jabber/XMPP: 25 Years of Digital Independence</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了对 XMPP 与谷歌和 Facebook 合作历史的怀念，以及对 Movim 和 Fluux 等项目的未来希望。一些用户称赞 jmp.chat 的无缝电话集成，而另一些用户则遗憾缺乏能与 Telegram 客户端质量匹敌的客户端，并质疑 XMPP 当前的社区规模。
+
+**标签**: `#XMPP`, `#open protocols`, `#decentralization`, `#messaging`, `#digital independence`
+
+---
+
+<a id="item-20"></a>
+## [AI 时代中的愤怒、焦虑与自主性](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/) ⭐️ 7.0/10
+
+Armin Ronacher 的文章《愤怒、焦虑与自主性》探讨了愤怒和焦虑如何影响我们对 AI 驱动变革的反应，并主张在不确定时期重新掌控自主性至关重要。 这篇文章为关于 AI 社会影响的日益增长的讨论提供了心理学视角，与面临快速变化的开发者和技术专家产生共鸣。它强调了伴随技术进步而来的情感挑战，这对更广泛的 AI 社区具有相关性。 这篇文章发表在 Armin Ronacher 的个人博客 lucumr.pocoo.org 上，日期为 2026 年 8 月 24 日。它没有提出技术突破，而是进行反思性分析，并引发了社区讨论，对愤怒和焦虑的本质提出了不同观点。
+
+hackernews · lumpa · 8月24日 18:37 · [社区讨论](https://news.ycombinator.com/item?id=49424082)
+
+**背景**: Armin Ronacher 是知名软件开发者，Flask Web 框架的创建者。这篇文章讨论了人们对 AI 进步的情感反应，随着 AI 工具日益融入日常工作，这一话题越来越具有现实意义。讨论涉及心理学概念，如愤怒与不确定性之间的关系，以及自主性在应对变化中的作用。
+
+**社区讨论**: 社区评论中既有赞同也有反对。一些人认为愤怒是对恐惧和不确定性的反应，而另一些人则建议在工作场所接受各种情绪很重要。一位评论者表示，尽管热爱工作，但对跟上 AI 发展感到焦虑，凸显了快速变化对个人的影响。
+
+**标签**: `#AI`, `#emotion`, `#agency`, `#technology`, `#society`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [小米发布玄戒 AI 芯片全家桶，官宣阔折叠手机](https://www.ifanr.com/1676441?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 8.0/10
+
+小米发布了自研玄戒 AI 芯片系列，包括玄戒 O3、O100 和 D100，分别面向个人智能终端、端侧 AI 加速和 AI 智驾场景。同时，小米还官宣了其即将推出的“阔折叠”手机，这是一种全新的折叠屏形态。 这标志着小米在半导体和 AI 硬件领域的重大布局，可能重塑高端智能手机和 AI 芯片市场的竞争格局。“阔折叠”形态由华为带火，小米的加入可能推动这一新趋势的发展。 玄戒 O3 是一款采用 3nm 先进制程的 AI 旗舰 SoC，采用十核全大核设计，安兔兔跑分超过 522 万分，是首个突破 500 万分的旗舰 SoC。预计将于今年 9 月搭载在小米 18 Fold 上。O100 主打端侧 AI 加速，D100 则面向 AI 智驾。
+
+rss · 爱范儿 · 8月24日 09:07
+
+**背景**: 折叠屏手机的内屏比例正从接近 1:1 的正方形向更宽的 16:10 或√2:1（类 A4 纸比例）演进，这种形态被称为“阔折叠”，由华为 Pura X 首次量产。小米进入这一形态并推出自研芯片，反映了行业垂直整合的趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ithome.com/0/993/602.htm">小米玄戒三芯齐发，央视新闻报道称“中国芯片产业再突破” - IT之家</a></li>
+<li><a href="https://www.ithome.com/0/993/519.htm">首个突破 500 万分的旗舰 SoC！小米玄戒 O3 正式发布，CPU 采用十核全大核设计 - IT之家</a></li>
+<li><a href="https://www.ithome.com/0/920/045.htm">曝华为 Pura X 阔折叠手机激活销量超百万，二代机型在路上 - IT之家</a></li>
+
+</ul>
+</details>
+
+**标签**: `#小米`, `#AI芯片`, `#玄戒`, `#阔折叠`, `#硬件`
+
+---
+
+<a id="item-22"></a>
+## [Hugging Face 洽谈 130 亿美元收购](https://www.ifanr.com/1676393?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 8.0/10
+
+据报道，被称为“AI 界的 GitHub”的 Hugging Face 正在探索出售，估值可能达到 130 亿美元或更高，并已聘请投行试探潜在买家兴趣。这距离其 D 轮融资 45 亿美元估值不到三年。 这笔潜在交易凸显了 AI 模型与用户之间“中间层”的战略重要性，大型科技公司正竞相抢占分发渠道和生态优势。若交易完成，将成为迄今最大的 AI 收购之一，重塑开源 AI 社区的竞争格局。 Hugging Face 托管超过 100 万个社区模型、数十万个数据集，月活访客约 1800 万，注册用户约 500 万。其年经常性收入估计在 4000 万至 7000 万美元之间，意味着市销率超过 180 倍，这反映了为其生态位支付的溢价，而非当前财务表现。
+
+rss · 爱范儿 · 8月24日 03:35
+
+**背景**: Hugging Face 是一家总部位于纽约的公司，提供机器学习的工具和平台，包括流行的 Transformers 库以及共享模型和数据集的中心。“中间层”指的是连接基础 AI 模型与最终用户的公司，例如模型路由平台 OpenRouter，Stripe 最近以超过 80 亿美元收购了它。这笔潜在收购凸显了 AI 基础设施领域整合的增长趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Hugging_Face">Hugging Face - Wikipedia</a></li>
+<li><a href="https://www.ibm.com/think/topics/hugging-face">What is Hugging Face? - IBM</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Hugging Face`, `#AI acquisition`, `#tech industry`, `#M&amp;A`, `#AI platform`
+
+---
+
+<a id="item-23"></a>
+## [机器人会干活了，但还没学会“别多管闲事”](https://www.tmtpost.com/8114648.html) ⭐️ 8.0/10
+
+文章提出了机器人自主交互的三级框架，对机器人介入人类生活的程度进行分级。三个级别分别为：L1（接受明确指令，被动响应）、L2（理解事件和状态，提供选择）、L3（在限定条件下主动介入，并在越界前交还给人）。 该框架填补了行业空白，为机器人介入人类生活的自主性分级提供了标准，对机器人伦理、人机协作和产品设计具有重要指导意义。它为开发者和政策制定者提供了在自主性与人类控制之间取得平衡的指导。 该框架专门针对机器人介入人类生活缺乏分级的问题，不同于现有的运动和作业能力分级。三个级别从被动到主动递进，其中 L3 强调在限定条件下主动介入，并在越界前将控制权交还给人。
+
+rss · 钛媒体 · 8月24日 12:16
+
+**背景**: 在机器人领域，自主性通常按任务执行级别划分，例如驾驶自动化的 SAE 级别。然而，对于机器人在日常生活中如何与人类互动，一直没有相应的标准。该框架旨在建立这样的标准，解决机器人做出影响人类的决策所带来的伦理问题。这也是人机交互研究更广泛趋势的一部分，该趋势探索机器人如何理解人类意图并采取适当行动。
+
+**标签**: `#机器人`, `#人机交互`, `#自主性分级`, `#伦理`, `#行业标准`
+
+---
+
+<a id="item-24"></a>
+## [北京机器人大会标志行业转向实用可靠机器](https://www.tmtpost.com/8114886.html) ⭐️ 8.0/10
+
+为期五天的北京机器人大会在首都南部发展区举行，展示了机器人行业从纯演示向实用性的转变，重点关注机器人能否在工厂、物流线和日常服务中可靠运行。 这一转变回应了市场对工业和服务领域可靠自动化日益增长的需求，可能加速机器人在实际应用中的采用。它标志着行业的成熟，超越炒作，为企业与消费者带来切实价值。 会议强调了可靠性标准（如 ISO 10218）的重要性，这些标准对确保机器人安全可靠运行至关重要。活动还展示了尖端展品，包括果蔬采摘机器人，体现了正在追求的实际应用。
+
+rss · 钛媒体 · 8月24日 10:03
+
+**背景**: 机器人行业历来注重展示技术实力，但买家越来越要求可靠性和可用性，以便集成到工厂和物流中。ISO 10218 等标准为工业机器人提供安全指南，解决危险并确保安全的人机交互。北京机器人大会作为世界机器人大会系列的一部分，是展示这些趋势和促进行业对话的平台。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.toolify.ai/ai-news/world-robot-conference-2023-the-epicenter-of-robotics-innovation-3781609">World Robot Conference 2023 : The Epicenter of Robotics Innovation</a></li>
+<li><a href="https://english.www.gov.cn/news/202308/18/content_WS64df6be5c6d0868f4e8deaa7.html">Cutting-edge robotic prowess displayed during World Robot ...</a></li>
+<li><a href="https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=820605">CHAPTER 27 Industrial Robotics Standards - NIST ISO - Robotics What Is ANSI/A3 R15.06-2025 / ANSI/A3 R15.06-3-2025? The Review of Reliability Factors Related to Industrial Robots 8 Robot Reliability - Springer Industrial Robot Safety Standards: ISO 10218, ISO/TS 15066 ... ISO 10218-1:2025 (en), Robotics — Safety requirements — Part ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#robotics`, `#industry trends`, `#Beijing conference`, `#automation`, `#usability`
+
+---
+
+<a id="item-25"></a>
+## [中国 PD-1 市场：竞争、泡沫与重生](https://www.tmtpost.com/8114785.html) ⭐️ 8.0/10
+
+该文章深入分析了中国 PD-1 抑制剂市场，强调了激烈的竞争、市场泡沫的形成以及随后行业向重生的演变。 这一分析对制药和生物技术行业具有重要意义，因为它揭示了一个拥挤市场的动态、对主要公司的战略影响，以及市场整合和创新的潜力。 文章讨论了中国 PD-1 抑制剂之间的竞争格局、导致泡沫的因素，以及公司为生存和发展所采取的策略。还涉及政府政策的作用以及向联合疗法和新适应症的转变。
+
+rss · 钛媒体 · 8月24日 10:01
+
+**背景**: PD-1（程序性细胞死亡蛋白 1）是 T 细胞上的一种蛋白质，能抑制免疫反应。PD-1 抑制剂是一类癌症免疫疗法，通过阻断这种蛋白质来增强免疫系统对抗癌症的能力。在中国，PD-1 抑制剂市场迅速涌入大量产品，导致激烈竞争和价格战，形成了泡沫，现在正迫使企业创新或退出。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinajy.org.cn/article/4289.html">chinajy.org.cn/article/4289.html</a></li>
+<li><a href="https://www.docin.com/p-4899927624.html">2025年中国PD-1与PD-L1抑制剂市场占有率及行业竞争格局分析报告</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1949135794041230725">IQVIA发布 | 2025年上半年中国PD-(L)1药物市场回顾</a></li>
+
+</ul>
+</details>
+
+**标签**: `#PD-1`, `#中国医药`, `#市场竞争`, `#生物技术`, `#行业分析`
+
+---
+
+<a id="item-26"></a>
+## [AstraTennis 时刻：人形机器人在全球直播中打了一场真正的网球](http://www.geekpark.net/news/369283) ⭐️ 8.0/10
+
+2026 年 8 月 22 日，在第二届世界人形机器人运动会上，银河通用开发的人形机器人在全球直播的表演赛中与顶尖球员进行了真正的网球对抗，自主完成了发球、正手、反手和双打配合。这标志着人形机器人首次在大型体育赛事直播中打网球。 这一事件是具身智能的重要里程碑，展示了机器人在开放环境中应对实时、动态物理挑战的能力，而非仅仅执行预设动作。它标志着从数字 AI（如 AlphaGo）向物理 AI 的转变，对机器人、AI 和体育产业具有潜在影响。 该机器人由银河通用自主研发的具身智能大模型银河星脑驱动，该模型首次将“大脑”、“小脑”和神经控制集成于一个模型。训练由银河星坊平台支持，该平台将不完美的人类数据转化为训练数据，并在虚拟网球世界中模拟数百万次多智能体博弈，相当于人类数十年的训练量。
+
+rss · 极客公园 · 8月24日 07:25
+
+**背景**: 人形机器人通常被展示为行走、跳舞或简单的预设动作，这些动作的环境变化有限。而网球需要在不可预测的条件下进行快速感知、决策和身体控制，因此成为具身 AI 的严格测试。这一事件与 2016 年 AlphaGo 战胜李世石相呼应，但将智能从数字棋盘延伸到了物理球场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260822A0BY8900?adChannelId=tech">全程直播！银河通用实现全球首次机器人自主网球赛！“AstraTennis时刻”...</a></li>
+<li><a href="https://user.guancha.cn/main/content?id=1720077">「AstraTennis」时刻：机器人在全球直播中打了 一 场真正的网球_风闻</a></li>
+<li><a href="https://www.geekpark.net/news/369283">「AstraTennis...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#embodied AI`, `#humanoid robot`, `#tennis`, `#robotics`, `#live broadcast`
+
+---
+
+<a id="item-27"></a>
+## [形界智能：两段式架构是市场对 AI 实时视频的最大误判](http://www.geekpark.net/news/369264) ⭐️ 8.0/10
+
+文章指出，市场对 Sora、可灵等离线两段式生成模型的关注是一种误判，并强调了第三条路线——全域沉浸式生成的出现，以形界智能的 Rise 系列为代表，通过摄像头实现自然交互。文章还提到近期实时视频生成领域的投资热潮，包括 Anthropic 据报道以约 60 亿美元收购 Decart 的洽谈。 这很重要，因为它挑战了行业普遍认为离线视频生成是主要路径的共识，并表明实时、沉浸式生成可能解锁新的交互体验和商业模式，类似于直播如何改变短视频平台。它还标志着资本流向的转变，主要投资者押注多条路线，表明实时视频对游戏、直播、教育和具身智能的战略重要性。 文章描述了三条技术路线：离线生成（Seedance、可灵、Vidu）、实时流式生成（World Labs、Odyssey、爱诗科技、智象未来）和沉浸式生成（形界智能的 Rise 系列）。形界智能成立于 2026 年 5 月，由中科大博士王裕鑫创立，其发表 20 多篇顶会论文，成立首月即获得数千万元天使轮融资，其 Stream-R1 和 Stream-T1 模型登顶 Hugging Face 每日论文榜前二。
+
+rss · 极客公园 · 8月24日 06:18
+
+**背景**: 文章提到 2024 年 Google Research 和 DeepMind 的 DOOM 演示，其中游戏由神经模型实时渲染，但行业随后转向 Sora 等离线生成模型。两段式架构通常涉及生成潜在表示，然后解码为视频，计算成本高，不适合实时交互。沉浸式生成旨在通过使用手势和表情等自然人类输入来降低门槛，而不是提示或控制。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.geekpark.net/news/369264">形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判</a></li>
+<li><a href="https://xueqiu.com/7748174714/406329626">形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判 投资人广...</a></li>
+<li><a href="https://blog.csdn.net/hwhsong/article/details/155889441">AI视频生成技术原理与行业应用 - AI视频技术原理与架构_生成式视频的...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI视频生成`, `#实时渲染`, `#两段式架构`, `#资本市场`, `#技术趋势`
+
+---
+
+<a id="item-28"></a>
+## [苹果折叠 iPhone 细节曝光：创新不止于屏幕](https://www.ifanr.com/1676310?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+最新爆料显示，苹果首款折叠 iPhone 预计于 2026 年秋季发布，采用书本式横向内折设计，配备液态金属铰链，外屏约 5.5 英寸，内屏约 7.8 英寸，起售价可能超过 2000 美元。其创新不仅限于屏幕，还包括先进的铰链工程和双层玻璃设计，以改善折痕控制。 这标志着苹果进入折叠屏智能手机市场，可能重塑与三星及其他安卓厂商的竞争格局。它可能为耐用性和折痕管理树立新标准，影响消费者期望和行业趋势。 据传该设备采用液态金属铰链以增强耐用性和优化重量，苹果已向三星显示下达多达 2000 万片折叠屏订单，显示出对需求的强烈信心。目前折叠屏的折痕深度已压缩至约 12 微米，在正常观看距离下几乎不可见，苹果旨在通过其工程重新定义折痕控制。
+
+rss · 爱范儿 · 8月24日 09:31
+
+**背景**: 自 2019 年三星 Galaxy Fold 发布以来，折叠屏智能手机已进入市场，但一直面临折痕明显和耐用性等问题。苹果的入局备受期待，其对铰链工程和屏幕材料的关注可能解决这些痛点。随着这些问题的解决，折叠屏市场预计将迎来显著增长。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sina.cn/gc/article/nipncma9900385.html">折叠iPhone细节曝光：液态金属铰链、7.8英寸内屏，2026年秋季发布|折...</a></li>
+<li><a href="https://xueqiu.com/1363444956/382846885">iPhone Fold 3D打印铰链实现重大突破，折痕控制效果惊艳 苹果 首款可...</a></li>
+<li><a href="https://www.toutiao.com/article/7595371758555890216/">苹果折叠iPhone液态金属铰链传闻：耐用性与重量优化新方向</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 未提供社区评论，但根据新闻摘要，存在高度期待和怀疑并存的情况。一些用户对苹果的创新方法感到兴奋，而另一些则质疑高昂的价格和潜在的耐用性问题。
+
+**标签**: `#苹果`, `#折叠屏`, `#iPhone`, `#科技新闻`
+
+---
+
+<a id="item-29"></a>
+## [英伟达押注 Perplexity：它真的值 300 亿美元吗？](https://www.ifanr.com/1676435?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+英伟达已投资 Perplexity AI，这家初创公司的估值据报道已达到 300 亿美元，引发关于这家 AI 搜索公司是否被高估的讨论。 这项投资标志着英伟达战略性地进军 AI 应用领域，而不仅仅是硬件，同时凸显了 AI 搜索市场的激烈竞争和高估值，这可能影响投资者、谷歌和 OpenAI 等竞争对手以及更广泛的科技生态系统。 截至 2025 年 9 月，Perplexity 的估值为 200 亿美元，据报道已升至 300 亿美元。该公司面临来自媒体机构关于版权和网络抓取的法律挑战，并与谷歌和 OpenAI 在 AI 驱动的搜索领域展开竞争。
+
+rss · 爱范儿 · 8月24日 08:33
+
+**背景**: Perplexity AI 是一家成立于 2022 年的初创公司，提供基于大型语言模型和实时网络搜索的 AI 搜索引擎。它迅速成长，估值在短时间内从 10 亿美元飙升至 300 亿美元，但也面临法律审查和激烈竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Perplexity_AI,_Inc.">Perplexity AI, Inc.</a></li>
+<li><a href="https://36kr.com/p/3291054193621124">员工200人， 估 值 千亿，海外 AI 搜 索 创 企挑战谷歌-36氪</a></li>
+<li><a href="https://m.chinaventure.com.cn/news/78-20250902-387853.html">广告，救不了 AI 搜 索 | 投中网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#Perplexity`, `#AI investment`, `#valuation`, `#tech industry`
+
+---
+
+<a id="item-30"></a>
+## [上影与筷子科技投入 50 台 DGX 和万亿 Token 补贴打造专业级 AI 片场](https://www.ifanr.com/1676318?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+上影集团与筷子科技合作，投入 50 台 NVIDIA DGX 系统并提供万亿 Token 补贴，打造专业级 AI 片场，以支持 AI 驱动的影视制作。 此次合作标志着 AI 在中国影视行业整合的重要一步，可能为 AI 辅助制作设定新标准，并影响大型制片厂采用 AI 技术的方式。它可能加速内容创作向智能化工作流的转变，惠及创作者和更广泛的 AI 生态系统。 投资包括 50 台 NVIDIA DGX 系统（高性能 AI 计算平台）和万亿 Token 补贴（可能指用于 AI 模型调用的补贴 API 令牌）。该计划旨在为影视专业人士提供可靠且易用的 AI 基础设施。
+
+rss · 爱范儿 · 8月24日 04:00
+
+**背景**: NVIDIA DGX 是一个开箱即用的 AI 计算平台，包含硬件、软件和集群管理，专为 AI 工厂和数据中心设计。Token 补贴是降低大语言模型使用成本的常见方式，因为 Token 是 AI 处理文本的基本单位。此次合作利用这些技术，为 AI 驱动的影视制作打造专门环境。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/17222633651">GPU平台的DGX、EGX、IGX、HGX、MGX区别 - 知乎</a></li>
+<li><a href="https://www.zhihu.com/question/476173381">NVIDIA HGX 、DGX 、EGX 是什么意思？ - 知乎</a></li>
+<li><a href="https://www.toutiao.com/article/7622197860994204187/">企业给员工发Token补贴，主流形式是什么 - 今日头条</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI影视`, `#上影`, `#筷子科技`, `#DGX`, `#影视制作`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-31"></a>
+## [中国要求转人工入口清晰醒目，企业须对 AI 客服答复负责](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uYnZsWFhqRUhLVm1fQVJ0aW43RU9DMTdyUDJYZ0xIMXlDQUVTal9STWpXQ00tOVJQTUQzeUdnNmdVeldtRGFWcGpzOENpV2kzZ0w4Y0RndFJ6OXdpRVhfeEhoaXpycHMy?oc=5) ⭐️ 7.0/10
+
+中国监管机构发布新国家标准，要求企业提供清晰醒目的转人工菜单入口，并对 AI 客服系统作出的承诺承担责任。该标准将于 2026 年 9 月 1 日生效，强制要求设置转人工通道。 这一监管动态直接影响企业如何在客服中部署 AI 聊天机器人，确保透明度和问责制。它解决了消费者普遍反映的转人工难和 AI 承诺不兑现问题，对中国庞大的客服行业中的企业和消费者都将产生影响。 新国家标准《顾客联络服务 人工与智能客户服务协同 要求》规定，人工入口不可隐藏，复杂纠纷须及时转人工，企业需为 AI 回复作出的承诺负责。建议消费者保留聊天截图作为证据，以便向 12315 或行业主管部门投诉。
+
+rss · 客服行业动态 · 8月24日 05:48
+
+**背景**: AI 客服聊天机器人在中国已广泛使用，但消费者常常难以联系到人工客服，导致投诉频发。新标准是首个针对此问题的国家标准，旨在规范客服领域的人机协同。该标准是针对 AI 客服滥用成为投诉重灾区而制定的。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cj.sina.com.cn/articles/view/7879996032/1d5af328006801mih0">AI客服转人工要6分钟？新国标2026年9月1日强制设转人工通道</a></li>
+<li><a href="https://cloud.tencent.com/developer/news/4464043">新国标出手整治AI客服转人工难乱象 9月起正式实施 - 腾讯云开发者社区...</a></li>
+<li><a href="https://k.sina.cn/article_7879849619_1d5acf69306801cwl6.html">AI客服国标9月1日实施：转人工入口必须清晰，企业不得以“AI回答”推责—...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#客户服务`, `#监管政策`, `#转人工`, `#企业责任`
+
+---
+
+<a id="item-32"></a>
+## [轻信假客服开启屏幕共享，女子睡梦中被转走 18178 元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yVkpOSEZBOElwWkNFT1VOQkxjTzI4MkNZWXRqUmhyMG1aZktsSUQxU0loMVRRS1Q1ZHVzR0o4a0w4cHYyclV2Y0VDejVXUWFZQUxhTVhncHhiZUNORjBoRGRR?oc=5) ⭐️ 7.0/10
+
+一名女子轻信假客服并开启屏幕共享，导致在睡梦中被转走 18178 元。 这一事件凸显了屏幕共享诈骗日益严重的威胁，此类诈骗利用人们对客服的信任，可能导致重大财产损失。它强调了加强消费者教育和提升客服行业安全措施的紧迫性。 诈骗过程中，受害者开启了屏幕共享，使骗子能够实时查看并控制她的手机。资金在夜间被转走，很可能是在受害者熟睡时，表明骗子获得了持续访问权限。
+
+rss · 客服行业动态 · 8月24日 10:45
+
+**背景**: 屏幕共享诈骗通常涉及骗子冒充客服人员，诱骗受害者安装远程控制应用或开启屏幕共享。一旦开启，骗子就能看到密码、验证码等敏感信息，甚至操作设备转账。此类诈骗日益猖獗，部分受害者损失高达数十万元。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.toutiao.com/article/7537690234244317705/">遇到屏幕共享诈骗，到底怎么办？ - 今日头条</a></li>
+<li><a href="https://www.toutiao.com/article/7512413557061911078/">打防涉网诈骗专项行动丨骗子如何通过“共享屏幕”偷走你的钱？一文说清</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1914354592105341190">一场“共享”损失30多万！——共享屏幕诈骗全解析 - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#scam`, `#security`, `#consumer protection`, `#fraud`
+
+---
+
+<a id="item-33"></a>
+## [携程改名收费 9700 元，航司仅收 60 美元，差价去向引质疑](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBha1g3Y3hRTnhlLWRGMTd2STBQZkpoN1ZHQ0dvNDFncjh2aWlzVDhnUHhLTkZfMW8zVmgteVhHQ0dnMDY2enRHWUxaczBVLXEwaG0tU3FnNHB4cmw4cnNoRmlLRmVSZw?oc=5) ⭐️ 7.0/10
+
+中国主要 OTA 平台携程向一位客户收取 9700 元人民币更改机票姓名，而航空公司本身对此服务仅收费 60 美元。这一巨大差异引发公众不满，并对 OTA 定价透明度提出质疑。 此事件凸显了 OTA 定价缺乏透明度的问题，可能损害消费者信任并引发监管关注。它强调了在线旅游行业需要更清晰的服务费披露和更强的消费者保护。 文章中未披露具体航空公司和航线，但费用差异显著：9700 元人民币对比 60 美元（约 430 元人民币）。这表明携程可能在航空公司官方收费基础上加收了大额服务费或佣金，这可能违反消费者权益法规。
+
+rss · 客服行业动态 · 8月24日 13:21
+
+**背景**: 携程等在线旅行社（OTA）通常作为航空公司和消费者之间的中介，提供便利但有时会添加隐藏费用。航空公司通常有自己的改名政策，费用因承运人和票价类型而异。动态定价和服务费模式在 OTA 行业很常见，但透明度对于维持消费者信任至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://beyondpricing.com/blog/ota-pricing-vs-dynamic-pricing-which-pricing-strategy-is-right-for-you">OTA Pricing Vs Dynamic Pricing : Which Pricing Strategy is Right for...</a></li>
+<li><a href="https://www.linkedin.com/pulse/ota-dynamic-pricing-vishal-rathi-hynmc">OTA Dynamic Pricing</a></li>
+<li><a href="https://blog.axisrooms.com/ota-pricing-trends/">OTA Pricing Trends: How to Optimize Rates for Profitability</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#consumer rights`, `#OTA pricing`, `#transparency`, `#airline fees`
+
+---
+
+<a id="item-34"></a>
+## [IDC：中国智能客服市场规模达 71.9 亿元，同比增长 55%](https://news.google.com/rss/articles/CBMia0FVX3lxTFBOdFN2dkY0M1ZXYV9XNHFfaWgxWU9FUS1GZ3FFTVpnTmRpT1NtWDF2a3NKV21uYzNiMVUybE9OanJCbEtDLTVHRGdTaGJod2RLQXhsckdwSUEyLXR6cGxLTGY1VlpVZGZtNFFr?oc=5) ⭐️ 7.0/10
+
+IDC 发布最新数据，显示中国智能客服市场最新一期规模达到 71.9 亿元，同比增长 55%。这标志着该行业市场增长显著加速。 这一快速增长凸显了中国企业对 AI 驱动客服解决方案的采用率不断提升，反映了行业向自动化和智能客户交互发展的整体趋势。它为技术提供商和投资于客服创新的企业带来了巨大机遇。 55%的同比增长率明显高于此前预测，例如 CnResearch 预计 2022-2027 年复合年增长率为 22.6%。71.9 亿元的市场规模基于 IDC 最新追踪数据，可能涵盖更广泛的智能客服产品范围。
+
+rss · 客服行业动态 · 8月24日 07:15
+
+**背景**: 智能客服是指利用 AI 技术自动化和增强客户支持的系统，包括聊天机器人、虚拟助手和 AI 驱动的分析工具。由于劳动力成本上升、数字化转型推进以及自然语言处理技术的进步，中国市场增长迅速。IDC 是全球领先的市场情报公司，提供技术市场的数据和洞察。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/937397010_122328931">AI Customer Service Strength Ranking: 2025 Annual ... - 搜狐</a></li>
+<li><a href="https://www.udeskglobal.com/blog/chinas-intelligent-customer-service-system-rankings-udesk-leads-the-transformation-in-the-ai-agent-era.html">China’s Intelligent Customer Service System Rankings: Udesk ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智能客服`, `#市场数据`, `#IDC`, `#行业增长`
+
+---
+
+<a id="item-35"></a>
+## [特斯拉客服详解近 300 万辆召回车辆具体做法](https://news.google.com/rss/articles/CBMieEFVX3lxTE0xSEJlUlBsMzV4M2twaGFYbU04cmRXNmlyaEpxaENncmQ0ZG8yUm9aNWItamdMUjhsOWs1QzhjZFI2bl8xQ2dtSXUzS0YzcWNyWU9pUlJWcUZnS1E2ODFacDJjZXdGLXlaNGliSi1RRnpKS1hEUG5PMQ?oc=5) ⭐️ 6.0/10
+
+特斯拉客服已公开回应在中国召回近 300 万辆汽车的事件，并说明了车主应采取的具体步骤。此次召回涉及电子门把手在严重碰撞后可能失效的安全风险。 此次召回是汽车史上规模最大的召回之一，影响特斯拉在中国车队的很大一部分。客服回应对于确保车主安全和在大型召回期间维持品牌信任至关重要。 此次召回涉及约 298 万辆电动汽车，特斯拉将安装警示标签以帮助乘客找到手动车门释放装置。问题源于电子门把手在碰撞后断电时可能阻碍逃生或救援。
+
+rss · 客服行业动态 · 8月24日 01:12
+
+**背景**: 在中国，当发现安全缺陷时，车辆召回很常见。特斯拉的召回是更广泛的行业行动的一部分，旨在解决隐藏式门把手在紧急情况下可能带来的危险。车主通常会收到制造商通知，并可免费获得维修。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techxplore.com/news/2026-08-tesla-recalls-3m-vehicles-china.html">Tesla recalls nearly 3M vehicles in China over door handle safety risks</a></li>
+<li><a href="https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/">Tesla recalls 3 million cars as part of China-wide push to... | TechCrunch</a></li>
+<li><a href="https://autos.yahoo.com/safety-and-recalls/articles/tesla-recalls-3-million-evs-212400994.html">Tesla Recalls 3 Million EVs Over Hidden Door Releases</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Tesla`, `#recall`, `#customer service`, `#automotive`
+
+---
+
+<a id="item-36"></a>
+## [山东航空完成第二例曼谷至青岛国际担架旅客运输任务](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vLVRFWkUzc2tpZEhZYUoyTWtLUjh4b2w2WlFpNV93OEtVWkl0WHV1R0h6cU9hcHA1RlhHSG0ycFp5WUJfNmhZRkozSkNUR0dDU0MwUkpxbnI?oc=5) ⭐️ 5.0/10
+
+山东航空于 2026 年 8 月 18 日成功完成第二例国际担架旅客运输任务，将一名患者从曼谷运抵青岛。此次任务由客服中心与运行风险控制中心（AOC）联动协调，并完成了所有必要的审批流程。 这一成就凸显了山东航空在处理复杂医疗运输方面的专业能力，这对行动严重不便的旅客至关重要。它展示了航空公司对包容性服务的承诺，并可能为该地区的其他航空公司树立标杆。 该航班需要特殊安排，包括机上配备担架，且航空公司限制每架航班仅载运一名担架旅客。随行医护人员及家属的机票同时办理完毕，所有流程在起飞前均经过内部审批核验。
+
+rss · 客服行业动态 · 8月24日 05:43
+
+**背景**: 担架旅客是指因伤病无法坐立而需要担架运输的特殊旅客，属于病残旅客的一种。航空公司通常要求提前至少 72 小时申请，且每架航班仅限载运一名担架旅客。根据中国民用航空局及 IATA 决议，国际运输可能还需办理跨国医疗转运许可证。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%8B%85%E6%9E%B6%E6%97%85%E5%AE%A2/67461560">担架旅客_百度百科</a></li>
+<li><a href="https://www.qingdaonews.com/app/content/2026-08/24/content_23752670.htm">从曼谷顺利运抵青岛！山东航空完成第二例国际担架旅客保障任务</a></li>
+<li><a href="https://wenku.baidu.com/view/c75df3db6f175f0e7cd184254b35eefdc9d315cb.html">担架旅客乘机流程 - 百度文库</a></li>
+
+</ul>
+</details>
+
+**标签**: `#airline service`, `#customer service`, `#special assistance`, `#Shandong Airlines`
+
+---
+
+<a id="item-37"></a>
+## [泸州邮政再遭学生投诉捆绑办卡](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMENqNGhPY0FTLVhlSW9qeFlhdmFoS01OWnk5T0JaM2Z4ZXJQUFBodWQwWTBuaWplMDQxbTVRS2l6OWZJa2pIeTlYdDZaQnZkcWtaV0tqU3ZRYW1ZWG0wcWFpT19JeXNtR1dETXdUX2JnMEM2VzBJbWFBQkV6bUcyMUVoT1JnVG9nUXhrRktFSjFJU2VjUmg2Ug?oc=5) ⭐️ 5.0/10
+
+8 月 23 日，又有一名学生在四川问政平台投诉泸州邮政，称在邮寄高考档案时被捆绑办理联通电话卡。泸州市邮政管理局表示正在核实该投诉，具体情况将后续公开。 此类重复投诉凸显邮政行业客户服务问题，可能损害公众信任并促使监管加强。同时，也强调在关键行政流程中，特别是针对年轻学生，需要透明的服务操作。 投诉中包含客服聊天记录，显示学生被办理了联通卡。事件发生在邮寄高考档案过程中，学生声称必须先办卡才能邮寄。邮政管理局正在核实相关情况。
+
+rss · 客服行业动态 · 8月24日 16:33
+
+**背景**: 在中国，邮政服务有时会与电信运营商合作提供捆绑电话卡，但如果未明确可选，可能被视为强制。四川问政平台是政府运行的公众投诉渠道。这不是泸州邮政第一次被投诉，表明存在一种可能引起监管关注的现象。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_33836865">泸州邮政再遭学生投诉：寄档案时被“捆绑”办联通卡，监管部门正核实 _...</a></li>
+<li><a href="https://m.gmw.cn/2026-08/24/content_1304552918.htm">泸州邮政再遭学生投诉：寄档案时被“捆绑”办联通卡，监管部门正核实</a></li>
+<li><a href="https://www.zhihu.com/question/2075249621438354163">学生投诉泸州邮政，称「寄高考档案时需先办理联通卡」，且只能提档期...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 知乎等平台上的社区评论表达了不满和质疑，许多网友批评邮政利用学生，呼吁更严厉的处罚。也有人质疑监管的有效性，还有人分享了类似的个人经历。
+
+**标签**: `#customer service`, `#complaint`, `#postal service`, `#bundled card`
+
+---
+
+<a id="item-38"></a>
+## [客服魔方 AI 解决方案亮相京东郑州交流会](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZmVral9DTmJZNjQ5bXlwRUUydnVBMk4tdUpXNWZ6ZmhuN3lMWkJfb1V6aHByVFkwTURCOGlQa2QzbFMxNXZVaFg4N2d4bDFqV2c?oc=5) ⭐️ 4.0/10
+
+客服魔方在 2026 年京东服务商合作交流会（郑州站）上展示了其 AI 驱动的客服解决方案，旨在推动电商新增长。活动强调了 AI 在提升客服效率和助力商家增长方面的整合应用。 这展示了 AI 在电商生态中客服领域的日益普及，可能为其他服务商树立标杆。它强调了 AI 驱动工具在帮助商家改善客户体验和运营效率方面的重要性，与行业向自动化和智能支持发展的趋势一致。 该活动是京东区域性合作交流会系列的一部分，此前于 2025 年 3 月在成都举办，吸引了近百家服务商和超百位商家。客服魔方的参与凸显了其专注于为电商客服量身定制的 AI 解决方案，但新闻中未披露具体产品细节。
+
+rss · 客服行业动态 · 8月24日 09:33
+
+**背景**: 京东定期举办服务商合作交流会，以构建良性生态并助力商家增长。这些活动汇聚服务商和商家，探讨合作机会并分享经验。AI 驱动的客服平台（如 Crisp 和 Zendesk 提供的服务）正日益普及，利用聊天机器人和自动化来提升响应速度和客户满意度。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.jingjiribao.cn/static/detail.jsp?id=576589">京东举办服务商合作交流会：携手合作伙伴构建良性生态 助力商家增长</a></li>
+<li><a href="https://www.toutiao.com/article/7485253004820578842/">京东举办服务商合作交流会：携手合作伙伴构建良性生态 助力商家增长</a></li>
+<li><a href="https://www.iyiou.com/news/202503231093529">京东举办服务商合作交流会：携手合作伙伴构建良性生态 助力商家增长</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#customer service`, `#e-commerce`, `#conference`
+
+---
+
+<a id="item-39"></a>
+## [韦东奕账号下架练习册，客服否认挂名](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlV5aWdCRXRQYTh1WEZueDEydE1STWRIYWVrX2tzcVhKcTNOUlJnM3ZCSjdvOFZMeTRyRVI0UFVxLUx4cWNkYlBvRnZEMGhwc0lUMkt5RFhBSGVXZ25HMFZPY3FMY1haOHNfbU10TlMwQk5JSVpMclczRWVOZ2pTakVzVDNEQWk3bF9qRW1TSE1sVkdaejByeQ?oc=5) ⭐️ 4.0/10
+
+韦东奕在某电商平台的账号下架了一本练习册产品，客服澄清并非挂名行为。此事引发了公众关注。 此事件凸显了公众人物在产品代言方面受到的审视，以及客服回应透明化的重要性。它可能影响消费者对名人关联产品的信任，并促使更清晰的标注做法。 练习册已从韦东奕的账号下架，客服明确表示并非挂名安排。可用内容中未披露具体平台和产品细节。
+
+rss · 客服行业动态 · 8月24日 06:07
+
+**背景**: 韦东奕是中国著名数学家，以出色的解题能力和谦逊的作风著称。在中国，“挂名”指名人仅出借名字而不实际参与产品，可能误导消费者。客服回应在澄清此类情况和维护信任方面起着关键作用。
+
+**标签**: `#customer service`, `#e-commerce`, `#public figure`, `#product removal`
+
+---
+
+<a id="item-40"></a>
+## [网店卖半片女装引热议：创新还是噱头？](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVndUVTBkcjJ3NW5ZcmdDbHlBYTNYQnpWY1ZBaU10WUxqOUE1clZCcHRuODhRWEdLWS03QzgyeE5WTFFYVTBzM2tGYkVWZ3NhVTR3UUlnNHJuT3RMdHZoWktSVEs3UWlrdHQyRF9vV3BDQ3dJeDVIWlVfRlRpbDVXOEtFTE9TZVJjTDA1bA?oc=5) ⭐️ 4.0/10
+
+一家网店因售卖半片女装而受到批评，客服解释称顾客需购买两片才能拼成一件完整的衣服。该产品引发了关于这是新颖创意还是营销噱头的讨论。 这一事件凸显了电商领域非传统产品设计的增长趋势，这类设计可能让消费者感到困惑或不满。同时，它也强调了清晰的产品描述和客服沟通在管理预期、避免负面反应中的重要性。 该产品以半片形式出售，顾客需购买两片才能组成完整衣物。客服回应表明这是有意设计，但因其具有误导性或实用性不足而受到批评。
+
+rss · 客服行业动态 · 8月24日 05:05
+
+**背景**: 在电商领域，产品描述和图片对于设定消费者预期至关重要。非传统设计，如售卖半片衣物，可能被视为创意，但若沟通不清晰，也可能被视为欺骗。此案例反映了关于产品营销中创新与噱头之间更广泛的讨论。
+
+**标签**: `#customer service`, `#e-commerce`, `#product design`, `#consumer complaint`
+
+---
