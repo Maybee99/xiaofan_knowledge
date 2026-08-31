@@ -1,0 +1,1127 @@
+{
+  "meta": {
+    "date": "2026-08-31",
+    "title": "Horizon 每日速递",
+    "generated_at": "2026-08-31T00:19:35Z",
+    "total_fetched": 67,
+    "total_selected": 36
+  },
+  "sections": [
+    {
+      "key": "energy",
+      "title": "🔋 能源政策资讯",
+      "items": [
+        {
+          "rank": 1,
+          "headline": "国务院审议通过“十五五”碳达峰行动方案",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUC1sYWU3MFZGX09rWHBFdzVYU005VE02ZGNidnJZQ3A5TUh4Y1hYaDVyZV92VURTTlhhNm1kdG1wV2pqYkF6RTJaZWJUSG5hU2YyWkdpc0tZem8?oc=5",
+          "tldr": "2026年6月29日，国务院常务会议审议通过《“十五五”碳达峰行动方案》，并于7月9日正式印发。",
+          "summary": "2026年6月29日，国务院常务会议审议通过《“十五五”碳达峰行动方案》，并于7月9日正式印发。这标志着中国2026-2030年气候战略的关键政策里程碑。 该方案为“十五五”期间中国的碳达峰工作指明了方向，对能源行业、工业及减排目标具有重大影响。它标志着中国持续推进绿色转型的政策决心，将推动经济各领域的监管和市场变革。 方案部署了五项重点任务：加快能源结构调整、推进产业绿色低碳化、深化重点领域绿色转型、健全法律法规和统计核算体系、强化评价考核。重点包括非化石能源开发、零碳园区和零碳工厂建设、算力设施绿色转型等。",
+          "source_type": "google_news",
+          "source_name": "微博",
+          "published": "8月30日 00:03",
+          "score": 9.0,
+          "tags": [
+            "碳达峰",
+            "能源政策",
+            "中国",
+            "十五五",
+            "气候行动"
+          ],
+          "background": "碳达峰是指二氧化碳排放量达到历史最高值后不再增长并逐步下降，中国承诺在2030年前实现碳达峰。“十五五”期间（2026-2030年）是实现这一目标的关键时期，该行动方案为各行业提供了全面的路线图。",
+          "references": [
+            {
+              "title": "国常会审议通过《“十五五”碳达峰行动方案》-新华网",
+              "url": "https://www.news.cn/20260630/a1e3a6489a914aa2b3606977cd0c62ba/c.html"
+            },
+            {
+              "title": "国务院印发《“十五五”碳达峰行动方案》-新华网",
+              "url": "http://www.xinhuanet.com/20260709/2b9a949d3d3742a6a59fb7f47c327039/c.html"
+            },
+            {
+              "title": "国务院关于印发《“十五五”碳达峰行动方案》的通知",
+              "url": "https://www.mee.gov.cn/zcwj/gwywj/202607/t20260714_1161655.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "油气危机重塑欧洲与东南亚能源政策",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwV2x0RENuSUR2MG5MemhOVVFRZGliOWJ2SGt5UUtkTDZxQy1LQXZRdkh2YzRZYVNRZjd4bENidFRnREV2bUE?oc=5",
+          "tldr": "据36氪出海报道，油气危机正促使欧洲和东南亚的能源政策重点发生重大转变。",
+          "summary": "据36氪出海报道，油气危机正促使欧洲和东南亚的能源政策重点发生重大转变。这一重塑反映了各国为应对供应中断和价格波动，战略上转向能源安全和多元化。 这一政策转变意义重大，因为它影响全球能源市场、国际关系以及能源转型的步伐。这些地区的政策制定者和行业相关方需要适应新的优先事项，在安全、可负担性和可持续性之间取得平衡。 文章强调，危机正迫使各国政府重新考虑对传统能源进口的依赖，并加速对可再生能源和国内资源的投资。现有内容未详细说明具体的政策措施或国家案例。",
+          "source_type": "google_news",
+          "source_name": "36氪出海",
+          "published": "8月30日 04:38",
+          "score": 8.0,
+          "tags": [
+            "energy policy",
+            "oil and gas crisis",
+            "Europe",
+            "Southeast Asia",
+            "geopolitics"
+          ],
+          "background": "在地缘政治紧张和供应链中断的加剧下，油气危机导致全球能源价格飙升。欧洲高度依赖俄罗斯天然气，而东南亚能源需求不断增长，两者都尤为脆弱。这促使各国重新评估能源战略，重点是减少进口依赖和增强能源韧性。"
+        },
+        {
+          "rank": 3,
+          "headline": "国家电投山东完成山东首批虚拟电厂绿电交易",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2VyT0IxZUx4cWF3Qm40VkFpUmtnM3RlNEMySTZ3bU53VlpsQ1MtSnNTRDVFV2Rnd1BrYnA0VjFOWTNEemhJRGVJSHg5QmJ3TmVPVVlKNTFYUHV1UTZWM1kwaU1PeTJJNWdmaUxFV09aYnNRQm8teE1oSGdycnU5X1hHSmhRTlJY?oc=5",
+          "tldr": "国家电投山东公司完成了山东省首批通过虚拟电厂进行的绿电交易，聚合分布式光伏资源参与电力市场。",
+          "summary": "国家电投山东公司完成了山东省首批通过虚拟电厂进行的绿电交易，聚合分布式光伏资源参与电力市场。这标志着中国虚拟电厂商业化运营的重要进展。 这一事件为中国分布式能源聚合和参与市场开创了先例，可能加速可再生能源融入电网。它展示了虚拟电厂可行的商业模式，可能鼓励更多分布式光伏业主和聚合商进入市场，支持中国的碳中和目标。 该交易通过虚拟电厂平台聚合了分布式光伏单元，这些单元通常规模较小、交易能力有限。这使得它们能够集体出售绿色电力，包括能量及其环境属性，给有绿色能源需求的买家。简短的报道未披露具体交易量和参与者。",
+          "source_type": "google_news",
+          "source_name": "搜狐网",
+          "published": "8月30日 13:00",
+          "score": 8.0,
+          "tags": [
+            "虚拟电厂",
+            "绿电交易",
+            "分布式光伏",
+            "能源政策",
+            "山东"
+          ],
+          "background": "虚拟电厂（VPP）是一种聚合分布式能源资源（如太阳能板、风力涡轮机和储能）的系统，使其作为一个单一电厂运行，提供灵活性和电网服务。绿电交易是一种允许买家购买可再生能源及其环境效益的机制，通常通过证书或直接合同进行。在中国，分布式光伏发展迅速，但单个项目往往规模太小，无法直接参与电力市场，因此通过虚拟电厂或第三方聚合商进行聚合正成为关键解决方案。",
+          "references": [
+            {
+              "title": "虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网",
+              "url": "https://news.bjx.com.cn/html/20221116/1269377.shtml"
+            },
+            {
+              "title": "同一份136...",
+              "url": "https://www.163.com/dy/article/L4524TLF05567I2C.html"
+            },
+            {
+              "title": "news.bjx.com.cn/html/20260319/1488296.shtml",
+              "url": "https://news.bjx.com.cn/html/20260319/1488296.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "世界海拔最高的660兆瓦超超临界机组高比例掺烧高碱煤全容量投运",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQm9wLV9ITEN3OWJ6Q0t6eXNtb3pnaC1ETU83STQyREs5b3FJVlpoVXlZVlV2WTBQM2xucl83eTdCbnFGaktjN1FzOC1pNmN2RjlqMFR5SXNxd0VYSl9aYVdUTXBPVXRFcHRYN0Znc1FuWTlGUFNCaXdCaXlxbjFRZVAwVEFHYTg4UDF2cHJZWC1DMUJXRkNkag?oc=5",
+          "tldr": "世界海拔最高的660兆瓦超超临界火电机组，采用高比例掺烧高碱煤技术，已全容量投运。",
+          "summary": "世界海拔最高的660兆瓦超超临界火电机组，采用高比例掺烧高碱煤技术，已全容量投运。该机组属于青海省投3×660兆瓦项目，1号机组于2025年9月30日在西宁投入运行。 这一里程碑证明了在高海拔地区高效利用高碱煤的技术可行性，对中国能源安全和煤炭利用效率至关重要。它通过实现挑战性煤种的清洁燃烧支持减排目标，并对类似项目具有潜在政策影响。 该机组为超超临界设计，容量660兆瓦，实现了高碱煤的高比例掺烧，这种煤种易结渣沾污。项目由国家电投集团牵头，包含三台机组，其中1号机组已投运。",
+          "source_type": "google_news",
+          "source_name": "finance.sina.com.cn",
+          "published": "8月30日 16:17",
+          "score": 8.0,
+          "tags": [
+            "energy policy",
+            "coal power",
+            "ultra-supercritical",
+            "high-alkali coal",
+            "China"
+          ],
+          "background": "高碱煤含有较高碱金属，易导致锅炉结渣和沾污，降低效率并增加维护成本。超超临界技术在更高温度和压力下运行，提高热效率并减少排放。将高碱煤与其他煤种掺烧是利用丰富储量同时缓解运行问题的策略。",
+          "references": [
+            {
+              "title": "世 界 海拔最高的高比例掺烧高碱煤 660 兆 瓦 超 超 临 界 机 组 项目完成“双节点”",
+              "url": "https://www.powerchina.cn/col/col16624/art/2025/art_1684491937.html"
+            },
+            {
+              "title": "世 界 海拔最高的高比例掺烧高碱煤 660 ...",
+              "url": "http://www.qhnews.com/newscenter/system/2025/10/02/030459273.shtml"
+            },
+            {
+              "title": "电科院锅炉 掺 烧 新疆 高 碱 煤 技 术 达国际领先水平_新浪财经_新浪网",
+              "url": "https://finance.sina.com.cn/enterprise/central/2025-10-27/doc-infvhvuz0875088.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "青海新型电力系统科研实证基地建成投运",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HanhoaGVOdFJYU19pa0piSTZ4Y2dzOWJaUFd2TDRvcld5Q3RvVnhRWnhBZmJiQmxDZG5KQTNqaGtQYW1Wb1RyTF8zTU9jOE8xcFVJaXNQRk5DMzVIRnhYRG41QVZ2Q1BxTk45VmQ1UnE4dWRJcHhkZw?oc=5",
+          "tldr": "青海新型电力系统科研实证基地已建成并投入运行，标志着中国能源转型迈出具体一步。",
+          "summary": "青海新型电力系统科研实证基地已建成并投入运行，标志着中国能源转型迈出具体一步。 该基地对于支持中国整合可再生能源和推进国家能源战略具有重要意义，可能为其他地区提供示范。 该基地位于太阳能和风能资源丰富的青海省，将重点研究和示范新型电力系统技术，包括电网接入和储能解决方案。",
+          "source_type": "google_news",
+          "source_name": "finance.sina.com.cn",
+          "published": "8月30日 07:57",
+          "score": 8.0,
+          "tags": [
+            "新型电力系统",
+            "青海",
+            "能源政策",
+            "科研实证基地",
+            "可再生能源"
+          ],
+          "background": "新型电力系统是以可再生能源为基础，旨在实现碳中和的电力系统。它涉及多种清洁能源的整合、智能电网和先进储能技术。青海基地是中国构建此类系统的更广泛努力的一部分，正如《新型电力系统发展蓝皮书》所概述的那样。",
+          "references": [
+            {
+              "title": "nea.gov.cn/download/xxdlxtfzlpsgk.pdf",
+              "url": "https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf"
+            },
+            {
+              "title": "Development logic of the new power system form",
+              "url": "https://csee.org.cn/pic/u/cms/www/202510/131018303csx.pdf"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "headline": "哈电电机发布世界首台35千伏高压直挂调相机",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXFHY1ZvQ2wtNWdIZ3A0MTJVc2g0ZE5CMWhHNzI3MVphUWo2U3FwM1hlMGZCdDBfT0RrSnVnV2pLbHVJY280VXB6SW5GQ3hhUnpqWlZLcWVuYmhzNzZRU28xZUNERE9xcTYyMjI0VEpuaEsyZ09xRnk1dGtuNDZiaG9jODEweEhm?oc=5",
+          "tldr": "哈电电机发布了世界首台35千伏高压直挂调相机，该设备已在黑龙江省孙吴县胜山风电场成功完成168小时连续稳定运行。",
+          "summary": "哈电电机发布了世界首台35千伏高压直挂调相机，该设备已在黑龙江省孙吴县胜山风电场成功完成168小时连续稳定运行。这标志着高压电力装备技术的重大进步。 这一突破增强了电网稳定性，并促进了可再生能源的并网，因为可再生能源往往具有间歇性，可能导致电压波动。新技术省去了升压变压器，有望降低成本并提高电网应用效率。 该调相机采用全球首创的高压直挂拓扑结构，省去了升压变压器。同时采用空水冷冷却方案，将电压等级从27千伏提升至35千伏，并在高压绝缘、防晕等核心技术上取得突破。",
+          "source_type": "google_news",
+          "source_name": "搜狐网",
+          "published": "8月30日 01:08",
+          "score": 8.0,
+          "tags": [
+            "synchronous condenser",
+            "grid stability",
+            "renewable energy",
+            "Harbin Electric",
+            "high-voltage technology"
+          ],
+          "background": "同步调相机是一种旋转电机，通过提供无功功率补偿来稳定电力系统的电压。传统上，这类设备需要升压变压器才能接入高压电网，而新的直挂设计简化了系统。随着风能、太阳能等可再生能源占比增加，其出力波动可能导致电网不稳定，因此这一创新尤为重要。",
+          "references": [
+            {
+              "title": "世界首台 35 千 伏 高 压 直 挂 调 相 机 投运",
+              "url": "https://m.dbw.cn/ljktx/system/2026/08/29/059578635.shtml"
+            },
+            {
+              "title": "世界首台 35 千 伏 高 压 直 挂 调 相 机 投运- DoNews快讯",
+              "url": "https://www.donews.com/news/detail/8/6690362.html"
+            },
+            {
+              "title": "哈电电 机 35 ...",
+              "url": "https://hljnews.cn/ljxw/content/2026-07/04/content_898660.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "headline": "霍尔木兹僵局引发油价重返110美元，全球股市下挫",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGF4MGpVWjFiVWFQRklNR0k1aDFDWkQ2Rmt2TTFjMGVtMTNaOGNtdW1Ddkd1bjhwbGpwOEhIYkxCSUlZTm9Pdk5BX1ZGNjJ0QjkxYjBCZENOX1FJS2diTUVLZk1lUDg4N296ODBSRUxRQVlFY1BuOHJyOE1ZN2xQX0hVcl9Cb0xU?oc=5",
+          "tldr": "霍尔木兹海峡的持续僵局推动国际原油价格重返每桶110美元，同时全球股市因地缘政治紧张局势加剧而普遍下挫。",
+          "summary": "霍尔木兹海峡的持续僵局推动国际原油价格重返每桶110美元，同时全球股市因地缘政治紧张局势加剧而普遍下挫。 这一事态凸显了霍尔木兹海峡作为全球能源咽喉要道的关键作用，任何中断都会直接影响石油供应安全和价格稳定。股市同时下跌凸显了地缘政治风险如何迅速传导至金融市场，影响全球投资者和政策制定者。 霍尔木兹海峡处理全球约20%的石油消费量，是至关重要的运输通道。僵局引发了对潜在供应中断的担忧，导致油轮保险费率上升，并促使资金转向黄金等避险资产，相关讨论中也提到了这一点。",
+          "source_type": "google_news",
+          "source_name": "华人头条",
+          "published": "8月30日 07:19",
+          "score": 8.0,
+          "tags": [
+            "Strait of Hormuz",
+            "oil prices",
+            "global markets",
+            "geopolitical risk",
+            "energy security"
+          ],
+          "background": "霍尔木兹海峡是伊朗和阿曼之间的狭窄水道，连接波斯湾与阿曼湾及开阔海域。它是世界上最重要的石油运输咽喉要道，该地区的地缘政治紧张局势（如伊朗威胁关闭海峡）历来导致油价飙升和市场波动。当前的僵局可能源于近期地缘政治事件，但新闻中未提供具体细节。",
+          "references": [
+            {
+              "title": "Strait of Hormuz Live Traffic Tracker — Real-Time Shipping & Oil ...",
+              "url": "https://hormuzstraitmonitor.com/"
+            },
+            {
+              "title": "Why Trump is facing his biggest danger from rising oil prices since the...",
+              "url": "https://www.politico.com/news/2026/07/24/hormuz-oil-supply-gop-01011108"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "headline": "我国高端重型燃机实现自主可控",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12VGZUUlhhU1RnZzFWZFQ4MmFhb3BCelNKZVJKQ2JfVUFOeVNhWFFESlZWYjVpUktOMVJwVk83X3Q0N3NkTUxQSl8xVFRDUGxtVkFDaGxmQks4Yi1EVkxhX0pHQUtnZlU2?oc=5",
+          "tldr": "我国已实现高端重型燃气轮机的自主可控，这标志着我国能源装备制造业的重大里程碑。",
+          "summary": "我国已实现高端重型燃气轮机的自主可控，这标志着我国能源装备制造业的重大里程碑。这一突破正在加速这些涡轮机的产业化和国际化进程。 这一进展意义重大，因为它解决了关键技术瓶颈，减少了我国对国外发电设备技术的依赖。这对能源安全和产业政策具有重大影响，并可能重塑全球重型燃气轮机市场。 该新闻强调，我国高端重型燃气轮机，特别是核心工作温度超过1300°C的F级机型，已实现自主可控。这包括产业化和国际化方面的进展，目前正聚焦于H/J级涡轮机，以助力“双碳”目标。",
+          "source_type": "google_news",
+          "source_name": "中华网",
+          "published": "8月30日 00:22",
+          "score": 8.0,
+          "tags": [
+            "能源政策",
+            "重型燃机",
+            "自主可控",
+            "产业化",
+            "国际化"
+          ],
+          "background": "重型燃气轮机对发电至关重要，具有高效率、低排放的特点。它们是复杂的机器，涡轮叶片和燃烧室等热端部件需要先进材料和制造工艺。历史上，我国依赖进口这些涡轮机，但近期努力集中在国内研发和本地化上。",
+          "references": [
+            {
+              "title": "我国 高 端 重 型 燃 机 实现 自 主 可 控 产业化国际化提速_新闻频道_中华网",
+              "url": "https://news.china.com/social/1007/20260830/49707662.html"
+            },
+            {
+              "title": "it007.com/article-332246-1.html",
+              "url": "https://www.it007.com/article-332246-1.html"
+            },
+            {
+              "title": "xueqiu.com/8769407473/377294408",
+              "url": "https://xueqiu.com/8769407473/377294408"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "headline": "关于新型电力系统电源功能定位与技术发展方向的思考",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdS03WnE0aTNCNlFRSHZBV1hrVC15WTR4TjdfNzE4SmEtdVROR1ZtUGFkTHNTYWYxc1Zod20zNzdYeU92dFpTckcya3hYRVZLaGZVVHBGQzlwOVNtTnIwMmZoemh1XzhDd3RtSWZ4QWN1WEpIcXU3NmMtVU1iZjRtd2o0cEhWOXQyVFdPYQ?oc=5",
+          "tldr": "本文对中国不断发展的新型电力系统中电源应如何定位功能及技术发展方向进行了战略分析，强调需要从传统角色进行范式转变。",
+          "summary": "本文对中国不断发展的新型电力系统中电源应如何定位功能及技术发展方向进行了战略分析，强调需要从传统角色进行范式转变。 随着中国加速能源转型，明确电源角色对于电网稳定和可再生能源并网至关重要。该分析为政策制定者和行业利益相关者制定未来能源战略提供了指导。 文章可能讨论了从传统基荷电源向更灵活的调峰角色的转变，以及储能和数字技术的整合。还可能涉及集中式与分布式发电之间的平衡。",
+          "source_type": "google_news",
+          "source_name": "搜狐网",
+          "published": "8月30日 16:21",
+          "score": 7.0,
+          "tags": [
+            "新型电力系统",
+            "电源功能定位",
+            "技术发展方向",
+            "能源政策",
+            "电力行业"
+          ],
+          "background": "新型电力系统是中国碳中和目标中的关键举措，具有高可再生能源渗透率、高灵活性和数字化特点。它需要重新定义煤电、气电、核电、水电和可再生能源等各类电源的功能定位，以确保安全高效。",
+          "references": [
+            {
+              "title": "nea.gov.cn/download/xxdlxtfzlpsgk.pdf",
+              "url": "https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf"
+            },
+            {
+              "title": "big5.www.gov.cn/gate/big5/www.gov.cn/lianbo/bumen/202306...",
+              "url": "http://big5.www.gov.cn/gate/big5/www.gov.cn/lianbo/bumen/202306/P020230823671991045922.pdf"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "headline": "IEA 2026年氢能市场报告：关键洞察与预测",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMW1neWkzQnZjLUx6NE5TOVRoQTA0Rld6TzhRSGlGN2lLdHFzckxTYzNNWUlwNUxtYUFrN0NmREJyUXNOUGp0OEUweUNreEdfcUVpajRxanpYRlVpd3NPMWgyNXNVbDNvX0tEcWhvSU5RU2VCclhQajFxV1lHbTdabmpscE5iWGs2ckNuaDhDZ0pEUE16?oc=5",
+          "tldr": "国际能源署（IEA）发布了《全球氢能回顾2026》，提供了全球氢能生产和需求的最新概况，以及政策、基础设施、贸易、投资和创新方面的最新进展。",
+          "summary": "国际能源署（IEA）发布了《全球氢能回顾2026》，提供了全球氢能生产和需求的最新概况，以及政策、基础设施、贸易、投资和创新方面的最新进展。 该报告意义重大，因为它提供了权威的数据和预测，塑造全球氢能市场战略，影响政策制定者和行业利益相关者。它强调了氢能在能源转型中的现状和未来潜力，这对于实现气候目标至关重要。 据IEA称，2025年全球氢能需求超过1亿吨，但低排放氢能产量仅达到近100万吨，表明存在巨大差距。报告还指出，氢能目前占全球最终能源消费的比例不到2%，但其潜力正在迅速扩大。",
+          "source_type": "google_news",
+          "source_name": "手机新浪网",
+          "published": "8月30日 22:49",
+          "score": 7.0,
+          "tags": [
+            "IEA",
+            "氢能",
+            "能源政策",
+            "市场报告",
+            "2026"
+          ],
+          "background": "氢是宇宙中最简单、最丰富的元素，能够为化学和工业过程、综合能源系统以及交通运输储存和提供可用能源。IEA的《全球氢能回顾》是一份年度出版物，跟踪氢能生产和需求的进展，为扩大低排放氢能所需的政策和投资提供见解。",
+          "references": [
+            {
+              "title": "Hydrogen - IEA",
+              "url": "https://www.iea.org/energy-system/low-emission-fuels/hydrogen"
+            },
+            {
+              "title": "The Global Hydrogen Market Is Heading Toward $556.6 Billion, But...",
+              "url": "https://www.linkedin.com/pulse/global-hydrogen-market-heading-toward-5566-billion-rqvaf"
+            },
+            {
+              "title": "Europe's hydrogen push faces market test",
+              "url": "https://www.beijingnews.net/news/279269725/europe-hydrogen-push-faces-market-test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ai-tech",
+      "title": "🤖 AI 科技",
+      "items": [
+        {
+          "rank": 11,
+          "headline": "连续扩散语言模型：自回归生成的有力替代方案",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "tldr": "本文探讨了连续扩散语言模型（CDLM）作为文本生成的新方法，解决了分类数据与高斯噪声破坏之间的不兼容性。",
+          "summary": "本文探讨了连续扩散语言模型（CDLM）作为文本生成的新方法，解决了分类数据与高斯噪声破坏之间的不兼容性。文章重点介绍了Diffusion-LM和LangFlow等最新进展，挑战了自回归模型的主导地位。 这很重要，因为CDLM可能克服自回归模型的基本局限，如错误累积和缺乏并行性，从而可能实现更流畅、更连贯的文本生成。这可能重塑语言模型研究和应用的格局。 文章指出，连续扩散模型在图像和视频生成领域占据主导地位，但直到LangFlow展示了竞争性能之前，一直被认为在语言建模方面不如离散扩散。文章还讨论了历史背景，指出在2020-2021年，自回归的主导地位并不像今天那样稳固。",
+          "source_type": "hackernews",
+          "source_name": "peter_d_sherman",
+          "published": "8月30日 20:46",
+          "score": 8.0,
+          "tags": [
+            "diffusion models",
+            "language models",
+            "AI research",
+            "text generation"
+          ],
+          "background": "自回归语言模型逐词生成文本，根据前面的词预测下一个词，这可能较慢且容易累积错误。而扩散模型通过迭代去噪随机噪声信号来生成数据，允许并行和更平滑的生成。连续扩散模型直接处理连续数据，避免离散分词的需要，可能捕捉更精细的细节。",
+          "discussion": "社区评论表现出乐观与怀疑并存。一些人对CDLM在更平滑生成方面的潜力感到兴奋，而另一些人则质疑关于自回归主导地位的历史叙述，并认为自回归模型仍有未开发的潜力。一位评论者赞赏这篇文章是人工撰写的，而非AI生成。",
+          "references": [
+            {
+              "title": "Continuous diffusion language models – Sander Dieleman",
+              "url": "https://sander.ai/2026/08/24/continuous-dlms.html"
+            },
+            {
+              "title": "Continuous Diffusion Model for Language Modeling [Quick Review]",
+              "url": "https://liner.com/review/continuous-diffusion-model-for-language-modeling"
+            },
+            {
+              "title": "LangFlow: Continuous Diffusion Rivals Discrete Models in... | LinkedIn",
+              "url": "https://www.linkedin.com/posts/hangke-sui_langflow-continuous-diffusion-rivals-discrete-activity-7450571557388828674-Lv6p"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49502611"
+        },
+        {
+          "rank": 12,
+          "headline": "Zig 为 ArrayList 引入指针稳定性",
+          "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+          "tldr": "Zig 的 2026-08-27 开发日志宣布为 ArrayList 引入显式指针稳定性，允许开发者锁定指向元素的指针，防止在调整大小期间失效。",
+          "summary": "Zig 的 2026-08-27 开发日志宣布为 ArrayList 引入显式指针稳定性，允许开发者锁定指向元素的指针，防止在调整大小期间失效。该功能解决了系统编程中的一个常见痛点。 这一设计改进直接解决了系统编程中一个常见的 bug 来源，即动态数组调整大小时可能静默地使指针失效。它提升了 Zig 开发者的安全性和易用性，并可能影响其他语言处理类似问题的方式。 该功能要求程序员显式锁定指针并管理锁的生命周期，一些社区成员认为这容易出错。这是 Zig 持续语言设计演进的一部分，相关讨论涉及 MultiArrayList 以及诸如展开链表等替代方案。",
+          "source_type": "hackernews",
+          "source_name": "tosh",
+          "published": "8月30日 14:41",
+          "score": 8.0,
+          "tags": [
+            "Zig",
+            "systems programming",
+            "data structures",
+            "language design"
+          ],
+          "background": "指针稳定性是指指向元素的指针在一段时间内保持有效（不被失效）的保证，尤其是在像 ArrayList 这样的动态数组调整大小时。在 C++ 等语言中，std::vector 的迭代器和引用在重新分配时可能失效，导致微妙的 bug。Zig 旨在提供对这种行为的显式控制，与 Rust 的编译时借用检查器自动防止此类问题形成对比。",
+          "discussion": "社区反应不一：一些人称赞 Zig 解决了 C++ 中的常见痛点，而另一些人则质疑其必要性，认为如果需要稳定指针，使用其他数据结构可能更合适。还有关于 API 安全性的争论，担心它依赖程序员的自律而非编译时保证。",
+          "references": [
+            {
+              "title": "Zig: Pointer Stability for ArrayLists | Hacker News",
+              "url": "https://news.ycombinator.com/item?id=49499095"
+            },
+            {
+              "title": "Devlog Pointer Stability for ArrayLists - Media - Ziggit",
+              "url": "https://ziggit.dev/t/devlog-pointer-stability-for-arraylists/17398"
+            },
+            {
+              "title": "c++ - What is pointer stability ? - Stack Overflow",
+              "url": "https://stackoverflow.com/questions/59404105/what-is-pointer-stability"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49499095"
+        },
+        {
+          "rank": 13,
+          "headline": "教皇利奥十四世的人工智能通谕引发伦理与利润之争",
+          "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
+          "tldr": "一篇博客文章对教皇利奥十四世的通谕《壮丽人性》进行了反思，该通谕涉及人工智能伦理，强调人工智能的方向取决于人类的选择和制度。",
+          "summary": "一篇博客文章对教皇利奥十四世的通谕《壮丽人性》进行了反思，该通谕涉及人工智能伦理，强调人工智能的方向取决于人类的选择和制度。文章对该文件进行了批判性解读，将其道德框架与科技行业的利润动机进行了对比。 这份通谕标志着人工智能政策讨论中的一个重要时刻，它提供了一位全球主要宗教领袖的道德框架，与科技行业的观点形成对比。它可能影响公众舆论和关于人工智能伦理的政策讨论，尤其是在天主教社区及其他领域。 该通谕于5月15日签署，正值利奥十三世1891年关于工人权利的通谕135周年纪念日，教皇利奥十四世亲自介绍了该文件，此举非同寻常。文件强调技术并非中立，并突出了Anthropic在人工智能安全中的作用，引发了对行业影响力的质疑。",
+          "source_type": "hackernews",
+          "source_name": "borracciaBlu",
+          "published": "8月30日 22:46",
+          "score": 7.0,
+          "tags": [
+            "AI ethics",
+            "Pope Leo XIV",
+            "AI policy",
+            "humanism",
+            "technology and society"
+          ],
+          "background": "《壮丽人性》意为“壮丽的人性”，是教皇利奥十四世的首份通谕，聚焦人工智能。它将天主教社会训导应用于当代问题，提供思考原则和行动指南。该通谕是宗教和伦理领袖参与人工智能社会影响讨论的更广泛趋势的一部分。",
+          "discussion": "社区评论对教皇关于人工智能的言论比美国亿万富翁更相关表示惊讶，一些人同意通谕的关键观点，即人工智能的方向取决于选择，并指出利润动机主导了当前的人工智能投资。然而，一位评论者批评教皇的道德权威，鉴于教会虐待丑闻的历史。",
+          "references": [
+            {
+              "title": "What Is Magnifica Humanitas and why should you... - Vatican News",
+              "url": "https://www.vaticannews.va/en/africa/news/2026-05/what-is-magnifica-humanitas-and-why-should-you-care.html"
+            },
+            {
+              "title": "Pope Leo XIV Presents AI Ethics Encyclical \"Magnifica Humanitas\"",
+              "url": "https://www.newsletter.theintelligentworker.com/p/pope-leo-xiv-presents-ai-ethics-encyclical-magnifica-humanitas"
+            },
+            {
+              "title": "Pope Leo XIV Calls for Disarming Artificial Intelligence in Landmark...",
+              "url": "https://greekcitytimes.com/2026/05/25/pope-leo-xiv-disarming-artificial-intelligence-magnifica-humanitas/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49503587"
+        },
+        {
+          "rank": 14,
+          "headline": "协调阻力：组织如何像黏菌一样运作",
+          "url": "https://komoroske.com/slime-mold/",
+          "tldr": "komoroske.com 上的一篇文章将组织协调与黏菌行为进行类比，认为自上而下的指令往往会被现有结构吸收，而松散耦合、高度一致的团队更为有效。",
+          "summary": "komoroske.com 上的一篇文章将组织协调与黏菌行为进行类比，认为自上而下的指令往往会被现有结构吸收，而松散耦合、高度一致的团队更为有效。 这一观点挑战了传统管理方法，为理解分布式决策提供了框架，在现代科技公司和分布式团队中日益重要。 文章引用了“松散耦合、高度一致”团队的概念，这一原则在 Stephen Bungay 的《行动的艺术》等书中得到推广。社区评论还指出，参与决策的员工素质会显著影响结果。",
+          "source_type": "hackernews",
+          "source_name": "rzk",
+          "published": "8月30日 16:03",
+          "score": 7.0,
+          "tags": [
+            "organizational behavior",
+            "coordination",
+            "slime mold",
+            "management",
+            "distributed systems"
+          ],
+          "background": "黏菌是单细胞生物，表现出集体智能，无需中央大脑即可形成网络寻找食物。这种行为启发了分布式系统中的算法和协调协议，如无线传感器网络的研究。文章中的类比将这一自然现象应用于组织管理，表明去中心化协调可能比自上而下的控制更稳健。",
+          "discussion": "评论普遍认同这一类比，指出自上而下的指令往往会被现有结构吸收。有人推荐进一步阅读《行动的艺术》，并指出员工素质是决策有效性的关键因素。还有人将这一现象类比到宏观系统，如人类文明和宇宙网。",
+          "references": [
+            {
+              "title": "ucmp.berkeley.edu/protista/ slimemolds .html",
+              "url": "https://ucmp.berkeley.edu/protista/slimemolds.html"
+            },
+            {
+              "title": "Highly Aligned , Loosely Coupled - Product Team - ZeroBlockers Docs",
+              "url": "https://docs.zeroblockers.com/product-team/style/highly-aligned-loosely-coupled"
+            },
+            {
+              "title": "Building a Loosely Coupled , Highly Aligned Team",
+              "url": "https://www.linkedin.com/pulse/building-loosely-coupled-highly-aligned-team-oliver-liu-albkc"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49499891"
+        },
+        {
+          "rank": 15,
+          "headline": "精心选词塑造写作技艺",
+          "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+          "tldr": "文章《我只是仔细选择了词语》探讨了刻意的选词和风格约束如何影响写作，并通过《超级银河战士》攻略和《X档案》的轶事来说明这一点。",
+          "summary": "文章《我只是仔细选择了词语》探讨了刻意的选词和风格约束如何影响写作，并通过《超级银河战士》攻略和《X档案》的轶事来说明这一点。 这篇文章对写作技艺提供了反思性的视角，强调约束如何促成独特的风格。它与作家和爱好者产生共鸣，尽管并非重大的技术突破。 文章提到《超级银河战士》攻略中作者故意使用“missles”而非“missiles”，以及克里斯·卡特避免脚本中出现孤行的习惯，这影响了《X档案》的对话节奏。",
+          "source_type": "hackernews",
+          "source_name": "zdw",
+          "published": "8月30日 22:49",
+          "score": 6.0,
+          "tags": [
+            "writing",
+            "style",
+            "constraints",
+            "anecdote",
+            "craft"
+          ],
+          "background": "写作风格常常受到约束的影响，无论是自我施加还是外部强加的。这些轶事说明了约束如何导致独特的风格选择，社区讨论通过分享相关例子和定义增加了深度。",
+          "discussion": "社区评论表达了对内容的赞赏，一位用户表示这是他们来Hacker News想看到的内容。其他人分享了相关轶事，如克里斯·卡特的脚本排版偏好，并定义了“孤行”和“寡行”等术语。",
+          "discussion_url": "https://news.ycombinator.com/item?id=49503601"
+        },
+        {
+          "rank": 16,
+          "headline": "Haiku R1/beta6 发布，社区反馈启动体验不一",
+          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+          "tldr": "Haiku R1/beta6 已发布，这是受 BeOS 启发的开源操作系统的第六个测试版。",
+          "summary": "Haiku R1/beta6 已发布，这是受 BeOS 启发的开源操作系统的第六个测试版。该版本在 Haiku 成立 25 周年后约一周发布，紧随 2026 年 9 月的 beta5 之后。 此次发布表明 Haiku 这一小众操作系统社区在稳步前进，该社区重视速度、简洁和高效。同时，它也凸显了用户报告的启动回归等问题，这些挑战可能影响爱好者的采用。 发布说明指出，Haiku 由一个小型志愿者团队开发，未使用 AI 生成的代码。用户报告了 beta6 中的启动回归问题，一种解决方法是启动时按空格键进入安全模式，并在内核提示符下输入“continue”。",
+          "source_type": "hackernews",
+          "source_name": "metrofun",
+          "published": "8月30日 16:01",
+          "score": 6.0,
+          "tags": [
+            "Haiku",
+            "Operating System",
+            "Beta Release",
+            "Open Source"
+          ],
+          "background": "Haiku 是一个免费开源操作系统，始于 2001 年的 OpenBeOS，旨在与 BeOS 二进制兼容。它是 BeOS 的社区驱动延续，强调个人计算的速度、简洁和高效。该项目仍处于测试阶段，此次发布是 R1 的第六个测试版。",
+          "discussion": "社区成员表达了复杂的感受：一些人称赞 Haiku 的美观和理念，而另一些人则报告了启动回归问题。一位用户指出，beta6 在 ThinkPad X1 上启动时挂起，需要变通方法；另一位用户则希望有现代浏览器。总体而言，情绪积极但对可用性持谨慎态度。",
+          "references": [
+            {
+              "title": "R 1 / beta 6 – Release Notes | Haiku Project",
+              "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/"
+            },
+            {
+              "title": "Haiku R 1 Beta 6 Released After Two Years, BeOS-Inspired... - Phoronix",
+              "url": "https://www.phoronix.com/news/Haiku-R1-Beta-6"
+            },
+            {
+              "title": "Haiku (operating system)",
+              "url": "https://en.wikipedia.org/wiki/Haiku_%28operating_system%29"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49499867"
+        },
+        {
+          "rank": 17,
+          "headline": "1980年Spacelab计算机核心内存模块探秘",
+          "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+          "tldr": "Ken Shirriff撰写的一篇详细文章探讨了1980年Spacelab计算机的核心内存模块，强调了其先进的高密度设计以及核心内存技术的晚期使用。",
+          "summary": "Ken Shirriff撰写的一篇详细文章探讨了1980年Spacelab计算机的核心内存模块，强调了其先进的高密度设计以及核心内存技术的晚期使用。 这篇文章为太空计算系统的可靠性和冗余设计提供了宝贵见解，吸引了复古计算和太空历史爱好者。它强调了在微处理器之前，计算机如何在严苛环境中实现关键功能。 该内存制造于1980年，对于核心内存来说时间较晚，因此技术先进且密度高。文章包含计算机中四块核心板之一的照片，作者在评论区积极回答问题。",
+          "source_type": "hackernews",
+          "source_name": "pwg",
+          "published": "8月30日 20:00",
+          "score": 6.0,
+          "tags": [
+            "core memory",
+            "space computing",
+            "retrocomputing",
+            "history",
+            "hardware"
+          ],
+          "background": "核心内存（磁芯内存）是半导体内存之前主要的随机存取内存技术，利用磁芯存储数据。它以其可靠性著称，因此适用于航天器等关键系统。1980年制造的Spacelab计算机是这项技术的晚期实例，因为当时半导体内存已经开始普及。",
+          "discussion": "评论者对核心内存在太空中的可靠性表示钦佩，有人指出其与现代RAM相比的重量。作者参与了问答，一位评论者将其与现代LLM系统中的N模块冗余相类比，另一位则强调了其中涉及的高技能人工工艺。",
+          "references": [
+            {
+              "title": "Cores in space: The core memory module from a 1980 Spacelab ...",
+              "url": "https://www.righto.com/2026/08/spacelab-core-memory.html"
+            },
+            {
+              "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+              "url": "https://blog.adafruit.com/2026/05/27/reverse-engineering-circuitry-in-a-spacelab-computer-from-1980/"
+            },
+            {
+              "title": "Core - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Core"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49502214"
+        },
+        {
+          "rank": 18,
+          "headline": "开源SM750 HDMI驱动延长GPU寿命",
+          "url": "https://github.com/KodeMunkie/sm750hdmifb",
+          "tldr": "一位开发者为SM750 GPU创建了一个现代Linux驱动，支持超宽屏和高刷新率HDMI，并在GitHub上分享。",
+          "summary": "一位开发者为SM750 GPU创建了一个现代Linux驱动，支持超宽屏和高刷新率HDMI，并在GitHub上分享。 这个开源驱动扩展了廉价小众GPU的可用性，促进了硬件可持续性，并为Linux用户提供了更多显示选项。它展示了社区驱动的开发如何让旧硬件保持活力。 该驱动支持超宽分辨率和比原驱动更高的刷新率，专为SM750的HDMI-only版本设计。开发者创建它是为了在将Nvidia GPU专用于计算任务的同时，用该GPU运行X11显示。",
+          "source_type": "hackernews",
+          "source_name": "SillyUsername",
+          "published": "8月30日 18:49",
+          "score": 6.0,
+          "tags": [
+            "open-source",
+            "Linux driver",
+            "GPU",
+            "hardware",
+            "sustainability"
+          ],
+          "background": "SM750是一种常用于服务器的低成本GPU，其Linux驱动支持有限，历史上仅覆盖VGA/DVI版本。现代Linux内核包含基本的sm750驱动，但缺乏对HDMI版本高级功能的支持。这个新驱动填补了这一空白，利用开源生态系统延长硬件寿命。",
+          "discussion": "社区评论对开源努力表示赞赏，一位用户指出这避免了硬件被丢弃。另一位用户询问开发过程，提到“vibe coding”，还有人建议将该驱动添加到FSF的“尊重你的自由”硬件列表中。",
+          "references": [
+            {
+              "title": "HDMI Linux Driver Framework: DRM/KMS, EDID and Debugging...",
+              "url": "https://www.panoxdisplay.com/solution/hdmi-linux-driver-framework"
+            },
+            {
+              "title": "HDMI 2.1 FRL Support in Development for AMD Linux Graphics Driver",
+              "url": "https://www.techedubyte.com/amd-linux-graphics-hdmi-2-1-frl-support/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=49501611"
+        },
+        {
+          "rank": 19,
+          "headline": "宜家家具改造：DIY指南与社区见解",
+          "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+          "tldr": "发布了一份关于改造宜家家具的新DIY指南，提供了实用的定制技巧。",
+          "summary": "发布了一份关于改造宜家家具的新DIY指南，提供了实用的定制技巧。随附的社区讨论分享了个人经验和修改宜家产品的资源。 该指南凸显了家具改造这一日益增长的趋势，即消费者对量产商品进行个性化定制以满足自身需求。它使业余爱好者和DIY爱好者能够以低成本创造独特且实用的作品，从而培养创造力和可持续性文化。 该指南涵盖了各种改造技术，从简单调整到更复杂的构建。社区成员提到使用宜家产品的CAD图纸以及集成智能家居技术，同时一些人就与从头开始建造相比的成本效益和质量展开辩论。",
+          "source_type": "hackernews",
+          "source_name": "greenlightning",
+          "published": "8月30日 11:39",
+          "score": 5.0,
+          "tags": [
+            "DIY",
+            "IKEA",
+            "Furniture Hacking",
+            "Customization"
+          ],
+          "background": "宜家家具改造是一种流行的DIY实践，人们通过修改或重新利用宜家产品来更好地满足自己的需求或审美。由于宜家产品的广泛普及、价格实惠和模块化设计，这一趋势不断增长，使其易于定制。像IKEAHackers.net这样的网站已成为分享创意和教程的中心。",
+          "discussion": "社区讨论总体上是积极的，用户分享了个人成功案例和资源。一些人称赞宜家让现代设计变得触手可及，而另一些人则质疑改造宜家家具与使用原材料自行建造相比的质量和成本效益。一些用户提到CAD图纸的可用性以及集成智能家居技术的便利性。",
+          "discussion_url": "https://news.ycombinator.com/item?id=49497810"
+        }
+      ]
+    },
+    {
+      "key": "big-tech",
+      "title": "🏢 大厂要闻",
+      "items": [
+        {
+          "rank": 20,
+          "headline": "OpenAI的Jalapeño芯片在推理基准测试中超越英伟达",
+          "url": "http://www.geekpark.net/news/369555",
+          "tldr": "在8月25日的Hot Chips大会上，OpenAI公布了其与博通联合开发的定制推理芯片Jalapeño的首份公开跑分。",
+          "summary": "在8月25日的Hot Chips大会上，OpenAI公布了其与博通联合开发的定制推理芯片Jalapeño的首份公开跑分。在三款开源权重模型上，该芯片的每千瓦吞吐量比英伟达Blackwell系统高出1.5至1.9倍，低延迟生成速度最高快4.9倍。 这标志着AI硬件竞赛中的一个重要里程碑，OpenAI的首款定制推理芯片在关键指标上超越了英伟达的最新系统。这预示着向为模型定制芯片设计的转变，可能重塑AI基础设施格局，并加剧与英伟达等老牌芯片制造商的竞争。 Jalapeño额定功耗700W，搭载HBM4，单封装内存带宽约15.4TB/s，MXFP4理论算力为13.4 PFLOPS。它采用统一架构同时处理prefill和decode，避免了吞吐量与延迟之间的权衡。该芯片计划于2026年底极小规模部署，2027年量产。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "8月30日 10:53",
+          "score": 9.0,
+          "tags": [
+            "OpenAI",
+            "AI芯片",
+            "Nvidia",
+            "推理性能",
+            "Hot Chips"
+          ],
+          "background": "传统上，行业遵循“为芯片适配模型”的方式，即英伟达发布硬件，开发者进行适配。OpenAI的Jalapeño则反其道而行之，专门为其模型设计芯片。该芯片从初始设计到流片仅用了9个月，而常规周期为18至24个月，这得益于AI生成的kernel以及Codex和GPT-Astra等工具。",
+          "references": [
+            {
+              "title": "OpenAI 's Jalapeño AI Chip Explained: Performance, Power & Why It...",
+              "url": "https://www.buildfastwithai.com/blogs/openai-s-jalapeno-ai-chip-explained-performance-power-why-it-matters-2026"
+            },
+            {
+              "title": "OpenAI chip beats Nvidia systems with 1.9x more work per watt",
+              "url": "https://interestingengineering.com/innovation/openai-jalapeno-chip-1-9x-performance-per-watt"
+            },
+            {
+              "title": "Open-Source Agentic Inference Benchmark | InferenceX",
+              "url": "https://inferencex.semianalysis.com/"
+            }
+          ]
+        },
+        {
+          "rank": 21,
+          "headline": "艾博生物CEO谈个性化mRNA肿瘤疫苗三期突破",
+          "url": "https://www.tmtpost.com/8121867.html",
+          "tldr": "在一次采访中，艾博生物CEO讨论了公司在个性化mRNA肿瘤疫苗开发方面的进展，并强调了三期临床试验的重大突破。",
+          "summary": "在一次采访中，艾博生物CEO讨论了公司在个性化mRNA肿瘤疫苗开发方面的进展，并强调了三期临床试验的重大突破。这标志着个性化肿瘤疫苗首次在后期试验中取得成功，是癌症免疫治疗的一个重要里程碑。 这一突破可能通过提供个性化治疗方法，训练免疫系统针对每位患者独特的肿瘤突变，从而彻底改变癌症治疗。它验证了mRNA技术在传染病之外的潜力，为治疗多种癌症开辟了新途径，并可能提高全球患者的生存率。 个性化mRNA肿瘤疫苗旨在编码每位患者肿瘤特有的新抗原，从而刺激靶向免疫反应。三期试验的成功表明该疫苗能有效预防高风险患者的癌症复发，但具体的疗效数据和监管批准仍有待公布。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 03:09",
+          "score": 8.0,
+          "tags": [
+            "mRNA",
+            "肿瘤疫苗",
+            "个性化医疗",
+            "生物科技",
+            "癌症治疗"
+          ],
+          "background": "mRNA疫苗通过传递信使RNA，指导细胞产生抗原，从而触发免疫反应。在癌症免疫治疗中，个性化mRNA疫苗旨在靶向新抗原——即每种肿瘤特有的突变蛋白——从而训练免疫系统识别并攻击癌细胞。随着mRNA COVID-19疫苗的成功，这种方法获得了发展动力，最近的试验（如针对黑色素瘤的试验）在后期阶段显示出令人鼓舞的结果。",
+          "references": [
+            {
+              "title": "mRNA -Based Personalized Cancer Vaccines : Opportunities...",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12755870/"
+            },
+            {
+              "title": "mRNA Cancer Vaccine Halts Melanoma in Phase 3 Trial",
+              "url": "https://thegoodpress.news/article/mrna-cancer-vaccine-melanoma-phase-3-moderna-merck-2026"
+            },
+            {
+              "title": "Experimental mRNA cancer vaccine shows potential for advanced...",
+              "url": "https://www.kcl.ac.uk/news/mrna-cancer-vaccine-potential-advanced-stage-cancer-patients-in-phase-1-trial"
+            }
+          ]
+        },
+        {
+          "rank": 22,
+          "headline": "边缘AI早报：微软、OpenAI、Meta等AI基础设施与政策动态",
+          "url": "https://www.tmtpost.com/8121865.html",
+          "tldr": "8月30日的Edge AI早报汇总了科技巨头的主要动态，包括微软将WinUI开源、OpenAI终止对Cursor的服务、Meta推出用于自动化VR测试的XR Operator，以及Bullish向US…",
+          "summary": "8月30日的Edge AI早报汇总了科技巨头的主要动态，包括微软将WinUI开源、OpenAI终止对Cursor的服务、Meta推出用于自动化VR测试的XR Operator，以及Bullish向USD.AI提供1亿美元GPU抵押贷款。 这些动态标志着AI基础设施商品化的趋势，开源UI框架、自动化测试和GPU融资成为战略资产。同时，它们也凸显了AI模型提供商在塑造行业实践和监管讨论中日益增长的影响力。 微软完成了WinUI在GitHub上的主线开源，加速了Windows组件化进程。亚马逊推出了配送速度竞价机制。OpenAI以服务条款合规为由终止了对SpaceX支持的Cursor的服务。Meta的XR Operator是实验性的，属于Meta XR Core SDK的一部分。Bullish的贷款以GPU为抵押，确立了算力作为新资产类别。迪卡侬部署了Chronos-2进行需求预测，在CPU上每周成本3美分，准确率提升11-15个百分点。EPA提议取消数据中心的公众评论义务，引发环境担忧。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 00:52",
+          "score": 8.0,
+          "tags": [
+            "AI基础设施",
+            "大厂动态",
+            "模型应用",
+            "监管政策",
+            "算力资产"
+          ],
+          "background": "WinUI是微软的原生Windows UI框架，用于构建现代Windows应用。将其开源允许开发者贡献和定制，但由于与操作系统紧密耦合，开源过程复杂。Meta XR Operator是一个AI驱动的工具，用于自动化VR测试，是Meta开发者基础设施的一部分。GPU抵押贷款反映了计算资源作为抵押品日益增长的价值。Chronos-2是一个时间序列预测模型，能在CPU上高效运行，使零售商能够使用先进的需求预测。",
+          "references": [
+            {
+              "title": "Windows UI库（ WinUI ） 开 源 项目点评 - Uyuanma",
+              "url": "https://www.uyuanma.com/opensource/topics/winui"
+            },
+            {
+              "title": "WinUI 终于要 开 源 了？ 微软公布四阶段计划，Windows 11 UI...",
+              "url": "https://www.cnblogs.com/dc-s/p/19051879"
+            },
+            {
+              "title": "Meta XR Operator overview | Meta Horizon OS Developers",
+              "url": "https://developers.meta.com/horizon/documentation/unity/meta-xr-operator/"
+            }
+          ]
+        },
+        {
+          "rank": 23,
+          "headline": "OpenAI终止与Cursor合作；索尼和华纳起诉Anthropic",
+          "url": "http://www.geekpark.net/news/369551",
+          "tldr": "8月29日，OpenAI宣布终止与AI编程工具Cursor的合作，理由是SpaceX收购Cursor后存在信任问题。",
+          "summary": "8月29日，OpenAI宣布终止与AI编程工具Cursor的合作，理由是SpaceX收购Cursor后存在信任问题。对OpenAI模型的直接访问将于2026年11月12日终止。另外，索尼音乐和华纳音乐出版对Anthropic提起诉讼，要求每部作品最高赔偿15万美元，总金额可能达数十亿美元。 这标志着埃隆·马斯克与萨姆·奥特曼之间的竞争显著升级，影响AI编程工具市场，并引发对AI合作伙伴关系中信任与合规的担忧。对Anthropic的诉讼凸显了AI公司在版权侵权方面面临的法律压力，可能影响未来的AI训练实践和行业标准。 OpenAI列举了两起事件：Twitter（现为SpaceX一部分）在马斯克收购后违反合同条款；马斯克在宣誓作证时承认xAI使用蒸馏技术利用OpenAI模型训练Grok。合同允许OpenAI在控制权变更后终止合作。对Anthropic的诉讼还将创始人达里奥·阿莫迪和本杰明·曼列为被告，指控他们通过BitTorrent下载超过500万本盗版书籍。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "8月30日 00:28",
+          "score": 8.0,
+          "tags": [
+            "OpenAI",
+            "Cursor",
+            "SpaceX",
+            "AI partnership",
+            "trust"
+          ],
+          "background": "OpenAI与Cursor曾签订定制协议，允许在控制权变更后终止合作。蒸馏是一种利用大型模型输出训练小型模型的技术。该诉讼是Anthropic面临的一系列版权纠纷之一，该公司最近与出版商达成15亿美元的和解。AI行业在训练数据中使用受版权保护的材料正面临越来越多的审查。",
+          "discussion": "新闻中未提供社区评论，但根据上下文，讨论可能集中在OpenAI基于信任的终止决定的影响以及AI公司面临的法律挑战。一些人可能会争论诉讼的公平性及其对AI发展的更广泛影响。",
+          "references": [
+            {
+              "title": "OpenAI to End Partnership With Cursor After SpaceX... - Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition"
+            },
+            {
+              "title": "Altman-Musk row widens as OpenAI , Cursor fail to click - RTHK",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1868060-20260829.htm?spTabChangeable=0"
+            },
+            {
+              "title": "Musk Testified Under Oath That xAI Distilled OpenAI Models to Build...",
+              "url": "https://www.linkedin.com/pulse/musk-testified-under-oath-xai-distilled-openai-models-travis-lelle-vsete"
+            }
+          ]
+        },
+        {
+          "rank": 24,
+          "headline": "个人房贷期限延至40年；OpenAI终止与Cursor合作；AI收入流向云巨头",
+          "url": "https://www.tmtpost.com/8122212.html",
+          "tldr": "中国个人住房贷款政策发生变化，房贷期限最长延至40年。",
+          "summary": "中国个人住房贷款政策发生变化，房贷期限最长延至40年。OpenAI决定终止向Cursor提供模型服务，马斯克对此作出回应。有报告显示，AI公司每赚100美元，近40美元流向云巨头。 房贷政策变化可能对房地产市场及购房者负担能力产生重大影响。OpenAI与Cursor的分手标志着AI模型供应商关系的转变，可能影响开发者工具生态。收入分配报告凸显了云服务商在AI价值链中日益增强的主导地位。 房贷期限延长至40年是一项显著的政策调整，但具体实施细则尚未公布。OpenAI终止向Cursor提供服务是战略举措，马斯克的回应引发行业关注。关于AI收入分配的报告强调了云服务商占据的显著份额，反映了基础设施成本。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 23:20",
+          "score": 7.0,
+          "tags": [
+            "AI",
+            "OpenAI",
+            "住房贷款",
+            "云巨头",
+            "行业动态"
+          ],
+          "background": "中国住房贷款政策传统上最长期限为30年，延长至40年可降低月供但增加总利息。OpenAI向多种应用提供模型，终止对Cursor（一款流行的AI代码编辑器）的服务可能是出于竞争或战略调整。AI公司通常依赖云基础设施，因此与AWS、Azure和Google Cloud等提供商进行大量收入分成。",
+          "references": [
+            {
+              "title": "液 冷 产 业 迎来爆发增长期 多家 液 冷 企 业 订 单 排 至年底 _ 东方财富网",
+              "url": "https://finance.eastmoney.com/a/202608303859402060.html"
+            },
+            {
+              "title": "多家 液 冷 企 业 订 单 排 至年底 | 界面新闻",
+              "url": "https://m.jiemian.com/article/15029882.html"
+            }
+          ]
+        },
+        {
+          "rank": 25,
+          "headline": "优必选走进窄门：人形机器人从表演转向工厂",
+          "url": "https://www.tmtpost.com/8121851.html",
+          "tldr": "文章指出，人形机器人行业的评判标准已从展会上的后空翻等表演转向工厂中的拆码垛等实际应用。",
+          "summary": "文章指出，人形机器人行业的评判标准已从展会上的后空翻等表演转向工厂中的拆码垛等实际应用。在真实物理世界中创造商业价值已成为筛选玩家的关键标尺。 这一转变标志着概念炒作阶段的结束和市场驱动整合的开始，只有具备可行商业应用的公司才能生存。对优必选等大厂具有重要战略意义，它们必须证明其技术在现实世界中的价值，以获取投资和市场地位。 文章提到拆码垛等具体工厂任务作为实际应用的例子。它没有提供具体数据或独家信息，但强调了行业从表演转向实用性的转变。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 10:49",
+          "score": 7.0,
+          "tags": [
+            "人形机器人",
+            "商业化",
+            "行业趋势",
+            "优必选"
+          ],
+          "background": "人形机器人长期以来在展会上展示后空翻等令人印象深刻的表现，但这些演示并不能保证商业可行性。行业现在正聚焦于制造业中的实际任务，如拆码垛，机器人可以在这些任务中带来切实的效率提升。这一趋势得到了政策举措的支持，如宁波市人形机器人产业创新发展行动方案（2025-2027年），旨在促进创新和产业化。",
+          "references": [
+            {
+              "title": "除了扭秧歌， 人 形 机 器 人 还能干啥？ 一文讲清_京报网",
+              "url": "https://news.bjd.com.cn/2025/01/30/11052959.shtml"
+            },
+            {
+              "title": "宁波市 人 形 机 器 人 产 业 创新发展行动方案（2025—2027...",
+              "url": "https://www.afdata.org.cn/Policy/0fa8f546-5974-4bcb-b2d5-212d97bee408"
+            }
+          ]
+        },
+        {
+          "rank": 26,
+          "headline": "自动驾驶入法后，罚单谁来交？",
+          "url": "https://www.tmtpost.com/8122093.html",
+          "tldr": "文章探讨了自动驾驶在中国入法后，当车辆处于“激活状态”下发生违章时，罚单责任归属这一争议焦点。",
+          "summary": "文章探讨了自动驾驶在中国入法后，当车辆处于“激活状态”下发生违章时，罚单责任归属这一争议焦点。 这一问题对智能汽车行业至关重要，因为它影响法律清晰度、消费者信任以及自动驾驶技术的采用。它涉及法律、技术和消费者权益的交叉，属于高价值行业动态。 文章指出，“激活状态”的定义可能成为未来法律纠纷的关键点。它表明，确定违章发生时是人工驾驶员还是自动驾驶系统在控制车辆，对于责任归属至关重要。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 10:45",
+          "score": 7.0,
+          "tags": [
+            "自动驾驶",
+            "法律法规",
+            "责任归属",
+            "智能汽车"
+          ],
+          "background": "自动驾驶汽车，又称智能汽车或自主汽车，通过计算机实现自动驾驶。根据SAE分级，只有L3及以上才属于真正的自动驾驶系统，而L0-L2属于驾驶辅助系统。在中国，近期立法开始涉及自动驾驶，但事故和违章中的责任归属问题仍然复杂，尤其是在人工与系统控制之间的转换阶段。",
+          "references": [
+            {
+              "title": "pbcsf.tsinghua.edu.cn/__local/5/27/DE/D5DA8541C99C4AFD23BF42...",
+              "url": "https://www.pbcsf.tsinghua.edu.cn/__local/5/27/DE/D5DA8541C99C4AFD23BF42C00D5_EFF30E25_1E2F09.pdf"
+            },
+            {
+              "title": "landinglawyer.com/research/2084.html",
+              "url": "https://landinglawyer.com/research/2084.html"
+            },
+            {
+              "title": "自 动 驾 驶 汽车交通 事 故 侵权 责 任 主体研究",
+              "url": "https://pdf.hanspub.org/ds_1081896.pdf"
+            }
+          ]
+        },
+        {
+          "rank": 27,
+          "headline": "天数智芯盈利，但并非来自芯片销售",
+          "url": "https://www.tmtpost.com/8122018.html",
+          "tldr": "据最新财报分析，天数智芯营收翻倍，但毛利率从50.1%暴跌至17.2%，且利润并非来自芯片销售。",
+          "summary": "据最新财报分析，天数智芯营收翻倍，但毛利率从50.1%暴跌至17.2%，且利润并非来自芯片销售。 这引发了对天数智芯商业模式可持续性的重大担忧，因为这家中国主要的AI芯片公司并非靠核心产品盈利。这也凸显了更广泛的行业挑战，即AI芯片公司可能依赖非核心收入来源来实现盈利。 毛利率从50.1%跌至17.2%，表明芯片销售盈利能力下降，可能是由于成本上升或竞争性定价。文章暗示利润来自其他来源，如服务或政府补贴，但摘要中未提供具体细节。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 10:45",
+          "score": 7.0,
+          "tags": [
+            "天数智芯",
+            "AI芯片",
+            "财报分析",
+            "商业模式",
+            "半导体"
+          ],
+          "background": "天数智芯是一家中国AI芯片公司，开发用于数据中心的GPU。AI芯片行业竞争激烈，英伟达等公司主导市场。中国公司通常依赖国内需求和政府支持，由于高研发成本和价格竞争，盈利可能具有挑战性。",
+          "references": [
+            {
+              "title": "caifuhao.eastmoney.com/news/20260331110259237277020",
+              "url": "https://caifuhao.eastmoney.com/news/20260331110259237277020"
+            },
+            {
+              "title": "港股周涨跌榜 | 迅策周内狂飙逾56... | 华盛通",
+              "url": "https://www.hstong.com/news/detail/26041016540744861"
+            },
+            {
+              "title": "影石的 利 润，被谁拿走了？ -钛媒体官方网站",
+              "url": "https://www.tmtpost.com/8121275.html"
+            }
+          ]
+        },
+        {
+          "rank": 28,
+          "headline": "顺丰同城借AI从送外卖迈向城市基础设施",
+          "url": "https://www.tmtpost.com/8122051.html",
+          "tldr": "顺丰同城正利用AI技术（包括接入DeepSeek大模型）突破人力瓶颈，从外卖配送向城市基础设施服务商转型，旨在通过智能调度与优化重构短途物流的底层逻辑。",
+          "summary": "顺丰同城正利用AI技术（包括接入DeepSeek大模型）突破人力瓶颈，从外卖配送向城市基础设施服务商转型，旨在通过智能调度与优化重构短途物流的底层逻辑。 这一转型意义重大，因为它应对了即时配送行业面临的监管趋严和成本上升的双重压力。通过整合AI，顺丰同城可能为物流企业如何演变为城市基础服务树立先例，提高效率和可扩展性，同时减少对人力的依赖。 公司已接入DeepSeek的开源生态及多模态AI能力，实现快速定制化开发并降低运营成本。其自主研发的CLS智能即时物流系统利用AI进行供需实时调控和全局优化，在多个业务场景中协调订单需求与骑手状态。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 10:01",
+          "score": 7.0,
+          "tags": [
+            "顺丰同城",
+            "AI物流",
+            "即时配送",
+            "城市基础设施",
+            "行业转型"
+          ],
+          "background": "外卖等即时配送服务高度依赖庞大且灵活的劳动力，这面临人员流动率高、监管压力和人力成本上升等挑战。包括大语言模型和智能调度系统在内的AI技术正被采用，以预测订单波动、优化路线规划并更高效地管理骑手分布，从而可能减少行业对人力的依赖。",
+          "references": [
+            {
+              "title": "顺 丰 同 城 宣布接入DeepSeek大模型 - 电商派",
+              "url": "https://www.pai.com.cn/p/01jkz6ajtz6k6f4vgp3r7c2z4m"
+            },
+            {
+              "title": "DeepSeek...",
+              "url": "http://www.56zj.net/logistics/27159.html"
+            },
+            {
+              "title": "妇女节消费逐年升温， 顺 丰 同 城 品质服务满足多元需求- DoNews",
+              "url": "https://www.donews.com/news/detail/4/4057463.html"
+            }
+          ]
+        },
+        {
+          "rank": 29,
+          "headline": "美团二季度营收1046亿元同比增14.4%，预期三季度外卖UE改善",
+          "url": "https://www.tmtpost.com/8122026.html",
+          "tldr": "美团公布2025年第二季度营收1046亿元人民币，同比增长14.4%，并预计第三季度外卖单位经济效应（UE）同比将明显改善。",
+          "summary": "美团公布2025年第二季度营收1046亿元人民币，同比增长14.4%，并预计第三季度外卖单位经济效应（UE）同比将明显改善。 这表明随着行业竞争趋于理性，美团业务恢复稳健增长，对投资者和中国互联网行业整体是积极信号。预期UE改善意味着其核心外卖业务盈利能力有望提升。 公司预计三季度外卖UE同比改善，但受季节性因素影响环比可能下降，不过仍有望保持正值。美团CEO王兴此前表示，若竞争保持理性，二季度UE将明显好于一季度。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "8月30日 08:42",
+          "score": 7.0,
+          "tags": [
+            "美团",
+            "财报",
+            "外卖",
+            "互联网",
+            "营收增长"
+          ],
+          "background": "UE（单位经济效应）衡量外卖每笔订单的盈利或亏损，反映商业模式效率。美团此前在外卖市场面临激烈竞争，但监管引导和竞争回归理性有助于稳定其利润率。夏季旺季通常提升配送需求，但也增加营销投入。",
+          "references": [
+            {
+              "title": "美 团 电话会：三季度 外 卖 UE 同比将明显改善，AI...",
+              "url": "https://wallstreetcn.com/articles/3780576"
+            },
+            {
+              "title": "美 团 CEO王兴预期二季度 外 卖 UE ...",
+              "url": "https://news.pconline.com.cn/2163/21635351.html"
+            },
+            {
+              "title": "美 团 电话会：预期Q2 外 卖 UE 会明显好于Q1",
+              "url": "https://www.163.com/dy/article/KUC8C2VK0519QIKK.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "customer-service",
+      "title": "🎧 客服行业动态",
+      "items": [
+        {
+          "rank": 30,
+          "headline": "新国标应对AI客服转人工难",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNUd0REM2bFZPdnlfX1hCWXFhelhNYmlPX3ZuUG12MEhaY1NVeGNaYWZyZG14bUlPdWtvQ1pEYlB5Ql9qb2hyNC1RU2c?oc=5",
+          "tldr": "一项新的国家标准（“新国标”）已出台，旨在解决从AI客服转接人工客服的常见难题。",
+          "summary": "一项新的国家标准（“新国标”）已出台，旨在解决从AI客服转接人工客服的常见难题。该标准旨在为AI客服系统划定服务边界。 该标准意义重大，因为它直接解决了消费者普遍遇到的痛点，有望提升客户满意度和对AI驱动服务的信任。它将影响各行业的客服运营，促使企业在AI无法解决问题时确保无缝转接人工。 该标准专门针对“转人工”问题，为AI服务能力设定了明确边界。它可能包含对透明升级路径和响应时间的要求，但具体技术细节尚未完全公开。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "8月30日 23:42",
+          "score": 8.0,
+          "tags": [
+            "AI客服",
+            "新国标",
+            "客户服务",
+            "行业标准"
+          ],
+          "background": "AI客服系统已广泛应用，但用户常常难以转接人工客服，导致不满。新国标旨在通过规定AI必须何时以及如何转接人工支持来规范这一现象，确保消费者权益得到保护。",
+          "references": [
+            {
+              "title": "省了2万培训费却丢了30万 客 户： AI ...",
+              "url": "https://www.mainwww.com/article/1362.html"
+            }
+          ]
+        },
+        {
+          "rank": 31,
+          "headline": "九月新规：住房公积金、金融、人工智能客服",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56VlhXUTZaSVYxSGpWSnphZXZHeW9yeTJtdS1vM3c2SXU5dTFQT2w4dHJsaXNnMlVHemNyMGNQU1FtRnF4VmRydmRiMlpmNGRXVnh4eWRvWlI1QmpYVmc?oc=5",
+          "tldr": "自2023年9月起，中国实施涉及住房公积金、金融服务和人工智能客服的新规。",
+          "summary": "自2023年9月起，中国实施涉及住房公积金、金融服务和人工智能客服的新规。其中，AI客服规则要求智能系统必须真正服务用户，如果语义理解能力不足，不能仅为降低成本而强行替代人工服务。 这些规定直接影响客服行业，为AI应用设定了平衡效率与服务质量的标尺。对从业者而言，这意味着AI系统必须达到更高的责任和性能标准，可能重塑企业实施自动化支持的方式。 新规强调，如果AI客服无法满足服务要求，不能将其作为降本手段。此外，住房公积金政策鼓励调整存量房贷利率并降低首付比例，金融监管旨在稳定居民消费预期。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "8月30日 14:04",
+          "score": 7.0,
+          "tags": [
+            "AI customer service",
+            "regulations",
+            "customer service industry",
+            "September new rules"
+          ],
+          "background": "在中国，AI客服已广泛应用，但对其表现不佳的投诉促使监管关注。《人民日报》评论指出，智能客服应真正服务用户，而非简单替代人工。住房公积金和金融监管是支持房地产市场和居民消费的更广泛举措的一部分。",
+          "references": [
+            {
+              "title": "PLRMRB05B20230704C",
+              "url": "http://paper.people.com.cn/rmrb/images/2023-07/04/05/rmrb2023070405.pdf"
+            },
+            {
+              "title": "TK15T1520230926C",
+              "url": "https://ep.ycwb.com/epaper/gdjs/resfile/2023-09-26/15/gdjsb2023092615.pdf"
+            }
+          ]
+        },
+        {
+          "rank": 32,
+          "headline": "旅客未收到列车停运通知，12306 App仍显示“计划出发”",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CbEdMTzBWUmx0cmdJcUxaYjN2aS1EeXRBZGM4dGF0d1BHUHNpNEZfQkFlU1Jaa0Y2dUVHa3paYVVBdXktS2Fuaw?oc=5",
+          "tldr": "多名购票旅客反映未收到列车停运通知，到站后才得知停运，而12306 App仍显示“计划出发”。",
+          "summary": "多名购票旅客反映未收到列车停运通知，到站后才得知停运，而12306 App仍显示“计划出发”。客服对此作出了回应。 该事件凸显了中国官方铁路售票平台通知系统的严重缺陷，削弱了旅客信任并造成极大不便。它强调了公共交通服务中主动、准确的实时沟通的必要性。 12306 App未能将列车状态更新为“已停运”，仍显示“计划出发”，导致旅客白跑一趟。据报道，客服回应不够充分，该问题引发了对平台通知机制可靠性的质疑。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "8月30日 12:57",
+          "score": 7.0,
+          "tags": [
+            "customer service",
+            "train cancellation",
+            "notification failure",
+            "12306",
+            "passenger rights"
+          ],
+          "background": "12306是中国铁路官方在线售票平台，每天处理数百万张车票。它提供预订、退票和时刻查询等服务。有效传达服务中断信息对旅客出行规划至关重要，而通知失败可能导致广泛不满和运营效率低下。",
+          "references": [
+            {
+              "title": "[3% Off] How to Book 12306 China High-Speed Rail Tickets... | Trip.com",
+              "url": "https://www.trip.com/guide/train/12306.html"
+            },
+            {
+              "title": "Delhi-Kanpur Train Cancellations 2026: Full List Of... - Nativeplanet",
+              "url": "https://www.nativeplanet.com/news/delhi-kanpur-train-cancellations-2026-affected-services-travel-guide-011-23901.html"
+            }
+          ]
+        },
+        {
+          "rank": 33,
+          "headline": "上海电信突发断网引发用户投诉，客服称正在全力抢修",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2RtZjNIWlpobkp0WXQ2YjZpb0tnNWNybTVVQndWM1RocklYYnBmZFZTQVBoMm42OUYwRm5WN1Y4TjZTSk5FWUdRakVRRWlHS1UyQjlnQzVFbU1YMmVYNFVuX1VkcDBmTmRUZG5rdWhYaWQwZ0MzZHFjMjY4aWtrRXBEZTdLX3NYU3c?oc=5",
+          "tldr": "2026年8月30日，上海多名用户反映突发断网，影响嘉定部分城区的宽带业务。",
+          "summary": "2026年8月30日，上海多名用户反映突发断网，影响嘉定部分城区的宽带业务。上海电信客服回应称正在全力抢修排障。 此次断网事件凸显了稳定网络连接的关键性，以及网络故障期间客服快速响应的重要性。同时，也强调了电信运营商需维护强健的基础设施，并与用户进行有效的应急沟通。 据中国电信上海客服官方回应，故障发生于2026年8月30日20时30分。事件期间，部分用户反映客服热线难以接通，截至报道时，具体原因仍在调查中。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "8月30日 15:16",
+          "score": 6.0,
+          "tags": [
+            "断网",
+            "客服响应",
+            "电信故障",
+            "应急处理"
+          ],
+          "background": "电信网络故障可能由多种原因引起，如硬件故障、软件问题或天气等外部因素。此类事件中，运营商通常遵循应急响应流程来恢复服务并与受影响客户沟通。其他地区也曾发生类似事件，表明网络可靠性维护面临更广泛的挑战。",
+          "discussion": "本条新闻未提供社区评论。",
+          "references": [
+            {
+              "title": "163.com/dy/article/L5K91UJ40511B8LM.html?clickfrom=w_tech",
+              "url": "https://www.163.com/dy/article/L5K91UJ40511B8LM.html?clickfrom=w_tech"
+            },
+            {
+              "title": "上 海 电 信 宽带 网 络崩溃 上 热搜，此前多地发生类似情况",
+              "url": "https://m.mp.oeeee.com/a/BAAFRD000020240826991426.html"
+            }
+          ]
+        },
+        {
+          "rank": 34,
+          "headline": "烤肉店老板反映平台重新打开已关闭店铺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56bVUwSTBuU0lySUg0ems5Vld4WnBDZVY0amsyM1hvbzhDcjQzUGhFOXYyaGFSWFA1NEZaOXoyckJPMEZtQUhMNDdzOHFKbW0yQkpsT2c4ZUxfbTRxREE?oc=5",
+          "tldr": "一位烤肉店老板反映，在店面搬家并关闭外卖店铺后，平台后台却重新打开了店铺并接受订单。",
+          "summary": "一位烤肉店老板反映，在店面搬家并关闭外卖店铺后，平台后台却重新打开了店铺并接受订单。平台客服表示此类情况很少见。 这一事件凸显了平台店铺管理系统中可能存在的缺陷，可能导致未经授权的订单，影响商家和顾客。它强调了平台需要加强后台控制，并确保与商家之间有清晰的沟通渠道。 店主因搬迁而关闭了店铺，但平台后台却自动重新打开了店铺并接受订单。客服回应称此类事件不常见，暗示可能是系统故障或配置错误。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "8月30日 15:57",
+          "score": 5.0,
+          "tags": [
+            "customer service",
+            "platform issue",
+            "online ordering",
+            "incident report"
+          ],
+          "background": "美团、饿了么等在线外卖平台允许商家管理店铺状态，包括因搬迁等原因暂时关闭。然而，后台系统可能存在自动化流程，无意中重新激活已关闭的店铺，导致意外订单。商家依赖这些平台获取相当一部分收入，因此任何意外活动都可能造成运营和财务上的干扰。",
+          "references": [
+            {
+              "title": "亲测有效：如何在美团 外 卖 补单 平 台 刷好评刷销量",
+              "url": "https://www.waimaiwanjia.com/?p=27782"
+            },
+            {
+              "title": "cloud.tencent.com/developer/news/938385?&from=15431",
+              "url": "https://cloud.tencent.com/developer/news/938385?&amp;from=15431"
+            }
+          ]
+        },
+        {
+          "rank": 35,
+          "headline": "无人快递车客服回应车顶趴人事件，盲区问题引关注",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zUHQ1cnBOMVpFZmFtTTZxd1dScHRjUUg5RklNeDcwYUczZjJVTG1ZOHdmSnpvb1luVzMyT3Brc1U4VWhKckpmc1c2anQxaG5XbGlTbkxXTmdoalhpZENjWVB4OEZaR3FBZkxQYXBwRTA?oc=5",
+          "tldr": "无人快递车客服就两名男子趴在车顶的事件作出回应，称车辆依靠周身摄像头和雷达系统识别周围环境。",
+          "summary": "无人快递车客服就两名男子趴在车顶的事件作出回应，称车辆依靠周身摄像头和雷达系统识别周围环境。该回应凸显了无人配送车存在视野盲区的问题。 该事件凸显了无人配送车在日益普及过程中面临的安全挑战和公众认知问题。它强调了改进传感器覆盖范围以及加强公众教育的必要性，以确保与行人和其他道路使用者安全共存。 事件发生时，两名男子被发现趴在一辆行驶中的无人快递车车顶，场面非常危险。客服回应称车辆依靠摄像头和雷达进行环境识别，但未直接说明导致两人未被检测到的具体盲区。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "8月30日 12:15",
+          "score": 5.0,
+          "tags": [
+            "customer service",
+            "autonomous delivery",
+            "safety",
+            "blind spots",
+            "public concern"
+          ],
+          "background": "无人配送车，又称自主配送机器人，正越来越多地部署在城市地区用于最后一公里物流。它们通常结合摄像头、雷达，有时还有激光雷达来导航和避障。然而，与所有车辆一样，它们存在传感器可能无法检测到物体或人员的盲区，尤其是靠近车辆或处于异常位置的物体。",
+          "references": [
+            {
+              "title": "无 人 快 递 车 客服回应 车 顶趴 人 视 野 盲 区 引关注_新闻频道_中华网",
+              "url": "https://news.china.com/socialgd/10000169/20260830/49708194.html"
+            }
+          ]
+        },
+        {
+          "rank": 36,
+          "headline": "一家三口高铁被分车厢，12306回应",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajl6MkdhZG1PSm16TG51RWNOMjY3N04xRklLZ2d5RUhvU1h0djRhaTNFcFRUUnhhNVh1UHcwM0thTEpfVkpDNVR6cHpuY0ZFRTVUX2czMnhJNHpOdkpUYnFLLU96dlk5U25xUVV0UWtrX2J2QkRkUW1HYTRPVVF1RVhhMDFxOXRj?oc=5",
+          "tldr": "一家三口乘坐中国高铁时，发现8岁的孩子被分配到与父母不同的车厢（7车厢）。",
+          "summary": "一家三口乘坐中国高铁时，发现8岁的孩子被分配到与父母不同的车厢（7车厢）。12306客服对此投诉作出回应，解释了座位分配政策。 这一事件凸显了中国高铁家庭出行中常见的痛点，即座位分配算法可能不会优先考虑将家庭成员安排在一起。官方的回应可能影响未来政策调整，以更好地满足家庭出行需求。 孩子被分配到7车厢，而父母在其他车厢，造成不便。12306的回应可能解释了座位分配基于购票顺序和余票情况，并建议乘客可申请相邻座位或使用“儿童票”选项以增加同座几率。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "8月30日 14:00",
+          "score": 5.0,
+          "tags": [
+            "12306",
+            "customer service",
+            "high-speed rail",
+            "seat allocation",
+            "family travel"
+          ],
+          "background": "中国高铁售票系统12306使用算法根据购票时间和余票情况分配座位。虽然旨在优化运力，但并不总能保证家庭成员坐在一起，尤其是在出行高峰期。其他铁路系统也存在类似问题，座位分配算法可能不优先考虑团体相邻。",
+          "references": [
+            {
+              "title": "How to Book China Train Tickets on 12306 App/Website",
+              "url": "https://uk.trip.com/guide/train/how-to-book-china-train-tickets-on-12306.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
