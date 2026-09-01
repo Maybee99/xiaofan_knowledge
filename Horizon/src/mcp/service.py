@@ -512,7 +512,8 @@ class HorizonPipelineService:
         )
 
         total_fetched = self._total_fetched(run_id, fallback=len(items))
-        date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        # 日报日期使用 GMT+8(中国无夏令时,恒为 UTC+8),与定时任务对齐,避免存成前一天
+        date_str = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
 
         summarizer = ctx.runtime.DailySummarizer()
         summary = await summarizer.generate_summary(

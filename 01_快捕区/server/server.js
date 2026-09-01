@@ -38,22 +38,23 @@ app.use(function (req, res, next) {
 
 // ============ 日期工具 ============
 
-function resolveDate(dp) {
-  const now = new Date();
-  if (dp === "today" || dp === undefined || dp === null || dp === "")
-    return formatDate(now);
-  if (dp === "yesterday") {
-    const y = new Date(now); y.setDate(y.getDate() - 1);
-    return formatDate(y);
-  }
-  if (/^\d{4}-\d{2}-\d{2}$/.test(dp)) return dp;
-  throw new Error("无效日期: " + dp + "，支持 today | yesterday | YYYY-MM-DD");
+// GMT+8 无夏令时,恒为 UTC+8。日报文件按 GMT+8 日期命名(见 daily-summary.yml 的修复),
+// 这里显式用 GMT+8 计算"今天/昨天",避免依赖服务器主机时区导致日期与文件名错位。
+function cnDate(deltaDays) {
+  const shifted = new Date(Date.now() + 8 * 3600 * 1000);
+  shifted.setUTCDate(shifted.getUTCDate() + (deltaDays || 0));
+  return shifted.getUTCFullYear() + "-" +
+    String(shifted.getUTCMonth() + 1).padStart(2, "0") + "-" +
+    String(shifted.getUTCDate()).padStart(2, "0");
 }
 
-function formatDate(d) {
-  return d.getFullYear() + "-" +
-    String(d.getMonth() + 1).padStart(2, "0") + "-" +
-    String(d.getDate()).padStart(2, "0");
+function resolveDate(dp) {
+  if (dp === "today" || dp === undefined || dp === null || dp === "")
+    return cnDate(0);
+  if (dp === "yesterday")
+    return cnDate(-1);
+  if (/^\d{4}-\d{2}-\d{2}$/.test(dp)) return dp;
+  throw new Error("无效日期: " + dp + "，支持 today | yesterday | YYYY-MM-DD");
 }
 
 // ============ 读取日报 ============
@@ -83,8 +84,10 @@ function getReport(targetDate) {
         requestedDate: targetDate,
       };
     }
-    const d = new Date(date); d.setDate(d.getDate() - 1);
-    date = formatDate(d);
+    // 用 UTC 字段做日期回退,避免 "YYYY-MM-DD" 字符串按本地时区解析导致跨时区算错一天
+    const d = new Date(date + "T00:00:00Z");
+    d.setUTCDate(d.getUTCDate() - 1);
+    date = d.toISOString().slice(0, 10);
   }
   throw new Error("未找到 " + targetDate + " 及之前 30 天内的日报");
 }
@@ -114,6 +117,7 @@ function listReports() {
       return { filename: f, date: m[1], size: stat.size };
     })
     .sort(function (a, b) { return b.date.localeCompare(a.date); });
+  return files;
 }
 
 // ============ 路由 ============

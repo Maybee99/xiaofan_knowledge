@@ -36,7 +36,8 @@ jobs:
 
       - name: Copy ZH summary to quick capture
         run: |
-          DATE=$(date +'%Y-%m-%d')
+          # 定时在 UTC 22:00 = GMT+8 次日 06:00 触发,必须用 GMT+8 日期,否则存成前一天的文件
+          DATE=$(TZ='Asia/Shanghai' date +'%Y-%m-%d')
           ZH_FILE="Horizon/data/summaries/horizon-${DATE}-zh.md"
           ZH_JSON="Horizon/data/summaries/horizon-${DATE}-zh.json"
           mkdir -p "01_快捕区"
@@ -55,7 +56,8 @@ jobs:
 
       - name: Commit summary to main branch
         run: |
-          DATE=$(date +'%Y-%m-%d')
+          # 定时在 UTC 22:00 = GMT+8 次日 06:00 触发,必须用 GMT+8 日期,否则存成前一天的文件
+          DATE=$(TZ='Asia/Shanghai' date +'%Y-%m-%d')
           MD_FILE="01_快捕区/Agent日报-${DATE}.md"
           JSON_FILE="01_快捕区/Agent日报-${DATE}.json"
           git config user.name "Horizon Bot"

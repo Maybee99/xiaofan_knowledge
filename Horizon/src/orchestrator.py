@@ -9,6 +9,11 @@ from urllib.parse import unquote_plus, urlsplit
 import httpx
 from rich.console import Console
 
+# 日报日期使用 GMT+8(中国无夏令时,恒为 UTC+8,故用固定偏移,Windows/runner 均无需 tzdata)。
+# 与 GitHub Action 定时(UTC 22:00 = 次日 06:00 GMT+8)对齐,
+# 避免跑完 "8月26日 06:30 GMT+8" 却存成 8月25日 的文件导致日期断档。
+CN_TZ = timezone(timedelta(hours=8))
+
 from .models import Config, ContentItem
 from .storage.manager import StorageManager, safe_output_path
 from .services.email import EmailManager
@@ -254,7 +259,7 @@ class HorizonOrchestrator:
             await self._enrich_important_items(important_items)
 
             # 7. Generate and save daily summaries for each configured language
-            today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            today = datetime.now(CN_TZ).strftime("%Y-%m-%d")
             for lang in self.config.ai.languages:
                 summarizer = DailySummarizer()
                 summary = await summarizer.generate_summary(important_items, today, len(all_items), language=lang)
@@ -350,7 +355,7 @@ class HorizonOrchestrator:
             # Send webhook failure notification if configured
             if self.webhook_notifier:
                 await self.webhook_notifier.send_failure(
-                    date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    date=datetime.now(CN_TZ).strftime("%Y-%m-%d"),
                     error_message=str(e),
                 )
 
