@@ -1,0 +1,767 @@
+---
+layout: default
+title: "Horizon Summary: 2026-09-08 (ZH)"
+date: 2026-09-08
+lang: zh
+---
+
+> 从 87 条内容中筛选出 35 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [中国发布面向 APEC 合作的新型电力系统方案](#item-1) ⭐️ 8.0/10
+2. [中国发布 2026 年四大行业碳排放配额方案](#item-2) ⭐️ 8.0/10
+3. [SHARE 虚拟电厂：谷歌、特斯拉、太平洋煤电与 Sunrun 合作](#item-3) ⭐️ 8.0/10
+4. [OPEC+暂停 10 月增产计划](#item-4) ⭐️ 8.0/10
+5. [南京智能电网产业打造世界级先进制造业集群](#item-5) ⭐️ 7.0/10
+6. [射阳国投落地省内首家综合性县域级虚拟电厂](#item-6) ⭐️ 7.0/10
+7. [“人工智能＋能源”融合加速，助力新型电力系统智能化](#item-7) ⭐️ 7.0/10
+8. [刘汉元：依托现有光伏产能，中国最快 10-15 年实现碳中和](#item-8) ⭐️ 7.0/10
+9. [OPEC+维持十月石油产量不变](#item-9) ⭐️ 7.0/10
+10. [日立能源与南亚塑胶合办台日 AI 数码电网与碳中和论坛](#item-10) ⭐️ 6.0/10
+
+### 🤖 AI 科技
+
+11. [LG 智能电视被曝在待机时录音并扫描网络](#item-11) ⭐️ 8.0/10
+12. [交互式地图展示洛杉矶 1880 至 2026 年建筑历史](#item-12) ⭐️ 7.0/10
+13. [博通撤回 VDDK 下载，使 VMware 迁移更加困难](#item-13) ⭐️ 7.0/10
+14. [加州理工学院学生发起首届 AI 数学黑客松](#item-14) ⭐️ 7.0/10
+15. [博客文章将 Fable 5 应用于经济学，引发批评](#item-15) ⭐️ 6.0/10
+16. [《麦克白》分析凸显歧义，引发人文与 AI 讨论](#item-16) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+17. [华为 Mate XT2 与鸿蒙 7 发布：三折叠与芯片自信](#item-17) ⭐️ 8.0/10
+18. [AI 视频生成进入实时时代，开启交互式直播](#item-18) ⭐️ 8.0/10
+19. [机器人触觉突破在即：五大技术路线、数据难题与模型之争](#item-19) ⭐️ 8.0/10
+20. [童欣加入 Meshy，3D 世界迎来“互联网时刻”](#item-20) ⭐️ 8.0/10
+21. [雷军宣布小米汽车累计交付量突破 80 万辆](#item-21) ⭐️ 8.0/10
+22. [AMD 等 PC 厂商押注端侧国产大模型以降低 AI 成本](#item-22) ⭐️ 7.0/10
+23. [Windows 以本地 AI 模型反击 Mac](#item-23) ⭐️ 7.0/10
+24. [OpenAI 发布 GPT-6，自曝“外星思维”引发 AGI 猜想](#item-24) ⭐️ 7.0/10
+25. [探访零跑工厂：月销 10 万辆的秘密](#item-25) ⭐️ 7.0/10
+26. [信息通信“十五五”规划发布，微信内测 AI 社交，央行黄金储备连增](#item-26) ⭐️ 7.0/10
+
+### 🎧 客服行业动态
+
+27. [新国标要求企业对 AI 客服负责](#item-27) ⭐️ 8.0/10
+28. [Cloudflare 扩展 AI 搜索，简化自定义数据查询](#item-28) ⭐️ 6.0/10
+29. [昆明共享电单车遭吐槽：还车难、乱扣费、缺电，官方回应](#item-29) ⭐️ 6.0/10
+30. [中融人寿启动 2026 年客服节，江苏分公司“融情驿站”揭牌](#item-30) ⭐️ 4.0/10
+31. [Miu Miu 5950 元针织钱包引吐槽，品牌称系 2026 新款](#item-31) ⭐️ 4.0/10
+32. [2026 年中国客服外包排行榜前十与避坑指南](#item-32) ⭐️ 4.0/10
+33. [高德否认推出“扫雷榜”传闻](#item-33) ⭐️ 4.0/10
+34. [泰康人寿河南分公司举办客服节慰问活动](#item-34) ⭐️ 4.0/10
+35. [喜茶重新开放加盟申请，官方客服澄清尚未正式启动](#item-35) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [中国发布面向 APEC 合作的新型电力系统方案](https://news.google.com/rss/articles/CBMicEFVX3lxTE9zVjlqMzlfVUdrNzNpVlZVOU1vc056UERucmtWSTZrbFpHTHZSYjNPT1BYdFpMVEJuQjZTYk9UcEtRS1FmQ2JrenlxaU5oVUNJNkxJekFKc2JQWTRWSEhldDlTNXJ0Q2hUMjhqVS1pSWY?oc=5) ⭐️ 8.0/10
+
+中国发布了面向 APEC 合作的新型电力系统“中国方案”，旨在推动区域能源转型与合作。该方案通过官方渠道公布，强调了中国在 APEC 框架下推进清洁能源整合和电网现代化的承诺。 该方案意义重大，它使中国在塑造区域能源政策和技术标准方面处于领先地位，可能影响 APEC 成员在电网现代化和可再生能源采用方面的做法。它可能加速亚太地区向低碳电力系统的转型，影响能源安全和气候目标。 该方案可能包括整合高比例可再生能源、增强电网灵活性以及推广智能电网技术的策略。具体技术细节，如可再生能源渗透率或储能部署目标，在现有来源中尚未完全披露。
+
+google\_news · stdaily.com · 9月7日 12:54
+
+**背景**: 新型电力系统是中国提出的概念，指能够容纳高比例可再生能源的电网，具备储能、数字化和灵活运行等先进技术。APEC（亚太经济合作组织）是 21 个环太平洋经济体讨论区域经济合作（包括能源合作）的论坛。中国一直积极参与 APEC 能源工作组，该方案与其碳中和和能源安全的更广泛目标一致。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.apec2026.cn/">Official website of APEC CHINA 2026.</a></li>
+<li><a href="https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf">nea.gov.cn/download/xxdlxtfzlpsgk.pdf</a></li>
+<li><a href="https://cpnn.com.cn/news/hy/202609/t20260903_1912717.html">APEC 从城镇化伙伴关 系 迈向零碳城市 合 作 新 征程丨“ APEC ...”</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新型电力系统`, `#APEC`, `#能源政策`, `#中国方案`
+
+---
+
+<a id="item-2"></a>
+## [中国发布 2026 年四大行业碳排放配额方案](https://news.google.com/rss/articles/CBMijAFBVV95cUxOckNCU3RFRVhxQW4wMk5JMzB6SFZFckIyZVNVd3dKdy1Od09fbm9aTjJKRkZfLUtUNjF3ZXpOb2Y2ZUlsTmx4NG95REpnUEw1c2xLZm14emlhRW40ZUw0OUpfbmdzVnlwclFfQjhaODV0cVRTSlQ1TjdhTFVxSWkwUmk3NmY0aUlQTVY5cA?oc=5) ⭐️ 8.0/10
+
+中国生态环境部发布了 2026 年发电、钢铁、水泥和铝冶炼四大行业的碳排放配额分配方案，为这些行业的企业提供了明确的合规路径。 该政策直接影响能源和碳交易市场，因为其将全国碳市场扩展至新行业并设定了配额分配规则。企业需要据此规划减排策略，投资者也需要评估市场风险与机遇。 该方案要求省级生态环境主管部门组织年度直接排放量达到 2.6 万吨二氧化碳当量但尚未纳入全国重点排放单位名录的企业进行报告。2024 和 2025 年度的配额实行免费分配，基于单位产出碳排放量，排放强度越低，配额盈余率越高。
+
+google\_news · 21财经 · 9月7日 12:25
+
+**背景**: 中国的全国碳市场最初覆盖电力行业，现已逐步扩展至更多行业，以助力实现 2030 年碳达峰和 2060 年碳中和目标。配额分配通常采用基准法，设定排放强度标准以激励效率提升。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ideesz.com/zhdt/hyzx1/202602/t20260210_1388.html">重磅时间表！ 生态环境部 发 布做好 2026 ...</a></li>
+<li><a href="https://www.fxbaogao.com/detail/5325623">[宝城期货]： 2026 年 4月 碳 排 放 月报：市场扩围， 碳 价持稳 - 发 现报告</a></li>
+<li><a href="https://news.bjx.com.cn/html/20260320/1488628.shtml">天津市做好 2026 ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#碳市场`, `#配额方案`, `#能源政策`, `#碳中和`, `#发电行业`
+
+---
+
+<a id="item-3"></a>
+## [SHARE 虚拟电厂：谷歌、特斯拉、太平洋煤电与 Sunrun 合作](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDl4WEgtcTdjcEtrZzZIamhoemR4TE1jVzF3YkVaQ0F4MmxWelE2T2xBUVd2cEFyQkttWmRHZ2xINkpFZkh1SzM3WndTV0Z2SG5VSi1Eb2lYNnItQTlOWnZXMlVudmdQaFM1SDdzc1BRWkMxa2wyZnEwZkVZb1RWT24zMVJpYkhaVG5pT3lrM05MOFplSUp6b0RodUQ4bXg1UTVqUk05Z0lFc29IMXVZUl9B?oc=5) ⭐️ 8.0/10
+
+太平洋煤电（PG&amp;E）启动了 SHARE 虚拟电厂项目，与谷歌、特斯拉、开利和 Sunrun 合作，提供家庭能源升级并增强湾区电网可靠性。该项目旨在聚合分布式能源资源，使其作为一个单一电厂运行，重点关注 2026 年的展望和统计数据。 该举措代表了虚拟电厂采用的重要一步，涉及主要科技和能源企业，可能影响能源政策和市场动态。它展示了如何协调分布式能源资源以提供电网服务，从而可能降低成本并提高消费者的可靠性。 SHARE 虚拟电厂包括谷歌、特斯拉、开利和 Sunrun 等合作伙伴，专注于家庭能源升级和电网可靠性。该项目是太平洋煤电利用分布式资源努力的一部分，IndexBox 提供了 2026 年的展望和统计数据。
+
+google\_news · IndexBox · 9月7日 13:03
+
+**背景**: 虚拟电厂（VPP）聚合分布式能源资源，如家庭太阳能和电池，使其作为一个单一电厂运行，提供电网服务并平衡供需。VPP 的概念自 20 世纪 90 年代末就已出现，并越来越多地用于增强电网可靠性和整合可再生能源。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_power_plant">Virtual power plant - Wikipedia</a></li>
+<li><a href="https://www.powerinfotoday.com/news-press-releases/pge-launches-share-virtual-power-plant-with-google-tesla-carrier-and-key-partners-to-boost-grid-reliability-and-affordability/">SHARE Virtual Power Plant Lunched for Grid Reliability</a></li>
+<li><a href="https://www.tesla.com/support/energy/virtual-power-plant">Tesla Virtual Power Plant | Tesla Support</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#谷歌`, `#特斯拉`, `#太平洋煤电`
+
+---
+
+<a id="item-4"></a>
+## [OPEC+暂停 10 月增产计划](https://news.google.com/rss/articles/CBMiZkFVX3lxTE56c1ZhTFRrVHdKb3ZOU3hSc25KTjVUMnRFX0NIN3ByRVFJUWs4ZURZcjd4ekpPVEJpdVZzX3pmTS1pR3FwOWZIWmdxY196emhmZE42Nl9oa1BzcWE3aXFydUJ3RjlvQQ?oc=5) ⭐️ 8.0/10
+
+据 Medcom.id 报道，OPEC+决定暂停原定于 10 月的增产计划。此举逆转了该组织此前计划在 12 月每日增产 13.7 万桶的意向，符合市场预期，但暂停了进一步增产。 这一决定可能在全球需求不确定和市场波动中稳定或支撑油价。它影响全球能源市场，改变供应预期，并影响全球消费者和生产者的定价。 此次暂停是在 6 月开始的连续四个月增产之后进行的，该增产是 2023 年减产措施分阶段解除的一部分。OPEC+还转而关注审查产能并为 2027 年设定新的产量配额。
+
+google\_news · Medcom.id · 9月7日 07:54
+
+**背景**: OPEC+是由包括俄罗斯和沙特阿拉伯在内的产油国组成的组织，协调生产政策以管理全球石油供应和价格。2023 年，他们实施减产以防止供应过剩；最近的增产旨在逐步解除这些减产。暂停增产反映了在市场波动和需求担忧下的谨慎态度。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sunsirs.com/commodity-news/petail-28117.html">SunSirs: OPEC+ Production Hikes on Hold in 2026</a></li>
+<li><a href="https://nairametrics.com/2026/09/06/opec-pauses-oil-output-hikes-after-four-straight-monthly-increases/">OPEC+ pauses oil output hikes after four straight monthly increases</a></li>
+<li><a href="https://sana.sy/en/economic/2340815/">OPEC+ keeps oil output policy unchanged for October</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OPEC+`, `#原油增产`, `#能源政策`, `#油价`
+
+---
+
+<a id="item-5"></a>
+## [南京智能电网产业打造世界级先进制造业集群](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BdElxYWJWRXJ5UnNLSEdQX3Z2VTNoYmM0c2tvN3hpaVRKT3pFRW5CVEp1NktVVEViWXFxMS1BYWpYUURmRDdDOW0xWTRjam9yaXhuWXY3MFp5RTNXbnFseFNHSWV0QQ?oc=5) ⭐️ 7.0/10
+
+南京正全力推动智能电网产业发展成为世界级先进制造业集群。该举措是南京强化产业基础、提升竞争力的更广泛战略的一部分。 这一发展可能使南京成为智能电网技术的全球领导者，吸引投资和人才，推动能源基础设施创新。这也符合中国建设世界级制造业集群以增强经济韧性的国家目标。 该报道缺乏投资金额、时间表或参与企业的具体细节。它强调了南京将智能电网技术与先进制造业融合的重点，但未提供具体的政策措施或预期成果。
+
+google\_news · 南京广播电视台 · 9月7日 12:16
+
+**背景**: 智能电网是指利用数字技术高效监控和管理电力流动的电网。先进制造业集群是地理上集中的相互关联的企业和机构，通过协作提高生产力和创新能力。中国一直在推动此类集群的发展，以升级制造业并在关键技术领域实现自给自足。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.163.com/dy/article/JQKVNLNA0519MU3H.html">m.163.com/dy/article/JQKVNLNA0519MU3H.html</a></li>
+<li><a href="https://m.pedaily.cn/news/560399">南 京 将构建4+N 产 业 基金 集 群 ，总规模超2000亿元|投资界</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智能电网`, `#制造业集群`, `#能源政策`, `#南京`
+
+---
+
+<a id="item-6"></a>
+## [射阳国投落地省内首家综合性县域级虚拟电厂](https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjR2d1RYd1FlWGNqamdJZjlDZzYwWW5sMWM1c3gzMnRPanh2cnVsTDVLNk94Y0IxMVFoU2R5RlVqMjlDbTE5cUxUMDVyV1hmRFZWWWdhNndaUkx0TS1KRFBzcFZnRXlpYTNERWV4VGZYNFMxUkd2Mml1MFB4eWJLRFRNd21KNHAtLWF0Vg?oc=5) ⭐️ 7.0/10
+
+射阳国投正式落地省内首家综合性县域级虚拟电厂，标志着县域能源管理的重要进展。该项目在县域尺度上整合了分布式能源资源和电网灵活性。 这一进展展示了虚拟电厂技术在县域层面的实际应用，可为其他县域提供示范，以增强电网灵活性并整合可再生能源。这与国家推动分布式能源管理和电网现代化的能源政策相一致。 该虚拟电厂被描述为“综合性”和“县域级”，但新闻中未提供具体技术细节，如容量、参与资源或运行机制。该项目是省内首个此类项目，具有开创性地位。
+
+google\_news · Sohu · 9月7日 08:33
+
+**背景**: 虚拟电厂（VPP）聚合分布式能源资源（如太阳能板、电池和可控负荷），以提供削峰填谷和频率调节等电网服务。县域级虚拟电厂在中国逐渐兴起，用于管理本地能源资源并支持电网稳定，一些省份为发展 VPP 提供补贴。例如，河南近期成立了首个县级虚拟电厂管理中心，而盐城（射阳所在地）也出台了为 VPP 平台建设提供一次性补贴的政策。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjx.com.cn/html/20221116/1269377.shtml">虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网</a></li>
+<li><a href="https://www.msn.com/zh-cn/news/other/%E6%B2%B3%E5%8D%97%E9%A6%96%E5%AE%B6%E5%8E%BF%E7%BA%A7%E8%99%9A%E6%8B%9F%E7%94%B5%E5%8E%82%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E6%8F%AD%E7%89%8C/ar-AA239mgs">河南首家 县 级 虚 拟 电 厂 管理中心揭牌</a></li>
+<li><a href="https://eraes.com.cn/newsinfo/9063118.html">盐城射阳：首个 虚 拟 电 厂 平台一次性奖补30万元，2030...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#县域能源`, `#能源政策`, `#分布式能源`, `#电网灵活性`
+
+---
+
+<a id="item-7"></a>
+## [“人工智能＋能源”融合加速，助力新型电力系统智能化](https://news.google.com/rss/articles/CBMif0FVX3lxTE83cFYwVTdGTWNFVE1XMGcxZjNEQ05Eb1RTVFU3Z0F1RFVYV21KS2YxRkdtZEdTZ0FmTHQzWUQ1RnNqbmhZTENkOTlQTHQ5WXhqRlZoQUh5UkQxekdTWlVfZkp0a1N2NGYtSV92b3dETFVQV1Y2d2ZiZTZzMzlFLUk?oc=5) ⭐️ 7.0/10
+
+报道指出，“人工智能＋能源”的融合正在加速，助力新型电力系统提升智能化水平和运行效率。这反映了政策层面推动人工智能在能源基础设施中应用的广泛趋势。 这一趋势对于推动更清洁、更可靠的能源电网转型至关重要，有助于实现碳中和目标。它将影响能源企业、电网运营商和技术提供商，促进创新和运营效率提升。 报道提及人工智能与能源的融合，但缺乏具体技术细节。相关政策如“人工智能＋能源”行动计划，旨在到 2027 年初步构建融合创新体系，实现核心技术突破并扩大应用范围。
+
+google\_news · t.cj.sina.cn · 9月7日 06:35
+
+**背景**: 新型电力系统是以可再生能源为主体的电力系统，其出力具有随机性、波动性和间歇性，不同于基于可控化石燃料发电的传统系统。人工智能可通过优化电网运行、预测能源出力、增强稳定性来应对这些挑战。中国政府已通过多项政策和举措推动人工智能在能源领域的应用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.smartcity.team/policies/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BF%E7%AD%96%E5%BA%93/ai_energy_plan/">smartcity.team/policies/大模型政策库/ai_energy_plan</a></li>
+<li><a href="http://paper.people.com.cn/zgnyb/pc/attachement/202509/15/45fd43c1-6a6a-4eed-8b75-69a3e72dd8db.pdf">paper.people.com.cn/zgnyb/pc/attachement/202509/15/45fd43...</a></li>
+<li><a href="https://jsuese.scu.edu.cn/rc-pub/front/front-article/download/47407157/lowqualitypdf/%E2%80%9C%E5%8F%8C%E7%A2%B3%E2%80%9D%E7%9B%AE%E6%A0%87%E4%B8%8B%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%BA%E4%B8%BB%E4%BD%93%E7%9A%84%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%B4%A1%E7%8C%AE%E3%80%81%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8C%91%E6%88%98.pdf">Carbon Neutrality: Contribution, Key Techniques, and Challenges</a></li>
+
+</ul>
+</details>
+
+**标签**: `#人工智能`, `#能源融合`, `#新型电力系统`, `#智能化`, `#能源政策`
+
+---
+
+<a id="item-8"></a>
+## [刘汉元：依托现有光伏产能，中国最快 10-15 年实现碳中和](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sLUxLNFRLd0xPWjE4cGJhQzB1ZzVDMDZNUjBKNmRZRWlYTXpKSGNkYWlXbkpZdFBwSjVXUl9Bb2o5ZTJ0aTFUR3FwcmFTbTZaRjdKQTZtTkVOVERQX0xPQ3hvT25vZk0?oc=5) ⭐️ 7.0/10
+
+通威集团董事局主席刘汉元表示，依托国内现有的光伏产能，中国最快可在 10-15 年内实现碳中和。这一观点是在 SNEC 会议上提出的，并由国际新能源网报道。 这一预测远快于中国官方提出的 2060 年碳中和目标，表明中国光伏产业可能加速能源转型。它凸显了光伏产业在中国气候政策中的战略地位，并可能影响未来的能源规划和投资。 刘汉元强调，中国控制着全球 70%以上的光伏产品制造，2019 年出口额达到 200 亿美元。他认为，太阳能将在实现碳中和中发挥主要作用，因为 80-90%的减排场景涉及减少化石燃料使用。
+
+google\_news · 国际新能源网 · 9月7日 01:13
+
+**背景**: 中国已承诺 2030 年前实现碳达峰，2060 年前实现碳中和，即“30·60”双碳目标。中国已形成完整且世界领先的光伏产业链，使太阳能成为其能源转型战略的关键支柱。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nengyuanjie.net/article/46543.html">两会 能 源最强音 | 刘 汉 元 ：加快 碳 中 和 进程 - 能 源界</a></li>
+<li><a href="https://www.energy1.cn/blog/snec-fa690738-fda5-4196-af16-a5b02b137d58">直击SNEC| 刘 汉 元 ： 碳 中 和 将是人类未来二三十年最伟大的转型</a></li>
+<li><a href="https://36kr.com/p/1971621101863942">中 国 光 伏 激荡20年-36氪</a></li>
+
+</ul>
+</details>
+
+**标签**: `#碳中和`, `#光伏产能`, `#能源政策`, `#中国`
+
+---
+
+<a id="item-9"></a>
+## [OPEC+维持十月石油产量不变](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0IwTWF0am1LUU1fRjRHc1BKMEItdnhGMjB6OWNxNXd6TG83cDFaUHlsZ0lhWG5BQ2xuS2R1ZG5leXFpR0FCVUFHYm5laFFpMGp1eEdobnNjQmNmUXNBendlcE9vYnZLWUxPUnF5dlRLYkR5bTk3aDZDemIxczJKX2I4UEpKWXJsMDMzMzVzSTE1YjYtYjZibmNB?oc=5) ⭐️ 7.0/10
+
+据道琼斯通过 moomoo.com 报道，OPEC 及其盟友同意在十月份保持石油产量水平不变。这一决定在市场压力下维持了当前的生产配额。 这一决定意义重大，因为它直接影响全球油价和供应，影响世界各地的能源市场、消费者和政策规划。稳定的产量表明 OPEC+在地缘政治紧张和需求不确定性中采取谨慎态度。 包括沙特阿拉伯和俄罗斯在内的 OPEC+集团在十月份保持其产量政策不变。然而，该集团仍需就新配额达成一致，才能决定未来的产量步骤，而持续的伊朗冲突限制了其对价格的影响力。
+
+google\_news · moomoo.com · 9月7日 04:03
+
+**背景**: OPEC+是一个协调产量以管理全球油价的产油国联盟。该集团每月开会根据市场状况调整产量。近期地缘政治事件，如伊朗冲突，扰乱了原油出口，并将布伦特原油推高至每桶 100 美元附近，使该集团的决定复杂化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://economictimes.indiatimes.com/industry/energy/oil-gas/opec-keeps-oil-output-policy-unchanged-for-october/articleshow/133836900.cms">OPEC+ keeps oil output policy unchanged for October</a></li>
+<li><a href="https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-hits-four-month-low-opec-decision-fails-allay-demand-worries?ref=article-see-also">Oil hits four-month low as Opec+ decision fails to allay demand worries</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OPEC`, `#oil output`, `#energy policy`, `#global markets`
+
+---
+
+<a id="item-10"></a>
+## [日立能源与南亚塑胶合办台日 AI 数码电网与碳中和论坛](https://news.google.com/rss/articles/CBMipwFBVV95cUxPeTM5ZjRGcFVjNUZ3eU5zNklUTGZWYmw5S3ZpSkF1bEh4V09qMS12ZjVYNFR6eTY3MWhLd1F3OUVTYjlDRUhKRTZRTm85LU83OWFJR3RWckQ4bUlNcUFPcXBSMUxTRUEza1BNekxpQVpFVGpjc3lvY0pOYWs4R0NmZlJjWE1ET1VINUZCVUNRVm5KMUdRQi1lbVV6aHU1TlJPSmNOWTRZMA?oc=5) ⭐️ 6.0/10
+
+日立能源与南亚塑胶联合举办了一场聚焦 AI 数码电网与碳中和的台日论坛，汇聚产业与政策相关方，探讨相关技术与政策议题。 该论坛凸显了台湾与日本在能源技术领域日益增强的合作，尤其是 AI 在电网管理与减碳策略中的整合。这标志着亚太地区向更智能、更可持续能源系统的推进，可能影响政策与投资方向。 该论坛由日立能源与南亚塑胶（台湾大型工业集团）共同主办。虽然现有内容未详述具体议程，但活动聚焦 AI 数码电网技术与碳中和，反映了业界对能源基础设施数字化的持续关注。
+
+google\_news · DIGITIMES · 9月7日 19:20
+
+**背景**: AI 数码电网指利用人工智能优化电力网络的运行、监控与管理，以提高效率和可靠性。碳中和则涉及通过采用可再生能源和效率措施来平衡温室气体排放与清除。台湾已设定 2050 年碳中和目标，此类论坛促进了台湾与日本企业之间的知识交流，双方在这些领域均有所进展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.agroaifuture.com/post/the-agricultural-nightmare-behind-the-carbon-neutrality-dream">碳 中 和 夢想下的農業噩夢？ 光電設施正吞噬 台 灣農地 | AgroAI未來</a></li>
+<li><a href="https://www.tcx.com.tw/learn/studio/articleContent/4028908498df32eb0199382191b0032a">tcx.com.tw/learn/studio/articleContent/4028908498df32eb0199382191...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI数码电网`, `#碳中和`, `#台日合作`, `#能源政策`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [LG 智能电视被曝在待机时录音并扫描网络](https://www.youtube.com/watch?v=6IFVTcM28KA) ⭐️ 8.0/10
+
+Gamers Nexus 和 Level1Techs 的一项调查显示，LG 智能电视即使在屏幕关闭时也会记录麦克风音频，并持续扫描本地网络以映射连接的设备。该调查结果以 135 分钟的视频形式发布，LG 尚未对此作出公开回应。 此问题影响数百万 LG 智能电视用户，并对消费电子产品中未经授权的音频录制和网络监控提出了严重的隐私担忧。它凸显了加强对物联网设备的监管和透明度以及提高消费者对数据收集实践意识的必要性。 电视使用自动内容识别（ACR）对所有输入（包括 HDMI）的音频和视频进行指纹识别，这意味着外部设备上的观看内容也会被记录。一旦电视重新连接互联网，数据就会被上传，且 LG 的服务条款要求用户获得任何可能被捕获声音的人的同意。
+
+hackernews · treve · 9月7日 00:22 · [社区讨论](https://news.ycombinator.com/item?id=49592375)
+
+**背景**: 智能电视通常包含语音识别和内容推荐等功能，这些功能依赖于收集音频和观看数据。然而，这项调查表明，即使电视看起来已关闭，此类数据收集也可能发生，并且设备会主动探测家庭网络。这引发了关于窃听法律和同意问题的法律疑问，因为其他家庭成员或客人可能未同意被录音。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html">LG smart TVs caught logging audio with screen off and snooping on...</a></li>
+<li><a href="https://tech.yahoo.com/cybersecurity/articles/lg-smart-tvs-caught-recording-160204891.html">LG Smart TVs Caught Recording Audio in Standby and Scanning Your Network</a></li>
+<li><a href="https://www.ynetnews.com/tech-and-digital/article/bydiqhhume">Your LG TV may be listening: Researchers uncover audio recording and network scanning</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了愤怒和担忧，一些人指出 LG 的服务条款“糟糕”，要求用户告知电视范围内的所有人可能被窃听。其他人分享说他们已禁用网络功能或物理拔掉 WiFi 芯片以保护隐私，而一些人质疑为什么这没有违反窃听法律。
+
+**标签**: `#privacy`, `#smart TV`, `#LG`, `#surveillance`, `#IoT security`
+
+---
+
+<a id="item-12"></a>
+## [交互式地图展示洛杉矶 1880 至 2026 年建筑历史](https://lax-skyline.parcelscope.net/) ⭐️ 7.0/10
+
+一个交互式地图已发布，可视化洛杉矶从 1880 年到 2026 年的建筑建造历史，让用户能够探索城市随时间的发展。该地图利用地理空间和时间数据来展示每栋建筑的建造时间。 该可视化提供了城市发展的独特视角，突显了增长模式、分区影响和历史变迁。对于城市规划者、历史学家和公众来说，它是理解洛杉矶建筑环境如何演变的有价值工具。 该地图基于洛杉矶县评估员门户网站的数据，该网站记录了现存建筑的建造日期。然而，它只显示仍然存在的建筑，因此已被拆除的旧建筑未得到体现，可能使早期时期看起来比实际更稀疏。
+
+hackernews · rustywasm · 9月7日 18:52 · [社区讨论](https://news.ycombinator.com/item?id=49601655)
+
+**背景**: 洛杉矶有着复杂的城市历史，包括曾经广泛后来被铺成道路的公共交通网络。地图的时间范围从 1880 年到 2026 年，涵盖了重要的增长时期和政策变化，例如 1980 年代影响土地利用和住房可负担性的分区缩减。
+
+**社区讨论**: 评论者指出，该地图仅显示现存建筑，使早期时代看起来空旷，并指出像 Palms 这样的社区已被完全重建。其他人讨论了洛杉矶历史上的公共交通系统以及分区政策对住房可负担性的影响，一些人称赞该可视化，同时指出其局限性。
+
+**标签**: `#data visualization`, `#urban planning`, `#geospatial data`, `#Los Angeles`, `#interactive map`
+
+---
+
+<a id="item-13"></a>
+## [博通撤回 VDDK 下载，使 VMware 迁移更加困难](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) ⭐️ 7.0/10
+
+博通已移除 VMware 虚拟磁盘开发套件（VDDK）的下载，该工具是将虚拟机从 VMware 迁移到其他平台的关键工具。据报道，此举发生在 2026 年 9 月，直接影响依赖 VDDK 进行高效磁盘访问的迁移工作流。 这使得退出 VMware 变得更加复杂，因为 VDDK 对于快速热迁移至关重要，尤其是对于 vSAN 支持的虚拟机，它是必需的。计划离开 VMware 的组织现在面临更慢的回退路径，或必须寻求替代迁移方法，增加了成本和精力。 VDDK 通过 VixDiskLib 实现热磁盘读取，允许在虚拟机运行时直接访问 ESXi 数据存储上的.vmdk 文件。没有 VDDK，传输将回退到明显较慢的路径，对于 vSAN 支持的虚拟机，迁移根本无法进行。VDDK 不可再分发，因此移除阻止了所有用户的访问。
+
+hackernews · josephcsible · 9月7日 20:32 · [社区讨论](https://news.ycombinator.com/item?id=49602699)
+
+**背景**: VDDK 是一个软件开发套件，提供访问 VMware 虚拟磁盘的 API，常用于备份和迁移工具。它是许多迁移工具（如 Red Hat 的虚拟化迁移工具包）的先决条件，并且是启用更改块跟踪（CBT）的热迁移所必需的。此次移除是博通自 2023 年收购 VMware 以来对 VMware 产品和许可策略进行更广泛变革的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://docs.redhat.com/en/documentation/migration_toolkit_for_virtualization/2.3/html/installing_and_using_the_migration_toolkit_for_virtualization/prerequisites">Chapter 2. Prerequisites | Installing and using the Migration Toolkit for...</a></li>
+<li><a href="https://dev.to/ptp2308/how-to-vm-migrate-from-vmware-to-kvm-key-tips-and-pitfalls-522c">How to vm migrate from vmware to kvm — key tips... - DEV Community</a></li>
+<li><a href="https://aenix.io/migration/vmware/">VMware migration — exit VCF without breaking the application – Ænix</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论反映了沮丧和适应。一位用户提到领导了 VMware 到 Hyper-V 的迁移，认为 Hyper-V 不如 VMware 连贯。另一位分享说 Proxmox 迁移出奇地轻松，而第三位则为大型企业中的 VMware 辩护，提到 Dell Private Cloud 作为替代方案。有人建议使用流式磁盘转储作为变通方法，还有人感叹许多公司本可以一直使用 Proxmox。
+
+**标签**: `#VMware`, `#Broadcom`, `#VDDK`, `#Virtualization`, `#Migration`
+
+---
+
+<a id="item-14"></a>
+## [加州理工学院学生发起首届 AI 数学黑客松](https://mathathonchallenge.com/index.html) ⭐️ 7.0/10
+
+加州理工学院的本科生组织了 Mathathon，这是首个致力于使用 AI 进行研究级数学的黑客松，旨在促进负责任的 AI 使用并提供机器学习认可。该活动计划持续 40 小时，参与者将借助大型语言模型解决数学问题。 这一举措弥合了 AI 与数学研究之间的鸿沟，可能加速发现，并培养一个探索 AI 在严谨数学中作用的社区。它还突显了草根努力，以填补加州理工学院在 AI 和机器学习方面的教育空白，这可能会激励其他地方类似的学生主导活动。 该黑客松由加州理工学院本科生团队组织，他们不代表大学或赞助商，所有资金用于支付评委和参与者。活动旨在测试 LLM 在数学推理方面的极限，参与者预计将在 40 小时内高强度工作。
+
+hackernews · astroanax · 9月7日 09:26 · [社区讨论](https://news.ycombinator.com/item?id=49596055)
+
+**背景**: 黑客松通常是短时、高强度的活动，参与者协作完成软件项目。此次 Mathathon 将这一形式应用于数学研究，利用大型语言模型等 AI 工具辅助解决问题。该倡议正值人们对使用 AI 进行数学发现兴趣日益浓厚之际，尽管黑客松形式是否适合此类工作仍存在争议。
+
+**社区讨论**: 社区评论包括一位组织者提供 AMA，澄清他们独立于加州理工学院，并旨在促进负责任的 AI 使用。一位近期毕业生指出 CS 系薄弱，并认为黑客松是学生获得 ML 认可的途径。其他人对黑客松形式用于 LLM 数学进展表示怀疑，而一位参与者希望将其用作推理框架的测试平台。
+
+**标签**: `#AI`, `#Mathematics`, `#Hackathon`, `#Caltech`, `#Research`
+
+---
+
+<a id="item-15"></a>
+## [博客文章将 Fable 5 应用于经济学，引发批评](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/) ⭐️ 6.0/10
+
+一篇题为“Working on Economics with Fable 5”的博客文章发布在 wilsoniumite.com 上，试图将 Fable 5 AI 模型应用于经济理论，借鉴了古典经济学和乔治主义思想。该文章得分为 6.0/10，并引发了社区讨论。 这篇文章凸显了使用 Fable 5 等 AI 模型进行理论探索的趋势，但也强调了在 AI 辅助写作中确保清晰度和新颖性的挑战。围绕它的讨论反映了对 AI 生成或辅助内容在专业领域质量和可信度的广泛担忧。 文章内容未提供，但社区评论表明它呈现了斯密、李嘉图和亨利·乔治的古典经济理论，重点关注工资、稀缺性和土地。一位评论者指出，论文摘要似乎是 AI 生成的，并链接到 pangram.com 的历史页面。
+
+hackernews · Wilsoniumite · 9月7日 21:18 · [社区讨论](https://news.ycombinator.com/item?id=49603086)
+
+**背景**: Fable 5 是 Anthropic 的 AI 模型，其新版本 Fable 5.1 定价为每百万输入 token 10 美元，每百万输出 token 50 美元。乔治主义以亨利·乔治命名，是一种经济哲学，关注土地和自然资源经济租金的分配，通常主张对土地价值征收单一税。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://fable5.io/">Fable 5 AI — Independent Model Guide &amp; Prompt Workspace</a></li>
+<li><a href="https://www.anthropic.com/claude/fable">Claude Fable \ Anthropic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Georgism">Georgism - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论褒贬不一：一些人表示感兴趣，但批评其呈现方式晦涩且“像怪人”；另一些人则参与经济内容讨论，质疑其相对于标准乔治主义的新颖性。一位评论者指出摘要似乎是 AI 生成的，引发了真实性的担忧。
+
+**标签**: `#economics`, `#AI`, `#Georgism`, `#Fable`, `#theory`
+
+---
+
+<a id="item-16"></a>
+## [《麦克白》分析凸显歧义，引发人文与 AI 讨论](https://porticoquarterly.com/essay/macbeth-and-his-problems/) ⭐️ 6.0/10
+
+一篇题为《麦克白及其问题》的文章发表在 Portico Quarterly 上，对莎士比亚的《麦克白》进行了文学分析，强调剧中的歧义和解读挑战。该文引发了社区讨论，将文学解读与 AI 生成内容进行对比。 这一新闻之所以重要，是因为它凸显了关于艺术中人类解读和歧义价值的日益增长的文化对话，尤其是在 AI 在创意领域日益普及的背景下。它强调了生成式 AI 的一个关键局限：难以捕捉人类观众认为有意义的细微、开放式的含义。 该文章聚焦于麦克白角色动机的未解之谜，认为该剧的力量在于未言明之处。社区评论提到即使借助现代效果也难以呈现超自然元素，一位评论者还指出当地因观众受伤而禁止演出，为讨论增添了现实维度。
+
+hackernews · apophatic · 9月7日 20:34 · [社区讨论](https://news.ycombinator.com/item?id=49602716)
+
+**背景**: 莎士比亚的《麦克白》是一部以心理深度和超自然元素（如女巫和幽灵）著称的悲剧。文学分析常探讨剧中的歧义，例如麦克白是受命运驱使还是自身野心驱使，以及有多少内容留给导演和观众的解读。这篇文章出现在人文学科背景下，讨论将这种解读的丰富性与生成式 AI 的输出进行对比，后者往往产生更字面或表面的内容。
+
+**社区讨论**: 社区评论表达了对这篇文章的赞赏，认为它是 AI 相关文章中的一股清流，一位用户指出歧义在莎士比亚作品中的重要性。另一位评论者幽默地调侃了麦克白的问题，而第三位则讲述了因观众受伤而禁止演出的真实事件，增添了轻松而接地气的视角。
+
+**标签**: `#literature`, `#Shakespeare`, `#interpretation`, `#AI`, `#humanities`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-17"></a>
+## [华为 Mate XT2 与鸿蒙 7 发布：三折叠与芯片自信](https://www.ifanr.com/1678896?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 8.0/10
+
+9 月 7 日，华为举行秋季全场景发布会，推出了起售价 19999 元的 Mate XT2 非凡大师三折叠手机，以及鸿蒙 7 操作系统。发布会上公开了新款麒麟 9050 Pro 芯片，标志着华为在制裁多年后首次公开披露其芯片能力。 此次发布标志着华为对其半导体供应链重新建立信心，麒麟 9050 Pro 是六年来首款公开的高性能芯片。三折叠形态和端侧 AI 能力可能加剧高端智能手机和 AI 助手市场的竞争。 麒麟 9050 Pro 单核性能提升 24%，多核提升 52%，马良 GPU 渲染性能提升 142%，支持端侧最高 30B 参数的大模型（激活参数 2B）。Mate XT2 还采用了更直观的“先左后右”折叠方式，机身比上一代薄 1 毫米。
+
+rss · 爱范儿 · 9月7日 10:39
+
+**背景**: 自 2019 年以来，华为一直面临美国制裁，限制了其获取先进芯片的途径，迫使其依赖自研麒麟系列。Mate XT 系列是全球首款量产的三折叠智能手机，于 2024 年推出。鸿蒙是华为自研操作系统，现已更新至第七个大版本，在 AI 助手领域与 iOS 和 Android 竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sina.cn/news/detail/5340531733564063.html">华为麒麟 9050 Pro 芯片性能参数|华为|麒麟 9050 pro|mate xt 2_新浪新闻</a></li>
+<li><a href="https://www.ithome.com/0/999/300.htm">华为继 Mate 40 后时隔六年再次发布高性能芯片，麒麟 9050 Pro 首发逻辑折叠技术 - IT之家</a></li>
+<li><a href="https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/">HUAWEI Mate XT 非凡大师 - 华为官网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#华为`, `#鸿蒙`, `#发布会`, `#折叠屏`, `#科技`
+
+---
+
+<a id="item-18"></a>
+## [AI 视频生成进入实时时代，开启交互式直播](https://www.tmtpost.com/8131491.html) ⭐️ 8.0/10
+
+AI 视频生成已跨越实时门槛，像 MiniMax H3 Max 这样的模型能在 3 秒内生成 5 秒的片段，速度快于播放速度。这一转变使得连续直播和交互式故事成为可能，从批量生产转向实时交互媒体。 这一里程碑将 AI 视频从批量工具转变为实时交互媒体，对内容创作、游戏和直播产生重大影响。它为聊天驱动的无限直播和近零延迟叙事游戏开辟了新可能，可能重塑观众与 AI 生成内容的互动方式。 MiniMax H3 Max 是 MiniMax H3 的速度优化版本，由 fal.ai 在开放权重上进行后训练，并获得 MiniMax 官方认可。它牺牲了 2K 分辨率上限以换取近乎即时的生成，以 768p 生成，5 秒片段在 3 秒内渲染完成。
+
+rss · 钛媒体 · 9月7日 10:44
+
+**背景**: 传统的 AI 视频生成模型如 Sora 或 Runway 以批量方式生成片段，需要几分钟才能生成几秒钟的视频。实时生成要求模型以快于播放速度的速度生成帧，由于计算需求巨大，这一直是一个主要的技术障碍。MiniMax H3 是一个开放权重的多模态视频模型，其速度优化版本 H3 Max 通过与 fal 的推理栈协同优化实现了这一实时能力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://minimaxh3.ai/h3-max">MiniMax H 3 Max AI Video Generator: 5s Video in 3 Seconds</a></li>
+<li><a href="https://fal.ai/minimax-h3">MiniMax H 3 - Open-Weights General-Purpose Multimodal Video Model</a></li>
+<li><a href="https://pollo.ai/m/minimax-h3-max">MiniMax H 3 Max : Try This AI Video Model Now | Pollo AI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI video generation`, `#real-time`, `#interactive media`, `#MiniMax H3 Max`, `#content creation`
+
+---
+
+<a id="item-19"></a>
+## [机器人触觉突破在即：五大技术路线、数据难题与模型之争](https://www.tmtpost.com/8131169.html) ⭐️ 8.0/10
+
+文章深入分析了机器人触觉感知即将迎来的突破，详细阐述了五大关键技术路线、触觉数据采集的挑战以及模型策略之间的竞争。文章强调了该领域的快速进展以及触觉数据在具身智能中的关键作用。 这一分析意义重大，因为触觉感知是机器人和人工智能的关键前沿，能够实现灵巧操作和人机交互。这些技术和数据争论的结果将塑造未来机器人的能力，影响从制造业到医疗保健等行业。 文章概述了触觉传感的五条技术路线，可能包括压阻式、电容式、压电式、光电式和基于 MEMS 的方法。文章还强调了数据采集的瓶颈，即大规模传感器阵列的实时处理仍然是一个挑战，并讨论了相互竞争的建模策略，例如基于仿真与基于真实世界数据驱动的方法。
+
+rss · 钛媒体 · 9月7日 09:52
+
+**背景**: 触觉感知是机器人感知物理接触、压力、纹理和温度的能力，类似于人类的触觉。它对于需要灵巧性的任务至关重要，例如抓取易碎物体或执行精细装配。传感器材料和人工智能的最新进展加速了进步，但在数据收集、传感器耐用性以及将触觉与视觉和其他模态集成方面仍然存在挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S2542529325000963">Recent advances and challenges of tactile sensing for robotics: from fundamentals to applications - ScienceDirect</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2590137025000962">Recent advances in tactile sensing technologies for human-robot interaction: Current trends and future perspectives - ScienceDirect</a></li>
+<li><a href="https://www.nature.com/articles/s41467-024-51261-5">Multimodal tactile sensing fused with vision for dexterous robotic housekeeping | Nature Communications</a></li>
+<li><a href="https://arxiv.org/pdf/1705.05247">Compressed Sensing for Scalable Robotic Tactile</a></li>
+<li><a href="https://cctest.ai/en/articles/neoteai-and-fudan-put-tactile-data-at-the-center-of-embodied-ai">NeoteAI and Fudan Release N0 Tactile Robotics Reports - CCTest</a></li>
+
+</ul>
+</details>
+
+**标签**: `#robotics`, `#tactile sensing`, `#AI`, `#technology trends`, `#industry analysis`
+
+---
+
+<a id="item-20"></a>
+## [童欣加入 Meshy，3D 世界迎来“互联网时刻”](http://www.geekpark.net/news/369959) ⭐️ 8.0/10
+
+中国顶尖计算机图形学学者、前微软亚洲研究院全球研究合伙人童欣，已于 2026 年 9 月正式加入胡渊鸣创办的 3D 生成创业公司 Meshy，担任首席科学家。此举将顶级学术人物带入商业 3D AIGC 领域。 童欣的加入标志着 3D 内容创作领域的范式转变，可能加速 3D 世界迎来“互联网时刻”，使 3D 生成变得人人可用、无处不在。此举或激励更多顶尖研究人员加入创业公司，推动全行业创新。 童欣已发表论文超过 190 篇，其中 60 余篇发表于 SIGGRAPH、ACM TOG 等图形学顶级会议和期刊，总引用超过 2.1 万次。Meshy 以其快速的文本转 3D 和图像转 3D 生成（每个模型约 20-30 秒）而闻名，旨在让 3D 创作像输入一句话一样简单。
+
+rss · 极客公园 · 9月7日 10:26
+
+**背景**: 童欣在微软亚洲研究院从事计算机图形学研究 25 年，专注于让 3D 内容创作实现“人人可用、无处不在”。Meshy 由胡渊鸣（MIT 博士、“太极”语言作者）创立，是领先的 AI 3D 生成创业公司，将生成时间从几十分钟缩短到几十秒，解决了文本转 3D 速度慢的瓶颈。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.meshy.ai/">AI 3D Model Generator: Create 3D from Text &amp; Images | Meshy</a></li>
+<li><a href="https://www.aitntnews.com/newDetail.html?newId=29064">图 形 学 宗师 童 欣 加盟Meshy，要做“AI for Fun”的头号玩家</a></li>
+<li><a href="https://user.guancha.cn/main/content?id=1731597&amp;s=fwtjgzwz">童 欣 加入 Meshy，3D 世界终于等到自己的「互联网时刻」_风闻</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论对童欣的加入表示兴奋，认为这是对 Meshy 潜力的认可，也标志着 3D AIGC 正达到临界点。一些人希望他的专业知识能推动 3D 生成质量和可及性的边界。
+
+**标签**: `#3D生成`, `#人才流动`, `#计算机图形学`, `#创业公司`, `#行业趋势`
+
+---
+
+<a id="item-21"></a>
+## [雷军宣布小米汽车累计交付量突破 80 万辆](http://www.geekpark.net/news/369884) ⭐️ 8.0/10
+
+9 月 7 日，小米创始人兼 CEO 雷军宣布，小米汽车累计交付量已超过 80 万辆。2026 年各月交付量自 4 月以来持续超过 3 万台，公司正全力准备小米澎程系列的上市交付。 这一里程碑凸显了小米在竞争激烈的新能源汽车市场中的快速崛起，展示了强劲的消费者需求和产能。它加剧了电动汽车制造商之间的竞争，并标志着小米在行业内的影响力日益增强。 2026 年各月交付数据：1 月超 39,000 台；2 月和 3 月各超 20,000 台；4 月至 8 月每月均超 30,000 台。累计数据包括 SU7 和 YU7 车型，截至 7 月底这两款车累计交付已超 70 万台。
+
+rss · 极客公园 · 9月7日 00:55
+
+**背景**: 小米于 2021 年进入电动汽车市场，并于 2024 年推出首款车型 SU7。公司迅速扩大生产规模，澎程系列是预计将推出大型多功能 SUV 的新产品线，首款车型命名为 SkyNomad N90。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.xiaomiev.com/">小 米 汽 车</a></li>
+<li><a href="https://m.163.com/dy/article/L1GU94UC0511B8LM.html">小 米 汽车： 小 米 澎 程 不 是 子品牌，目前计划发布两款车型_手机网易网</a></li>
+<li><a href="https://post.smzdm.com/p/ad7vl2kx/">这外观你喜欢吗？ 小 米 澎 程 车型命名SkyNomad N90...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#小米汽车`, `#新能源汽车`, `#交付量`, `#行业里程碑`
+
+---
+
+<a id="item-22"></a>
+## [AMD 等 PC 厂商押注端侧国产大模型以降低 AI 成本](https://www.ifanr.com/1678938?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+AMD 等 PC 厂商正利用 DeepSeek、千问等国产大模型在端侧运行 AI 任务，旨在降低云端 AI 带来的高昂 Token 成本。此举预计将为 PC 行业带来新的增长机会。 这一进展意义重大，因为它解决了 AI 应用的成本障碍，使 AI 对消费者和企业更加可及。通过实现端侧 AI，PC 制造商可以使其产品差异化，并有可能重振停滞不前的 PC 市场。 该策略涉及在 PC 本地运行 DeepSeek 和千问等模型，从而消除云 AI 服务按 Token 计费的费用。这种方法还解决了隐私问题并降低了延迟，但需要强大的 NPU 或 GPU 等硬件支持。
+
+rss · 爱范儿 · 9月7日 10:40
+
+**背景**: 端侧 AI，也称为边缘 AI，是指在 PC 或智能手机等设备上直接运行 AI 模型，而非在云端运行。这减少了对互联网连接的依赖，并降低了与云计算相关的成本。Token 费用是 AI 提供商根据处理的 Token 数量收取的费用，对于重度用户来说可能迅速累积。通过将 AI 推理转移到边缘，公司可以避免这些经常性成本。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.elecfans.com/article/6858211.html">终于有人把 端 侧 大模型说清楚了-电子发烧友网</a></li>
+<li><a href="https://juejin.cn/post/7480431348487307291">老婆问我：“大模型的 Token 究竟 是 个啥？ ” 什 么 是 Token ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AMD`, `#端侧AI`, `#国产大模型`, `#PC行业`, `#AI成本`
+
+---
+
+<a id="item-23"></a>
+## [Windows 以本地 AI 模型反击 Mac](https://www.ifanr.com/1678877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+文章探讨了将千亿参数大语言模型装入个人电脑的趋势，并指出 Windows 生态正在对苹果的 AI 进展发起反击。文中提到，各大科技公司正努力让 PC 成为 AI 运行的主要环境。 这一转变可能使强大 AI 的获取更加普及，减少对云服务的依赖，并增强隐私保护和离线能力。它加剧了 Windows 与 Mac 生态之间的竞争，可能影响消费者选择和开发者的优先方向。 文章提到了 DeepSeek V3.2（6710 亿参数）和 GLM-5（7440 亿参数）等通常基于云端的模型，但重点在于实现本地运行。同时，它也提到了像 VibeThinker-3B（30 亿参数）这样的小模型，其推理性能可与千亿级模型竞争，暗示了向高效化发展的趋势。
+
+rss · 爱范儿 · 9月7日 10:36
+
+**背景**: AI PC 集成了专用 NPU，可在本地运行 AI 任务，例如微软的 Copilot+ 系列。传统上，大型模型需要云基础设施，但模型压缩和硬件的进步使本地执行成为可能。Windows 和 Mac 正在竞争提供最佳的设备端 AI 体验，苹果利用其 M 系列芯片，而微软则与硬件制造商合作。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.ebrun.com/681005.html">新浪微博推出30 亿 参 数 AI 模 型 推理性能超 千 亿 参 数 旗舰 - AI - 亿 邦动力</a></li>
+<li><a href="https://m.tech.china.com/articles/20260625/202606251901804.html">小 参 数 也能做强推理！ 微博VibeThinker-3B引海外关注，探索 AI ...</a></li>
+<li><a href="https://grokipedia.com/page/AI_PC">AI PC</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI PC`, `#Windows`, `#Apple`, `#本地AI模型`, `#行业竞争`
+
+---
+
+<a id="item-24"></a>
+## [OpenAI 发布 GPT-6，自曝“外星思维”引发 AGI 猜想](https://www.ifanr.com/1678637?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+OpenAI 发布了新 AI 模型 GPT-6，并暗示其可能展现出“外星思维”——一种可能迈向通用人工智能（AGI）的智能形式。此次发布重新引发了关于实现 AGI 时间表和可行性的讨论。 GPT-6 的发布及随之而来的 AGI 猜想意义重大，因为它们突破了当前 AI 能力的边界，并加剧了人们对先进 AI 社会影响的兴奋与担忧。这可能影响行业趋势、投资以及公众对 AI 迈向人类水平智能轨迹的看法。 这篇新闻文章缺乏技术细节，更侧重于发布的宣传和推测方面。“外星思维”一词暗示推理或问题解决能力质的飞跃，与人类认知不同，但摘要中未提供具体基准或示例。
+
+rss · 爱范儿 · 9月7日 07:54
+
+**背景**: GPT-6 是 OpenAI 继 GPT-4 和 GPT-5 之后最新一代大型语言模型。AGI，即通用人工智能，指的是能够像人类一样执行任何智力任务、并在各领域具备灵活性和适应性的系统。OpenAI 长期以来表示实现 AGI 是其首要使命，每次新模型发布都会引发关于我们离这一目标有多近的猜测。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1bJbj6vE8E/">AI彻底杀疯了！ GPT - 6 Astra刚发布就能自己用电脑，AGI... | 哔哩哔哩</a></li>
+<li><a href="https://habr.com/ru/companies/bothub/articles/1057664/">Вышла новая GPT -5. 6 , GPT -Live и ChatGPTWork: что... / Хабр</a></li>
+<li><a href="https://www.163.com/dy/article/JO1B4EON05566VQ3.html">Sam Altman重磅发文： AGI 时代真的要来了！ 2035...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#GPT-6`, `#OpenAI`, `#AGI`, `#AI发布`, `#行业动态`
+
+---
+
+<a id="item-25"></a>
+## [探访零跑工厂：月销 10 万辆的秘密](https://www.ifanr.com/1678617?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+爱范儿记者探访零跑工厂，揭示了其实现月销 10 万辆背后的制造与供应链策略。 对零跑生产能力的洞察对汽车行业具有重要意义，它展示了中国电动汽车制造商如何快速扩大规模以满足高需求，为竞争对手和投资者提供了参考。 报道重点介绍了零跑高效的制造流程、垂直整合和成本控制措施。工厂参观的具体细节包括先进的自动化和精简的供应链管理。
+
+rss · 爱范儿 · 9月7日 06:01
+
+**背景**: 零跑汽车是一家以平价车型著称的中国电动汽车制造商。实现月销 10 万辆是一个重要里程碑，需要强大的生产能力和高效的运营，尤其是在竞争激烈的中国电动汽车市场。
+
+**标签**: `#零跑汽车`, `#工厂探访`, `#汽车制造`, `#销量`
+
+---
+
+<a id="item-26"></a>
+## [信息通信“十五五”规划发布，微信内测 AI 社交，央行黄金储备连增](https://www.tmtpost.com/8131620.html) ⭐️ 7.0/10
+
+工信部发布信息通信行业“十五五”规划，部署 26 项重点任务。同时，微信内测“小微 AI 社交”功能，央行数据显示 8 月末黄金储备升至 7673 万盎司，连续 22 个月增持。 该规划为中国未来五年数字基础设施和行业发展指明方向，影响电信运营商、设备商及科技企业。微信内测 AI 社交功能，表明 AI 正融入主流社交平台；央行持续增持黄金则反映在全球经济不确定性下储备多元化的趋势。 规划包含 26 项重点任务，可能涵盖 5G/6G、光网络及 AI 融合。微信“小微 AI 社交”据称采用 AI 先聊再带回结果的交互模式。央行黄金储备连续 22 个月增加，达到 7673 万盎司，但增幅可能有所放缓。
+
+rss · 钛媒体 · 9月7日 23:20
+
+**背景**: “十五五”规划期（2026-2030 年）将指导中国信息通信行业发展，此前规划已加速 5G 部署和光纤宽带建设。微信拥有超十亿用户，正探索 AI 功能以提升用户粘性。包括中国在内的多国央行持续增持黄金，以对冲地缘政治和经济风险，减少对美元的依赖。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjd.com.cn/2025/08/16/11273383.shtml">追光｜在“冰丝带”， 机 器 人 们开了场运动会！_ 京报网</a></li>
+<li><a href="https://www.neican.ai/insights/article-20250816144004526-0/">neican.ai/insights/article-20250816144004526-0</a></li>
+<li><a href="https://m.163.com/dy/article/L67SR2Q505119FMA.html">m.163.com/dy/article/L67SR2Q505119FMA.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#信息通信`, `#AI社交`, `#央行黄金储备`, `#科技要闻`, `#行业规划`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-27"></a>
+## [新国标要求企业对 AI 客服负责](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMZm40N0h4WkpkU1R4YmtWcEJYalVJZ252NW9DVVRtdXp6SHQxLUdidHRoQTRwemxzemtYamVpZHVZWXF0WXBmdU1tN1h3djlNTTNxUTJmVkJPLUlQR1Z1MWltNA?oc=5) ⭐️ 8.0/10
+
+中国一项新的国家标准于 9 月 1 日生效，要求企业对 AI 客服的交互负责。该法规旨在解决消费者对无用或误导性 AI 聊天机器人的广泛投诉。 该法规意义重大，因为它确立了 AI 客服的法律责任，可能减少消费者的不满，并迫使企业改进其 AI 系统。它为客服行业的 AI 治理树立了先例，影响在中国运营的国内外企业。 该标准名为《顾客联络服务》，明确要求企业承认 AI 聊天记录作为投诉证据。建议消费者在投诉时附上 AI 聊天截图并引用该标准，以加快问题解决。
+
+rss · 客服行业动态 · 9月7日 07:31
+
+**背景**: AI 客服在中国已广泛使用，但许多消费者反映 AI 聊天机器人常常无法解决问题、浪费时间甚至欺骗用户。新国标是更广泛的 AI 应用监管和消费者权益保护努力的一部分，此前其他行业已有类似举措。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://meijinmeng.cn/1746.html">AI 客 服 新 国 标 今天生效，4招让你不再被套路-美金梦</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 相关文章的社区评论对新规表示强烈支持，许多用户分享了个人对 AI 客服的不满。一些法律专家指出，虽然该标准是进步，但执行和处罚的明确性仍有待观察。
+
+**标签**: `#AI客服`, `#国家标准`, `#行业监管`, `#客户服务`, `#企业责任`
+
+---
+
+<a id="item-28"></a>
+## [Cloudflare 扩展 AI 搜索，简化自定义数据查询](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zaDNYcklRWkFjRUM4ZzV5d1ZVbUxibE4wNWNIOW5TTXNpYzRtQ25hNGRkVS1CSUZZM251bTZheW92bWZsaE40VWtYd0hZZEMzUlI3d2Y4bHR1REcxa3c?oc=5) ⭐️ 6.0/10
+
+Cloudflare 扩展了其 AI 搜索服务，使客服代表和开发人员能够更轻松地搜索自定义数据。该服务现在支持自然语言查询、自定义元数据过滤，并可通过 Workers 绑定、REST API 或 MCP 服务器进行集成。 此次更新通过支持对专有数据进行快速自然语言搜索，提升了客服团队的工作效率，可能缩短问题解决时间。同时，它也巩固了 Cloudflare 在 AI 基础设施领域的地位，为代理工作流和企业应用提供了托管的检索层。 该服务支持多模态搜索，并能与 Cloudflare 其他工具无缝集成，便于部署。它包含内置存储、向量索引和网络爬取功能，但已有搜索管道的团队可能需要评估集成工作量和成本影响。
+
+rss · 客服行业动态 · 9月7日 10:26
+
+**背景**: Cloudflare AI Search 是一项托管搜索服务，可对内容进行索引，并允许通过自然语言进行查询。它是 Cloudflare 更广泛的代理栈的一部分，包括 Agents on Cloudflare 和基于 Workers 的集成。该服务旨在将网站、文件和应用程序数据转化为可供 AI 代理和应用程序搜索的上下文。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developers.cloudflare.com/ai-search/">Cloudflare AI Search · Cloudflare AI Search docs</a></li>
+<li><a href="https://www.infoq.com/news/2026/08/cloudflare-ai-search/">Cloudflare Extends AI Search to Make it Easier for Agents and... - InfoQ</a></li>
+<li><a href="https://paralax.ai/blog/cloudflare-ai-search-agent-retrieval-infrastructure">Cloudflare AI Search Turns Retrieval Into Agent Infrastructure</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Cloudflare`, `#AI搜索`, `#客服行业`, `#技术更新`
+
+---
+
+<a id="item-29"></a>
+## [昆明共享电单车遭吐槽：还车难、乱扣费、缺电，官方回应](https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2NtNzlzUEVBSVBSRllRZlYtZnN5RnpsWllWa090UEVJMTh1c0JzdmlxT3hKR1ExVVQzcUhDR3YyZ1J6SDVoTXBhWXVtQVN0V3pCakVReUFjZ3hlMUtyZUI5S1FwTG1lT0M1TlozRmM0cFdBX284TVpxdXQxU3VrSTNvZWpHYjRjcUZ3aWlWa3k5bjF1QlhacA?oc=5) ⭐️ 6.0/10
+
+昆明的“昆明融合出行”共享电单车服务因还车困难、乱扣调度费以及大量车辆缺电无法骑行而遭到市民吐槽，运营商已作出最新回应。 这一事件凸显了共享出行领域在运营和客户服务方面的挑战，影响用户信任并可能引发监管关注。它强调了共享电单车服务需要可靠的技术和透明的收费结构。 具体投诉包括因 GPS 或停车区问题导致无法还车、意外扣除调度费，以及大量车辆电量不足。运营商的回应可能涉及这些问题，但摘要中未提供细节。
+
+rss · 客服行业动态 · 9月7日 11:41
+
+**背景**: 共享电单车是中国城市中流行的微出行方式，为短途出行提供便利。然而，它们依赖精准的 GPS 和指定停车区（P 点）来还车，电池管理对可用性至关重要。其他地方也出现过类似投诉，表明这是行业普遍面临的挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.douyin.com/shipin/7311762522321946661">滴滴 共 享 电 单 车 如何寻找实时 位 置-抖音</a></li>
+<li><a href="https://36kr.com/p/936600714828680">36kr.com/p/936600714828680</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#shared mobility`, `#service failure`, `#complaint handling`, `#public response`
+
+---
+
+<a id="item-30"></a>
+## [中融人寿启动 2026 年客服节，江苏分公司“融情驿站”揭牌](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RYl9QeldYaE5hYTVVeC00QlFFMXBnTHEtOHdkYVo0QlUteWh1d1U0eFR2S0ZkOTFQQ0lyVElmbmxjZWlvTnZwemsyOV9LZFdBeGtMT29RMkFGMXpnM2c?oc=5) ⭐️ 4.0/10
+
+中融人寿正式启动 2026 年客服节，并在江苏分公司同步揭牌“融情驿站”，以提升客户服务体验。 此举反映了保险行业对以客户为中心的服务创新的日益重视，可能为区域服务提升树立标杆。它有望提升中融人寿的客户满意度和忠诚度，影响保险行业的竞争格局。 “融情驿站”是江苏分公司内的专属服务点，可能提供个性化协助和简化流程。客服节通常持续有限时间，包含咨询、反馈会议和促销活动等。
+
+rss · 客服行业动态 · 9月7日 09:45
+
+**背景**: 客服节在中国保险行业很常见，是吸引保单持有人并展示服务质量承诺的一种方式。中融人寿是一家中型保险公司，此类活动有助于增强其品牌影响力和客户关系。
+
+**标签**: `#保险客服`, `#客服节`, `#客户服务`, `#中融人寿`
+
+---
+
+<a id="item-31"></a>
+## [Miu Miu 5950 元针织钱包引吐槽，品牌称系 2026 新款](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVRPYk5qWGNJOXBTQ2ZYNWV5MnRTb3l6R3pPaEJiYnltemExNjhYX2YyQ2VNRnp0TmlxYW5GMHhWcGM4dEZfaF9zWS1aSUlCNkZIanhfNmpHaWxnTWJ6dzV4aWVqU21iMS04NEY5X3JtR3RTOENfVVlZdVRacE5lVjdCV0F6bXFqeHZvaE5sZDlBLXo1TjJQWg?oc=5) ⭐️ 4.0/10
+
+Miu Miu 一款标价 5950 元的小号针织钱包引发公众吐槽，品牌客服回应称该产品为 2026 年新款，采用钩针工艺，并实行官方统一定价。 这一事件凸显了奢侈品牌如何应对定价争议和公众批评，反映出消费者对看似简单商品高价的敏感度。同时，它也强调了在客户服务行业中，危机沟通中透明交流的重要性。 据品牌客服介绍，该钱包材质为织物，采用钩针工艺，价格由官方统一定价，属于 2026 年系列产品。
+
+rss · 客服行业动态 · 9月7日 12:47
+
+**背景**: Miu Miu 是 Prada 集团旗下的奢侈时尚品牌，以其独立和前卫的精神著称。钩针是一种使用钩针工具将纱线或线手工编织成织物的工艺，常与传统手工艺相关联。此次争议源于消费者认为这款小针织钱包的价格与其材质和制作成本不成比例。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.pradagroup.com/zh/brands/miu-miu.html">Miu Miu ：Prada集团旗下 品 牌 | Prada Group</a></li>
+<li><a href="https://www.miumiu.com/us/en.html">Official Website and Online Boutique | Miu Miu US</a></li>
+<li><a href="https://news.hbtv.com.cn/p/1641320.html">news.hbtv.com.cn/p/1641320.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#brand pricing`, `#public criticism`, `#luxury goods`, `#crisis communication`
+
+---
+
+<a id="item-32"></a>
+## [2026 年中国客服外包排行榜前十与避坑指南](https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0lBNkQyR0l4cktUc05KTjFDWVZlOUpBTXFBMml6Y3JmMjZTcFFNTzhVVnpIU3FPLWh1djEtQW9LWGM1WEt5bDJLblhVNmZPVjYxSmNuWDBiQkxpdmxDMmFNaHpfVFVCeEg2c3ZzUlRTMG5rQ2RRWWlhS2tWanVac04yLWRmMVY5bmpyOQ?oc=5) ⭐️ 4.0/10
+
+新浪财经发布的一篇文章列出了 2026 年中国客服外包公司前十名排行榜，并提供了选择此类服务时避免常见陷阱的指南。 该排行榜为中国企业外包客服服务提供了实用指导，帮助它们做出明智决策。它反映了客服外包在中国市场日益增长的重要性。 该文章是一篇列表文章，包含前十名排行榜和具体的避坑技巧。然而，所提供的内容中未包含具体的公司名称和详细评选标准。
+
+rss · 客服行业动态 · 9月7日 07:51
+
+**背景**: 客服外包是指雇佣第三方公司来处理客户支持任务，如电话、电子邮件和在线聊天。在中国，由于电子商务的扩张以及对高性价比客服解决方案的需求，该行业已显著增长。
+
+**标签**: `#customer service`, `#outsourcing`, `#China`, `#ranking`, `#guide`
+
+---
+
+<a id="item-33"></a>
+## [高德否认推出“扫雷榜”传闻](https://news.google.com/rss/articles/CBMieEFVX3lxTE1rY0N6aGhESUE4N3JULS13RVRtV2ZPM0ZEWVZSOXdzNnZZdE5SNXJPa2IwQ01hVWprTDRmb2RrazZxUGJXZmdNS1BfRWV6YmtvMDhxQ0tONTdmTjdhcmpHT2lnY2NCWE5sWk5EY1hDUF9pTGN2aFNkcQ?oc=5) ⭐️ 4.0/10
+
+高德客服回应了关于可能推出“扫雷榜”功能的传闻，澄清了该功能的当前状态。此前，社交媒体上出现了相关猜测。 这一新闻凸显了企业如何处理产品传闻和公众询问，反映了在客服行业中透明沟通的重要性。同时也表明公众对高德等主流导航应用新功能的关注。 文章未完全披露高德回应的具体细节，但表明公司正在处理该传闻。该功能（如果存在）尚未正式公布，回应旨在管理用户预期。
+
+rss · 客服行业动态 · 9月7日 09:42
+
+**背景**: 高德是中国领先的导航和地图服务商，关于新功能的传闻常引起公众关注。客服对这类传闻的回应很常见，旨在防止错误信息传播并维护信任。
+
+**标签**: `#Amap`, `#customer service`, `#rumor`, `#product feature`
+
+---
+
+<a id="item-34"></a>
+## [泰康人寿河南分公司举办客服节慰问活动](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWVMSUNuUUZoVnVwRmRpYy1vNDAxY294TDFzS2lIOGxDSzFYUVFzdHJMcmdQb3lNSTlSRVRyNjM3MkV5Rm5hMXAzYWp1eEtfYjl4dlNEZ0ZndVNMeTBVU2lyc0VNZlRwZDM4bU5ZU0xlazVwc3NaLXN0dGFwdzZnNXVHS0xsMmhEVVJmWjVJQjJkaHVDRDJMZ19BNDZEaGhzd2x5UEtHU3dqb05LZkxfVUR2czlla1M4Szh1Q1V1emZjV1NCVjYzdjhBZXgxS2E4ejlNeg?oc=5) ⭐️ 4.0/10
+
+泰康人寿河南分公司开展了“三十周年客服节为民办实事”慰问活动。该活动是公司整体客服节计划的一部分。 该活动凸显了保险行业对企业社会责任和客户参与的日益重视。它反映了企业利用里程碑周年纪念来加强社区联系和提升品牌忠诚度的趋势。 该活动与泰康人寿成立 30 周年相关，表明这是一场全公司范围的客服节活动。现有内容未披露受益人数或具体地点等细节。
+
+rss · 客服行业动态 · 9月7日 08:58
+
+**背景**: 客服节在中国保险行业很常见，企业通过组织活动向客户和公众表达感谢。泰康人寿作为中国大型保险公司，已运营 30 年，此类活动是其企业社会责任的一部分。
+
+**标签**: `#客户服务`, `#企业社会责任`, `#保险行业`, `#慰问活动`
+
+---
+
+<a id="item-35"></a>
+## [喜茶重新开放加盟申请，官方客服澄清尚未正式启动](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXNNSm13TGpJUmNSU19GZWZnWThpbGhZcmw3aXk0eTlsbUVmNzJZdV9RRXpUSmh6YmxXTDJQcjFVZ2NvMm13dk9fbjFWb2paVGN5eUpwZUpwRHIyWjV2WVZRTGpsbGt5LTg5SUUzSnNzQjVFdjlpOWQyTVZ0WVdaaV9yUQ?oc=5) ⭐️ 4.0/10
+
+喜茶重新开放了加盟申请渠道，允许有意者提交申请信息。但官方客服表示，合伙事宜尚未正式开放。 这标志着喜茶可能调整其商业策略，在之前专注于直营后可能重新扩展加盟模式。这可能影响中国茶饮市场的竞争格局，并为潜在加盟商提供新的机会。 申请渠道已开放，但官方客服澄清正式合伙程序尚未启动。有意者可填写申请信息，但尚未提供正式的加盟协议。
+
+rss · 客服行业动态 · 9月7日 05:11
+
+**背景**: 喜茶是中国领先的茶饮品牌，以其创新饮品和直营模式著称。近年来，许多茶饮品牌采用加盟模式以加速扩张，但喜茶历来强调通过直营保证品质。此消息表明其可能进行战略调整，但公司尚未确认细节。
+
+**标签**: `#喜茶`, `#加盟`, `#客服`, `#品牌动态`
+
+---
