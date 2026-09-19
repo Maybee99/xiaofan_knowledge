@@ -1,0 +1,477 @@
+---
+layout: default
+title: "Horizon Summary: 2026-09-19 (ZH)"
+date: 2026-09-19
+lang: zh
+---
+
+> 从 33 条内容中筛选出 20 条重要资讯。
+
+---
+
+### 🤖 AI 科技
+
+1. [Android 17 首次仅在 Pixel SDK 中添加新 API，未发布至 AOSP](#item-1) ⭐️ 8.0/10
+2. [Cloudflare 通过数学优化节省 100TB 内存](#item-2) ⭐️ 8.0/10
+3. [光子发射引导激光故障注入攻破 RP2350 安全调试](#item-3) ⭐️ 8.0/10
+4. [Cactus Needle 3 发布 8-29MB 自动化模型，性能对标 DeepSeek V4 Flash](#item-4) ⭐️ 8.0/10
+5. [Xcode 27.1 Beta 新增 iPhone Duo 模拟器支持](#item-5) ⭐️ 7.0/10
+6. [Cache-to-Cache 实现 LLM 间直接 KV 缓存通信](#item-6) ⭐️ 7.0/10
+7. [研究发现大脑前后部源自两种不同的神经祖细胞群](#item-7) ⭐️ 7.0/10
+8. [Claude Code 在缺少 CLAUDE.md 时改为读取 AGENTS.md](#item-8) ⭐️ 6.0/10
+9. [OpenJev 引发关于运行时定义语义解码的讨论](#item-9) ⭐️ 6.0/10
+10. [Cloudflare Quick Tunnels 落地页在 Hacker News 上重新引发关注](#item-10) ⭐️ 5.0/10
+
+### 🏢 大厂要闻
+
+11. [Figure 发布 Helix 2.5，机器人在 30 个陌生家庭零样本做家务](#item-11) ⭐️ 8.0/10
+12. [iPhone 18 Pro 系列开售，新 AI 相机功能被指「自相矛盾」](#item-12) ⭐️ 7.0/10
+13. [月之暗面递表 IPO，Anthropic 30 万次指控成变数](#item-13) ⭐️ 7.0/10
+14. [联想集团股价再创新高，年内涨幅超 300%](#item-14) ⭐️ 7.0/10
+15. [从谷歌到字节，每个大厂终将拥有一家药厂](#item-15) ⭐️ 7.0/10
+16. [豆包 AI 智能体能否抢走 iPhone 的生态位？](#item-16) ⭐️ 7.0/10
+17. [AI 硬件创业者扎堆涌入手机背面](#item-17) ⭐️ 7.0/10
+18. [ChatGPT 共同发明人创立 TypeSafe AI，发布「哑巴」模型 Jev](#item-18) ⭐️ 7.0/10
+19. [华为昇腾 960 芯片提前至明年一季度，超节点扩至 4096 卡](#item-19) ⭐️ 6.0/10
+20. [外卖“御三家”：从狂热补贴到理性收敛](#item-20) ⭐️ 6.0/10
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-1"></a>
+## [Android 17 首次仅在 Pixel SDK 中添加新 API，未发布至 AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) ⭐️ 8.0/10
+
+Android 17 成为自 3.x 以来首个仅在 Pixel SDK 中引入新 API、而未将其发布到 Android 开源项目（AOSP）的版本。这意味着包括 GrapheneOS 在内的自定义 ROM 开发者无法通过公开的 AOSP 源代码获取这些新 API。 这标志着 Android 开放性的重大转变，直接影响 GrapheneOS 等自定义 ROM 以及依赖 AOSP 获取及时更新的广大开源社区。这引发了人们对 Google 对开源 Android 长期承诺的担忧，并可能导致 Pixel 设备与其他 Android 硬件之间的生态碎片化。 根据社区分析，Google 每半年向 OEM 和公众发布一次“真正的”Android 源代码更新，但每年会发布四次 Pixel 更新，包括文档和 SDK。每年第一和第三季度的发布补丁似乎是 Pixel 独占的，这意味着在这些更新中添加的新 API 永远不会进入 AOSP。
+
+hackernews · theanonymousone · 9月18日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=49758736)
+
+**背景**: AOSP 是构成 Android 基础的自由开源软件栈，主要采用 Apache 许可证。GrapheneOS 等自定义 ROM 使用 AOSP 源代码来构建注重隐私和安全的 Google 官方 Android 替代品。历史上，Google 一直将新的 Android API 与 Pixel 更新同步发布到 AOSP，使自定义 ROM 开发者能够将其整合进去。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Android_%28operating_system%29">Android (operating system) - Wikipedia</a></li>
+<li><a href="https://source.android.com/">Android Open Source Project</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_custom_Android_distributions">List of custom Android distributions - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区情绪总体上对 Google 持批评态度，用户对 GrapheneOS 面临的障碍表示不满，并争论 Google 是否后悔将 Android 开源。一些评论者澄清，问题不仅仅是 Pixel 独占 API，而是每年第一和第三季度的发布补丁都是 Pixel 独占的；其他人则讨论了完全去除 Google 依赖的可行性。
+
+**标签**: `#Android`, `#AOSP`, `#GrapheneOS`, `#Open Source`, `#Google`
+
+---
+
+<a id="item-2"></a>
+## [Cloudflare 通过数学优化节省 100TB 内存](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) ⭐️ 8.0/10
+
+Cloudflare 发布了一篇博客文章，详细介绍了如何通过数学优化技术（包括详细的推导过程）在其基础设施中又节省了 100TB 内存。文章重点介绍了其 DNS 缓存的内存布局优化，这是继此前通过缩小缓存条目释放 100TB 内存之后的又一成果。 这展示了一种实用且新颖的方法，用于解决 AI 基础设施中常见的内存瓶颈这一重大可扩展性问题。这些技术可能会影响其他大规模系统优化内存使用的方式，从而降低成本并提高效率。 该优化涉及对 DNS 缓存布局的五项 Rust 级别内存优化，将每个条目的内存减少了 56%，并在不增加硬件的情况下在整个 Cloudflare 集群中释放了约 100TB 内存。文章包含详细的数学推导以及一项 Rust 结构体优化，每个哈希条目节省 2 字节。
+
+hackernews · f311a · 9月18日 18:51 · [社区讨论](https://news.ycombinator.com/item?id=49758580)
+
+**背景**: Cloudflare 运营着 1.1.1.1 公共 DNS 解析器，该解析器通过缓存 DNS 条目来加速响应。DNS 缓存存储了数千亿个条目，因此每个条目即使浪费一个字节，也会导致数百 GB 的内存浪费。数学优化技术（如程序优化中使用的技术）通过改进数据结构和算法来帮助减少内存占用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/">How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache | Cloudflare Blog</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/big-tech/cloudflare-frees-100tb-of-ram-by-shrinking-dns-cache-entries">Cloudflare frees up 100TB of RAM by shrinking 1.1.1.1&#x27;s DNS cache entries — 250 billion cached DNS entries at any given time means one wasted byte costs 250GB | Tom&#x27;s Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Program_optimization">Program optimization - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论总体积极，赞扬了数学推导及其对个人项目的实际影响。也有人对代码库复杂性提出质疑，担心此类优化会导致难以理解的孤岛，还有人质疑哈希条目节省 2 字节的必要性。
+
+**标签**: `#Cloudflare`, `#memory optimization`, `#AI infrastructure`, `#mathematics`, `#engineering`
+
+---
+
+<a id="item-3"></a>
+## [光子发射引导激光故障注入攻破 RP2350 安全调试](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) ⭐️ 8.0/10
+
+Ledger Donjon 的研究人员展示了一种光子发射引导的激光故障注入攻击，通过翻转调试使能寄存器中的两个比特，在 RP2350 A4 微控制器上恢复了 Secure 调试功能。该技术利用差分光子发射显微镜定位寄存器活动，缩小激光搜索范围，再通过 SWD 引导注入完成攻击。 RP2350 因其安全隔离区而被广泛宣传为安全芯片，并被视为 Yubikey 的潜在替代品，因此其安全调试保护被攻破会削弱人们将其用于高保障应用的信心。这也凸显了硬件攻击者与防御者之间持续不断的军备竞赛，相关经验很可能被用于改进下一代芯片。 该攻击需要物理接触、破坏性芯片制备以及约 25 万美元的实验室设备，但社区成员指出，在家庭实验室中花费不到 1 万美元即可复现。研究人员专门针对 RP2350 A4 步进版本，并使用 SWD 引导注入来设置重新启用 Secure 调试所需的那两个比特。
+
+hackernews · synack · 9月18日 16:54 · [社区讨论](https://news.ycombinator.com/item?id=49757050)
+
+**背景**: 激光故障注入是一种物理攻击，利用聚焦激光翻转芯片逻辑中的单个比特，从而可能绕过安全机制。光子发射分析是一种互补技术，通过检测晶体管开关时发出的微弱光信号，使研究人员无需直接电气接触即可绘制内部活动图。RP2350 是树莓派的微控制器，具有安全隔离区和安全调试保护，旨在防止未经授权访问片上机密。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/">Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug | Ledger Donjon</a></li>
+<li><a href="https://github.com/raspberrypi/rp2350_hacking_challenge">GitHub - raspberrypi/rp2350_hacking_challenge · GitHub</a></li>
+<li><a href="https://pip-assets.raspberrypi.com/categories/1260-security/documents/RP-009377-WP-1-Understanding+RP2350_s+security+features.pdf">Raspberry Pi | Understanding RP2350’s security features White Paper</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为这项研究令人印象深刻，但指出高成本和物理接触要求限制了其实用性。一些人强调类似攻击可以用便宜得多的设备复现，例如用 50 美元的 PicoEMP 替代 5000 美元的 ChipShouter，并将这项工作视为不可避免的军备竞赛的一部分，将推动未来芯片安全性的提升。
+
+**标签**: `#hardware-security`, `#fault-injection`, `#RP2350`, `#embedded-security`, `#side-channel`
+
+---
+
+<a id="item-4"></a>
+## [Cactus Needle 3 发布 8-29MB 自动化模型，性能对标 DeepSeek V4 Flash](https://cactuscompute.com/needle) ⭐️ 8.0/10
+
+Cactus 发布了 Needle 3，这是一系列超紧凑自动化模型，参数量为 2500 万至 1.21 亿，采用 2-bit 量化，以 8-29MB 的二进制文件形式发布，专注于工具调用和结构化 JSON 输出。其中 20 层模型在 Mobile Actions 基准上得分 86.0，超过 LFM2.5 1.2B（82.4）、Qwen3.5 0.8B（76.0）和苹果端侧模型（57.6），并且仅需 4 层微调即可在窄任务上达到 DeepSeek V4 Flash 级别的性能。 这表明极小的模型可以在结构化自动化任务上匹配大得多的模型，使端侧 AI 在汽车、家庭和工业 PLC 等低功耗环境中变得切实可行。它标志着边缘自动化正从通用聊天模型转向任务专用的微型模型。 Needle 3 采用 Monarch Hadamard MLP，用 Walsh-Hadamard 初始化的 Kronecker 因子对以 O\(d√d\) 的代价替代稠密 FFN，支持智能阶梯（每层 2-20 均可作为独立子网络部署），并新增基于正则表达式的触发器和校准置信度分数。它可在 macOS、Linux（x86-64、ARM64、ARMv7、RISC-V、MIPS32）、Windows、Android、iOS、watchOS、tvOS、WebAssembly 和 WASI 上运行，在 Raspberry Pi 5 上解码速度高达每秒 4k token。
+
+hackernews · HenryNdubuaku · 9月18日 00:11 · [社区讨论](https://news.ycombinator.com/item?id=49748553)
+
+**背景**: 小语言模型（SLM）是设计用于端侧而非云端运行的紧凑神经网络，以牺牲通用知识换取特定任务上的效率。量化将模型权重压缩到更少的比特（此处为 2-bit），以减小文件体积并加速推理；而工具调用则让模型能够调用外部函数，例如开灯或设置恒温器。Needle 3 专注于这些自动化任务而非开放式聊天，因为将广泛的对话能力塞进如此小的模型非常困难。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=49748553">Show HN: Cactus Needle 3: 8-29MB automation models... | Hacker News</a></li>
+<li><a href="https://github.com/HarryR/z80ai">GitHub - HarryR/z80ai: Z80-μLM is a 2 - bit quantized language model ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员测试了真实世界的边缘案例，发现像“打开/关闭所有灯”这样的直接命令有效，但“我想上厕所”或“太冷了”等模糊表述会产生错误或相反的操作，不过这些失败响应的置信度分数较低。多位用户建议在演示中加入置信度阈值，也有人称赞 JSON 输出质量以及与小语音模型（如 Whisper）搭配用于低功耗自动化场景的潜力。
+
+**标签**: `#on-device AI`, `#small language models`, `#tool calling`, `#structured output`, `#edge computing`
+
+---
+
+<a id="item-5"></a>
+## [Xcode 27.1 Beta 新增 iPhone Duo 模拟器支持](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) ⭐️ 7.0/10
+
+苹果发布了首个 Xcode 27.1 beta（版本号 27A9269），其中包含更新的 SDK 以及支持 iPhone Duo 全新姿态与方向的模拟器。该测试版可在运行 macOS 26.6 或更高版本的 Apple 芯片 Mac 上使用，让开发者在设备 10 月上市前有大约一个月的准备时间。 这对 iOS 开发者而言是一个重要的工具里程碑，他们必须在真实用户开始使用之前，让现有应用适配这一全新的折叠形态。在新设备上市的第一年，优化不佳可能损害用户体验和应用评价。 该模拟器支持 iPhone Duo 的全新姿态与方向，苹果还捆绑了一个 /uikit-app-modernization 技能来帮助开发者适配布局。开发者指出，该测试版无法在较旧的 macOS 版本上运行，也有人担心只能依赖模拟器而无法在真机上测试。
+
+hackernews · CameronBanga · 9月18日 18:39 · [社区讨论](https://news.ycombinator.com/item?id=49758419)
+
+**背景**: iPhone Duo 是苹果即将推出的新款折叠屏 iPhone，预计 10 月上市，它引入了一种不同于传统直板 iPhone 的形态。Xcode 是苹果用于构建 iOS 和 macOS 应用的集成开发环境，其模拟器让开发者无需真机即可在虚拟设备上测试应用。Xcode 测试版的发布说明通常会记录新的 SDK、模拟器能力以及开发者更新应用前需要了解的已知问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/">Apple Releases Xcode 27 . 1 Beta With iPhone Duo... - MacRumors</a></li>
+<li><a href="https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/">Apple releases Xcode 27 . 1 beta , enabling iPhone Duo app... - 9to5Mac</a></li>
+<li><a href="https://developer.apple.com/news/releases/?id=09182026a">Xcode 27 . 1 beta (27A9269) - Releases - Apple Developer</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者预计许多应用在上市时会显示异常，但相信情况会逐步改善，有人指出苹果捆绑的 UIKit 现代化技能应有助于布局适配。其他人则因应用优化问题而对首发购买 Duo 持犹豫态度，尤其是对较旧的应用，还有人抱怨该测试版无法在旧版 macOS 上运行。
+
+**标签**: `#Xcode`, `#iOS Development`, `#Apple`, `#iPhone Duo`, `#Developer Tools`
+
+---
+
+<a id="item-6"></a>
+## [Cache-to-Cache 实现 LLM 间直接 KV 缓存通信](https://arxiv.org/abs/2510.03215) ⭐️ 7.0/10
+
+2025 年 10 月 3 日提交至 arXiv 的一篇论文提出了 Cache-to-Cache（C2C）范式：用一个神经网络将源模型的 KV 缓存投影并融合到目标模型的 KV 缓存中，从而实现 LLM 之间的直接语义传递。这绕过了通常那种有损的文本交换方式，即把一个模型生成的文本作为另一个模型的输入提示。 如果模型之间能够直接交换语义表示而非自然语言，多智能体与模型级联流水线可能会变得更快、语义保真度更高，因为文本只是内部概念的一种有损编码。这项工作还引出了架构层面的问题：不同模型的 KV 缓存能否做到彼此兼容，从而催生“KV 对齐”的模型家族。 C2C 依赖一个可学习的投影与融合网络，而不是共享的词表；论文的 oracle 实验据称揭示了三条支持这种通信方式的关键发现。该方法目前仍是研究原型，而非可直接投产的系统，其效果取决于投影网络在不同模型对之间的泛化能力。
+
+hackernews · rochansinha · 9月18日 18:55 · [社区讨论](https://news.ycombinator.com/item?id=49758615)
+
+**背景**: 大语言模型在处理文本时会计算键值（KV）缓存，用于存储每个 token 的中间注意力状态，通常只在单个模型的推理会话内部使用。在典型的 LLM 间通信中，一个模型写出自然语言文本，另一个模型将其作为提示读取，这种方式方便但存在信息损失，因为语言无法完整捕捉内部表示的每一处细微含义。Cache-to-Cache 则直接传输这些内部 KV 表示，把缓存本身当作语义的载体。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2510.03215">[2510.03215] Cache - to - Cache : Direct Semantic Communication ...</a></li>
+<li><a href="https://huggingface.co/papers/2510.03215">Paper page - Cache - to - Cache : Direct Semantic Communication ...</a></li>
+<li><a href="https://fuvty.github.io/C2C_Project_Page/">Cache - to - Cache (C2C) - Direct Semantic Communication Between ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者认为这一概念很吸引人，但指出它尚未出现在生产模型中，并推测如果缓存足够兼容以支持信息增强，就可以构建一个“KV 对齐”的模型家族，让每个模型复用其他模型的缓存。还有人将其与“自然语言是一种有损表示”这一更广泛的观点联系起来，质疑多模态模型为何依赖图像嵌入而不直接理解图像，并担忧思维链和智能体间通信中越来越多地使用“Neuralese”会损害可监控性。
+
+**标签**: `#LLM`, `#KV cache`, `#model communication`, `#semantic representation`, `#efficiency`
+
+---
+
+<a id="item-7"></a>
+## [研究发现大脑前后部源自两种不同的神经祖细胞群](https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/) ⭐️ 7.0/10
+
+斯坦福大学由发育生物学家 Kyle Loh 领导的研究团队在 bioRxiv 预印本中报告，发育中大脑的前部与后部源自两种不同的神经外胚层祖细胞群，而非长期以来假设的单一均一细胞池。研究团队称，这是首次证明前脑与后脑祖细胞本质上是不同类型的细胞。 这一发现推翻了发育生物学中长期存在的假设，并可能使研究人员能够在体外培养后脑神经元，以研究其功能并建立疾病模型。它还可能改变科学家对脊椎动物大脑进化起源的认识。 该研究是预印本（bioRxiv 2025.07.02.662771），尚未经过同行评审；而“我们的大脑由两个原始神经系统融合进化而来”的流行说法夸大了研究者的实际结论，后者关注的是前脑与后脑祖细胞来源不同。研究还指出，甚至连橡实虫也具有这种双祖细胞结构，表明其具有深远的进化保守性。
+
+hackernews · Jimmc414 · 9月18日 15:12 · [社区讨论](https://news.ycombinator.com/item?id=49755533)
+
+**背景**: 在胚胎发育过程中，神经系统最初是一层神经外胚层，随后折叠形成神经管，大脑和脊髓由此发育而来。该组织中的神经祖细胞分裂并分化成大脑中多种神经元类型，科学家此前普遍假设前脑和后脑源自同一祖细胞池。理解这些起源对于再生医学以及在实验室中培养特定神经元类型（如后脑神经元）具有重要意义。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Development_of_the_nervous_system">Development of the nervous system - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者反驳了耸动的标题，引用研究者的实际说法：大脑前部与后部源自不同的祖细胞，这使在培养皿中培养后脑神经元成为可能。其他人指出，标题使用“我们的”大脑具有误导性，因为连橡实虫也具有这种结构；还有人推荐了关于大脑进化的经典书籍，如卡尔·萨根的《布罗卡的脑》和朱利安·杰恩斯的《二分心智崩溃中的意识起源》。
+
+**标签**: `#neuroscience`, `#developmental-biology`, `#brain-evolution`, `#stem-cells`, `#preprint`
+
+---
+
+<a id="item-8"></a>
+## [Claude Code 在缺少 CLAUDE.md 时改为读取 AGENTS.md](https://code.claude.com/docs/en/changelog) ⭐️ 6.0/10
+
+Anthropic 的终端编程智能体 Claude Code 现在会在项目中没有 CLAUDE.md 文件时，回退读取 AGENTS.md 文件。该改动出现在 Claude Code 官方更新日志中，并迅速被发到 Hacker News，以 419 分和 149 条评论登上首页榜首。 AGENTS.md 正在成为跨工具的通用约定，被 OpenAI 的 Codex CLI 等其他编程智能体采用，因此这一回退机制是竞争性 AI 编程工具走向互操作性的一个小而具有象征意义的步骤。它的重要性在于，开发者越来越希望用一套智能体指令就能适配多个助手，而不必维护各家专属的文件。 该回退仅在 CLAUDE.md 缺失时触发，也就是说当两个文件同时存在时 CLAUDE.md 仍然优先，而且此次改动尚未覆盖 .agents/skills 目录等其他新兴约定。有用户指出，Claude Code 此前已经可以被引导手动读取 AGENTS.md，因此这次更新主要是把过去不一致的行为正式化。
+
+hackernews · datadrivenangel · 9月18日 21:00 · [社区讨论](https://news.ycombinator.com/item?id=49760187)
+
+**背景**: 像 Claude Code 和 Codex CLI 这样的 AI 编程智能体，允许开发者用一个 markdown 文件描述项目约定、风格规则和安全约束，智能体在仓库中工作前会先读取该文件。Anthropic 的工具一直使用 CLAUDE.md 承担这一角色，而 OpenAI 的 Codex CLI 则推广了 AGENTS.md，其官网把它形容为面向智能体的 README。由于团队常常同时使用多个智能体，每个工具读取不同文件会迫使用户复制内容或建立符号链接，而这次改动正是为了减少这种摩擦。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://agents.md/">AGENTS . md</a></li>
+<li><a href="https://grokipedia.com/page/AGENTSmd">AGENTS.md</a></li>
+<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的评论者大多并不买账，称这一回退是“绝对的最低限度”，并开玩笑说要删掉自己的符号链接，也有人觉得这么小的改动能登上首页很滑稽。讨论中还提到 Shopify CEO Tobias Lütke 公开威胁要在 Shopify 禁用 Claude Code，直到它读取 AGENTS.md 和 .agents/skills；另有用户表示，Claude 曾在一个新项目中自发创建了 AGENTS.md 以及指向它的 CLAUDE.md 符号链接。
+
+**标签**: `#Claude Code`, `#AGENTS.md`, `#AI coding agents`, `#developer tools`, `#interoperability`
+
+---
+
+<a id="item-9"></a>
+## [OpenJev 引发关于运行时定义语义解码的讨论](https://openjev.com/) ⭐️ 6.0/10
+
+OpenJev 是一个运行时定义的语义解码服务，在 Hacker News 上引发讨论，评论者就其与结构化输出的新颖性展开辩论，并分享了替代实现。链接的网站被批评为低质量的“vibecoded”页面，但讨论中包含了与 vLLM 补丁和开源替代方案的专业级比较。 这很重要，因为它凸显了 LLM 输出控制的持续演进，运行时定义的语义决策可能比静态结构化输出模式提供更大的灵活性。辩论还强调了社区对透明、可复现实现的需求，而非封闭服务。 该项目被描述为用开放模型复现 TypeSafe 封闭的 Jev 接口模式，但并未复现 Jev 未公开的模型或训练。评论者指出，将 DiffusionGemma 转为 Jev 的 vLLM 补丁已可用，并在评估中匹配，而像 Qwen36 这样的小模型明显输给了两者。
+
+hackernews · ilreb · 9月18日 09:42 · [社区讨论](https://news.ycombinator.com/item?id=49752041)
+
+**背景**: 语义解码是指将消息映射到含义，常用于 AI 中解释用户意图。LLM 的结构化输出确保响应符合模式，这是可靠数据提取的常用技术。OpenJev 旨在提供运行时定义的语义决策，这是一种比静态模式更动态的方法。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Structured_output_learning">Structured output learning</a></li>
+<li><a href="https://www.linkedin.com/posts/reidmayo_prompting-vs-json-mode-vs-function-calling-activity-7312574867793420288-TAcK">Structured Output Techniques for LLMs by Boundary | LinkedIn</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者批评网站设计为“vibecoded”且视觉杂乱，其他人质疑 OpenJev 与 OpenAI 结构化输出的区别。一些人分享了替代实现，例如针对 DiffusionGemma 的 vLLM 补丁，并指出较小模型表现不佳。
+
+**标签**: `#AI`, `#semantic decoding`, `#LLM`, `#structured output`, `#Hacker News`
+
+---
+
+<a id="item-10"></a>
+## [Cloudflare Quick Tunnels 落地页在 Hacker News 上重新引发关注](https://try.cloudflare.com/) ⭐️ 5.0/10
+
+Cloudflare 的 Quick Tunnels 落地页（try.cloudflare.com）在 Hacker News 上重新出现，引发了 530 分、237 条评论的讨论，话题围绕这个已有五年历史的工具展开。该页面是一个新的、看似由 AI 生成的落地页，而该产品至少自 2021 年起就已存在，2021 年 12 月的存档版本证实了这一点。 讨论凸显了人们对 Cloudflare 对其隧道产品维护情况的持续担忧，用户指出自 2021 年以来 macOS 服务安装损坏等长期存在的 bug。这也引发了关于一个旧产品的新落地页是否值得登上首页的质疑，反映了开发者工具领域关于新颖性和产品维护的更广泛争论。 Quick Tunnels 允许开发者通过一条命令将本地服务器暴露到互联网，获得一个公开的加密 URL，无需账户、DNS 或证书配置。但 Cloudflare 自己的文档指出，它仅用于测试和开发，并且每次运行都会生成一个新的随机子域名。
+
+hackernews · jcbhmr · 9月18日 14:18 · [社区讨论](https://news.ycombinator.com/item?id=49754785)
+
+**背景**: Cloudflare Tunnel 是一项服务，通过名为 cloudflared 的轻量级守护进程，从你的基础设施到 Cloudflare 边缘网络建立安全的仅出站连接。Quick Tunnels 是其简化、匿名的版本，旨在无需身份验证即可快速共享本地开发环境。它们常被与 ngrok 比较，后者是用于将本地主机暴露到互联网的热门工具。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://try.cloudflare.com/">Cloudflare Quick Tunnels</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出 Quick Tunnels 已存在五年多，并质疑一个旧产品的新落地页是否值得登上首页。其他人批评 Cloudflare 对隧道产品的忽视，引用自 2021 年以来未解决的 macOS 安装 bug，并指出页面字体对比度差等设计缺陷。一些用户将其与 Tailscale 的 Tailcat 比较，并赞赏无需账户的要求。
+
+**标签**: `#Cloudflare`, `#Tunnels`, `#Networking`, `#Developer Tools`, `#Hacker News`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-11"></a>
+## [Figure 发布 Helix 2.5，机器人在 30 个陌生家庭零样本做家务](https://www.tmtpost.com/8144641.html) ⭐️ 8.0/10
+
+9 月 17 日，Figure 发布其称为最先进神经网络的 Helix 2.5，并展示搭载该模型的 Figure 03 人形机器人在 30 个此前未见过、也未采集过数据的陌生家庭中，零样本完成整理客厅、折毛巾和铺床三项长时序任务。 零样本泛化到真实且陌生的家庭环境是人形机器人商业化的关键瓶颈，若该演示属实，将显著提升行业信心，证明从人类经验中学到的全身智能无需针对每个家庭重新训练即可迁移到新场景。 Helix 2.5 使用 Figure 的人类行为数据集 Index 对三种行为进行预训练，公司称这是首次证明全身智能可以从人类经验中学习并迁移到新场景，而无需每次重建；不过该发布内容较为简短，缺乏第三方验证和详细技术指标。
+
+rss · 钛媒体 · 9月18日 07:08
+
+**背景**: Figure 是一家美国人形机器人公司，Helix 是其用于控制机器人全身的神经网络。具身智能指智能体通过物理实体与环境实时交互，实现感知、认知、决策和行动一体化，而人形机器人被认为是最具潜力的通用具身智能载体之一。零样本学习则指模型在没有任何额外训练或微调的情况下，在新环境中直接完成任务。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization">Helix 2.5: Zero-Shot 30-Home Generalization</a></li>
+<li><a href="https://www.163.com/dy/article/L73NTK040550WHYR.html">Figure发布Helix 2.5模型 机器人可“自主做家务”|神经网络|helix|figure_网易订阅</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2025-04-14/doc-inetcqhs9334147.shtml">具身智能、智能机器人、人形机器人傻傻分不清？ 这篇文章讲明白了|机器人_新浪财经_新浪网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#人形机器人`, `#具身智能`, `#Figure`, `#零样本学习`, `#Helix 2.5`
+
+---
+
+<a id="item-12"></a>
+## [iPhone 18 Pro 系列开售，新 AI 相机功能被指「自相矛盾」](https://www.ifanr.com/1680844?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+苹果正式开售 iPhone 18 Pro 与 iPhone 18 Pro Max，将其宣传为「Total AI powerhouse」，配备支持可变光圈的 4800 万像素主摄。一项新的 AI 相机能力被形容为「自相矛盾」，文章暗示摄像头需要在任何算法介入之前证明「以上像素来自我」。 这一矛盾凸显了行业日益严重的问题：当 AI 处理成为智能手机摄影的核心时，证明图像像素真实且未经篡改变得越来越困难。苹果的做法可能影响其他厂商处理图像来源与真实性的方式，这对新闻、法律证据和消费者信任都至关重要。 iPhone 18 Pro 以 AI 为核心卖点，配备 4800 万像素可变光圈主摄、更强的续航以及新一代均热板。所谓「自相矛盾」似乎源于重度 AI 计算摄影与认证原始像素来源这一目标之间的冲突。
+
+rss · 爱范儿 · 9月18日 04:14
+
+**背景**: 图像来源（provenance）指验证图像的出处以及是否被修改，通常依赖元数据、像素级分析和来源记录。随着生成式 AI 与计算摄影的普及，检测 AI 生成或篡改图像的工具变得愈发重要。苹果的新功能似乎正处在这两大趋势的交汇点。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.apple.com/ae/iphone-18-pro/">iPhone 18 Pro and iPhone 18 Pro Max - Apple (AE)</a></li>
+<li><a href="https://timestampcamera.net/photo-guides/how-to-detect-ai-generated-images">How to Detect AI-Generated Images (2026 Guide) | TimeStamp Camera</a></li>
+
+</ul>
+</details>
+
+**标签**: `#iPhone 18 Pro`, `#Apple`, `#AI`, `#smartphone launch`, `#tech news`
+
+---
+
+<a id="item-13"></a>
+## [月之暗面递表 IPO，Anthropic 30 万次指控成变数](https://www.tmtpost.com/8144610.html) ⭐️ 7.0/10
+
+北京月之暗面科技有限公司（Kimi 大模型开发商）已递交招股书，据报计划赴港上市，估值约 500 亿美元。与此同时，Anthropic 指控月之暗面在 5 月至 7 月的十天时间内将近 30 万条用户请求转送至其 Claude 模型，并称四家中国企业三个月内非法请求超过 1.51 亿次。 这标志着中国头部 AI 创业公司进入上市阶段的重要资本事件，此前智谱 AI 与 MiniMax 已相继在港交所挂牌。Anthropic 的指控带来数据合规与版权争议风险，可能影响上市审核进程以及投资者对月之暗面技术成色和法律风险的估值。 Anthropic 称在 5 至 7 月的十天窗口期内，月之暗面将近 30 万条客户请求转送给 Anthropic，其中绝大多数交由 Claude Opus 处理，而该期间其请求总数超过 2300 万次。月之暗面官方否认了具体的 IPO 时间表，但据知情人士透露其正与投行接洽，评估纽交所与港交所双重上市的可能。
+
+rss · 钛媒体 · 9月18日 10:16
+
+**背景**: 月之暗面是 Kimi 大模型的开发商，其 API 平台提供 2.8 万亿参数的 Kimi K3 模型，支持 100 万 token 上下文窗口、多模态理解和 Tool Calling。所谓“模型蒸馏”是指利用另一个模型的输出训练自身模型，Anthropic 指控中国企业借此提取 Claude 的能力。据报道，月之暗面已秘密提交赴港上市申请，最新估值约 500 亿美元，而 Anthropic 在潜在 IPO 中估值或高达 2 万亿美元。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://money.udn.com/money/story/5599/9749591">Anthropic 示警旗下 AI... | 經濟日報</a></li>
+<li><a href="https://tw.news.yahoo.com/anthropic%E6%8E%A74%E9%99%B8%E4%BC%81-%E9%9D%9E%E6%B3%95%E8%92%B8%E9%A4%BE-3%E5%80%8B%E6%9C%88%E7%8B%82%E5%81%B7%E9%80%BE1-51%E5%84%84%E6%AC%A1-034100501.html">Anthropic 控 4陸企「非法蒸餾」 3個 月 狂偷逾1.51億 次 | Yahoo News</a></li>
+<li><a href="https://www.163.com/dy/article/L6DLGU4D0519875F.html">AI首富梁文锋带DeepSeek冲刺科创板，谁能共享资本盛宴？| 融资| ipo ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#月之暗面`, `#Kimi`, `#IPO`, `#AI大模型`, `#Anthropic`
+
+---
+
+<a id="item-14"></a>
+## [联想集团股价再创新高，年内涨幅超 300%](https://www.tmtpost.com/8144761.html) ⭐️ 7.0/10
+
+联想集团股价再创历史新高，市值突破 4600 亿港元，年内涨幅已超过 300%。公司首席财务官此前曾表示，联想完全被市场低估。 这一里程碑反映了资本市场对联想的估值逻辑进行了重新定价，表明投资者对公司增长前景的信心重燃。这可能影响其他科技硬件公司的估值方式，尤其是那些向 AI 和服务器业务转型的企业。 股价飙升推动联想市值突破 4600 亿港元，但该新闻缺乏对具体驱动因素（如 AI PC 普及或服务器业务表现）的深入分析。此条目暂无社区讨论数据。
+
+rss · 钛媒体 · 9月18日 08:25
+
+**背景**: 联想集团是一家在香港上市的大型全球科技公司，以个人电脑闻名，并正在扩展服务器和 AI 解决方案业务。首席财务官关于被低估的言论表明，市场此前未充分认识到公司的潜力，而近期的股价上涨则显示出投资者看法的转变。
+
+**标签**: `#联想集团`, `#股价新高`, `#市值`, `#科技大厂`, `#港股`
+
+---
+
+<a id="item-15"></a>
+## [从谷歌到字节，每个大厂终将拥有一家药厂](https://www.tmtpost.com/8144446.html) ⭐️ 7.0/10
+
+据路透社报道，字节跳动于 9 月 16 日将其内部 AI 制药研发团队分拆，成立了一家名为 Anew Labs 的新公司，这家总部位于上海的初创企业随后完成了 2.9 亿美元的首轮外部融资，估值约 15 亿美元。文章以 Anew Labs 为核心案例，分析了谷歌、字节跳动等科技巨头如何日益加大对制药研发的投入。 这标志着科技巨头正从软件和互联网服务向高度监管的制药行业进行重大战略转移，可能重塑新药发现与开发的方式。它表明 AI 与生物技术的融合正在加深，有望降低药物开发成本并缩短研发周期，对科技和医疗健康两个行业都将产生深远影响。 Anew Labs 总部位于上海，专注于利用 AI 进行药物发现，已在 A 轮融资中筹集 2.9 亿美元，估值约 15 亿美元。文章指出，尽管趋势明确，但内容相对简短，缺乏对各公司具体药物管线在技术或财务层面的深入细节。
+
+rss · 钛媒体 · 9月18日 08:05
+
+**背景**: AI 制药利用机器学习算法来识别疾病靶点、设计分子、预测蛋白质结构并进行虚拟化合物筛选，旨在加速传统上需要数年时间和数十亿美元投入的研发过程。薛定谔（Schrödinger）是该领域知名公司，提供基于物理的分子发现与设计软件平台。字节跳动以 TikTok 及其推荐算法闻名，在将内部 AI 制药研发团队分拆为 Anew Labs 之前，一直在低调建设该团队。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://eu.36kr.com/en/p/3988327314757512">From Google to ByteDance : Why Every Major Tech Giant Will...</a></li>
+<li><a href="https://technode.global/2026/09/17/bytedance-ai-drug-spin-off-anew-labs-raises-290m/">Anew Labs raises $290M after ByteDance spin-off</a></li>
+<li><a href="https://www.schrodinger.com/">Physics-based Software Platform for Molecular Discovery &amp; Design</a></li>
+
+</ul>
+</details>
+
+**标签**: `#字节跳动`, `#AI制药`, `#科技巨头`, `#行业趋势`, `#医药创新`
+
+---
+
+<a id="item-16"></a>
+## [豆包 AI 智能体能否抢走 iPhone 的生态位？](https://www.tmtpost.com/8144026.html) ⭐️ 7.0/10
+
+钛媒体的一篇分析文章指出，字节跳动的豆包 AI 助手正将自身定位为基于智能体的入口，可能侵蚀 iPhone 作为数字服务主要门户的地位。文章将这一动向视为豆包从聊天机器人向全能平台枢纽演进的最新一步。 如果 AI 智能体成为用户访问应用和服务的默认方式，智能手机的主屏幕以及苹果严格控制的生态系统可能失去其作为核心入口的地位。这一转变将威胁苹果的服务收入和战略锁定效应，同时为字节跳动等中国 AI 厂商提供一条通往平台主导权的新路径。 豆包已将堪比 ChatGPT、Midjourney、Sora、Character.ai 和 Perplexity 的功能整合进单一应用，字节跳动此前也尝试过智能体功能——包括宣布将于 7 月 15 日下线的豆包智能体，表明其智能体战略曾遭遇挫折。其核心技术赌注在于，AI 智能体能够取代目前支撑 iPhone 体验的应用切换行为。
+
+rss · 钛媒体 · 9月18日 03:24
+
+**背景**: 苹果的主导地位不仅建立在硬件上，更在于其生态系统：iPhone 作为高度整合的入口，连接 App Store、iMessage、Apple Pay 等服务，形成强大的用户粘性。在中国市场，苹果面临激烈的本土竞争，字节跳动的豆包等 AI 助手正从简单的聊天机器人演变为能够跨应用自主执行任务的“智能体”。“智能体即入口”的概念意味着，用户未来可能主要通过 AI 来编排服务，而非逐个点击应用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://h5.ifeng.com/c/vivoArticle/v002SrhLMm26u8rsMrunGogR2-_yMZF5XnJ2PP3Mv8z4Jxbw__?isNews=1&amp;showComments=0">豆 包 逆袭DeepSeek 连线： 字 节 跳 动 如何打造中国最火 AI 聊天机器人</a></li>
+<li><a href="https://app.myzaker.com/news/article.php?pk=6a48f229b15ec011af03b16c">字 节 跳 动 也无奈了! 豆 包 AI 智能体,算是凉了_ZAKER新闻</a></li>
+<li><a href="https://www.linkedin.com/posts/vishal-mehta-686583114_series-why-apple-wins-everywhere-post-activity-7415650439725109248-0R4r">Apple&#x27;s Ecosystem Dominance : Convenience, Status, and... | LinkedIn</a></li>
+
+</ul>
+</details>
+
+**标签**: `#字节跳动`, `#豆包`, `#AI助手`, `#苹果`, `#生态竞争`
+
+---
+
+<a id="item-17"></a>
+## [AI 硬件创业者扎堆涌入手机背面](http://www.geekpark.net/news/370610) ⭐️ 7.0/10
+
+AI 硬件创业者与钉钉、科大讯飞、荣耀、海信等大厂正扎堆涌入手机背面的 MagSafe 配件位置，Plaud 的 AI 录音卡累计出货突破百万台、ARR 达到 1 亿美元，同时阅星曈、极稚科技等创业公司也在电子纸屏方向获得融资和销量验证。 这标志着 AI 硬件入口争夺战的新战场，手机背面正成为稀缺的高频携带位置，可能重塑用户与 AI 助手及配件的交互方式，对创业公司和消费电子巨头都将产生深远影响。 Plaud Note 厚约 3 毫米、重 30 克，通过 MagSafe 吸附并支持 AI 转写和摘要；XTREM 等电子纸产品利用 NFC 刷新无源墨水屏，而全球超过 90%的电子墨水薄膜由元太科技供应，其新厂预计 2028 年才能量产。
+
+rss · 极客公园 · 9月18日 14:07
+
+**背景**: MagSafe 是苹果随 iPhone 12 推出的磁吸连接系统，通过磁铁阵列在手机背面自动对齐配件和充电器，为 AI 硬件厂商提供了一个标准化的物理接口。电子纸（墨水屏）技术由 E Ink 公司商业化，是一种低功耗显示技术，静态显示时不耗电，适合常亮配件。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://tpfixer.com/articles/deep-dive/parts/magsafe-charging-design">Apple MagSafe 充電系統設計 — 磁 吸 陣列、Qi2 協議與 NFC...</a></li>
+<li><a href="https://hub.baai.ac.cn/view/40462">PLAUD 创始人访谈： AI 录 音 硬件，全球超20...</a></li>
+<li><a href="https://www.geekpark.net/news/222796">电 子 墨 水 屏 诞生 20 年，离引领江山还有多远？ | 极客公园</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI硬件`, `#手机配件`, `#MagSafe`, `#消费电子`, `#创业融资`
+
+---
+
+<a id="item-18"></a>
+## [ChatGPT 共同发明人创立 TypeSafe AI，发布「哑巴」模型 Jev](http://www.geekpark.net/news/370603) ⭐️ 7.0/10
+
+前 OpenAI 研究员、ChatGPT 共同发明人 Diogo Almeida 在潜行两年后带着新公司 TypeSafe AI 和 4000 万美元融资亮相，发布了完全不能生成文本的新模型 Jev。Jev 只输出确定性的结构化类型化决策，端到端延迟仅 70 到 500 毫秒，比当前前沿大模型快 40 到 200 倍。 这标志着行业可能从以文本生成为中心的大模型范式转向，Jev 作为首个纯粹的「系统一模型」，用语言能力换取速度、确定性和极低成本。它直接瞄准了让 AI Agent 又慢又贵的「执行摩擦」问题，而创始人因在 RLHF 上的贡献极具行业公信力。 Jev 不是自回归文本模型，所有决策在一次单向并行计算中同时产出，从数学层面彻底消灭了结构化输出的格式幻觉。其定价为每百万输入 token 仅 0.042 美元、输出完全免费，单次结构化决策平均约 0.0004 美元，约为 GPT-5.6 Terra 的 1/76，比 Claude Opus 5 便宜数百倍。
+
+rss · 极客公园 · 9月18日 09:36
+
+**背景**: 当前大多数大模型是自回归模型，逐 token 生成文本，这让 JSON 等结构化输出既慢又贵，还容易出现格式错误。TypeSafe 借用卡尼曼《思考，快与慢》的框架，把 Jev 定义为「系统一模型」——快速、本能、单次前向计算，而主流大模型则在卷缓慢的「系统二」推理。Diogo Almeida 在 OpenAI 参与共同发明了 ChatGPT，并推动了 RLHF（基于人类反馈的强化学习）和 InstructGPT，据称 Jev 采用了一种名为 RLCD 的新训练方法。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/">A new kind of AI model from a ChatGPT inventor is... | TechCrunch</a></li>
+<li><a href="https://www.datacamp.com/blog/system-one-models-jev">Jev : TypeSafe &#x27;s System One Model Explained | DataCamp</a></li>
+<li><a href="https://dev.to/lukeocodes/jev-the-chatgpt-co-creators-system-one-model-cant-talk-3774">Jev: The ChatGPT Co -Creator&#x27;s System One Model... - DEV Community</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#大模型`, `#创业公司`, `#OpenAI`, `#结构化决策`
+
+---
+
+<a id="item-19"></a>
+## [华为昇腾 960 芯片提前至明年一季度，超节点扩至 4096 卡](https://www.ifanr.com/1680525?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+华为宣布昇腾 960 AI 芯片将提前至明年第一季度推出，其超节点架构将扩展至 4096 卡。昇腾 960 DT 芯片支持 2 PFLOPS（FP8）和 4 PFLOPS（FP4）算力，片上 HBM 最大 288GB，带宽可达 9.6TB/s，并且是业界首个采用 NPO（近封装光学）技术的超节点。 提前发布的时间表表明华为正在加大对英伟达在 AI 基础设施领域的挑战，将竞争从单芯片性能转向系统工程层面。这对中国云服务商、AI 实验室以及在出口限制下需要英伟达 GPU 国产替代方案的企业具有重要意义。 昇腾 960 超节点采用 NPO 技术，将光引擎从交换机面板移至芯片附近，缩短电信号传输距离并降低功耗。4096 卡的规模代表了华为超节点架构的重大扩展，能够支持更大规模的 AI 训练集群。
+
+rss · 爱范儿 · 9月18日 00:04
+
+**背景**: 华为昇腾系列是中国领先的国产 AI 芯片产品线，旨在替代被限制对华出口的英伟达 GPU。超节点通过高速互连将大量芯片连接在一起，形成单一强大的计算单元，用于训练大型 AI 模型。NPO（近封装光学）是一种先进的光互连方案，将光学组件放置在更靠近芯片的位置，以提升带宽和能效。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://awtmt.com/articles/3781984">华 为 昇 腾 960 超节点落地 AI算力竞争从单 芯 片 转向系统工程</a></li>
+<li><a href="https://zhidx.com/p/594830.html">刚刚， 华 为 昇 腾 960 ...</a></li>
+<li><a href="https://wallstreetcn.com/articles/3781977">华 为 全联接大会： 昇 腾 960 超节点正式发布！ 新款AI...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#Huawei`, `#Evergrande Auto`, `#tech news`, `#China tech`
+
+---
+
+<a id="item-20"></a>
+## [外卖“御三家”：从狂热补贴到理性收敛](https://www.tmtpost.com/8144061.html) ⭐️ 6.0/10
+
+钛媒体发布的一篇行业分析文章指出，中国外卖市场的三大巨头已从狂热的补贴大战转向更为理性的竞争姿态。文章的核心观点是：外卖战场本身没有产生绝对的赢家，但参与战略博弈的各方也没有真正的输家。 从补贴驱动的圈地扩张转向理性竞争，意味着中国本地生活服务赛道可能正进入更成熟的阶段，这会影响美团、饿了么、抖音和京东等平台的资本配置方式，也影响商家与骑手的平台体验。对投资者和行业观察者而言，这表明市场份额之争正让位于盈利能力与战略卡位。 该文属于简短的行业评论，而非数据密集的深度调查，未提供独家数据或具体财务披露。文章将外卖“御三家”之间的竞争框定为一场战略博弈，其中没有明显赢家本身就是值得关注的结论。
+
+rss · 钛媒体 · 9月18日 10:24
+
+**背景**: 中国外卖市场长期由美团和阿里巴巴旗下的饿了么主导，而字节跳动旗下的抖音、京东等新入局者正不断向即时零售和本地生活服务渗透。近年来，这些平台通过补贴、折扣和骑手激励展开激烈竞争以争夺用户和商家，这一模式常被拿来与早年的网约车和社区团购大战相比较。“御三家”一词源自日本游戏文化，用来形容某一市场中的三大主导者。
+
+**标签**: `#外卖`, `#大厂要闻`, `#行业分析`, `#本地生活`, `#竞争格局`
+
+---
