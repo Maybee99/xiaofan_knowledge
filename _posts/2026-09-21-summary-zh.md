@@ -1,0 +1,849 @@
+---
+layout: default
+title: "Horizon Summary: 2026-09-21 (ZH)"
+date: 2026-09-21
+lang: zh
+---
+
+> 从 72 条内容中筛选出 35 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [IEA 呼吁亚洲 LNG 进口国在严冬来临前分散供应来源](#item-1) ⭐️ 7.0/10
+2. [华能营销部与蔚来能源在雄安签署虚拟电厂协同合作方案](#item-2) ⭐️ 7.0/10
+3. [Deep Fission 发布获美国能源部批准的 Gravity™ 反应堆安全设计协议](#item-3) ⭐️ 7.0/10
+4. [南方电网广州白云新型电力系统示范区获评全球电力灯塔样板](#item-4) ⭐️ 6.0/10
+5. [华为数字能源王超呼吁汽车硬件接口标准化](#item-5) ⭐️ 6.0/10
+6. [比亚迪电动卡车亮相 2026 德国 IAA，助力欧洲碳中和](#item-6) ⭐️ 6.0/10
+7. [华为周建军提出打造源网荷储 AIDC，提升每瓦 Token 产出](#item-7) ⭐️ 6.0/10
+8. [第十四届深圳国家低碳城论坛即将启幕](#item-8) ⭐️ 6.0/10
+9. [思源电气称超级电容业务在新型电力系统中逐步获客户认可](#item-9) ⭐️ 5.0/10
+10. [科华数能推广全栈构网型储能，赋能新型电力系统规模化建设](#item-10) ⭐️ 5.0/10
+
+### 🤖 AI 科技
+
+11. [三星计划将 HBM4 与 HBM4E DRAM 产量提升一倍以上](#item-11) ⭐️ 8.0/10
+12. [ChatGPT 被曝通过广告采集器追踪用户浏览行为，引发隐私担忧](#item-12) ⭐️ 8.0/10
+13. [Qwen Image 2.1：70 亿参数开源文生图模型，原生支持透明图像](#item-13) ⭐️ 8.0/10
+14. [博主提议通过注册机制强制企业为开源软件付费](#item-14) ⭐️ 7.0/10
+15. [Pirate Face 利用 BitTorrent 分发 AI 模型权重](#item-15) ⭐️ 7.0/10
+16. [沃伦提出法案，禁止私募股权拥有医疗诊所](#item-16) ⭐️ 7.0/10
+17. [关于货币层级体系的博客解读在 Hacker News 上广受好评](#item-17) ⭐️ 7.0/10
+18. [谷歌员工发布开源 Agent Executor 编排器](#item-18) ⭐️ 6.0/10
+19. [斯诺登档案究竟发生了什么](#item-19) ⭐️ 6.0/10
+20. [新加坡国家图书馆管理局用微支付鼓励阅读](#item-20) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+21. [AI 设计的药物 rentosertib 在人体试验中逆转生物年龄](#item-21) ⭐️ 9.0/10
+22. [中国科技巨头竞相抢占 AI 办公智能体](#item-22) ⭐️ 8.0/10
+23. [Opus 5.2 与 Gemini 4 Pro 悄然上线，前沿模型发布周期被压缩](#item-23) ⭐️ 7.0/10
+24. [徐直军：被低估的灵衢互联，才是 AI 算力的关键](#item-24) ⭐️ 7.0/10
+25. [阿里云王朝阳：中国不缺电，AI 卡在电与算力的协同](#item-25) ⭐️ 7.0/10
+26. [蚂蚁健康一亿元收购覆盖 1500 家医院的商保直付网络](#item-26) ⭐️ 7.0/10
+27. [乐享科技户外烧烤直播展示「自进化」具身智能模型](#item-27) ⭐️ 7.0/10
+28. [Meta 个人助手 Muse 登顶美国 App Store；Anthropic 拟 IPO 前发新模型](#item-28) ⭐️ 7.0/10
+29. [启元机器人推出 19999 元起的个人机器人](#item-29) ⭐️ 6.0/10
+30. [大众推出 50 年来首款纯电后驱 GTI](#item-30) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+31. [交个朋友直播间被曝售问题凳子：内部用发霉木板、废旧海绵](#item-31) ⭐️ 6.0/10
+32. [1 公斤冻牛肉解冻后仅剩 400 多克，平台客服称存在出水率并愿补偿 100 元](#item-32) ⭐️ 6.0/10
+33. [oddsome 卫生棉条被曝棉线断裂，客服称仍在核查原因](#item-33) ⭐️ 5.0/10
+34. [西贝否认即将倒闭传闻，称全国门店均正常运营](#item-34) ⭐️ 5.0/10
+35. [ArchDaily 展示 Bora Architects 设计的 Airbnb CX 客户体验中心](#item-35) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [IEA 呼吁亚洲 LNG 进口国在严冬来临前分散供应来源](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFhXdTdxMXZSZXZJS3Jtd0VOZ2xpWmF2cUNxdENBcTdaWmRDR2t1WHBZX1pjTV9YeDdmVE8wNmo2SXNUc0Zpc2pmX25vOG5kblZKY3JlY2NQLVNuVmJPNUw5SDFrY3Z0MS1id1Y0U1JMRy15QmV2bmZ1UHpFWVdmOV9zQldUQzVlY3FERVNn?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）公开发出呼吁，敦促亚洲 LNG 进口国在可能到来的严冬前分散供应来源，并警告能源安全风险正在上升。该建议由新浪财经通过航运界报道，重点强调亚洲主要经济体需调整采购策略。 这一建议直接影响亚洲主要经济体的能源采购策略，包括日本、韩国、中国和印度等全球最大的 LNG 买家。它表明 IEA 认为存在显著的供应中断风险，可能在冬季需求高峰期间推高价格并威胁能源安全。 IEA 的建议属于政策咨询性质，而非具有约束力的监管措施，因此其效果取决于进口国的自愿行动。这一呼吁出台之际，全球 LNG 供应链集中度问题日益引发关注，来自美国、卡塔尔和澳大利亚等有限出口国的 LNG 占全球贸易量的比重不断上升。
+
+google\_news · 新浪财经 · 9月20日 08:04
+
+**背景**: 液化天然气（LNG）是将天然气冷却至约零下 162 摄氏度以便船舶运输的形式，使没有管道连接的国家能够从遥远的供应国进口天然气。当一个国家过度依赖单一供应商或运输路线时，地缘政治紧张、基础设施故障或极端天气都可能导致供应中断，从而引发能源安全担忧。总部位于巴黎的 IEA 是一个政府间组织，为其成员国及其他国家提供能源数据、分析和政策建议。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/">IEA – International Energy Agency</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0301421519300412">LNG import diversification and energy security in Asia</a></li>
+<li><a href="https://ieefa.org/data-dive-drivers-barriers-and-costs-asias-gas-and-lng-demand">Data Dive: A breakdown of gas and LNG demand in Asia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#LNG`, `#能源安全`, `#IEA`, `#亚洲能源市场`, `#能源政策`
+
+---
+
+<a id="item-2"></a>
+## [华能营销部与蔚来能源在雄安签署虚拟电厂协同合作方案](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yR0hGemQ3N183T1JGYWFqWGllOFBmWHliXzd0SUJSQ0lOOHY0MURsSHVUNHZGUENadW5QajZiSXBZM0Q1RDhGcmpuSlVpSGQ5aU0zUTFQczQtR3M?oc=5) ⭐️ 7.0/10
+
+华能营销部与蔚来能源在雄安签署虚拟电厂协同合作方案，推动大型国有发电企业与领先电动汽车企业在车网互动（V2G）和需求侧灵活性方面的合作。 此次合作标志着中国虚拟电厂和车网互动领域取得实质性进展，国有大型发电企业与领先电动汽车企业在国家级新区携手，有望加速电力市场改革和可再生能源消纳。 合作聚焦虚拟电厂协同，即聚合电动汽车电池等分布式能源资源以提供电网灵活性；但公告未披露具体容量目标、时间表和商业条款。
+
+google\_news · 汽车之家 · 9月20日 11:09
+
+**背景**: 虚拟电厂（VPP）是一种基于云的系统，通过聚合和协调分布式能源资源（如电动汽车电池、屋顶光伏和柔性负荷）来像单一电厂一样运行，帮助平衡供需。车网互动（V2G）技术使电动汽车能够向电网放电，将其变为移动储能单元。需求侧响应（DR）允许用户根据价格信号或电网调度指令调整用电，增强电网稳定性。雄安新区成立于 2017 年，是包括能源和智慧城市在内的创新政策国家级试验区。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E8%BD%A6%E7%BD%91%E4%BA%92%E5%8A%A8/63924631">车网互动 - 百度百科</a></li>
+<li><a href="https://www.zhihu.com/question/296131235">虚拟电厂是什么？ - 知乎</a></li>
+<li><a href="http://paper.people.com.cn/zgnyb/html/2022-06/27/content_25925818.htm">电 力 需 求 侧 响 应 显实效</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#V2G`, `#能源政策`, `#电力市场改革`, `#新能源汽车`
+
+---
+
+<a id="item-3"></a>
+## [Deep Fission 发布获美国能源部批准的 Gravity™ 反应堆安全设计协议](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTNEWjV4dDJUWk1zLVhqOEg1ZnNYNHJOVm5WVHp2OTVVSDhmZ2FTS05zajlZUGZ6QTBlVFZsS2JsVW9ybG9hTTRiTHJPRk0xN1JuVFFRbF9pYjZrd0kxemlkTDZUU1YwVU1nRFVEdjJNelNyUDVLd3pyTmJyYzhUWE9kck1QelZlSVBGWDVVQ0FlQ1lxQXdqbVNqdTd1SFI1U1RyMW5nU2ZkT1U2NXhj?oc=5) ⭐️ 7.0/10
+
+Deep Fission 宣布，美国能源部（DOE）已批准其 Gravity™ 示范反应堆的核安全设计协议。该反应堆是一种设计运行于地下约一英里深处的小型模块化压水堆，公司称此次公开协议体现了其对监管流程透明度的承诺。 这是先进核能领域一个值得关注的监管与技术里程碑，表明新型反应堆设计可以通过与能源部的互动逐步走向许可审批。这对能源政策相关受众以及正在吸引越来越多私人投资和监管关注的先进核能行业都具有重要意义。 Gravity™ 反应堆设计高度约 9 米，可放入直径约 0.75 米的钻孔中，将成熟的压水堆技术与深孔钻探及地热传热原理相结合。此次协议批准涉及能源部的核安全要求，但全面部署仍需获得美国核管理委员会（NRC）的许可。
+
+google\_news · 富途牛牛 · 9月20日 00:16
+
+**背景**: Deep Fission 正在开发名为 Gravity 的小型模块化反应堆（SMR），将压水堆置于地下深处，利用周围地质结构实现安全与传热。美国能源部的核安全管理框架（包括 10 CFR Part 830）为此类设施设定了设计标准和安全要求。先进反应堆开发商通常同时与能源部和核管理委员会（NRC）打交道，而 NRC 近期推出了 Part 53 等新许可路径以支持创新。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.deepfission.com/technology">Gravity Reactor™ | Small modular PWR a mile underground</a></li>
+<li><a href="https://www.deepfission.com/faq">Deep Fission FAQ | How the Gravity™ Nuclear Reactor works</a></li>
+<li><a href="https://spectrum.ieee.org/underground-nuclear-reactor-deep-fission">Deep Fission&#x27;s Plan for Underground Nuclear Reactors - IEEE ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#nuclear energy`, `#advanced reactors`, `#DOE`, `#energy policy`, `#regulatory approval`
+
+---
+
+<a id="item-4"></a>
+## [南方电网广州白云新型电力系统示范区获评全球电力灯塔样板](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGNTeklpaDB3eVYza08zM2FUYmFWVk1wdmZsbVFmdWZNMkRHMk9VMGJINFJDNWJndkZ2d1U4MU9xRHhxOC1ad2o5ZW5ubXpIbWxoVkx6cTN5ZV9lczFzQXpWdHJjZS1DT2JUeHdaeHRESXFOY3JpVFpYNzJRYVR5cF9sVG9rOFRvUVpPbg?oc=5) ⭐️ 6.0/10
+
+据搜狐报道，南方电网广州白云新型电力系统示范区获评全球电力灯塔样板。这一称号将该示范区树立为超大城市配网治理的标杆案例。 这一认可表明中国将高比例新能源接入城市配电网的路径正获得国际关注，可能影响其他超大城市的能源转型规划。同时，它也为智能电网和数字电网技术的政策支持与投资提供了有力支撑。 白云示范区是南方电网构建新型电力系统整体布局的一部分，旨在适应大规模新能源发电和直流输电。&\#x27;电力灯塔&\#x27;似乎是电网现代化的国际标杆，但现有内容未详细说明具体评选标准和颁发机构。
+
+google\_news · Sohu · 9月20日 02:12
+
+**背景**: 在中国，&\#x27;新型电力系统&\#x27;指的是能够消纳高比例风电、光伏等新能源以及远距离直流输电的电网，用以替代传统以化石能源为主的模式。超大城市的配网治理尤为困难，因为需要在密集的城市用电需求与间歇性新能源供应之间取得平衡，这要求先进的数字化监测与控制手段。&\#x27;电力灯塔&\#x27;称号很可能是对优秀电网项目的国际认可，但搜索结果中未明确其具体来源。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjx.com.cn/html/20240813/1394582.shtml">news.bjx.com.cn/html/20240813/1394582.shtml</a></li>
+<li><a href="https://search.ebscohost.com/login.aspx?direct=true">电力领域数据驱动建模实践与思考. (Chinese) - EBSCOhost</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新型电力系统`, `#配网治理`, `#南方电网`, `#能源政策`, `#电力灯塔`
+
+---
+
+<a id="item-5"></a>
+## [华为数字能源王超呼吁汽车硬件接口标准化](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1bmdZbGNKc29ldDJkWHVLZF9Eb3UtaTNDM25xVUFuVEhxcXNqV1FPcG9fcl9lYlYtOEoyVE1NckJWY3VSaUZZS1AwU18?oc=5) ⭐️ 6.0/10
+
+9 月 19 日在天津启幕的第二十二届中国汽车产业发展（泰达）国际论坛上，华为数字能源技术有限公司副总裁、智能电动产品线总裁王超提出，汽车行业应推动硬件接口标准化，以减少定制损耗。他表示，当前电动汽车已从基础电动化迈入全面电动化，覆盖驱动、制动、转向、悬架等系统，需要通过平台化开发和统一接口来降低浪费、提升全球竞争力。 如果这一建议被采纳，硬件接口标准化有望降低整个电动汽车供应链的研发与制造成本，缩短整车开发周期，并使供应商和车企更容易在不同车型间复用零部件。由于提议来自电动汽车动力总成与数字能源系统的重要厂商，且涉及能源转型中的效率与供应链政策议题，因此具有一定分量。 王超负责华为“华为智擎”（HUAWEI DriveONE）智能电动产品线，该方案基于华为 30 多年 ICT 电力电子技术积累，提供包括 B+级纯电、A 级纯电以及增程运动域在内的全场景运动域解决方案。该提议属于行业建议，而非具体的政策或监管公告，目前并未披露具体的接口标准或时间表。
+
+google\_news · 凤凰网科技 · 9月20日 05:53
+
+**背景**: 华为数字能源是华为旗下聚焦数字能源与新能源技术的业务板块，其智能电动产品线向车企提供电驱动与运动域系统。泰达论坛是中国汽车行业重要的年度盛会，企业高管与政策制定者在此讨论电动化与产业战略。在电动汽车行业，“定制损耗”指的是各家车企各自设计独特硬件接口、导致零部件无法跨平台复用而产生的额外成本与低效。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ithome.com/1/004/737.htm">华为数字能源王超建议汽车行业硬件接口标准化，减少定制损耗</a></li>
+<li><a href="https://baike.baidu.com/item/%E7%8E%8B%E8%B6%85/68287090">王超（华为数字能源智能电动产品线总裁）_百度百科</a></li>
+<li><a href="https://digitalpower.huawei.com/cn/news/driveone/2788">华为王超：用能高效化、运动域转型，加速汽车低碳化进程-华为数字能源</a></li>
+
+</ul>
+</details>
+
+**标签**: `#华为数字能源`, `#汽车硬件标准化`, `#能源政策`, `#电动汽车`, `#供应链效率`
+
+---
+
+<a id="item-6"></a>
+## [比亚迪电动卡车亮相 2026 德国 IAA，助力欧洲碳中和](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWRDYjlKeEFQVTR5YUFpMDYzU184Q240cVBLcEZiVi1INEFWbURySVliekFxTXFObkx1a0NGdnI0b3B3V2JzanFRVGJIU3B2VW4xeW8wZlhBVDVNUjloNGRSa1RXczBSVU1wdmtLRDdKNVh3YUJKM2NHa25nQjVlZA?oc=5) ⭐️ 6.0/10
+
+比亚迪在德国汉诺威举行的 2026 年 IAA Transportation 商用车展上展出了其电动卡车产品阵容，首次大规模向欧洲市场展示其商用车产品。比亚迪将此次亮相定位为对欧洲商用运输领域碳中和目标的助力。 这标志着中国商用车企业向欧洲市场扩张的重要一步，而欧洲日益收紧的排放法规正推动车队运营商转向零排放卡车。此举表明中国在欧洲清洁运输供应链中的影响力不断增强，可能对梅赛德斯-奔驰、沃尔沃等欧洲传统卡车制造商构成挑战。 比亚迪的商用车产品线包括覆盖牵引车、自卸车和搅拌车等多种车型的纯电重卡，以及 T5EV 轻卡，均基于比亚迪自研的电池、电机、电控（三电）系统打造。汉诺威 IAA Transportation 车展在偶数年举办，专门聚焦商用车，与慕尼黑奇数年举办的 IAA Mobility 乘用车展相互独立。
+
+google\_news · 手机新浪网 · 9月20日 13:16
+
+**背景**: IAA Transportation 是全球最大的商用车贸易展之一，每两年在德国汉诺威举办，2026 年展会上中国卡车企业参展阵容尤为强大。大众、戴姆勒、宝马等欧洲车企已承诺在 2040 至 2050 年左右实现碳中和，使零排放商用车成为欧洲脱碳战略的关键一环。比亚迪最初是电池制造商，后拓展至电动巴士和卡车领域，目前正加速进军欧洲商用车市场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.chinatruck.org/topic2026/iaa-transportation2026/">中国卡 车 网现场直击 全景解码2026 IAA 车 展</a></li>
+<li><a href="https://aiqicha.baidu.com/details/ugknowledge?id=7943626d433f72667f9479c7f7af2bdc">iaa 车 展 | 爱企查</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%BA%AF%E7%94%B5%E9%87%8D%E5%8D%A1/67986055">比亚迪纯电重卡 - 百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#比亚迪`, `#电动卡车`, `#欧洲碳中和`, `#新能源汽车`, `#IAA车展`
+
+---
+
+<a id="item-7"></a>
+## [华为周建军提出打造源网荷储 AIDC，提升每瓦 Token 产出](https://news.google.com/rss/articles/CBMib0FVX3lxTE14ODFXbTdJRHR5VnhQM29rZ3lDQ2ZGOGE4WVFGeEVGeEp4NkUyV1hUZlNxWEVzVkdMblpvQTJGdWZqbnZYM19wbEkyTTl2SnUyT19zNjBhUVNLN0ZKbVV6eHRzd1dlVnM3elRReklWQQ?oc=5) ⭐️ 6.0/10
+
+在展会演讲中，华为周建军提出打造融合源网荷储一体化的 AI 数据中心（AIDC），目标是让每一瓦特电力产出更多 Token。该演讲将每瓦 Token 能效作为下一代 AI 算力基础设施的核心设计目标。 随着 AI 数据中心成为电力消耗大户，将其与电源、电网、负荷响应和储能深度耦合，有望缓解电网压力并降低运营成本。这反映出行业正把每瓦 Token 能效视为 AI 基础设施竞争力的关键指标。 该构想将华为 AIDC 基础设施方案（涵盖供配电、热管理和智能运维）与源网荷储一体化模式（协调电源、电网、负荷与储能）相结合。但此次演讲属于展会表态，并非发布产品规格或政策文件，因此未披露具体能效数据和落地时间表。
+
+google\_news · ideesz.com · 9月20日 02:44
+
+**背景**: AIDC 即人工智能数据中心，是专门面向大模型训练和推理的算力设施，区别于传统通用 IDC。源网荷储一体化是中国电力系统的概念，通过协调电源、电网、用电负荷和储能，提升可再生能源消纳与电网稳定性。每瓦 Token 是新兴能效指标，在 NVIDIA GTC 2026 前后受到广泛关注，用于衡量系统每消耗一瓦电力能生成多少 AI Token，正逐步取代单纯的 FLOPS 成为核心衡量标准。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://digitalpower.huawei.com/cn/data-center-facility/aidc">AIDC人工智能数据中心基础设施全场景解决方案-华为数字能源</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%AF%8F%E7%93%A6%E5%90%9E%E5%90%90%E9%87%8F/67404166">每瓦吞吐量_百度百科</a></li>
+<li><a href="https://gyznsw.cn/knowledge/wiki/concepts/%E6%AF%8F%E7%93%A6token.html">每瓦Token | 工业智能算网 - gyznsw.cn</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#数据中心`, `#源网荷储`, `#AI算力`, `#华为`
+
+---
+
+<a id="item-8"></a>
+## [第十四届深圳国家低碳城论坛即将启幕](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONlIzR3RfUl84R3hNdWtWck9hemJVdVhuMmxTekNHY1FUTGYtS2N3VmVqcm4yd1VRajhYWERFV21pNURIV3FDRkNNQ012MDNVTFdLVFlZWENDUFpJZFJ4YlNncDRXTHBaQlhNc3pYVnQ2NHZGOHF4eGNjX3Y0RjBQQTJCcHdHaG9PQVp6N01aMkNJUGpyRE5MYnEtOU5YZl9IODA0OFdFenl1cG5kM043VzB2VHc0N0VNaDd6bTRaM0x0Z1MwaW0zRXBhVVZuZTR6S1ctcFJtZG1sQQ?oc=5) ⭐️ 6.0/10
+
+第十四届深圳国家低碳城论坛即将启幕，主题为“创新发展绿色经济，共筑城市零碳未来”。本届论坛采用“1+3”模式，设置开幕式及绿色低碳产业、零碳城市建设、绿色全民行动三大板块共 14 场活动。 作为一个已持续举办十余年的国家级平台，该论坛释放出中国在绿色经济与城市零碳转型方面持续的政策动力。它汇聚政产学研及国际组织力量，是展示中国“双碳”成果、促进项目与资本对接的重要窗口。 论坛由深圳市人民政府主办，深圳市发展改革委、深圳市生态环境局、龙岗区人民政府共同承办。2025 年论坛于 10 月 28 日至 29 日举行，主题为“AI 赋能城市绿色发展”，且论坛曾通过碳交易方式实现碳中和。
+
+google\_news · 新浪财经 · 9月20日 21:35
+
+**背景**: 深圳国际低碳城论坛是一个低碳领域的专业论坛，于 2013 年作为全国低碳日活动的重要组成部分首次举办。经过此前十三届的发展，它已成为应对气候变化、推动低碳绿色发展的重要国家级国际对话平台，主题涵盖低碳城镇化、碳达峰碳中和等。论坛与深圳国际低碳城紧密相连，该低碳城为大量低碳技术提供了最佳实践应用机会。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E5%9B%BD%E9%99%85%E4%BD%8E%E7%A2%B3%E5%9F%8E%E8%AE%BA%E5%9D%9B/23225365">深圳国际低碳城论坛_百度百科 深圳国家低碳城论坛 - silccforum.com 深圳国家低碳城论坛开幕 一系列绿色低碳领域重大成果发布|低碳发展|低... 持续12年，深圳国际低碳城论坛向世界讲述了什么？ 【2025深圳国家低碳城论坛|绿色建筑科技分论坛日程信息】 - 深圳市建... 2025碳达峰碳中和论坛暨深圳国家低碳城论坛_百度百科</a></li>
+<li><a href="https://m.dutenews.com/n/article/60092800">深圳发出一份“绿色邀请函”：第十四届深圳国家低 碳 城 论坛即将启幕</a></li>
+<li><a href="https://www.silccforum.com/">深圳国家低碳城论坛</a></li>
+
+</ul>
+</details>
+
+**标签**: `#低碳城市`, `#绿色经济`, `#能源政策`, `#零碳`, `#深圳论坛`
+
+---
+
+<a id="item-9"></a>
+## [思源电气称超级电容业务在新型电力系统中逐步获客户认可](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LSVN5VnM4N0VCRUF5TlV6eEY5akxLbHdBWlk1YVZ3YkZFSVZhS1ZnUFByd2xxM2RlNnM0SERtMjlhV3I5U1FYZHhFOUlQbmhzczBvUlVpdnU0a2UxaU9DY0ZmbEpxQQ?oc=5) ⭐️ 5.0/10
+
+2026 年 9 月 20 日，思源电气在投资者互动平台回应提问时表示，其超级电容业务在新型电力系统的应用场景中正逐步得到客户认可。公司同时指出，基于目前的产能状况，超级电容业务在整体业务中占比仍然很小。 这一表态表明，超级电容这种快速响应的储能技术正从试点项目走向电网应用中的商业化认可，对关注锂电之外储能路线的电力企业和设备制造商具有参考意义。不过，由于该业务在思源电气营收中占比仍然很小，此次披露更多是方向性信号，而非短期财务催化剂。 思源电气明确提示，超级电容业务相对公司整体业务规模仍然很小，此番回应是针对投资者询问未来增长速度以及是否会爆单而作出的。该信息通过投资者互动平台披露，而非正式业绩公告。
+
+google\_news · 东方财富 · 9月20日 07:46
+
+**背景**: 超级电容通过静电电荷而非化学反应储存能量，因而具有功率密度高、充放电速度快、循环寿命长等特点，但能量密度低于电池。中国推进建设“新型电力系统”，即高比例可再生能源和高比例电力电子设备的电网，为调频、电压支撑等快速响应储能应用创造了需求。思源电气是中国电力设备制造商，核心业务包括开关设备和变压器，超级电容是其新兴业务板块。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.eastmoney.com/a/202609203879413251.html">【答疑室】思源电气：超级电容业务在新型电力系统应用场景中逐步得到...</a></li>
+<li><a href="https://news.qq.com/rain/a/20260920A09C9100">思源电气回应超级电容业务 称目前业务占比还很小_腾讯新闻</a></li>
+<li><a href="https://www.sohu.com/a/1078588059_122066679">超级电容业务爆火？思源电气最新回应来了！2026年数据中心新风口浮出...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#超级电容`, `#新型电力系统`, `#储能`, `#思源电气`, `#电力设备`
+
+---
+
+<a id="item-10"></a>
+## [科华数能推广全栈构网型储能，赋能新型电力系统规模化建设](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGR1BJanMyaWsyRjludnVlNFV5MmtERGd0U2pHbFp5Y1lsRm80eGxPME5XV2hURHBLWE96ZU45T2JZNGN4VUxvd3FtUHdqaEJfVFI0LXZwbUNHc0NfcGxUaw?oc=5) ⭐️ 5.0/10
+
+据碳索储能网报道，科华数能正在推广其全栈构网型储能解决方案，将其定位为新型电力系统规模化建设的关键支撑。此次宣传凸显了公司在构网型储能技术日益受到行业关注背景下的产品布局。 构网型储能被视为支撑中国电网消纳高比例新能源的关键技术，该领域的厂商竞争正日趋激烈。科华数能的推广反映了华为、阳光电源、南瑞继保等主要企业竞相推动构网型解决方案商业化的行业趋势。 构网型储能系统作为独立电压源运行，不依赖外部电网提供电压和频率参考，可自主建立并维持电网稳定，甚至能在孤岛模式下运行。全栈方案通常涵盖从电芯、储能变流器（PCS）到系统级控制算法的完整链条。
+
+google\_news · 碳索储能网 · 9月20日 02:17
+
+**背景**: 中国提出的“新型电力系统”是一项国家战略，旨在围绕新能源重构电网，但新能源具有间歇性且缺乏传统同步发电机的旋转惯量。构网型储能通过控制算法使储能变流器模拟同步发电机特性，为电力系统提供惯量支撑、电压频率支撑和短路容量支撑，从而解决这一问题。这与依赖现有电网电压运行的传统跟网型变流器形成鲜明对比。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%9E%84%E7%BD%91%E5%9E%8B%E5%82%A8%E8%83%BD%E7%B3%BB%E7%BB%9F/67398627">构网型储能系统_百度百科</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%9E%84%E7%BD%91%E5%9E%8B%E5%82%A8%E8%83%BD/68635753">构网型储能_百度百科</a></li>
+<li><a href="https://www.163.com/dy/article/JDB4K2O105533BYM.html">摸底构网型储能，南瑞继保、华为、阳光、科华、远景都做了什么|发电机...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#储能`, `#构网型储能`, `#新型电力系统`, `#新能源`, `#企业动态`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [三星计划将 HBM4 与 HBM4E DRAM 产量提升一倍以上](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) ⭐️ 8.0/10
+
+据 Sedaily 援引业内消息，三星计划将其 HBM4 和 HBM4E DRAM 的产量提升一倍以上。此次扩产旨在缓解长期制约 AI 加速器生产的 HBM 供应瓶颈。 HBM 是 GPU 等 AI 加速器的关键内存组件，其供应紧张一直是 AI 硬件生产的主要制约因素。三星增产有望缓解这一瓶颈，影响 GPU 厂商、超大规模云服务商乃至整个 AI 算力供应链。 HBM4 的带宽可达 3300 GB/s，约为上一代的 2.7 倍，三星计划在 HBM4 和 HBM4E 上采用其 1c DRAM 节点。该公司已交付 12 层 HBM4 样品，并计划生产 16 层 HBM4E，不过报道未给出具体的投片量或时间表。
+
+hackernews · giuliomagnifico · 9月20日 17:38 · [社区讨论](https://news.ycombinator.com/item?id=49778029)
+
+**背景**: 高带宽内存（HBM）是一种由 JEDEC 标准化的 3D 堆叠 DRAM 接口，于 2015 年首次商用，目前市场主要由 SK 海力士、三星和美光主导。HBM 对 AI 加速器至关重要，因为它能提供远超传统 DRAM 的带宽，但其晶圆消耗量约为标准 DDR5 的三倍，从而挤占了通用内存的产能。HBM4 于 2025 年 4 月完成标准化，HBM4E 则是其增强版后继产品。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HBM_ram">HBM ram</a></li>
+<li><a href="https://semiconductor.samsung.com/dram/hbm/hbm4/">HBM4 | DRAM | Samsung Semiconductor Global</a></li>
+<li><a href="https://www.sammyfans.com/2026/08/07/samsung-to-deploy-1c-dram-for-hbm4-4e-and-1d-node-for-hbm5e/">Samsung to deploy 1c DRAM for HBM4/4E and 1d node for HBM5E - Sammy Fans</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出，中国 AI 加速器产量的瓶颈更多在于长鑫存储（CXMT）的 HBM 产能，而非处理器芯片或 ASML 设备，并提到晶圆减薄工艺的经济性鲜少被讨论。也有人警告，三星的 HBM 扩产可能进一步推高消费级 DRAM 价格，并质疑即便产量翻倍是否足以满足 AI 不断增长的需求。
+
+**标签**: `#HBM4`, `#Samsung`, `#AI Hardware`, `#DRAM`, `#Semiconductor Supply Chain`
+
+---
+
+<a id="item-12"></a>
+## [ChatGPT 被曝通过广告采集器追踪用户浏览行为，引发隐私担忧](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) ⭐️ 8.0/10
+
+一份报告称，ChatGPT 正在使用一种标准的广告技术追踪机制——广告采集器——来收集用户在其他网站上的活动数据，这种做法在 AI 聊天产品中尚无先例。这一发现引发了关于隐私预期以及将广告技术与 AI 助手混合使用的广泛讨论。 这一点很重要，因为用户在与 AI 助手对话时通常期望的隐私水平与浏览社交媒体时截然不同，而在付费 AI 产品中使用广告技术可能会侵蚀信任并招致监管审查，尤其是在欧盟。这也表明 AI 聊天产品可能越来越多地采用监控资本主义的商业模式，影响全球数百万 ChatGPT 用户。 该追踪机制本身被描述为标准的广告技术，但将其应用于 AI 聊天产品却是前所未有的；不同浏览器的防护措施各异，Firefox、Brave 和 Safari 会阻止此类追踪，而 Chrome 和 Edge 则不会。报告还指出，与免费的广告支持平台不同，用户需要为 ChatGPT 订阅付费，这加剧了用户的不适感。
+
+hackernews · lmbbuchodi · 9月20日 15:18 · [社区讨论](https://news.ycombinator.com/item?id=49776729)
+
+**背景**: 广告技术追踪通常使用 cookie、像素和其他机制来监控用户跨网站的行为，以用于广告目的。像 ChatGPT 这样的 AI 聊天产品传统上被定位为专注于对话的助手，而非广告驱动的平台，因此用户可能不会预期自己的浏览活动会与其 AI 交互相关联。欧盟的 GDPR 和即将出台的 AI 法案是可能针对此类数据收集行为的关键监管框架。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://trustarc.com/resource/tracking-technologies-adtech-privacy-minefield/">Tracking Technologies: The Hidden Backbone of AdTech and the ...</a></li>
+<li><a href="https://www.merudata.com/single-post/how-ai-will-change-adtech-and-data-privacy">How AI will change AdTech and Data Privacy - merudata.com</a></li>
+<li><a href="https://trustarc.com/resource/adtech-meets-privacy-2025-trends-strategic-insights/">AdTech Meets Privacy: 2025 Trends and Strategic Insights</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对广告技术与 AI 对话的混合表示不适，指出技术本身并不新鲜，但情境使其令人不安；一些人赞扬欧盟立法保护消费者，另一些人则指出 Firefox、Brave 和 Safari 等浏览器会阻止此类追踪，而 Chrome 和 Edge 则不会。一个反复出现的观点是，为 GPT 订阅付费使得追踪比在免费的广告支持平台上感觉更具侵入性。
+
+**标签**: `#AI privacy`, `#adtech`, `#ChatGPT`, `#data tracking`, `#EU regulation`
+
+---
+
+<a id="item-13"></a>
+## [Qwen Image 2.1：70 亿参数开源文生图模型，原生支持透明图像](https://qwen.ai/blog?id=qwen-image-2.1) ⭐️ 8.0/10
+
+Qwen 发布了 Qwen Image 2.1，这是一个 70 亿参数的开源文生图与图像编辑模型，将生成和编辑统一在单一系统中，并原生支持生成和编辑透明图像。它比前代 Qwen-Image（200 亿参数）小得多，并在开源模型中提供了最先进的文本渲染能力。 紧凑的 70 亿参数规模让高质量本地图像生成在消费级硬件上更易实现，其强大的文本渲染能力可能惠及设计和 UI 原型工作流。然而，相比此前 Qwen 模型更严格的许可证可能会限制商业采用。 该模型的视觉生成组件采用 32 层 Single-Stream DiT，并将文生图生成与图像编辑统一起来。社区测试表明其小字号文本保真度远优于其他开源模型，但其许可证明显比早期 Qwen 版本使用的 Apache 许可证更为严格。
+
+hackernews · jmillikin · 9月20日 13:09 · [社区讨论](https://news.ycombinator.com/item?id=49775499)
+
+**背景**: 文生图模型根据文本提示生成图像，而开源权重模型允许用户在本地运行。原生透明意味着模型可以直接输出带 alpha 通道的图像，无需单独的背景去除后处理。Qwen 是阿里巴巴的 AI 模型系列，此前的 Qwen-Image（200 亿参数）以强大的文本渲染能力著称，尤其是中文。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/QwenLM/Qwen-Image-2.1">GitHub - QwenLM/Qwen-Image-2.1: Qwen&#x27;s most powerful open ...</a></li>
+<li><a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</a></li>
+<li><a href="https://github.com/QwenLM/Qwen-Image">GitHub - QwenLM/Qwen-Image: Qwen-Image is a powerful image ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者称赞了更小的 70 亿参数规模和原生透明支持，有人指出 Qwen 是唯一原生处理透明度的团队。多人对相比此前 Apache 许可的 Qwen 模型更严格的许可证表示担忧，也有人强调其出色的文本渲染对设计和 UI 用例很有价值。
+
+**标签**: `#text-to-image`, `#open-weight`, `#Qwen`, `#image-generation`, `#AI-model`
+
+---
+
+<a id="item-14"></a>
+## [博主提议通过注册机制强制企业为开源软件付费](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/) ⭐️ 7.0/10
+
+seldo.com 上的一篇博文提出，开源维护者可以通过一种基于注册表的机制，强制企业为自由及开源软件（FOSS）付费，该文在 Hacker News 上引发了 74 条评论的热烈讨论。作者承认，整篇文章用了大约 5000 字才讲到注册表这一核心提议。 自由及开源软件支撑着包括人工智能和云计算在内的大多数现代基础设施，但许多维护者仍然缺乏资金支持，因此任何强制企业付费的具体方案都可能重塑整个科技行业的资助模式和许可规范。这场讨论还涉及强制付费的伦理问题以及开源生态的可持续性。 该提议的核心是一种注册表机制，目的是让企业为其使用的自由及开源软件付费，但文章因篇幅过长以及带有明显的大语言模型生成痕迹而受到批评。有评论者指出，文章用了数千字才讲到真正的核心观点。
+
+hackernews · Muhammad523 · 9月20日 21:04 · [社区讨论](https://news.ycombinator.com/item?id=49780064)
+
+**背景**: 自由及开源软件（FOSS）通常依据允许任何人免费使用、修改和分发代码（包括商业用途）的许可证发布。这带来了可持续性问题：大型企业从开源软件中获利丰厚，而许多维护者却是无偿工作，由此引发了关于资助模式、许可证变更和商业化策略的持续争论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://fosssustainability.com/">FOSS Sustainability: What Is Open Source Sustainability?</a></li>
+<li><a href="https://github.com/mechko/awesome-maintainer-funding">GitHub - mechko/awesome- maintainer - funding : A curated list of...</a></li>
+<li><a href="https://www.fosshub.com/resources/sustainability/funding-models/">Open Source Funding Models</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者意见不一：有人认为既然免费写软件就不该指望别人付费，并把强制付费比作未经请求就擦车窗然后索要报酬；也有人支持推出带独占功能的付费版本（例如应用商店中的 Krita），或从一开始就采用源码可见许可证并设置类似 OpenRAIL 的收入门槛。不少人批评文章篇幅过长且带有大语言模型生成的风格，还有评论者认为最初就采用完全宽松许可证才是根本错误。
+
+**标签**: `#open-source`, `#monetization`, `#software-licensing`, `#sustainability`, `#FOSS`
+
+---
+
+<a id="item-15"></a>
+## [Pirate Face 利用 BitTorrent 分发 AI 模型权重](https://pirateface.co/) ⭐️ 7.0/10
+
+Pirate Face 是一个新平台，通过 BitTorrent 分发 AI 模型权重，用户无需验证或注册账号即可浏览、下载和做种。其短期目标是让模型的可用性超越任何单一托管平台的生命周期。 这回应了人们对 Hugging Face 等模型仓库中心化及潜在审查的日益担忧，提供了一种去中心化替代方案，可能影响开放模型的发布方式。这对开源 AI 开发者、研究人员以及担心模型访问存在单点故障的人都很重要。 BitTorrent 是 2001 年首次发布的点对点文件共享协议，无需中央服务器即可分发数据，Pirate Face 将其应用于大型模型权重文件。社区成员指出，正交化激活值或分发拒绝向量等运行时技术，可以在不重新分发完整去审查权重的情况下实现无审查行为。
+
+hackernews · skepticalgenius · 9月20日 15:16 · [社区讨论](https://news.ycombinator.com/item?id=49776699)
+
+**背景**: AI 模型权重是决定模型表现的训练后数值参数，通常托管在 Hugging Face 等中心化平台上。BitTorrent 是一种点对点协议，允许用户直接共享大文件，由于没有单一服务器保存数据，因此难以被下架。Pirate Face 将这两者结合，定位为一个比 Hugging Face 审查和审核更少的枢纽。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://pirateface.co/">Pirate Face - Turn AI into torrents that live forever</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BitTorrent_protocol">BitTorrent protocol</a></li>
+<li><a href="https://aidive.org/en/glossary/ai-infrastructure/ai-model-weights">AI Model Weights : meaning and practical use</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍支持将 BitTorrent 作为首选分发方式，认为它避免了 Hugging Face 这样的单点故障，还有人回忆 Steam 和暴雪在廉价 CDN 出现前曾用种子分发游戏。一个值得注意的技术反驳观点认为，分发拒绝向量并在运行时正交化激活值，比重新分发去审查权重更便宜；另有一位用户对在 HN 上过度分享研究表示不满。
+
+**标签**: `#AI model distribution`, `#BitTorrent`, `#censorship resistance`, `#open source AI`, `#decentralization`
+
+---
+
+<a id="item-16"></a>
+## [沃伦提出法案，禁止私募股权拥有医疗诊所](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/) ⭐️ 7.0/10
+
+美国参议员伊丽莎白·沃伦提出了一项法案，将禁止私募股权公司拥有医疗诊所，直接针对私募股权在医疗领域日益增长的收购趋势。该提案引发了公众对私募股权所有权危害及可能监管替代方案的激烈讨论。 如果该法案获得通过，将显著改变美国医生诊所的所有权结构，可能逆转数十年来医疗行业的企业整合趋势。它反映了人们对私募股权所有权推高成本、降低护理质量的日益担忧，并可能激励其他国家采取类似行动。 该法案专门针对私募股权对医疗诊所的所有权，但尚未涉及保险公司或医院连锁等其他企业所有者。评论者指出，如果没有更广泛的杠杆限制，其他参与者可能复制同样的策略，且执法可能面临漏洞。
+
+hackernews · paimapi · 9月20日 22:13 · [社区讨论](https://news.ycombinator.com/item?id=49780630)
+
+**背景**: 私募股权公司越来越多地收购医生诊所、门诊手术中心和医院，通常利用杠杆收购和管理公司来整合分散的市场。这一趋势引发了人们对成本上升、竞争减少和患者预后恶化的担忧，研究将私募股权拥有的医院与并发症增加联系起来。美国许多州的“医疗行业公司执业”原则已经限制非医生所有权，但私募股权公司往往通过结构化安排规避这些法律。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/Private_equity_in_healthcare">Private equity in healthcare</a></li>
+<li><a href="https://hsph.harvard.edu/news/private-equitys-appetite-for-hospitals-may-put-patients-at-risk/">Private equity&#x27;s appetite for hospitals may put patients at risk</a></li>
+<li><a href="https://chir.georgetown.edu/state-spotlight-oregons-multi-pronged-approach-to-corporate-influence-in-physician-practices/">State Spotlight: Oregon’s Multi-Pronged Approach to Corporate ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者大多支持该法案，分享了澳大利亚在私募股权拥有的医院方面遇到的困境等国际案例，并认为杠杆限制比简单的禁令更持久有效。一些人质疑这对非投资者是否有任何好处，而另一些人则怀疑私募股权是否会找到漏洞继续这种做法。
+
+**标签**: `#healthcare policy`, `#private equity`, `#regulation`, `#medical practices`, `#US politics`
+
+---
+
+<a id="item-17"></a>
+## [关于货币层级体系的博客解读在 Hacker News 上广受好评](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/) ⭐️ 7.0/10
+
+Gregory Gundersen 于 2026 年 9 月 20 日发表了一篇题为《货币的层级体系》的博客文章，通过两个村庄的寓言解释了货币体系如何以分层、基于信任的层级结构运作，以及被广泛接受的货币如何成为最终结算的基础。该文章登上 Hacker News 首页，一位在金融机构工作的评论者称其为“令人耳目一新且简洁的梳理”，另一位则表示“第一遍阅读没有发现任何错误”。 这篇文章提供了一个简洁的思维模型，帮助人们理解为什么现代货币机构——中央银行、商业银行和各种形式的信用——是作为信任的层级而存在，而非凭空设计出来的，从而让非专业人士也能理解当前的货币体系。它在 Hacker News 上获得的好评（包括来自金融业从业者的认可）表明，在通常以 AI/科技为主的内容之外，人们对通俗而准确的经济学解读存在需求。 这篇解读依赖一个简化的村庄寓言，一些评论者指出它“过于平均主义”，忽略了历史上自给自足的农民所面临的真实风险管理问题——他们依赖宴请邻居和紧密的邻里关系，而非以物易物。还有评论者质疑文章是否由 AI 生成或缺乏清晰的叙事结构，建议在开头加上一段摘要。
+
+hackernews · gwgundersen · 9月20日 19:37 · [社区讨论](https://news.ycombinator.com/item?id=49779253)
+
+**背景**: “货币的层级体系”是一个经济学概念，描述不同形式的货币——从顶层的中央银行准备金，到商业银行存款及其他负债——如何按照被接受为最终结算手段的广泛程度进行排序。关于货币与信任的研究认为，经济主体会建立层级化的制度保障结构来支撑其对货币的信任，这反映了货币义务在流动性和可执行性上的相对差异。现代货币体系通常包括国家财政部、铸币厂、中央银行和商业银行，而全球货币层级会制约单个国家的经济政策。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/">The Hierarchy of Money - gregorygundersen.com</a></li>
+<li><a href="https://www.jstor.org/stable/pdf/23264933.pdf">Money, Trust and Hierarchies: Understanding the ... - JSTOR</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Monetary_system">Monetary system - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 整体情绪非常正面：一位评论者称其为“极棒的博客文章”，第一遍阅读没有发现错误；一位金融机构员工称赞它是令人耳目一新且简洁的梳理，说明每种货币工具都在解决一个明确的问题，且往往被不同群体独立发现。不同意见包括：批评村庄寓言过于平均主义、忽视了自给自足农民真实的风险管理需求；推荐 Jacob Goldstein 的《Money: The True Story of a Made Up Thing》作为简化版货币史；以及一位评论者怀疑文章由 AI 生成或缺乏叙事背景。
+
+**标签**: `#monetary systems`, `#economics`, `#money`, `#finance`, `#explainer`
+
+---
+
+<a id="item-18"></a>
+## [谷歌员工发布开源 Agent Executor 编排器](https://agentexecutor.io/) ⭐️ 6.0/10
+
+谷歌员工发布了一款名为 Agent Executor（又称 AX）的开源智能体编排器，它是一个分布式 harness 运行时，能够从可挂起/可恢复的镜像中动态配置隔离环境来执行智能体和 harness。该项目托管在 GitHub 的 google/ax 仓库下，定位为智能体执行、恢复和分布式部署的运行时标准。 此次发布为迅速拥挤的智能体编排框架领域再添一员，其对可靠性、恢复和分布式执行的强调，可能吸引那些运行长时间或易失败智能体工作负载的团队。然而，社区对其是否获得谷歌官方支持、以及与 LangGraph 等现有框架有何差异持怀疑态度，这意味着其实际影响力仍不确定。 AX 以可靠性为设计目标，原生支持恢复和执行续跑，即使在分布式环境中也能做到，并能从可挂起/可恢复的镜像中动态配置隔离环境。值得注意的是，项目网站并未明确声称获得谷歌的全面官方支持，社区成员指出，由谷歌员工开发并不意味着获得谷歌、DeepMind 或 GCP 的背书。
+
+hackernews · blazarquasar · 9月20日 22:32 · [社区讨论](https://news.ycombinator.com/item?id=49780797)
+
+**背景**: 智能体编排框架是用于协调多个由大语言模型驱动的智能体来执行复杂多步任务的工具，负责处理任务分解、执行和恢复等问题。该领域已变得十分拥挤，出现了 LangGraph（面向可靠 AI 智能体）以及各种与供应商无关的编排项目。在此语境中，&\#x27;harness&\#x27; 指运行智能体的脚手架，而&\#x27;可挂起/可恢复镜像&\#x27;则是让智能体暂停并稍后继续执行的快照。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/google/ax">GitHub - google/ax: Google&#x27;s open agentic orchestrator</a></li>
+<li><a href="https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/">Agent Executor, Google’s distributed Agent Runtime | Google ...</a></li>
+<li><a href="https://www.langchain.com/langgraph">LangGraph: Agent Orchestration Framework for Reliable AI Agents</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表现出明显的怀疑态度：Mond\_ 认为将其标为&\#x27;谷歌的&\#x27;具有误导性，因为大多数谷歌高管很可能从未听说过它，且网站也未声称获得官方支持；mentalgear 则认为它与数百个其他智能体框架没有实质区别，并呼吁提供基准测试。DanMcInerney 提出了技术性批评，认为技能（skills）是所有智能体 harness 的通用语言，将品味和规定抽象到指导文档中、让技能仅作为工作流脚手架，就能构建出适用于 Claude Code、Codex、Antigravity 等任何 harness 的任务专用工作流。
+
+**标签**: `#agentic-ai`, `#open-source`, `#google`, `#orchestration`, `#llm-agents`
+
+---
+
+<a id="item-19"></a>
+## [斯诺登档案究竟发生了什么](https://libroot.org/posts/what-happened-to-the-snowden-archive) ⭐️ 6.0/10
+
+libroot.org 发表的一篇调查文章探讨了斯诺登档案的命运，以及为何其完整内容至今大部分仍未公开，重新引发了关于举报与监控的讨论。文章梳理了这批泄露文件的去向，以及其中大部分从未被公之于众的原因。 斯诺登档案是现代历史上影响最重大的泄密事件之一，弄清其大部分内容为何至今未公开，对新闻自由、负责任披露以及举报的有效性提出了重要问题。这对记者、数字权利倡导者以及所有关心政府监控与问责的人来说都意义重大。 该档案由前美国国家安全局（NSA）承包商爱德华·斯诺登于 2013 年泄露的文件组成，随后由世界各地的新闻媒体陆续发表，相关合集被镜像到 GitHub 以及多伦多大学的一个研究网站上。文章指出，完整文件集从未被全部公开，社区讨论则将报复威胁以及阿桑奇案带来的寒蝉效应视为可能原因。
+
+hackernews · EXHades · 9月20日 22:35 · [社区讨论](https://news.ycombinator.com/item?id=49780820)
+
+**背景**: 2013 年，前美国国家安全局（NSA）承包商爱德华·斯诺登揭露了 PRISM、XKeyscore 等高度机密的大规模监控项目，这些项目大规模收集通信数据。这些文件被分享给格伦·格林沃尔德、劳拉·珀特阿斯等记者，其发表引发了全球关于隐私、国家权力和举报人保护的辩论。斯诺登档案指的就是这批泄露材料的全部内容，而其中只有一小部分被公开发表。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Snowden_archive">Snowden archive</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Edward_Snowden">Edward Snowden - Wikipedia</a></li>
+<li><a href="https://github.com/iamcryptoki/snowden-archive">GitHub - iamcryptoki/snowden-archive: A collection of all ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者就“负责任披露”是否还有意义展开辩论，有人认为短期的“不负责任披露”可能等同于长期的负责任，而黑暗的秘密或公开威胁很可能让记者保持沉默。也有人指出，由于奥弗顿窗口已经移动，大规模监控不再让公众震惊，而且愤怒很少转化为行动，爱泼斯坦文件就是例证。还有一位评论者干脆呼吁泄密者“把它泄露到所有地方”。
+
+**标签**: `#Snowden`, `#surveillance`, `#whistleblowing`, `#journalism`, `#digital rights`
+
+---
+
+<a id="item-20"></a>
+## [新加坡国家图书馆管理局用微支付鼓励阅读](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books) ⭐️ 6.0/10
+
+新加坡国家图书馆管理局推出了一项阅读挑战，参与者可获得小额金钱奖励，例如每阅读 15 分钟获得 0.02 新元，同时结合积分、连续打卡和排行榜等游戏化元素。该计划旨在帮助以手机为先的民众养成每日阅读习惯。 该计划检验了将微支付与游戏化结合能否有效改变阅读行为，为行为公共政策和公民科技提供了真实案例。其结果可能影响政府如何设计教育和数字健康领域的激励措施。 实际金钱奖励非常少——每 15 分钟仅 0.02 新元，更多是作为游戏化机制的一部分，与经验值、连续打卡、排行榜和抽奖并存。该计划通过 ReadSG 挑战平台运行，标题对支付的强调可能夸大了其金钱属性。
+
+hackernews · geox · 9月20日 15:18 · [社区讨论](https://news.ycombinator.com/item?id=49776717)
+
+**背景**: 微支付是指金额极小的在线金融交易，通常不到一美元，历史上曾难以普及，但近年来在金融科技领域重新受到关注。游戏化是将积分、奖励等游戏设计元素应用于非游戏场景以激励行为，广泛用于教育和公共政策。行为经济学表明，此类外在激励可以鼓励期望行为，但有时也可能挤占内在动机。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Micropayment">Micropayment - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gamification_of_learning">Gamification of learning - Wikipedia</a></li>
+<li><a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.4.191">When and Why Incentives (Don&#x27;t) Work to Modify Behavior</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者澄清金钱奖励很少，该计划主要是标准的游戏化，有人指出标题夸大了支付方面。其他人讨论了电子阅读器优于纸质书的偏好以及阅读的更广泛益处，同时一些人批评新加坡图书馆对外国人的政策。
+
+**标签**: `#gamification`, `#digital reading`, `#public policy`, `#behavioral incentives`, `#Singapore`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [AI 设计的药物 rentosertib 在人体试验中逆转生物年龄](http://www.geekpark.net/news/370664) ⭐️ 9.0/10
+
+2026 年 9 月 8 日，英矽智能宣布其 AI 设计的 TNIK 抑制剂 rentosertib（原本用于治疗特发性肺纤维化）在Ⅱa 期试验中，让六套独立的表观遗传时钟同时显示生物年龄倒退。42 名平均 67 岁的患者服药最长 12 周后，2841 种血浆蛋白中有 326 种发生显著变化，多数时钟倒退了 3 到 4 年，其中一只接近 6 年。 这是首个临床证据，表明 AI 发现的靶点和 AI 设计的分子能够在人体中推动多套生物年龄时钟，对 AI 制药和长寿研究都是里程碑。它意味着 AI 制药可能压缩研发周期，并为抗衰老疗法开辟新的监管路径，可能重塑行业评估药物的方式，不再局限于单一疾病终点。 生物年龄信号在 30 毫克每日两次组最强，而肺功能改善最明显的是 60 毫克每日一次组，说明两种效果并非同一回事。六套时钟来自哈佛、牛津、北京大学和英矽等独立团队，蛋白变化轨迹还与英国生物样本库 5.5 万多名老年人的数据交叉验证，显示其沿正常衰老路径反向移动。
+
+rss · 极客公园 · 9月20日 07:08
+
+**背景**: 生物年龄不同于日历年龄，反映衰老进程的进展程度；表观遗传时钟由 Steve Horvath 在 2013 年前后开创，通过 DNA 甲基化或血液蛋白来估算它。Rentosertib（又称 ISM001-055）是英矽智能利用 Pharma.AI 平台设计的小分子，用于抑制参与纤维化的 TNIK 激酶，目前已进入特发性肺纤维化的Ⅲ期临床。英矽智能是一家已在港交所上市的 AI 制药公司，其管线利用 AI 发现靶点并生成分子。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Rentosertib">Rentosertib - Wikipedia</a></li>
+<li><a href="https://insilico.com/interactive/drugs/rentosertib">Rentosertib</a></li>
+<li><a href="https://www.ox.ac.uk/news/2024-08-08-proteins-carried-blood-offer-new-insights-ageing-and-age-related-disease-risk">Proteins carried in the blood offer new insights into ageing and...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI制药`, `#抗衰老`, `#英矽智能`, `#临床试验`, `#生物科技`
+
+---
+
+<a id="item-22"></a>
+## [中国科技巨头竞相抢占 AI 办公智能体](https://www.tmtpost.com/8146181.html) ⭐️ 8.0/10
+
+字节跳动、腾讯和阿里巴巴已将此前分散的 AI 办公产品整合为单一品牌的智能体，并大举投入企业工作流领域。早期使用数据显示桌面端和原生应用的采用率快速增长，但这些产品在处理长链条多步骤任务时仍显吃力，商业化模式也仍处于试验阶段。 这标志着中国最大科技公司的战略转向：不再主要比拼模型参数，而是争夺将运行日常企业工作流的 AI 智能体的控制权。其结果将塑造规模达万亿元的企业 AI 市场，并影响数百万知识工作者的工作方式。 这些智能体在长链条多步骤任务上仍会失败，因为错误会逐步累积——单步可靠率为 85%的智能体在十步任务中端到端成功率仅约 20%——而上下文窗口限制会导致连贯性崩溃。商业化模式仍处于试验阶段，定价、打包和企业销售方式尚未确定。
+
+rss · 钛媒体 · 9月20日 05:47
+
+**背景**: AI 办公智能体是由大语言模型驱动的软件助手，能够自主执行起草文档、总结会议、跨企业应用编排多步骤工作流等办公任务。中国三大互联网巨头——字节跳动（豆包）、腾讯（与微信集成的 WorkBuddy）和阿里巴巴（整合后的 QoderWork 平台）——于 2026 年年中重组了各自的 AI 办公部门以参与这一赛道的竞争。竞争焦点已从原始模型能力转向掌控员工实际投入时间的工作流层。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ainchina.com/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/">The Agent Wars: How Tencent, Alibaba, and ByteDance Are ...</a></li>
+<li><a href="https://chinabizinsider.com/chinas-ai-office-war-why-bytedance-alibaba-and-tencent-are-rebuilding-the-workplace/">China&#x27;s AI Office War: ByteDance, Alibaba &amp; Tencent</a></li>
+<li><a href="https://blog.momoadvisors.com/ai-agent-reliability/">AI Agent Reliability: Why Multi-Step Tasks Fail - Business Genes</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI office agents`, `#China tech giants`, `#enterprise AI`, `#ByteDance`, `#Tencent`
+
+---
+
+<a id="item-23"></a>
+## [Opus 5.2 与 Gemini 4 Pro 悄然上线，前沿模型发布周期被压缩](https://www.tmtpost.com/8145908.html) ⭐️ 7.0/10
+
+前沿 AI 模型 Opus 5.2 和 Gemini 4 Pro 据报未经官方发布会或公告便已上线，显示大厂正在跳过传统的发布造势环节。这一消息凸显了顶尖 AI 公司压缩发布流程、更快将模型推向用户的整体趋势。 这一转变可能从根本上改变 AI 公司的竞争方式，将快速迭代置于精心策划的发布之上，并可能加速整个行业的创新节奏。用户和开发者或许能更早获得前沿能力，但文档和稳定性保障可能相应减少。 这种静默发布表明模型更新正日益被视为持续部署而非离散事件，但由于缺乏官方确认，版本号、可用性以及这些是最终生产模型还是分阶段推出等问题仍存疑。
+
+rss · 钛媒体 · 9月20日 10:25
+
+**背景**: Opus 是 Anthropic 的旗舰 Claude 模型系列，以强大的推理和智能体编程能力著称；Gemini 则是 Google DeepMind 的前沿多模态模型家族。传统上，Anthropic 和 Google 等主要 AI 实验室会通过主题演讲、博客文章和开发者文档来发布新模型，但近期的发布表明行业正转向更安静、更快速的部署周期。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://platform.claude.com/docs/en/models/opus-5/overview">Claude Opus 5 - Claude Platform Docs</a></li>
+<li><a href="https://www.hackaigc.com/blog/gemini-4-pro-everything-we-know">Gemini 4 Pro : Everything We Know About Google&#x27;s Secret AI Model ...</a></li>
+<li><a href="https://deepmind.google/models/gemini/">Gemini — Google DeepMind</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI大模型`, `#产品发布`, `#行业竞争`, `#硅谷动态`, `#大厂要闻`
+
+---
+
+<a id="item-24"></a>
+## [徐直军：被低估的灵衢互联，才是 AI 算力的关键](https://www.tmtpost.com/8146244.html) ⭐️ 7.0/10
+
+在 2026 年华为全联接大会期间接受钛媒体专访时，华为轮值董事长徐直军表示，UB（灵衢）是未来 AI 计算的必由之路，将行业关注点从单颗芯片重新引向互联技术。此前，华为已于 2025 年 9 月 18 日全联接大会上正式发布灵衢 2.0，并开放《灵衢基础规范 2.0》《灵衢固件规范 2.0》《灵衢使能操作系统参考设计 2.0》等技术规范。 在单芯片性能提升放缓、美国出口管制限制先进半导体获取的背景下，把成千上万颗芯片连接成一个逻辑计算单元的互联技术，成为扩展 AI 算力的决定性杠杆。华为的推进可能重塑中国 AI 基础设施的竞争格局，影响云厂商、模型开发者以及整个昇腾生态。 灵衢（UnifiedBus）是华为自研的互联协议，旨在解决超节点级大规模计算资源的连接难题，是昇腾 Atlas 950/960 超节点的算力底座核心互联技术。华为还发布了基于灵衢的 Agentic AI 超节点集群，由鲲鹏 950、昇腾 960 超节点、OceanStor M900 记忆存储及星河 UBG 交换机组成，该互联技术不仅用于超节点，也适用于一体机。
+
+rss · 钛媒体 · 9月20日 08:37
+
+**背景**: 传统上，AI 集群依赖 PCIe、NVLink 和 RDMA 等多种协议在芯片间传输数据，当集群规模扩展到数万颗加速器时，这些互联方式容易成为瓶颈。华为灵衢 UB 是面向万卡级 AI 超节点集群的全栈自研统一硬件互联总线，意在替代或整合上述多种互联角色。它于 2025 年华为全联接大会首次正式发布，此后被视为华为通过将大量芯片连接为单一计算单元、以绕开芯片供应限制的核心战略。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E7%81%B5%E8%A1%A2/66774401">灵衢 - 百度百科</a></li>
+<li><a href="https://e.huawei.com/cn/news/2026/solutions/computing/hc-lingqu-agent-ai">以灵衢互联为核心，打造集群与超节点协同的新计算架构-华为企业业务</a></li>
+<li><a href="https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology">How Huawei plans to bypass US chip curbs with its new ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Huawei`, `#AI算力`, `#徐直军`, `#灵衢`, `#大厂要闻`
+
+---
+
+<a id="item-25"></a>
+## [阿里云王朝阳：中国不缺电，AI 卡在电与算力的协同](https://www.tmtpost.com/8146043.html) ⭐️ 7.0/10
+
+在钛媒体发布的一篇深度访谈中，阿里云王朝阳从总量、柔性、成本、协同四个维度系统拆解了中国 AI 的能源约束，并提出“能源在沉淀”的判断，即单位算力的能源账单长期只会越来越重。访谈文末还给出了三个可核查的跟踪信号，供行业持续观察这一趋势。 这一讨论重新定义了 AI 基础设施的争论焦点：中国在总量上并不缺电，真正的瓶颈在于电力供给与算力需求之间的协同。对于正在规划 AI 产能扩张和电网投资的数据中心运营商、云厂商和政策制定者而言，这一判断具有重要的参考价值。 王朝阳将问题拆解为“四本账”——总量、柔性、成本、协同，并认为单位算力的能源成本将持续上升而非下降。他还给出了三个可核查的跟踪信号，不过这篇访谈属于分析评论，而非产品或服务的正式发布。
+
+rss · 钛媒体 · 9月20日 03:10
+
+**背景**: 随着大语言模型规模不断扩大，数据中心的电力消耗快速攀升，电力可得性已成为 AI 发展的关键约束。中国发电总量充足，但电力生产地与算力集群建设地之间存在区域错配，同时还需解决如何让用电需求足够柔性以匹配间歇性可再生能源供给的问题。“能源在沉淀”这一判断意味着，能源基础设施而非单纯的芯片，正在成为决定 AI 长期竞争力的关键因素。
+
+**标签**: `#阿里云`, `#AI算力`, `#能源协同`, `#数据中心`, `#产业分析`
+
+---
+
+<a id="item-26"></a>
+## [蚂蚁健康一亿元收购覆盖 1500 家医院的商保直付网络](https://www.tmtpost.com/8146035.html) ⭐️ 7.0/10
+
+蚂蚁集团旗下蚂蚁健康已完成对医疗健康服务商风石健康的收购，交易金额约一亿元人民币，后者拥有覆盖 1500 家公立医院国际部及高端私立医院的商保直付网络。这是继 2026 年 7 月收购薄荷健康之后，蚂蚁健康在健康领域的又一次重要布局。 这笔交易让蚂蚁直接切入商业保险支付链条，可能对传统健康险中介和医院支付体系形成冲击。它表明蚂蚁有意打造“医保+商保”一站式直付服务，而在这一受严格监管、利益攸关的领域，掌握医院网络入口是关键竞争壁垒。 一亿元人民币的收购价对于覆盖 1500 家医院的网络而言相对低廉，被观察者称为“便宜”的交易。不过，蚂蚁健康仍面临将该网络商业化、并与现有医疗健康和保险业务协同整合的挑战。
+
+rss · 钛媒体 · 9月20日 03:00
+
+**背景**: 商保直付是指商业健康险参保人在医院就诊时，由医院与保险公司直接结算费用，无需患者先自付再报销。在中国，该服务主要覆盖公立医院国际部和高端私立医院，被视为吸引商保患者的重要便利措施。蚂蚁集团近年来通过收购不断拓展医疗健康版图，意图将其支付与保险生态与医疗服务打通。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.huxiu.com/article/4888522.html">抢医院、抢保司：蚂蚁健康一笔“便宜”收购背后的商保直付江湖</a></li>
+<li><a href="https://view.inews.qq.com/a/20260818A04DWP00">蚂蚁健康收购风石健康 加码商保直付网络布局_腾讯新闻</a></li>
+<li><a href="https://en.nhc.gov.cn/2025-12/12/c_86544.htm">Commercial insurance direct payment service</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Ant Group`, `#healthcare`, `#insurance`, `#acquisition`, `#digital health`
+
+---
+
+<a id="item-27"></a>
+## [乐享科技户外烧烤直播展示「自进化」具身智能模型](http://www.geekpark.net/news/370665) ⭐️ 7.0/10
+
+乐享科技通过一场户外烧烤直播公开展示了其 Aether 以太大模型：机器人接受随机点单，完成食材与工具处理、烤制、翻面、上菜，并应对临时打断和场景变化，现场有超 30 家媒体、线上超 550 万观众观看。该公司声称 Aether 是全球首个「自进化」具身智能模型，能在部署和执行过程中持续更新状态、技能乃至权重。 这场直播把「自进化」的定义之争推到台前，区分了真正的持续学习与工程层面的泛化能力。如果这种闭环更新能跨任务、跨场景、跨本体迁移，将可能改变机器人在物理世界中的部署与迭代方式。 Aether 被描述为由世界状态、内部状态和能量状态耦合而成的「能量驱动状态转移」系统，而非从输入直接映射到动作的 VLA 流水线；团队认为 VLA「不懂因果」，世界模型则「可生成、不可执行」。直播刻意呈现不完美，出现停顿、失败和重新调整，两台机器人全程互相传递任务信息并自主分工协作。
+
+rss · 极客公园 · 9月20日 07:15
+
+**背景**: 具身智能指通过「身体」与物理世界交互的模型，通常把视觉、语言和动作（VLA）结合起来，让机器人能执行指令。世界模型可以预测环境如何变化，但预测出的未来不一定能被机器人的关节和控制系统真正实现。持续学习则旨在让模型在部署中获取新技能，同时避免灾难性遗忘。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.leaderobot.com/news/9603">具身智能下一个战场，是世界模型的「自进化能力」 - 机器人大讲堂</a></li>
+<li><a href="https://www.jiemian.com/article/15114170.html">550...</a></li>
+<li><a href="https://linwei-chen.github.io/vla-research-atlas/index.html">VLA 部署期在线适应与持续学习研究地图</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 直播吸引超 550 万观众和 30 多家媒体，讨论集中在「自进化」究竟是模型参数变化还是任务临时调整，以及这种调整在多大程度上能转化为可迁移的新能力。不少人认为这是有价值但非突破性的探索，质疑工程泛化与真正持续成长之间的边界。
+
+**标签**: `#具身智能`, `#机器人`, `#自进化`, `#大模型`, `#乐享科技`
+
+---
+
+<a id="item-28"></a>
+## [Meta 个人助手 Muse 登顶美国 App Store；Anthropic 拟 IPO 前发新模型](http://www.geekpark.net/news/370615) ⭐️ 7.0/10
+
+Meta 推出的个人 AI 代理应用 Muse 上线仅一周便登上美国 App Store 免费应用排行榜第一，超越长期领先的 ChatGPT。与此同时，Anthropic 据传正筹备在 IPO 前发布新一代旗舰 AI 模型，阿里千问团队也正式发布了同声传译大模型 Qwen3.8-LiveTranslate，字均延迟从 2.8 秒降至 2.3 秒。 Muse 超越 ChatGPT 登顶，标志着消费级 AI 竞争可能正从纯聊天机器人转向能实际执行任务的 AI 代理，这可能重塑用户与日常应用的交互方式。Anthropic 在 IPO 前发布新模型，则反映出在生成式 AI 竞赛进入资本市场阶段后，企业向投资者展示技术迭代能力的压力正在加大。 Muse 被定位为代理而非聊天机器人：它能填写表格、在线购物、预订餐厅、寻找宠物照看服务，并可连接邮箱、日历、Spotify、Instagram 和 OpenTable，在获得授权后逐步学习用户偏好。Anthropic 的新模型仍处于最后的内部测试与性能调优阶段，发布时间可能根据市场反馈调整。
+
+rss · 极客公园 · 9月20日 00:36
+
+**背景**: AI 代理与传统聊天机器人的区别在于，它能自主规划并跨外部服务执行多步骤任务，而不只是在对话中回答问题。Anthropic 是 Claude 系列大模型的开发商，也是 OpenAI 的主要竞争对手之一。IPO（首次公开募股）是私营公司公开上市发行股票的过程，企业常围绕这一节点安排重大产品发布，以提振投资者信心。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://udn.com/news/story/7270/9753102">Meta 推 AI 代 理 「 Muse ... | 聯合新聞網</a></li>
+<li><a href="https://www.anthropic.com/">Home \\ Anthropic</a></li>
+<li><a href="https://www.capsolver.com/zh/blog/All/ai-agent-vs-chatbot">AI代理与聊天机器人：自动化能力的关键差异</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Meta`, `#Anthropic`, `#AI助手`, `#App Store`, `#大厂动态`
+
+---
+
+<a id="item-29"></a>
+## [启元机器人推出 19999 元起的个人机器人](https://www.ifanr.com/1681137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+上纬新材旗下消费级具身智能品牌启元机器人推出售价 19999 元起的个人机器人，目标是把机器人带进普通家庭生活。产品线包括可折叠、身高 88 厘米的启元 Q1，以及号称全球首个可变形个人机器人的启元 T1。 19999 元的定价是让个人机器人走向大众消费者的重要一步，此前这一领域多停留在概念展示和高端设备阶段。若能获得市场认可，可能加速中国消费级机器人市场的发展，该市场预计到 2030 年将快速增长。 启元 Q1 身高 88 厘米，可折叠装进背包；启元 T1 则被宣传为全球首个可变形个人机器人，两者均定位为消费级具身智能产品。不过原文内容简短、缺乏技术深度，关于功能、续航和软件生态的细节仍然有限。
+
+rss · 爱范儿 · 9月20日 13:10
+
+**背景**: 消费级机器人是面向普通消费者的产品类别，覆盖户外出行、教育陪伴、家庭服务等场景。具身智能指能在物理世界中感知和行动的 AI 系统，是个人机器人背后的关键技术。启元机器人由彭志辉（稚晖君）于 2025 年 12 月 31 日在上纬新材旗下发布。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://post.smzdm.com/p/a959mdm0/">post.smzdm.com/p/a959mdm0</a></li>
+<li><a href="https://www.ithome.com/1/004/551.htm">倒计时1天｜跟郎朗、王冰冰同场互动的 机 器 人 ，到底什么来头？ - IT之家</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA/68778989">消费级机器人 - 百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#个人机器人`, `#消费级机器人`, `#产品发布`, `#大厂动态`, `#智能硬件`
+
+---
+
+<a id="item-30"></a>
+## [大众推出 50 年来首款纯电后驱 GTI](https://www.ifanr.com/1681086?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+大众即将推出 GTI 车型 50 年历史上首款纯电动后驱版本，新款 ID.3 GTI 通过一台可输出 240kW 功率和 545Nm 扭矩的电机将动力全部传递至后轮。不过该文章本身仅提供了简短的预告，没有实质性的技术细节。 这标志着自 1976 年以来一直采用前驱布局的经典 GTI 徽标迎来重大转变，也表明大众正在推动其性能车系的电动化，因为小钢炮细分市场正转向电动车。这将影响性能车爱好者，并可能影响竞争对手如何定位自家的电动性能车型。 ID.3 GTI 采用后轮驱动，具备瞬时动力输出和弹射起步功能，内饰以驾驶者为中心，配备运动方向盘、GTI 专属显示界面和红色对比缝线。较小的 Polo GTI 则与其燃油版一样仍保持前轮驱动。
+
+rss · 爱范儿 · 9月20日 12:04
+
+**背景**: GTI 意为 Grand Tourer Injection（大巡游喷射），自 1976 年以来一直被大众用于标识 Golf、Polo 和 Lupo 等车型的高性能版本。GTI 徽标因开创“小钢炮”这一品类而闻名，即紧凑、价格亲民且具备运动性能的车型，而 Golf GTI 将在 2026 年迎来 50 周年。传统上，GTI 车型一直采用前轮驱动搭配涡轮增压汽油发动机，因此纯电后驱 GTI 是一次重大突破。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://torquecafe.com/car-news-2026-vw-id3-gti-rear-drive/">Volkswagen &#x27;s most powerful GTI ever is a rear - drive EV</a></li>
+<li><a href="https://www.volkswagen.co.uk/en/electric-and-hybrid/electric-cars/id3-gti.html">The New Volkswagen ID.3 GTI | Volkswagen UK</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Volkswagen_GTI">Volkswagen GTI - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Volkswagen`, `#GTI`, `#electric vehicles`, `#performance cars`, `#auto industry`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-31"></a>
+## [交个朋友直播间被曝售问题凳子：内部用发霉木板、废旧海绵](https://news.google.com/rss/articles/CBMimAFBVV95cUxPdklkeGc0emxIUnY5QmdvejlKRTA3MUxjTmdOVndsbTgyRXdOb0RMZmFSbmZJZkFWZlVmUWZpQVJRM3RhRkt2aEJYVGtRaktqQ1ZjQ2VwYmFEZndTYWxtYzdWQVR0UnRFUGFILU1BRGlPeFlwVGdlMWNJdXZ5RG1EVmJIZWVKN2JPQV8wUlVmdXZIaWo1RXppNQ?oc=5) ⭐️ 6.0/10
+
+由罗永浩创立的抖音直播带货机构交个朋友直播间被曝销售的“溜溜凳”存在质量问题，内部使用发霉木板和废旧海绵。交个朋友客服回应称，已全面下架相关的问题凳子产品。 这一事件凸显了中国直播电商行业在产品质量和供应链把控上长期存在的问题，头部直播间本应对所推广商品负责。此事可能削弱消费者对交个朋友的信任，并在 2026 年 2 月直播电商新规施行前，加大行业加强质量管控的压力。 据报道，该凳子内部使用发霉木板和废旧海绵，网友还喊话担任交个朋友首席品牌监督官的罗永浩“失职”。目前交个朋友尚未公布针对已购买消费者的退款或赔偿方案细节。
+
+rss · 客服行业动态 · 9月20日 15:19
+
+**背景**: 交个朋友的前身是罗永浩于 2020 年 4 月在抖音开启的个人直播间，首场交易额即突破 1 亿元，后逐步发展为头部矩阵化直播电商机构。中国直播电商行业屡次曝出产品质量问题，促使监管部门出台《直播电商监督管理办法》，该办法将于 2026 年 2 月 1 日起施行。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnnky6621611.shtml">“全是黑心棉！” 交个朋友售卖网红凳偷工减料，罗永浩任首席监督官，网...</a></li>
+<li><a href="https://baike.baidu.com/item/%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E7%9B%B4%E6%92%AD%E9%97%B4/56764808">交个朋友直播间_百度百科 交个朋友直播间售问题 “溜溜凳”：内部用发霉木板、废旧海绵，回应称已... 交个朋友直播间的抖音直播间 - 抖音直播 交个朋友的直播间 - 抖音 交个朋友直播间售问题溜溜凳：内部用发霉木板 现已全面下架 交个朋友直播间所售“溜溜凳”被曝存在质量问题，消费者称其使用发霉木...</a></li>
+<li><a href="https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065114.html">国家市场监督管理总局 国家互联网信息办公室令（第117号） 直播电商监...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服行业`, `#直播电商`, `#产品质量`, `#危机公关`, `#消费者权益`
+
+---
+
+<a id="item-32"></a>
+## [1 公斤冻牛肉解冻后仅剩 400 多克，平台客服称存在出水率并愿补偿 100 元](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUpQUXBubDkzeXRBckl3NUx2Z1FJVUgyNkdKUFdwTXducHdFT2FOLXFXZGwtdm1LY2VGS3BUT0lBNGVrLUJmLUd6TnFiRGVrSDk3MWN3YmZ0X0NTMHZrVTFoZHlwWURqS0djeDR5aFZ1ZDhUNnF3UmVPOE40X01nY3hpMTNpOGRoTmducXlSX2R1cDI4cUhFLQ?oc=5) ⭐️ 6.0/10
+
+一则消费者投诉引发广泛关注：标称 1 公斤的冻牛肉解冻后仅剩 400 多克，平台客服称冻品存在 6%-10%的出水率，仅愿意补偿 100 元。记者随后实测发现，洗净浆水后标称 1 公斤的牛肉实际仅剩 520 克，远超冻品正常出水范围。 该事件凸显了电商平台处理食品质量纠纷的方式，尤其是以“出水率”作为解释是否合理，还是借此推卸对可能过度挂冰或注水产品的责任。这引发了人们对赔偿标准、消费者信任以及商家是否将水分当作肉出售等更广泛问题的担忧。 平台称冻品正常出水率为 6%-10%，但记者实测显示实际可食用肉含量仅为标称重量的约 52%，暗示可能存在过度挂冰或保水剂问题。平台表示会联系采购排查供应商，若产品有问题将作出相应处罚；律师则指出，餐饮商户采购食材用于经营受法律保护。
+
+rss · 客服行业动态 · 9月20日 03:31
+
+**背景**: 肉类冷冻时，内部水分会形成冰晶并破坏细胞结构，解冻时融化的水流出，造成一定的自然重量损失。然而，行业内对冻肉进行挂冰保护或注入保水剂的做法可能人为增加重量，过度挂冰或添加剂会使实际肉含量远低于标签标注。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://k.sina.cn/article_7879996023_1d5af327706801nis2.html">牛肉解冻后重量减少的原因是什么？|冰晶|冻牛肉|水分|汁液|表面_新浪...</a></li>
+<li><a href="https://k.sina.com.cn/article_7879922980_1d5ae152406801kzao.html">实测揭秘：冻牛肉解冻后为何缩水近半？|冰衣|保水剂|储存温度|牛肉片|...</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.70774">Effects of Freezing, Frozen Storage and Thawing on the Water ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#consumer complaints`, `#compensation`, `#food quality`, `#e-commerce`
+
+---
+
+<a id="item-33"></a>
+## [oddsome 卫生棉条被曝棉线断裂，客服称仍在核查原因](https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHhZN0tqbzdRbHJEeWlQOWFXenNVS1l0QkwzZmhSdWpMUzBUOWxHY1BMUkF2bW1uYTRHU2RFdFE2MkdwODBIRkZTZkRKQUg4TXdHXzRyWllVVk10d19fa3Fwa0Z6WlY5VGtDU2o0NEV3QmFXOWRXeERtamJ1UTdLTUxUUW5pZGhTQXc?oc=5) ⭐️ 5.0/10
+
+有网友发文称在使用 oddsome 卫生棉条时棉线突然断裂，棉花留在体内，事件随即引发关注。9 月 20 日，oddsome 离普造物官方客服回应称，目前仍在和工厂及相关环节核查具体原因，现阶段不作推测，并表示已加强相关工序。 棉线断裂属于消费品安全问题，棉条残留体内可能增加感染风险并需要就医处理，因此该事件可能影响消费者对一个正在中国推广棉条品类的品牌的信任。在中国卫生巾仍占绝对主导的市场中，这类投诉的处理方式也为消费品行业的客服危机应对提供了参考案例。 投诉源自一篇社交媒体帖子，称棉线突然断掉、棉花留在体内，品牌方表示正在与工厂及相关供应链环节核查。公司尚未公布召回、涉事批次或根本原因，并在调查结束前拒绝作出推测。
+
+rss · 客服行业动态 · 9月20日 07:54
+
+**背景**: oddsome（离普造物）是一个较新的中国卫生棉条品牌，主打导管式棉条，包括“小绿柄”系列，曾稳居天猫类目第三，累计用户超过 20 万。在中国，卫生巾占经期产品销售额约 99%，而卫生棉条占比不到 1%，因此在一个仍在争取主流接受的品类中，棉条安全事件会受到格外关注。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260920A09C8L00">oddsome卫生棉条被曝棉线断裂 官方客服回应仍在核查原因</a></li>
+<li><a href="https://www.sohu.com/a/1078545982_161795">oddsome卫生棉条被指“断在体内”！品牌称已加强工序</a></li>
+<li><a href="https://xueqiu.com/2115521729/249441348">4亿女性刚需，从消费到医疗， oddsome ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服回应`, `#产品质量投诉`, `#危机公关`, `#消费品安全`, `#客户服务`
+
+---
+
+<a id="item-34"></a>
+## [西贝否认即将倒闭传闻，称全国门店均正常运营](https://news.google.com/rss/articles/CBMiakFVX3lxTE91Uk9vUEljYjQ5NllmMS1GSWtmbkNnSWdLTzJPSXhkS2luclNJSVd4alNSYTg0ZlZZU2tqbmRjNEFSazBHVWUxZTctV3c2TDkxd3hyTHFrRm9SMXhLcGRSbW1iWXlUY3ZqdFE?oc=5) ⭐️ 5.0/10
+
+2026 年 9 月 19 日，有报道称中式正餐连锁品牌西贝将在两三个月内彻底倒闭，创始人贾国龙被指将放弃股份并个人承担大部分债务。西贝客服回应称该说法不准确，全国门店目前均正常运营，并恳请公众理性看待网络信息。 该事件凸显了客服在企业危机公关和辟谣中的前线作用，尤其是在品牌面临财务困难和公众信任危机时。它也说明未经证实的消息可以在社交媒体上迅速传播，进而影响连锁餐饮品牌的声誉和消费者信心。 西贝客服并未就倒闭传闻发布正式公司公告，公开数据显示该公司在 2025 年 9 月至 2026 年 3 月期间累计亏损超过 6 亿元。此次传闻的背景是 2025 年罗永浩指责西贝门店大量使用预制菜，引发舆论争议并损害了品牌公众信任。
+
+rss · 客服行业动态 · 9月20日 01:58
+
+**背景**: 西贝是知名中式正餐连锁品牌，曾连续约十一年在中式正餐中处于前列。2025 年 9 月，罗永浩与西贝创始人贾国龙围绕预制菜的争议不断发酵，导致品牌公众信任崩塌。此后西贝虽多方尝试自救，但财务状况持续恶化，因此容易成为倒闭传闻的对象。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260919A0B2UI00">热搜爆了！“西贝被曝将彻底倒闭”，贾国龙或承担大部分债务、放弃股份</a></li>
+<li><a href="https://m.163.com/dy/article/L77E7L1805568W0A.html">西贝回应贾国龙将放弃股份揽下巨债：这个说法不准确</a></li>
+<li><a href="https://www.163.com/dy/article/L76S984J0511D2LM.html">西贝被曝将彻底倒闭：贾国龙将揽下绝大部分债务，放弃股份|罗永浩|西...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服回应`, `#危机公关`, `#企业舆情`, `#餐饮行业`, `#品牌维护`
+
+---
+
+<a id="item-35"></a>
+## [ArchDaily 展示 Bora Architects 设计的 Airbnb CX 客户体验中心](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMGx0N001SHRXWkxydUNma0JkaU40UUhqTVZEZFhWSG9pSTY2b3RDanBra1BId3lQMHBaWnA4T2dtY0JsdkttaEFMXzZJZ2xFNUVfYWs1UDhxUl9hRGJJSC15bDZsMXJZOHVtampzSEFPb2o4QmlTS05IaVV6ZkFqOXhQaERUeHRGaDNKSVp4aGNNWGZ6MXp0b2tRbEp0c1ZvRjI0Wnl4SF9HWkREcUVXNDlaTHM5MjVlX09UcHBmT210d08xeEsxR0JrOFBsdVNXWEVyUHNfRUgwLXFDYUQ4bw?oc=5) ⭐️ 4.0/10
+
+ArchDaily 发布了一组图片，展示了由 Bora Architects 设计的 Airbnb CX 客户体验中心。Bora Architects 是一家成立于 1958 年、总部位于波特兰的建筑与室内设计公司，此次展示重点呈现了支撑 Airbnb 客户服务运营的实体办公空间。 该报道罕见地展示了领先的民宿平台如何为其客户体验团队设计实体环境，反映出企业投资建设专门 CX 中心以强化服务文化和品牌形象的更广泛趋势。对于研究物理空间如何影响服务质量 CX 负责人和办公空间设计师而言，这一案例具有一定参考价值。 该文章本质上是一个建筑摄影图集，而非技术或战略分析，因此没有涉及 CX 指标、技术栈或运营成果等细节。Bora Architects 以在美国范围内提供建筑、室内设计和规划服务而闻名。
+
+rss · 客服行业动态 · 9月20日 17:27
+
+**背景**: 客户体验中心（CEC）是专门建造的空间，旨在让客户和员工沉浸于公司的品牌、产品和服务之中，常用于培训、工作坊和客户关系维护。Bora Architecture &amp; Interiors 是一家屡获殊荣的全国性设计公司，总部位于俄勒冈州波特兰，成立于 1958 年。Airbnb 是全球性的住宿和体验在线市场，其客户服务运营每年处理数百万次用户互动。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bora_Architects">Bora Architects</a></li>
+<li><a href="https://bora.co/">Home - Bora</a></li>
+<li><a href="https://www.gensler.com/blog/designing-todays-customer-experience-center">From Briefing to Experience, Designing Today’s Customer ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer-experience`, `#workplace-design`, `#Airbnb`, `#architecture`, `#CX-center`
+
+---
