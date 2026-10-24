@@ -1,0 +1,900 @@
+---
+layout: default
+title: "Horizon Summary: 2026-10-24 (ZH)"
+date: 2026-10-24
+lang: zh
+---
+
+> 从 84 条内容中筛选出 38 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [美国能源部将氦气列为关键材料](#item-1) ⭐️ 7.0/10
+2. [IEA：全球煤炭需求或创新高，LNG 运输恢复情况影响明年走势](#item-2) ⭐️ 7.0/10
+3. [一地 2027 年电力交易方案征求意见：10kV 分布式被纳入虚拟电厂聚合范围](#item-3) ⭐️ 7.0/10
+4. [淮河能源与宁德时代合作布局长三角零碳新基建](#item-4) ⭐️ 7.0/10
+5. [川渝地区发布美丽中国先行区方案，2027 年可再生能源装机占比达 75%](#item-5) ⭐️ 7.0/10
+6. [华为签下南非最大民营离网光储项目](#item-6) ⭐️ 7.0/10
+7. [中国发布首个算力中心储能系统国家标准](#item-7) ⭐️ 7.0/10
+8. [国际能源署与美国释放石油储备平抑油价，但弹药已近极限](#item-8) ⭐️ 7.0/10
+9. [北京绿色交易所拟探索自然人参与 CCER 交易，2030 年与国际接轨](#item-9) ⭐️ 7.0/10
+10. [2026 碳中和进展报告：局部动能加快，系统承接仍不足](#item-10) ⭐️ 6.0/10
+
+### 🤖 AI 科技
+
+11. [月之暗面发布 Kimi K3.1 Pro 及高速版本](#item-11) ⭐️ 8.0/10
+12. [安全研究人员利用 AI 攻破 iPhone](#item-12) ⭐️ 8.0/10
+13. [Block 的 Dessa 声称是最真实的全双工语音模型，可在 MacBook Pro M4 Max 上本地运行](#item-13) ⭐️ 8.0/10
+14. [谷歌更新隐私政策，或使用 Gmail 和照片数据定向广告](#item-14) ⭐️ 8.0/10
+15. [CVE 追踪仪表板引发对过时 CVE/CVSS 系统的争论](#item-15) ⭐️ 6.0/10
+16. [Rune 1.3 新增 TypeScript、Helix 编辑器、Kitty 图形和 OSC-7501 支持](#item-16) ⭐️ 5.0/10
+17. [Apple Music 的 404 页面隐藏了可玩的复古 iPod](#item-17) ⭐️ 4.0/10
+18. [空气净化器作为白噪音机器：Hacker News 讨论](#item-18) ⭐️ 4.0/10
+
+### 🏢 大厂要闻
+
+19. [AI 智能体疯狂入侵人类系统：十几起漏洞数小时内被利用](#item-19) ⭐️ 7.0/10
+20. [三星、SK 海力士升级中国工厂，长江存储崛起下的竞争博弈](#item-20) ⭐️ 7.0/10
+21. [智元两年投出 47 笔融资，多数投向上游供应链](#item-21) ⭐️ 7.0/10
+22. [天猫 2026 双 11：用 AI 唤醒沉睡需求，引入 Token 概念](#item-22) ⭐️ 7.0/10
+23. [DeepSeek 据悉完成约 1000 亿元新一轮融资](#item-23) ⭐️ 7.0/10
+24. [微信 8.0.80 版本适配 iPhone Duo 折叠屏](#item-24) ⭐️ 6.0/10
+25. [三年连亏、投资为零，“PE 第一股”九鼎投资为何熄火？](#item-25) ⭐️ 6.0/10
+26. [个人 AI 之争：谁在押注，谁在害怕？](#item-26) ⭐️ 6.0/10
+27. [非洲资源国推动矿产本地加工，中资矿企承压](#item-27) ⭐️ 6.0/10
+28. [常驻型 Agent 改写数据中心，ICT 厂商率先收获订单](#item-28) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+29. [国内首个人工与 AI 协同智能客服国标发布](#item-29) ⭐️ 8.0/10
+30. [咨询客服被算投诉？圆通、韵达、中通等回应](#item-30) ⭐️ 6.0/10
+31. [咨询客服为何等同于投诉快递员？](#item-31) ⭐️ 6.0/10
+32. [山姆召回牡蛎精胶囊，部分会员食用后才获知](#item-32) ⭐️ 6.0/10
+33. [iOS 27 通话情境功能：拨打客服电话自动弹出订单信息](#item-33) ⭐️ 6.0/10
+34. [深圳顾客匿名差评遭商家曝光个人信息](#item-34) ⭐️ 6.0/10
+35. [骗徒冒充香港航空客服 谎称航班取消赔偿 骗走退休妇 120 万](#item-35) ⭐️ 6.0/10
+36. [顺风车订单留言成招嫖广告区，客服回应暗语乱象](#item-36) ⭐️ 5.0/10
+37. [广州地铁澄清 270 分钟乘车上限及 15 元罚款，此前有乘客因停留 5 小时被罚](#item-37) ⭐️ 5.0/10
+38. [苹果警告勿撕 iPhone Duo 磨砂膜，维修费 398 元](#item-38) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [美国能源部将氦气列为关键材料](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MOGN3OVVOWXdnbHVtTGQ2XzRzaV95QkxFSEpnR2NZS0VXU0YwdkhDSW9Ebk5PMmZEcGl5WWF2aVpWVmxyYk12ZmRXM0VhanVBMnZObWFsQ29lLUY0M1ZPLWxfdm8weXAy?oc=5) ⭐️ 7.0/10
+
+美国能源部已将氦气列入关键材料清单，承认其战略重要性以及供应链中断风险日益加剧。这一认定凸显了氦气在半导体制造和其他高科技产业中的关键作用。 这一认定可能促使政府增加对氦气研究、国内生产和回收利用的资助，有助于保障半导体、医疗和太空探索等依赖氦气的行业的供应。这也标志着政策转向，将氦气视为战略资源而非普通商品。 氦气对于冷却 MRI 设备中的超导磁体、半导体制造中的吹扫和冷却以及火箭燃料系统的增压至关重要。美国目前严重依赖从天然气中提取的氦气，国内产量有限，且全球供应担忧加剧。
+
+google\_news · 中国新闻网 · 10月23日 18:20
+
+**背景**: 美国关键材料清单列出了对经济或国家安全至关重要且面临高供应链中断风险的材料。氦气是一种不可再生资源，主要作为天然气开采的副产品获得，其独特性质使其在许多先进技术中不可或缺。近期全球氦气短缺已引发对其供应链脆弱性的警觉。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/United_States_critical_materials_list">United States critical materials list - Wikipedia</a></li>
+<li><a href="https://www.energy.gov/cmm/what-are-critical-minerals-and-materials">What Are Critical Minerals and Materials? - Department of Energy</a></li>
+<li><a href="https://www.innovationnewsnetwork.com/why-helium-is-essential-to-the-future-of-semiconductor-manufacturing/64493/">Why helium is essential to semiconductor manufacturing</a></li>
+
+</ul>
+</details>
+
+**标签**: `#helium`, `#critical materials`, `#energy policy`, `#supply chain`, `#DOE`
+
+---
+
+<a id="item-2"></a>
+## [IEA：全球煤炭需求或创新高，LNG 运输恢复情况影响明年走势](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）报告称，今年全球煤炭需求可能创下历史新高，并且如果 LNG 运输难以恢复，明年需求可能再次打破纪录。 这一预测表明在能源安全担忧下，全球对煤炭的依赖持续存在，影响气候目标和能源政策。政策制定者和市场参与者需为潜在的供应链调整和价格波动做好准备。 IEA 的展望取决于 LNG 运输的恢复情况，这会影响天然气的可用性和价格，进而影响煤炭需求。报告强调了全球能源市场的相互关联性。
+
+google\_news · 财联社 · 10月23日 04:30
+
+**背景**: 国际能源署（IEA）是一个政府间组织，负责分析全球能源领域。LNG（液化天然气）是冷却成液态以便运输的天然气，其运输需要专用运输船。当 LNG 运输受阻时，天然气供应紧张，往往导致发电用煤增加。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/">IEA - International Energy Agency</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%B6%B2%E5%8C%96%E5%A4%A9%E7%84%B6%E6%B0%A3%E8%BC%89%E9%81%8B%E8%88%B9">液化天然氣載運船 - 维基百科，自由的百科全书</a></li>
+
+</ul>
+</details>
+
+**标签**: `#煤炭需求`, `#IEA`, `#LNG运输`, `#能源政策`, `#市场预测`
+
+---
+
+<a id="item-3"></a>
+## [一地 2027 年电力交易方案征求意见：10kV 分布式被纳入虚拟电厂聚合范围](https://news.google.com/rss/articles/CBMieEFVX3lxTE1NRFQ1bTZVa0pJdThZcFo0Y0tNbFg0NTBfRWlXbjVxOEowMnpncGNuaUxvYVNhaTVRT1ZONHZKbWxhSS1QaS1tMC12eHFBclpncjBPdDBJWE1DMW9qWjBtaWNxdHhwbDE5MzBtbTgwckgzTFRUZDM3LQ?oc=5) ⭐️ 7.0/10
+
+某地区 2027 年电力交易方案草案公开征求意见，其中引人注目地将 10kV 分布式能源纳入虚拟电厂的聚合范围。这标志着政策上允许较小规模的分布式资源通过虚拟电厂聚合参与电力市场交易。 这一进展意义重大，因为它扩大了分布式能源的市场准入，而分布式能源由于规模小、波动性大，传统上被排除在批发市场之外。如果该方案获得通过，可能为中国其他地区将分布式资源纳入电力市场树立先例，从而增强电网灵活性并支持可再生能源消纳。 该草案特别针对 10kV 分布式资源，这些通常是中压分布式发电和储能系统，并允许虚拟电厂将其聚合参与市场。然而，作为区域性的征求意见稿，它缺乏国家层面的强制力，且现有摘要中未提供详细的技术或市场影响分析。
+
+google\_news · 新浪财经 · 10月23日 09:56
+
+**背景**: 虚拟电厂（VPP）是一种基于软件的系统，通过聚合和优化分布式能源（DER）如太阳能电池板、电池和柔性负荷的输出，使其像单一电厂一样运行。在中国，接入 10kV 及以上电压等级的分布式光伏系统正越来越多地被鼓励通过聚合方式参与电力市场。包括云南和安徽在内的多个地区近期发布了虚拟电厂参与电力市场的规则草案，反映了分布式资源市场化整合的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/19041612610">分布式光伏如何参与电力市场 | 一文读懂 - 知乎</a></li>
+<li><a href="https://news.bjx.com.cn/html/20260713/1503982.shtml">news.bjx.com.cn/html/20260713/1503982.shtml</a></li>
+<li><a href="https://wind.in-en.com/html/wind-2466696.shtml">安徽省发 布 虚 拟 电 厂 建设运营管理实施 方 案 （ 征 求 意 见 ）-国际风 力 发 电 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#分布式能源`, `#电力市场`, `#能源政策`, `#电力交易`
+
+---
+
+<a id="item-4"></a>
+## [淮河能源与宁德时代合作布局长三角零碳新基建](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlYktWY0JLTGlCQWJ2aXhDTXEzWWlJUXhlWFQtajJXUW1QOF9aVVV3VE96Z2ZlWXhtanJKdF9Mck9zRVd6Ulg2Q2VWc25GWVN6WHhBMHZVelE?oc=5) ⭐️ 7.0/10
+
+淮河能源与宁德时代宣布合作，在长三角地区布局零碳新基建与充换电基础设施。 此次合作将省级国有能源企业与全球最大动力电池制造商结合，有望加速中国最具经济活力区域之一的能源转型和充换电基础设施建设。 公告未披露投资规模、技术路线或项目时间表等具体细节，关键实施问题仍待明确。
+
+google\_news · 国际充换电网 · 10月23日 01:46
+
+**背景**: 宁德时代于 2024 年 9 月提出“零碳新基建”概念，旨在通过技术创新和新型商业模式构建高效、智能、零碳的基础设施体系。淮河能源是安徽省属国有上市企业，主营煤炭、发电和铁路运输等业务。长三角是中国双碳政策落地的重点区域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ecep.ofweek.com/2024-10/ART-93012-8420-30647290.html">新概念！“零碳新基建”到底是个啥？ - OFweek环保网</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%B7%AE%E6%B2%B3%E8%83%BD%E6%BA%90">淮河能源 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/896624177">Next Level！宁德时代发力“零碳新基建” - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#零碳基建`, `#宁德时代`, `#长三角`, `#充换电`, `#能源转型`
+
+---
+
+<a id="item-5"></a>
+## [川渝地区发布美丽中国先行区方案，2027 年可再生能源装机占比达 75%](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pb1VZc2MwZ1Y2ODdMRTF3QWV4Q2NzODh5VkpkQ2NVdVF2R2JHVHRTY3lPSTUycG1BT0EzZWhwYWN2bHJ5Z295QjBUeFB0c0ltRGpzOUhueHZYLTRvLXZIWG8zQlBiU1E0?oc=5) ⭐️ 7.0/10
+
+川渝地区发布了《川渝地区美丽中国先行区建设实施方案》，明确提出到 2027 年可再生能源发电装机比重达到 75%的目标。该方案由四川省政府印发，旨在助力提升成渝地区双城经济圈发展能级，并全面筑牢长江、黄河上游重要生态屏障。 这是一项重要的区域能源政策，彰显了对可再生能源的坚定承诺，并可能为中国其他地区提供示范。它将影响川渝两地的能源规划、电网发展和投资布局，并可能对全国可再生能源目标产生积极影响。 75%的目标指的是装机容量占比，而非实际发电量占比，这一区别值得注意，因为可再生能源的发电出力具有波动性。该方案是“美丽中国先行区”倡议的一部分，国务院于 2025 年初开始推动该倡议，福建等其他省份也已发布类似方案。
+
+google\_news · 国际新能源网 · 10月23日 01:55
+
+**背景**: “美丽中国先行区”是国务院于 2025 年 1 月启动的一项国家战略，旨在鼓励各地区先行探索生态文明和绿色发展。川渝地区是中国西部重要的经济中心，成渝地区双城经济圈是国家级重点发展区域。该方案与中国 2030 年前碳达峰、2060 年前碳中和的总体目标相一致。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sc.gov.cn/10462/zfwjts/2026/10/20/c86851681d5f436294330ea75c3cca1f.shtml">关于印发《川渝地区美丽中国先行区建设实施方案》的通知</a></li>
+<li><a href="https://www.gov.cn/zhengce/content/202501/content_6998719.htm">国务院办公厅转发生态环境部《关于建设美丽中国先行区的实施意见》的...</a></li>
+<li><a href="https://www.fujian.gov.cn/zwgk/zxwj/szfwj/202609/t20260914_7213054.htm">福建省人民政府关于印发《福建省美丽中国先行区建设实施方案》的通知_...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#renewable energy`, `#energy policy`, `#China`, `#Sichuan-Chongqing`, `#regional development`
+
+---
+
+<a id="item-6"></a>
+## [华为签下南非最大民营离网光储项目](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZVUJkVVE4TzF1RDV0UFkyY0YwaUp1Qm45eHYtVUt1S0tDdUxzYWVLUGZ6S2d2WHZ2eXNjellodFB3TVF4NnZvemVvSG9tcGdzcDBCZ1F1MGJnTmdpd0lJeF9TWQ?oc=5) ⭐️ 7.0/10
+
+据国复咨询报道，华为已签署合同，将为南非最大的民营离网光储项目提供设备或解决方案。这笔交易标志着该地区私营部门在可再生能源领域的一项重大投资，并扩大了华为在非洲能源转型中的影响力。 该项目凸显了私营离网光储解决方案在应对非洲能源获取挑战方面日益重要的作用，因为非洲的电网可靠性往往较差。同时，这也巩固了华为作为新兴市场太阳能逆变器和电池储能系统关键供应商的地位，对能源政策和可再生能源部署具有影响。 该项目被称为南非最大的民营离网光储设施，但现有摘要未披露具体容量、地点和财务条款。离网系统通常将太阳能电池板、电池和逆变器组合在一起，独立于电网运行，华为的 FusionSolar 产品线为商业、工业和微电网应用提供此类解决方案。
+
+google\_news · 国复咨询 · 10月23日 07:24
+
+**背景**: 离网太阳能系统是独立于电网运行的独立发电装置，将所有产生的电力储存在电池中，供无阳光时使用。华为主要以通信技术闻名，于 2018 年凭借紧凑型太阳能逆变器进入太阳能市场，目前通过其 FusionSolar 品牌提供包括储能系统和微电网在内的智能光伏解决方案。南非电网不可靠且能源需求不断增长，使得私营离网解决方案对企业和社区越来越有吸引力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://solar.huawei.com/en/">Leading Solar Solutions for a Greener Future | HUAWEI Smart PV...</a></li>
+<li><a href="https://solartechonline.com/blog/off-grid-solar-system-complete-guide/">Complete Off Grid Solar System Guide 2025: Components ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Huawei`, `#South Africa`, `#off-grid solar`, `#energy storage`, `#renewable energy`
+
+---
+
+<a id="item-7"></a>
+## [中国发布首个算力中心储能系统国家标准](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52c193cXFKQmkxM0JtRlQweUdId25QMU4wME9CeTZWSWZfLWVlRC1hdEUtUzJ1T0VWTVpsbkIwRUt2eDNlVG9qaklSR1g4NVlwaFpBMl90N0UzZ2QxclE?oc=5) ⭐️ 7.0/10
+
+2026 年 10 月 20 日，中国发布国家标准《算力中心储能系统 第 1 部分：选型指南》（GB/Z 273.1—2026），由国网浙江电力牵头，联合之江实验室、中国信息通信研究院、宁德时代、华为数字能源、清华大学等数十家单位共同编制。 这是中国算电协同领域的首个国家标准，为数据中心运营商、储能厂商和电网规划者提供了储能系统选型的权威指导，将影响采购和系统设计，并支撑“东数西算”等工程。 该标准为指导性技术文件（GB/Z），由全国智能计算标准化工作组归口，项目周期 12 个月，自 2025 年 10 月下达，侧重于选型方法而非强制性要求。
+
+google\_news · 碳道app · 10月23日 00:10
+
+**背景**: 中国 AI 的快速发展带来算力需求激增，导致数据中心耗电量大幅上升。“算电协同”概念旨在将算力基础设施与电力系统深度融合，以使用清洁、廉价且稳定的能源，并已写入 2026 年政府工作报告和“十五五”规划纲要。储能对于数据中心管理峰值负载、保障可靠性及消纳可再生能源至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="http://www.zj.xinhua.org/20261021/c6df5cec626841a485e8977ba05a96c3/c.html">算电协同领域国家标准《算力中心储能系统 第1部分：选型指南》发布</a></li>
+<li><a href="https://www.nea.gov.cn/20260710/082757047b114b2798fcdeec42673e18/c.html">算电协同：从“概念”到“落地”的加速跑---国家能源局</a></li>
+<li><a href="https://cnas.spc.net.cn/cnas/revision/revisiondetail?id=112537">算力中心储能系统 第1部分：选型指南</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy storage`, `#data center`, `#national standard`, `#energy policy`, `#computing-power coordination`
+
+---
+
+<a id="item-8"></a>
+## [国际能源署与美国释放石油储备平抑油价，但弹药已近极限](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3OTBCV1pvbUNpcnpJeHQzTmZ6U0NKSDNxUXpRdTM4SlJxSkFIa05fNmdBbWxnYjc4bGdHSXpWSms4a1pGNC1TQmdkb29OVGEzVnhNTg?oc=5) ⭐️ 7.0/10
+
+国际能源署与美国正协调释放战略石油储备以应对油价上涨，但据虎嗅援引的分析，这一措施的价格效果以及未来继续释放的剩余能力都已接近极限。 协调释放储备是决策者应对油价飙升的少数快速工具之一，因此这一“弹药”即将耗尽的信号对能源市场、通胀预期以及各国政府应对下一次供应冲击的能力都至关重要。 国际能源署的机制分步骤运作：先宣布供应中断事件，确定释放规模，再按预定份额分配给成员国，其中美国拥有最大的储备；然而，反复的释放已使美国库存降至数十年低点，紧急缓冲垫日益稀薄。
+
+google\_news · 虎嗅 · 10月23日 08:47
+
+**背景**: 战略石油储备是政府持有的原油库存，用于在供应紧急时期投放市场。国际能源署负责协调成员国的释放行动，而由于释放储备释放了额外供应的信号，往往能迅速平抑原油价格。美国战略石油储备是全球最大的储备，在 Weeks Island 等设施退役后，其总储存能力约为 6.8 亿至 7.14 亿桶。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://globaloilshock.com/en/glossary/iea-release-mechanism/">IEA Release Mechanism Explained | GLOBALOILSHOCK</a></li>
+<li><a href="https://247wallst.com/investing/2026/08/25/americas-strategic-petroleum-reserve-is-running-on-fumes-what-happens-when-the-next-supply-shock-hits/?tpid=1671051">America&#x27;s Strategic Petroleum Reserve Is Running on... - 24/7 Wall St.</a></li>
+<li><a href="https://digital.library.unt.edu/ark:/67531/metadc685563/m2/1/high_res_d/334266.pdf">Strategic Petroleum Reserve</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#strategic petroleum reserve`, `#IEA`, `#oil prices`, `#energy security`
+
+---
+
+<a id="item-9"></a>
+## [北京绿色交易所拟探索自然人参与 CCER 交易，2030 年与国际接轨](https://news.google.com/rss/articles/CBMid0FVX3lxTE0xbjFRU3JNejl0MG52Mk9DRnBFTjQ0dkFvR2ZPdjlxaldzdk00dF9HQWhWbUZFdEdjbW96NGVSTXAxMlpBU25nS1VBdUFnWURfMFJXQ2pHNk92QjVvcVNMSEFuV01YN3hFMUdvbHMwWmV0ZlUxY3Zr?oc=5) ⭐️ 7.0/10
+
+北京绿色交易所董事长王乃祥在接受《21 世纪经济报道》专访时表示，交易所正在探索允许自然人参与 CCER 交易，并计划到 2030 年与国际标准接轨。 将 CCER 交易扩展至个人可以扩大中国自愿碳市场的参与度并提升流动性，而 2030 年与国际接轨的目标则标志着中国碳市场向全球气候行动对接迈出一步。 这些计划仍处于探索阶段，尚未公布个人参与的时间表；目前 CCER 交易仅限符合条件的法人和机构参与，交易所计划到 2030 年与国际标准接轨。
+
+google\_news · ZAKER新闻 · 10月23日 09:07
+
+**背景**: CCER（中国核证自愿减排量）是中国国家碳市场下的自愿碳信用机制。该机制在暂停六年后于 2024 年 1 月重启，北京绿色交易所负责交易平台，国家应对气候变化战略研究和国际合作中心（NCSC）负责登记簿管理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.china-briefing.com/news/understanding-the-relaunched-china-certified-emission-reduction-ccer-program-potential-opportunities-for-foreign-companies/">China Certified Emission Reduction ( CCER ) Program: Investor...</a></li>
+<li><a href="https://icapcarbonaction.com/en/ets/china-national-ets">China National ETS | International Carbon Action Partnership</a></li>
+<li><a href="https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/012224-chinas-national-voluntary-carbon-market-starts-trading-jan-22">China &#x27;s national voluntary carbon market starts trading ... | S&amp;P Global</a></li>
+
+</ul>
+</details>
+
+**标签**: `#CCER`, `#carbon market`, `#energy policy`, `#China`, `#green finance`
+
+---
+
+<a id="item-10"></a>
+## [2026 碳中和进展报告：局部动能加快，系统承接仍不足](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvWmNBRkxwbS1HYnctdmJ5YmVMTmRRSVE3NmMzRWh5SE1ZX2lzZlZkZE05dFVQem5TXzdiNnFDdjhUV3gwSzhsWDlGM096dEpUbkhYVlRrRjB6LVl2RHhlSg?oc=5) ⭐️ 6.0/10
+
+澎湃新闻援引的 2026 年碳中和进展报告指出，中国地方层面的低碳行动正在加快，但系统性协调与承接仍然不足。报告揭示了基层动能与能源转型所需的整体制度框架之间的差距。 这一评估之所以重要，是因为中国正进入“十五五”时期（2026—2030 年），重点从扩大清洁能源装机转向能源系统转型和加强碳治理。如果系统性协调依然薄弱，仅靠地方动能可能无法实现碳达峰碳中和目标所需的结构性变革。 报告区分了加速的地方举措与不足的系统性整合，表明当前的关键瓶颈在于落实和结构性变革，而非产能扩张。这一判断出台之际，政策层面正更加强调碳管理、系统灵活性和工业脱碳。
+
+google\_news · ThePaper.cn · 10月23日 04:20
+
+**背景**: 中国提出力争 2030 年前实现碳达峰、2060 年前实现碳中和的目标。随着中国进入“十五五”时期（2026—2030 年），政策重心正从建设清洁能源产能转向将其整合进电力系统并加强碳治理。地方政府和企业往往推动试点项目，但要规模化推广，需要协调的国家框架、电网灵活性和市场机制。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.agora-energiewende.org/fileadmin/Projekte/2026/2026-10_CN_china_data_annual_review/A-EW_415_China%E2%80%99s_energy_transition_and_climate_status_report_2026_WEB.pdf">hina’s energy transition and climate status report 2026</a></li>
+<li><a href="https://www.mee.gov.cn/ywgz/ydqhbh/qhbhlf/202610/t20261021_1183474.shtml">生态环境部发布《中国应对气候变化的政策与行动2026年度报告》_中华人...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#carbon neutrality`, `#energy policy`, `#China`, `#climate progress`, `#systemic challenges`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [月之暗面发布 Kimi K3.1 Pro 及高速版本](https://www.kimi.ai/blog/kimi-k3-1-pro) ⭐️ 8.0/10
+
+月之暗面（Moonshot AI）发布了其旗舰开源权重模型的增量升级版 Kimi K3.1 Pro，并同时推出高速版本（Highspeed），相关信息见其官方博客及模型对比网站。该发布迅速在 Hacker News 上获得 672 分和 428 条评论，用户围绕其模型个性、推理轨迹、订阅配额和安全政策展开了讨论。 此次发布之所以重要，是因为它是最受关注的中国开源权重模型发布之一，而且其明确政策——有意不在开源权重中提供前沿网络攻击能力——为实验室如何平衡开放与安全树立了先例。强烈的社区参与表明，对于成本敏感的开发者而言，Kimi 已成为美国前沿模型的一个严肃替代选择。 月之暗面表示，K3.1 Pro 的进攻性网络能力被有意设计在其流水线所能达到的水平之下，并仍落后于前沿闭源模型，同时计划逐步提升开源权重中的网络能力。社区基准测试显示，它在一项 Pac-Man 测试中以 93 分与 Claude Sonnet 5.5 持平，成本为 0.68 美元、耗时 11 分钟，而 Sonnet 为 1.61 美元、14 分钟。
+
+hackernews · Jowsey · 10月23日 16:59 · [社区讨论](https://news.ycombinator.com/item?id=50212065)
+
+**背景**: Kimi 是月之暗面（Moonshot AI）的大语言模型系列；此前的 K3 是一个 2.8 万亿参数的开源权重多模态推理模型，在 OpenRouter 上定价为每百万输入 token 1.39 美元、每百万输出 token 13 美元。开源权重模型允许任何人下载并运行权重，这引发了安全限制可能被移除的担忧——此前开发者曾在 GLM-5.3 发布后数天内推出“去审查”（abliterated）版本。推理轨迹是模型在给出答案前产生的逐步中间输出，由于可能泄露身份或指令细节，已成为研究焦点。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://openrouter.ai/moonshotai/kimi-k3">Kimi K3 - API Pricing &amp; Benchmarks | OpenRouter</a></li>
+<li><a href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities">GLM-5.3 and the spread of advanced cyber capabilities</a></li>
+<li><a href="https://arxiv.org/abs/2606.00642">Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者发现 Kimi 明显比美国模型更直率、更好争辩，一位测试者观察到其推理轨迹有时自称 Kimi，有时自称 ChatGPT，并提及“评估者”或幽灵般的 API 指令。其他人警告称，99 美元/月的套餐在单次会话 47 分钟内就触发了 5 小时配额限制，还有一些人质疑月之暗面承认自己能够产出更强的网络能力却选择不发布。
+
+**标签**: `#Kimi`, `#Moonshot AI`, `#open-source LLM`, `#model release`, `#AI safety`
+
+---
+
+<a id="item-12"></a>
+## [安全研究人员利用 AI 攻破 iPhone](https://blog.calif.io/p/iphone) ⭐️ 8.0/10
+
+Calif.io 的安全研究人员宣布，他们成功利用前沿 AI 模型发现并利用了 iPhone 中的漏洞，实现了攻破该设备的目标。 这展示了 AI 在漏洞发现和利用方面日益增强的能力，可能显著加速攻击性安全研究并降低发现零日漏洞的门槛，对防御方和攻击方都将产生影响。 研究人员使用了前沿 AI 模型，但此类模型用于安全研究通常仅限于经过审查的“红队”项目，这引发了关于排他性以及 Lockdown 模式等缓解措施有效性的担忧。
+
+hackernews · pavel\_lishin · 10月23日 16:21 · [社区讨论](https://news.ycombinator.com/item?id=50211474)
+
+**背景**: AI 模型，特别是大型语言模型，正越来越多地应用于网络安全任务，如代码分析和漏洞发现。iPhone 漏洞利用通常涉及寻找并串联软件漏洞以绕过安全保护，而苹果的 Lockdown 模式是一种强化安全设置，旨在防御复杂攻击。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aisle.com/platform/vulnerability-discovery">Vulnerability Discovery with AI -Native Code Analysis | AISLE</a></li>
+<li><a href="https://grabify.org/blog/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days/">The AI Zero-Day Revolution: How LLMs are Redefining Vulnerability ...</a></li>
+<li><a href="https://www.isc2.org/Insights/2024/01/The-Ethical-Dilemmas-of-AI-in-Cybersecurity">Ethical and Moral Decisions, Dilemmas of AI in Cybersecurity</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了对生态系统锁定以及圈外安全研究人员难以获得前沿 AI 模型访问权限的不满，同时质疑 Lockdown 模式是否能有效缓解此类漏洞利用，并表达了对 root 访问权限的渴望。
+
+**标签**: `#AI security`, `#iPhone hacking`, `#vulnerability research`, `#cybersecurity`, `#AI ethics`
+
+---
+
+<a id="item-13"></a>
+## [Block 的 Dessa 声称是最真实的全双工语音模型，可在 MacBook Pro M4 Max 上本地运行](https://block.xyz/dessa) ⭐️ 8.0/10
+
+Block 推出了 Dessa，这是一款新的全双工语音模型，声称能够提供高度真实、低延迟的对话，并且可以在 MacBook Pro M4 Max 或更高配置的设备上本地运行。该公司还表示，Dessa 仅在一台 NVIDIA GB200 NVL72 系统上完成训练。 如果 Dessa 的低延迟、富有表现力的对话确实能在本地设备上运行，这将标志着设备端 AI 语音助手的重大进步，减少对云基础设施的依赖，并实现更私密、更响应迅速的交互。该模型在单台 GB200 NVL72 上的高效训练也表明，先进的语音 AI 可能对小型团队变得更加可及。 Dessa 是一个全双工模型，意味着它可以同时听和说，从而实现自然的打断和重叠对话。然而，其“史上最真实”的说法被批评为营销炒作，并且关于该模型如何与非音频数字通道集成以及其训练数据的来源仍存在疑问。
+
+hackernews · dsr12 · 10月23日 19:09 · [社区讨论](https://news.ycombinator.com/item?id=50213925)
+
+**背景**: 全双工语音模型与传统轮流对话的语音助手不同；它们在生成回复的同时处理传入的音频，更像人类的对话。在本地运行此类模型需要大量计算资源，而苹果的 M4 Max 芯片凭借统一内存已成为设备端 AI 推理的热门平台。训练大型语音模型通常需要庞大的 GPU 集群，因此 Dessa 在单台 GB200 NVL72 上完成训练在效率方面值得注意。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.emergentmind.com/topics/full-duplex-speech-llms">Full - Duplex Speech LLMs</a></li>
+<li><a href="https://mljourney.com/mac-ai-performance-guide-2026-m4-pro-vs-m4-max-vs-m4-ultra-for-local-llms/">Mac AI Performance Guide 2026: M4 Pro vs M4 Max vs M4 Ultra ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对本地推理和单系统训练的说法印象深刻，有人称其为“独立 AI 的一项了不起的成就”。然而，其他人批评“史上最真实”的标题是耸人听闻的营销，质疑该模型如何与非音频通道交互，并认为双工演示显得人为打断且过度训练于播客数据。
+
+**标签**: `#speech-model`, `#full-duplex`, `#local-inference`, `#AI`, `#voice-assistant`
+
+---
+
+<a id="item-14"></a>
+## [谷歌更新隐私政策，或使用 Gmail 和照片数据定向广告](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) ⭐️ 8.0/10
+
+谷歌更新了隐私政策，表明其可能使用 Gmail 和 Google Photos 中的数据来定向投放广告，这一变化引发了用户和监管机构的隐私担忧。 这一潜在的政策转变可能严重影响用户信任并招致监管审查，因为它代表了谷歌为广告目的使用个人数据的重大扩展。 政策更新表明，谷歌可能利用其电子邮件和照片服务中的个人数据来定向广告，但具体范围和实施细节尚不清楚。
+
+hackernews · JustSkyfall · 10月23日 19:34 · [社区讨论](https://news.ycombinator.com/item?id=50214218)
+
+**背景**: 谷歌隐私政策的变化通常预示着该公司打算如何跨服务使用数据。Gmail 和 Google Photos 包含大量个人信息，将此类数据用于广告一直是一个敏感话题，尤其是在欧盟《数字市场法案》（DMA）等法规下，该法案赋予用户更多对关联服务的控制权。
+
+**社区讨论**: 社区评论表达了怀疑和担忧，一些人指出“可能”实际上意味着“将会”，并建议用户通过谷歌广告设置选择退出，或改用 Immich 等照片替代方案。其他人则提到 DMA 关于取消服务关联的规定，作为限制数据共享的一种方式。
+
+**标签**: `#privacy`, `#Google`, `#advertising`, `#AI ethics`, `#data protection`
+
+---
+
+<a id="item-15"></a>
+## [CVE 追踪仪表板引发对过时 CVE/CVSS 系统的争论](https://cve.0xosprey.com/) ⭐️ 6.0/10
+
+一个新的 CVE 追踪仪表板（cve.0xosprey.com）发布，提供自 1999 年以来每日发布的 CVE 记录数量，数据从官方 CVE 列表每日重建。该工具在 Hacker News 上引起关注，评论者讨论了关键漏洞的急剧增加以及 CVE/CVSS 系统的局限性。 该仪表板可视化了一个令人担忧的趋势：关键 CVE 的数量已飙升至 2020 年水平的约 25 倍，远远超过整体 CVE 约 5 倍的增长。这凸显了漏洞管理团队日益增加的负担，并对当前 CVE/CVSS 评分系统的有效性提出了质疑。 该仪表板包含对数刻度选项，但用户报告点击后网站冻结且图表不变。此外，NIST 最近已停止积极分析 CVE，这可能影响数据的完整性和准确性。
+
+hackernews · Group\_B · 10月23日 21:21 · [社区讨论](https://news.ycombinator.com/item?id=50215530)
+
+**背景**: CVE（通用漏洞披露）是一个公开披露的网络安全漏洞目录，每个漏洞分配唯一标识符。CVSS（通用漏洞评分系统）是一个用于评估这些漏洞严重性的框架，评分范围为 0 到 10。国家漏洞数据库（NVD）为 CVE 记录补充 CVSS 分数和其他元数据，但最近的变更减少了 NVD 的分析工作。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/National_Vulnerability_Database">National Vulnerability Database - Wikipedia</a></li>
+<li><a href="https://www.cve.org/">CVE : Common Vulnerabilities and Exposures</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System">Common Vulnerability Scoring System - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对 CVE/CVSS 系统表示失望，称其过时且与现代软件开发脱节。一些人指出关键 CVE 的激增比整体趋势更严重，而另一些人批评仪表板的对数刻度错误，并提到龙卷风图等替代可视化方案。还有人担心由于政府减少投入而导致未分析 CVE 的积压。
+
+**标签**: `#CVE`, `#vulnerability-management`, `#cybersecurity`, `#data-visualization`, `#CVSS`
+
+---
+
+<a id="item-16"></a>
+## [Rune 1.3 新增 TypeScript、Helix 编辑器、Kitty 图形和 OSC-7501 支持](https://rune.build/blog/rune-1-3-release) ⭐️ 5.0/10
+
+Rune 1.3 已发布，新增了 TypeScript 支持、Helix 编辑器集成、Kitty 图形协议支持以及 OSC-7501 程序状态报告功能。此次更新扩展了该框架构建终端开发环境的能力。 此版本对构建基于终端的 IDE 和工具的开发者具有重要意义，因为它增加了现代语言支持和先进的终端图形/状态功能。它反映了功能丰富的 TUI 框架与传统的 GUI 和基于 Electron 的编辑器竞争的趋势日益增长。 OSC-7501 的加入允许程序直接向终端报告其状态（空闲、工作中、阻塞、完成、失败），从而更好地与终端模拟器集成。Kitty 图形支持为 TUI 带来了图像渲染能力，而 Helix 编辑器集成则提供了模态编辑体验。
+
+hackernews · ernestrc · 10月23日 19:42 · [社区讨论](https://news.ycombinator.com/item?id=50214325)
+
+**背景**: Rune 是一种可嵌入的 Rust 动态编程语言，但此版本指的是用 Rune 构建的 TUI/IDE 框架。OSC-7501 是一种提议的终端转义序列，允许程序向终端传达其状态，对编码代理和交互式工具很有用。Helix 是一个用 Rust 编写的后现代模态文本编辑器，受 Kakoune 和 Neovim 启发，具有多重选择和 tree-sitter 集成功能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://rune-rs.github.io/">The Rune Programming Language</a></li>
+<li><a href="https://helix-editor.com/">Helix</a></li>
+<li><a href="https://mitchellh.com/writing/program-status-osc7501">A Terminal Protocol for Program Status (OSC 7501)</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出新 IDE 的激增，其中一人分享了从 OpenGL/Vulkan 切换到 Wails 以获得更好平衡的经验。其他人表示更倾向于使用多个专业工具而非单一的全能解决方案，并质疑 TUI 在当今的相关性。
+
+**标签**: `#developer-tools`, `#IDE`, `#TypeScript`, `#terminal-graphics`, `#open-source`
+
+---
+
+<a id="item-17"></a>
+## [Apple Music 的 404 页面隐藏了可玩的复古 iPod](https://music.apple.com/this-url-doesnt-exist) ⭐️ 4.0/10
+
+Apple Music 的 404 错误页面中包含一个隐藏的、可交互的 iPod 界面，用户可以进行操作，包括点击轮和一个秘密游戏。这个彩蛋在 MacRumors 上被报道，并在 Hacker News 上引发讨论，用户发现通过设置 &gt; 关于并按住中心按钮 5 秒即可进入一个砖块游戏。 这个奇特的彩蛋展现了 Apple 罕见俏皮的一面，在长期 Apple 用户中唤起了对标志性 iPod 及其点击轮界面的怀旧之情。虽然这不是重大的技术发展，但它展示了公司如何利用隐藏功能来吸引用户并塑造品牌个性。 隐藏的 iPod 界面包括一个可用的点击轮，带有令人满意的咔嗒声，以及一个秘密砖块游戏，可通过导航到设置 &gt; 关于并按住中心按钮 5 秒来访问。一些用户指出缺少某些功能，例如在随机播放时高亮歌曲并设置为下一首播放，这表明该模拟并非完全忠实于原版 iPod。
+
+hackernews · frizlab · 10月23日 12:28 · [社区讨论](https://news.ycombinator.com/item?id=50207910)
+
+**背景**: 当 Web 服务器找不到请求的页面时，通常会显示 404 错误页面，原因可能是 URL 错误或内容被删除。公司有时会将这些错误页面变成彩蛋——隐藏的功能或信息——来娱乐访客。iPod 是 Apple 标志性的便携式音乐播放器，带有点击轮，已于 2022 年停产，因此这个复古界面是对它的怀旧致敬。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HTTP_404">HTTP 404 - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Easter_egg_%28media%29">Easter egg (media) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对 iPod 的点击轮表达了怀旧之情，有人称其为令人难以置信且令人满意的用户界面，但技术已经不再需要它。其他人欣赏 Apple 俏皮的一面，开玩笑说 SRE 正在处理升高的 404 率，并指出缺少诸如将歌曲排队为下一首播放等功能。
+
+**标签**: `#Apple Music`, `#easter egg`, `#retro UI`, `#404 page`, `#nostalgia`
+
+---
+
+<a id="item-18"></a>
+## [空气净化器作为白噪音机器：Hacker News 讨论](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines) ⭐️ 4.0/10
+
+Hacker News 上的一篇帖子讨论了将空气净化器用作睡眠白噪音机器，共有 78 条评论，争论了听力风险、空气质量指数目标和产品体验。 这次讨论凸显了家用硬件的一种实用双用途趋势，因为许多人已经在夜间运行净化器，并可能依赖其风扇噪音来助眠，这提高了对潜在听力安全和有效空气质量监测的认识。 评论者分享了具体的室内空气质量读数（例如 PM2.5 基线为 2.6 µg/m³，烹饪时升至 10.8 µg/m³），并指出净化器的噪音通常比音质单薄的的白噪音扬声器更可取，同时一位用户询问整夜持续噪音是否会导致耳鸣或听力损失。
+
+hackernews · luu · 10月23日 17:28 · [社区讨论](https://news.ycombinator.com/item?id=50212507)
+
+**背景**: 白噪音机器产生覆盖所有可听频率的持续声音，以掩盖干扰性噪音并帮助睡眠。带有风扇的空气净化器自然会产生宽带噪音，许多型号提供可调风速，使其成为临时的白噪音源。然而，听力安全取决于音量、时长和频率，专家建议保持适中的声音水平，尤其是对婴儿。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bettersleep.com/blog/white-noise-for-sleep-guide">What is White Noise and How Can It Help You Sleep Better?</a></li>
+<li><a href="https://www.risescience.com/blog/can-white-noise-help-you-sleep">Can White Noise Help You Sleep? A Sleep MD Debunks the Myths</a></li>
+<li><a href="https://airpurifierfaqs.com/guides/air-purifier-sound-machine/">Air Purifier White Noise: 4 Picks by Measured Sound Amazon.com: White Noise Air Purifier Quiet HEPA Air Purifiers for Sleep | White Noise Air ... Best Air Purifiers with White Noises: Breathe Easy while ... White Noise Air Purifier | Best for Quiet Sleep &amp; Allergies Best Air Purifiers With White Noise for Better Sleep and ... Best Air Purifier White Noise Solutions for Sleep and Quiet ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为空气净化器是有效的白噪音机器，一些人提到儿童形成了巴甫洛夫式的睡眠关联，并分享了 AQI 数据。有人对持续噪音可能造成听力损伤表示担忧，但未就安全限值达成共识。
+
+**标签**: `#air-purifiers`, `#white-noise`, `#sleep`, `#home-hardware`, `#air-quality`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-19"></a>
+## [AI 智能体疯狂入侵人类系统：十几起漏洞数小时内被利用](https://www.tmtpost.com/8179406.html) ⭐️ 7.0/10
+
+近期一篇分析文章梳理了十几起 AI 智能体入侵人类系统的漏洞案例，并指出从漏洞被发现到被大规模利用的时间窗口已缩短至仅几个小时。 这凸显了网络安全领域的根本性转变：AI 驱动的攻击正在加速漏洞利用周期，使组织几乎没有时间修补，影响所有部署 AI 智能体或依赖传统漏洞管理的企业。 文章指出，AI 智能体能够自主发现并武器化漏洞，近期研究显示从漏洞披露到被利用的中位时间已从两年多降至约五天，许多漏洞在披露当天即被利用。
+
+rss · 钛媒体 · 10月23日 10:30
+
+**背景**: AI 智能体是能够执行编码、交易或管理工作流等任务的自主软件系统。随着它们获得对工具和 API 的访问权限，引入了工具投毒和函数调用注入等新的攻击面。同时，由于自动化扫描和 AI 辅助攻击工具的发展，零日漏洞的利用窗口已大幅缩短。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mimic.com/patch-window">The Patch Window | Live Zero-Day Exploitation Data | Mimic</a></li>
+<li><a href="https://labs.cloudsecurityalliance.org/research/csa-whitepaper-collapsing-exploit-window-ai-speed-vulnerabil/">The Collapsing Exploit Window: AI-Speed Vulnerability ...</a></li>
+<li><a href="https://www.programming-helper.com/tech/ai-agent-security-2026-attack-surfaces-mcp-function-calling">AI Agent Security 2026: Attack Surfaces in MCP, Function ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI安全`, `#智能体`, `#漏洞利用`, `#大厂动态`, `#网络安全`
+
+---
+
+<a id="item-20"></a>
+## [三星、SK 海力士升级中国工厂，长江存储崛起下的竞争博弈](https://www.tmtpost.com/8178504.html) ⭐️ 7.0/10
+
+据路透社 2026 年 10 月 21 日援引四位知情人士报道，三星电子和 SK 海力士正在升级其中国工厂以生产更先进的存储芯片。三星证实升级正在进行，并与美国政府密切磋商；SK 海力士则表示一直在其中国工厂安装设备。 此举表明，尽管地缘政治紧张且中国竞争对手长江存储迅速崛起，韩国存储巨头仍致力于在华生产，以满足激增的 AI 需求并捍卫市场份额。这一态势将塑造全球存储供应链，并影响先进芯片技术在出口管制下流入中国的方式。 升级在与美国政府磋商下进行，反映出需要应对美国对先进半导体设备的出口管制。报道未具体说明涉及的制程节点或产品，但目标是生产更先进的存储芯片，以抵御长江存储的竞争并满足 AI 需求。
+
+rss · 钛媒体 · 10月23日 10:21
+
+**背景**: 长江存储（YMTC）是一家中国 NAND 闪存制造商，2016 年在政府投资下于武汉成立，旨在减少中国对外国芯片的依赖。凭借自研的 Xtacking 架构，该公司已崭露头角，目前在全球 NAND 市场与三星、SK 海力士、铠侠和美光展开竞争。三星和 SK 海力士是韩国存储芯片巨头，长期在中国运营大型晶圆厂以服务当地电子产业。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/">Samsung, SK Hynix upgrading China plants to make more ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.goaragon.eu/news-aragon-spain-ymtc-growth-nand-memory-market/">Who is YMTC ? The Manufacturer Explaining China&#x27;s Race to Produce...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor`, `#memory chips`, `#Samsung`, `#SK Hynix`, `#YMTC`, `#China tech`
+
+---
+
+<a id="item-21"></a>
+## [智元两年投出 47 笔融资，多数投向上游供应链](https://www.tmtpost.com/8178163.html) ⭐️ 7.0/10
+
+智元机器人在过去两年内完成了 47 笔投资，其中多数投向了自家机器人的上游供应链，同时也在谋划上市。其通过供应链投资构建生态并寻求上市的战略成败，仍有待市场验证。 这标志着人形机器人领域的重要玩家通过投资进行供应链垂直整合的战略动向，可能增强其对成本与技术的控制力，但也引发对资本效率和潜在利益冲突的质疑。此举对机器人及硬科技投资领域具有参考价值，可能为具身智能企业构建生态树立先例。 两年 47 笔投资显示出激进的节奏，且重点投向上游零部件和技术，直接支持智元自身的机器人生产。公司已确认赴港上市计划，目标估值据报在 400 亿至 500 亿港元之间，但保荐人及时间表等细节尚未披露。
+
+rss · 钛媒体 · 10月23日 10:19
+
+**背景**: 智元机器人是一家总部位于上海的人形机器人公司，由前华为高管彭志辉和邓泰华联合创办，专注于通用具身智能机器人。公司已实现量产，2025 年 1 月千台机器人下线，2024 年销售额超过 1 亿元人民币。智元已完成十余轮融资，背后投资方超过 50 家，包括高瓴创投、红杉中国、腾讯、比亚迪等顶级资本和战略投资者。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%99%BA%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA">智元机器人 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.agibot.com.cn/article/188/detail/96.html">智元机器人-智元创新（上海）科技股份有限公司</a></li>
+<li><a href="https://www.sohu.com/a/1056144938_122295434">智元机器人冲刺IPO：三年营收飙至40亿，400亿港元估值能站稳吗？</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智元`, `#机器人`, `#融资`, `#供应链投资`, `#上市`
+
+---
+
+<a id="item-22"></a>
+## [天猫 2026 双 11：用 AI 唤醒沉睡需求，引入 Token 概念](http://www.geekpark.net/news/372801) ⭐️ 7.0/10
+
+在 2026 年 10 月 15 日于上海举行的天猫双 11 发布会上，天猫总裁家洛宣布天猫将利用 AI 理解消费者的潜在需求，而非仅仅匹配已知需求，并引入了“Token”概念作为其 AI 驱动需求挖掘战略的一部分。发布会还详细介绍了淘宝搜索的升级，包括长尾意图理解、多模态搜索和 AI 购物助手。 这标志着电商从基于关键词的匹配转向 AI 驱动的需求发现，可能重塑商家争夺曝光的方式以及消费者发现商品的路径。如果成功，它可能为整个行业的 AI 购物体验树立新标准。 天猫的方法利用阿里巴巴的通义千问系列模型，统一文本、语音、图像和视频理解，并结合商品知识与场景推理生成动态结果页。发布会上引入了“Token”概念，但未给出技术细节，其具体实现尚不明确。
+
+rss · 极客公园 · 10月23日 05:56
+
+**背景**: 在 AI 领域，Token 指大语言模型处理文本的基本单位，也用于 API 计费。在电商中，AI 人群包等 AI 驱动的定向工具正兴起，能够根据自然语言描述自动生成精准的客户细分。天猫双 11 是一年一度的购物节，也是最新零售技术和战略的展示窗口。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/2065927941331083574">Token（词元、令牌、标记）的含义和应用 - 知乎</a></li>
+<li><a href="https://insight.xiaoduoai.com/e-commerce-information/xiaohongshu-information/xiaohongshu-juguang-ai-audience-package-ukcdpd.html">小红书聚光AI人群包怎么用？入口、验证方法、投放步骤以及避坑指南 - ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#天猫双11`, `#AI电商`, `#消费者洞察`, `#Token`, `#大厂动态`
+
+---
+
+<a id="item-23"></a>
+## [DeepSeek 据悉完成约 1000 亿元新一轮融资](http://www.geekpark.net/news/372767) ⭐️ 7.0/10
+
+10 月 22 日，有市场消息称 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币（约 150 亿美元），腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。本轮募资目标最初设定为 500 亿元，此后经多轮上调至约 1000 亿元，目前 DeepSeek 及腾讯等相关投资方均未公开回应。 这将成为中国 AI 初创公司史上规模最大的融资之一，大幅增强 DeepSeek 在模型训练、算力建设和人才招募方面的资源，以参与全球竞争。本轮融资还可能为该公司筹备中的科创板 IPO 铺平道路，显示投资者对中国大模型赛道的强烈信心。 本轮募资目标最初为 500 亿元，经多轮上调至约 1000 亿元，但最终金额仍未完全确定。有消息人士判断，本轮融资将为公司筹备中的科创板 IPO 铺平道路，不过公司尚未官方确认。
+
+rss · 极客公园 · 10月23日 00:49
+
+**背景**: DeepSeek 是一家中国大模型公司，以其开源 AI 模型闻名。科创板是上海证券交易所设立的类似纳斯达克的市场板块，旨在服务拥有关键核心技术的硬科技企业。腾讯是中国互联网巨头，宁德时代是全球最大的电动汽车电池制造商，两者都在加大对 AI 的投资。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-hans/IPhone_Duo">iPhone Duo - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.163.com/dy/article/JGOAVHOO05119RIN.html">最新 ｜ Starlink 卫 星 壳层与 星 座的映射关系介绍</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DeepSeek`, `#融资`, `#大模型`, `#腾讯`, `#科创板IPO`
+
+---
+
+<a id="item-24"></a>
+## [微信 8.0.80 版本适配 iPhone Duo 折叠屏](https://www.ifanr.com/1685575?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+微信正式推送了 8.0.80 版本的 iPhone 客户端更新，正式适配苹果首款折叠屏手机 iPhone Duo，支持内屏分栏等基础功能。爱范儿第一时间在 iPhone Duo 上实测了该版本，评估其适配完成度与实际使用体验。 这件事之所以重要，是因为 iPhone Duo 是苹果首款折叠屏设备，而微信是中国用户量最大的应用，其适配情况是折叠屏生态成熟度的关键信号。此前“微信不适配 iPhone Duo”话题曾冲上微博热搜第一，此次更新也反映出用户对主流应用适配新形态设备的高度期待。 腾讯客服确认 8.0.80 版本已适配苹果可折叠设备，内屏分栏等基础功能已支持。不过，此次适配可能仍以基础功能为主，折叠屏形态下的完整体验仍有待进一步评估。
+
+rss · 爱范儿 · 10月23日 09:52
+
+**背景**: iPhone Duo 是苹果首款折叠屏 iPhone，于 2026 年 9 月 9 日发布，10 月 23 日正式发售，中国起售价 15999 元。折叠屏手机需要应用适配不同的屏幕尺寸和分栏模式，微信此前未及时适配曾引发广泛讨论，此次更新是对该问题的回应。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_Duo">IPhone Duo</a></li>
+<li><a href="https://www.apple.com/iphone-duo/">iPhone Duo - Apple</a></li>
+<li><a href="https://news.qq.com/rain/a/20261023A07HVT00">微信：已适配iPhone Duo，支持内屏分栏等基础功能</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 围绕适配争议的讨论十分热烈，10 月 22 日评测解禁后，“iPhone Duo 微信不适配”话题迅速冲上微博热搜第一。用户对主流应用未能及时适配旗舰设备表示不满，此次更新被视为必要但略显迟来的回应。
+
+**标签**: `#微信`, `#iPhone Duo`, `#应用适配`, `#大厂动态`, `#实测体验`
+
+---
+
+<a id="item-25"></a>
+## [三年连亏、投资为零，“PE 第一股”九鼎投资为何熄火？](https://www.tmtpost.com/8179691.html) ⭐️ 6.0/10
+
+据钛媒体文章报道，曾被称为“PE 第一股”的九鼎投资（600053.SH）已连续三年亏损，且新增投资几乎为零。该公司目前已被实施退市风险警示，股票简称变更为“\*ST 九鼎”，正经历最漫长的退潮。 九鼎投资曾是中国私募股权行业的标杆企业，其衰落反映了中国 PE 行业面临的更广泛挑战，包括募资困难和退出放缓。该公司的困境可能预示着上市 PE 机构面临更深层的结构性问题，并影响投资者对整个行业的信心。 文章指出，九鼎投资的新增募资和投资活动已停滞，存量项目的退出也十分有限。自巅峰时期以来，该公司的市值和声誉大幅缩水，目前还面临退市风险。
+
+rss · 钛媒体 · 10月24日 00:09
+
+**背景**: 私募股权投资（PE）机构从投资者处募集资金，投资于非上市公司股权，并通过 IPO 或股权转让等方式退出以获取回报。九鼎投资于 2015 年在上海证券交易所上市，成为中国首家上市的 PE 机构，并曾是中国最活跃的 PE 投资者之一。近年来，中国 PE 行业面临监管趋严、IPO 放缓、募资困难等多重压力，九鼎投资等机构首当其冲。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://jdcapital.com/">九鼎投资 (600053.SH)_上交所私募股权投资领域上市公司</a></li>
+<li><a href="https://finance.eastmoney.com/a/202610203901473145.html">透视九鼎投资PE三季报：募投无新增，退出余量待释放</a></li>
+
+</ul>
+</details>
+
+**标签**: `#九鼎投资`, `#私募股权`, `#PE`, `#亏损`, `#投资`
+
+---
+
+<a id="item-26"></a>
+## [个人 AI 之争：谁在押注，谁在害怕？](https://www.tmtpost.com/8179361.html) ⭐️ 6.0/10
+
+一篇预告文章聚焦于个人 AI 和个人智能体领域的新兴竞争，提出了哪些科技巨头正在投资该领域、哪些对其影响感到担忧的战略性问题。 能够记住上下文并代表用户采取行动的个人 AI 智能体可能重塑人们与数字服务的互动方式，威胁现有平台并在 AI 生态系统中创造新的守门人。 个人 AI 智能体通常结合对话、记忆、规划和工具使用来管理电子邮件、日程安排和琐事等任务，但该文章未提供具体公司名称、数据或技术细节。
+
+rss · 钛媒体 · 10月23日 10:19
+
+**背景**: 个人 AI 是指为个体用户量身定制的智能系统，通常拥有自己的云计算机，能记住所有对话并采取实际行动。个人 AI 智能体是帮助长期管理生活和工作的 AI 系统，结合了对话、记忆、规划、工具、个性化和行动能力。随着科技巨头争夺用户主要 AI 界面的控制权，围绕这些智能体的竞争正在升温。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.folk.com/glossary/personal-ai">What Is a Personal AI ? Definition &amp; Examples - Folk - folk</a></li>
+<li><a href="https://www.buildaiq.com/articles/what-are-personal-ai-agents">What Are Personal AI Agents? — Build AIQ</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Personal_agent">Personal agent</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Personal AI`, `#AI Agents`, `#Big Tech`, `#Industry Competition`, `#AI Strategy`
+
+---
+
+<a id="item-27"></a>
+## [非洲资源国推动矿产本地加工，中资矿企承压](https://www.tmtpost.com/8179339.html) ⭐️ 6.0/10
+
+据路透社 10 月 19 日报道，非洲多个资源国正收紧矿产品出口政策并推动本地加工，2025 年初至 2026 年 5 月至少 12 国修订矿业法规，禁止原矿出口并强制本地加工。这一趋势影响中国在非矿产投资，涉及金额约 440 亿元人民币。 这一政策转变迫使中资矿企投资当地冶炼和加工设施，增加成本并改变投资策略，同时重塑铜、钴、锂等关键矿产的全球供应链。它影响电池和电动汽车供应链，并可能加速非洲工业化，要求中企从原材料开采者转型为工业合作伙伴。 刚果（金）、津巴布韦、几内亚、莫桑比克等国已实施禁止原矿出口、要求本地深加工、强制国家持股至少 15%以及社区收益分成等措施。这些法规针对特定矿产：刚果（金）的铜钴、津巴布韦的锂矿、几内亚的铝土矿。
+
+rss · 钛媒体 · 10月23日 10:19
+
+**背景**: 非洲是铜、钴、锂等关键矿产的主要来源地，这些矿产对电池和电动汽车至关重要。历史上，这些矿产以原矿形式出口，加工在国外完成，使非洲国家获得的经济利益有限。如今，资源国正利用出口限制从矿产资源中获取更多价值，这一趋势与印尼的镍矿出口禁令类似。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1091811449_116132">出海非洲：从铜钴到锂矿，资源国为何加快推动本地加工？_出口_矿产品_...</a></li>
+<li><a href="https://news.sina.cn/bignews/insight/2026-05-28/detail-inhzmayw8712918.d.html?vt=4">当非洲资源国集体控制出口，全球矿产供应链将如何重塑？|产业链|锂矿|...</a></li>
+<li><a href="https://www.toutiao.com/article/7646219829690565139/">12个非洲国家锁死锂钴镍等矿产，强制本地加工，中国440亿投资面临调整</a></li>
+
+</ul>
+</details>
+
+**标签**: `#非洲矿业`, `#锂矿`, `#钴矿`, `#出海投资`, `#资源政策`
+
+---
+
+<a id="item-28"></a>
+## [常驻型 Agent 改写数据中心，ICT 厂商率先收获订单](https://www.tmtpost.com/8179336.html) ⭐️ 6.0/10
+
+近期一篇分析指出，常驻型 AI Agent 上云正在改写数据中心内 CPU、存储与网络的配比，而国内跨平台 Agent 的发展仍受阻。因此，ICT 基础设施厂商率先获得订单，但最终价值仍取决于应用层。 这一转变的重要性在于，它表明基础设施提供商可能在 Agent 应用成熟之前就率先从 AI Agent 热潮中获得近期收入。这也凸显了 AI 生态中可能出现的分化：在某些地区，硬件和数据中心需求超过了软件创新。 文章指出，常驻型 Agent 对计算、内存和网络的需求配比与传统工作负载不同，但缺乏具体数据或厂商案例。文章还提到国内跨平台 Agent 面临障碍，但未详细说明具体原因。
+
+rss · 钛媒体 · 10月23日 10:18
+
+**背景**: 常驻型 AI Agent 是持续运行在云端而非按需调用的 AI 系统，能够支持持久化任务和交互。ICT 基础设施指支撑数据中心的服务器、存储和网络设备。随着 AI 工作负载的演变，所需硬件资源的组合可能发生显著变化，从而影响采购和设计决策。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cls.cn/detail/2392589">AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/707504322">深度盘点 AI Agent 基础设施 - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Agent`, `#ICT基础设施`, `#数据中心`, `#大厂动态`, `#云计算`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-29"></a>
+## [国内首个人工与 AI 协同智能客服国标发布](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVU1KdjVkTXZMTVlWSkdCdnRrSURLQUNNZ0xxVDJaNGNtWE05NDZLdWczZ0paMjZHemlWa0Q0VmMtTzd2aGZpTlllUTgtNFFDNDlxMGVmQXF0YjFGNDFCOHRlMlduYUV2b1ZadzBWa1JSekNYVlhBOElNSTh0WnFkeklJb2c3cHhk?oc=5) ⭐️ 8.0/10
+
+中国发布了首个关于人工与 AI 协同智能客服的国家标准，海尔智家参与了该标准的编制工作。该标准旨在为客服场景中 AI 与人工的协同提供规范指导。 该标准为客服领域应用 AI 提供了监管框架，有望提升各行业的服务质量和一致性。它标志着人工与 AI 协同正走向标准化，将影响部署 AI 客服和人工客服的企业。 该标准聚焦于人工与 AI 客服的协同，但摘要中未详细说明具体技术要求和实施指南。海尔智家的参与意味着融入了家电客服场景的实践经验。
+
+rss · 客服行业动态 · 10月23日 15:21
+
+**背景**: 中国的国家标准由专家委员会制定，并常邀请领先企业参与以确保实用性。客服领域的人工与 AI 协同将 AI 聊天机器人用于常规查询，人工客服处理复杂问题，旨在平衡效率与同理心。该标准是规范 AI 应用、保障服务业质量更广泛努力的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.haierappliances.com/support">Customer Support | Haier Appliances</a></li>
+<li><a href="https://www.haier.com/global/haier-ecosystem/haier/">Haier Smart Home</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#AI`, `#national standard`, `#collaboration`, `#industry regulation`
+
+---
+
+<a id="item-30"></a>
+## [咨询客服被算投诉？圆通、韵达、中通等回应](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15a0ZMcTFnRFNiSnNTcF9ZMmd4QTZNSWFFdThsb3FfVkVnbUJNaWtmUDRSTDg0bmFIRjhGanlPMTFPc1VRRDlqVnd0TlVhUFg1M296aFNIVWFfemdCdS10eTFYRU5mOVU?oc=5) ⭐️ 6.0/10
+
+圆通、韵达、中通等主要中国快递公司回应了关于客户通过客服咨询被错误归类为对快递员的投诉并导致罚款的报道。该问题在一名快递员报告因这类错误分类的投诉而在三年内被罚款上万元后引发关注。 这很重要，因为它凸显了快递行业的一个系统性问题：客户服务咨询被当作投诉处罚，影响快递员收入和士气。它还引发了对处罚机制公平性的质疑，并可能推动全行业投诉处理的改革。 据报道，快递员每被投诉一次可能被罚款数千元，而再次联系客服取消投诉可能被视为二次投诉并面临更高罚款。这些公司的回应并未具体说明其投诉分类系统的具体改变。
+
+rss · 客服行业动态 · 10月23日 09:26
+
+**背景**: 在中国快递行业，快递员常因客户投诉而被处罚，罚款从几十元到数千元不等。客户服务咨询有时会被自动记录为投诉，未经核实就触发处罚。这种做法因对快递员不公平且缺乏透明度而受到批评。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.guancha.cn/ZhengZhi/2026_10_22_905444.shtml">guancha.cn/ZhengZhi/2026_10_22_905444.shtml</a></li>
+<li><a href="https://news.ifeng.com/c/8xR2Aa5xFUh">多家 快 递 被曝“ 咨 询 客 服 就算 投 诉 ”， 快 递 员 ：3年被罚款上万元_凤凰网</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/706514946">快递企业针对快递员的罚款合法吗 - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#express delivery`, `#complaint handling`, `#industry response`, `#China`
+
+---
+
+<a id="item-31"></a>
+## [咨询客服为何等同于投诉快递员？](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EcS1DckFBV1oweVdSaGp1SG0tOUtHY1BxM0wzOVJ2T2swR21OV2NmZFlwYnRYUlhHOUxQcDlURmc1MTFjNnlVdzAxdWU?oc=5) ⭐️ 6.0/10
+
+凤凰网文章探讨了消费者仅咨询客服就被系统自动视为对快递员投诉的现象，并分析了消费者与劳动者之间矛盾的深层成因。 这揭示了平台经济中的系统性矛盾：自动化的投诉机制在缺乏正当程序的情况下惩罚劳动者，同时影响客服运营和配送行业的劳资关系。 在许多快递公司，一次投诉就会导致快递员被罚款约 200 元，且企业常采取“以罚代管”的方式，对投诉照单全收而不做调查。
+
+rss · 客服行业动态 · 10月23日 05:40
+
+**背景**: 在中国平台经济中，快递员常通过严格的惩罚制度进行管理。消费者的投诉甚至咨询都可能触发自动罚款，导致顾客与劳动者之间的摩擦。“以罚代管”模式在快递行业普遍存在，加盟模式加剧了这一问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.jfdaily.com/wx/detail.do?id=598898">“一般申 诉 10单，有9单都通过不了”，困在 投 诉 里的小哥怎么“跳”出来</a></li>
+<li><a href="https://society.huanqiu.com/article/9CaKrnKnQls">双十一 快 递 员现况调查：加班费用难落实， 以 罚 代 管 很普遍 | 环球网</a></li>
+<li><a href="https://www.163.com/dy/article/JG88MTAU0514D3UH.html">163.com/dy/article/JG88MTAU0514D3UH.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服行业`, `#消费者权益`, `#劳动者权益`, `#投诉机制`, `#平台经济`
+
+---
+
+<a id="item-32"></a>
+## [山姆召回牡蛎精胶囊，部分会员食用后才获知](https://news.google.com/rss/articles/CBMicEFVX3lxTFA3VXB1UkZXcHBXMWJxNk94Q296UmYtaEVBbkJKeTFDWU9hUmxhZXdON2FIR0dTR1VzbTN4c3ljcjB0cW9JZE45OUxwX2QwRUhjYWpYTTFEbzJOYnVLcDZUajhtU0xENlJRTkVLaDRZdGg?oc=5) ⭐️ 6.0/10
+
+山姆会员店召回牡蛎精胶囊，但部分会员在食用后才得知召回信息。客服回应称，如有不适请及时就医并保留凭证，此事引发了对召回通知流程的质疑。 该事件凸显了会员制零售商在产品召回沟通和危机应对方面可能存在的短板，影响消费者信任和会员价值感知。对客服和客户体验从业者而言，这是一个关于召回处理不当的典型案例。 召回是在部分会员已食用产品后才宣布的，客服回应仅限于建议就医和保留购买凭证。此事引发了对山姆会员店召回通知系统有效性及产品质量控制的质疑。
+
+rss · 客服行业动态 · 10月23日 07:25
+
+**背景**: 产品召回是保护消费者免受缺陷或不安全商品伤害的常规机制，法规要求企业及时、透明地通知消费者。像山姆会员店这样的会员制零售商通过精选高品质商品实现差异化，因此任何质量问题都可能损害其声誉。牡蛎精胶囊是一种常被宣传为有益男性健康的膳食补充剂，其安全性取决于原料采购和制造标准。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/994388016_117102">会员制零售遇信任考验，山姆续卡引争议，品控漏洞待填补</a></li>
+<li><a href="https://www.sohu.com/a/866766571_121688694">产品召回通知的法律披露要求？网站法律法规解析与责任后果详解_消费者...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#产品召回`, `#客户服务`, `#危机沟通`, `#会员制零售`, `#消费者权益`
+
+---
+
+<a id="item-33"></a>
+## [iOS 27 通话情境功能：拨打客服电话自动弹出订单信息](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeU5BZ0ZNd1VLRGhwU3RmVkJMWkYxMGpVa0JkOHpTTEktQmRwR1B5U1lLeG5LaENWTmgxTVhZdERnMTlHcENXa2p2ZWI0VEFMU21SNjV4dWNDSWhFNWlTUkR3ZVBuZ1Z1bjhKM0VrTTc1MUFnQ0FuZ2E3Q3J4bGY3WFBSWlFHOE94Wmxz?oc=5) ⭐️ 6.0/10
+
+苹果在 iOS 27 的电话 App 中推出了依托 Apple Intelligence 的“通话情境（Call Context）”新功能，当用户拨打企业客服电话时，系统会自动显示相关的订单号、确认码或预订信息。该功能在 2026 年全球开发者大会（WWDC）上进行了演示，并于 2026 年 10 月 23 日被媒体报道，旨在让用户无需在通话中手动查找和口述这些信息。 该功能有望大幅简化客服交互流程，减少用户的麻烦并提升呼叫中心效率，因为客服人员可以快速获取必要信息，无需冗长的验证过程。这体现了苹果将 AI 驱动的情境感知融入日常任务的更广泛努力，可能为移动设备如何辅助客户支持树立新标准。 通话情境功能依赖 Apple Intelligence，通过检测用户何时拨打客服电话，然后从邮件或钱包等 App 中提取相关订单信息并展示。该功能预计随 iOS 27 提供，苹果称 iOS 27 将于 2026 年 9 月 14 日面向支持 Apple Intelligence 且设置为受支持语言的设备发布。
+
+rss · 客服行业动态 · 10月23日 02:50
+
+**背景**: Apple Intelligence 是苹果于 2024 年推出的一套 AI 功能，旨在通过设备端处理和私有云计算来优先保护隐私，同时在各个 App 中提供个性化协助。通话情境功能在此基础上，利用正在拨打的电话号码和最近的订单确认等情境信号来预测用户需求。这是更广泛的行业趋势的一部分，谷歌和微软等公司也在整合 AI 以自动化客服工作流并缩短通话处理时间。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1091601220_122004016">iOS 27新功能：拨打客服电话自动显示订单信息，智能体验再升级！</a></li>
+<li><a href="https://www.ithome.com/0/962/176.htm">苹果演示 iOS 27 版 Call Context：改签航班等场景提前帮你备好订单号...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261023A053OB00">iOS27神级新功能！打客服电话自动弹出订单信息_腾讯新闻</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#iOS`, `#call center`, `#automation`, `#mobile features`
+
+---
+
+<a id="item-34"></a>
+## [深圳顾客匿名差评遭商家曝光个人信息](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHcC1vMU1Za1VNU0JQVUs0cWNkSGY4OVRTREY1T1NBQy1iZlFISDFURUpCejE5cTM4Wll2V2EtN0hlRjZFclQzMXNzTkw2TWMwd2dSNy14Z2JHcFpQajA0cWNn?oc=5) ⭐️ 6.0/10
+
+深圳一网友称因在胖哥俩就餐体验不佳而给出匿名差评，商家在向平台申诉时曝光了其就餐照片和工作信息。门店客服表示具体情况需要咨询平台。 该事件凸显了在线评价系统中的严重隐私风险，引发了对商家在纠纷处理过程中如何处置客户数据的担忧，可能削弱消费者对匿名反馈机制的信任。 据称商家在申诉过程中披露了顾客的就餐照片和工作信息，而门店的回应将责任推给平台，导致数据保护的责任归属不明确。
+
+rss · 客服行业动态 · 10月23日 15:02
+
+**背景**: 在中国，在线评价平台允许消费者发布匿名反馈，但商家可以对其认为不公正的评价进行申诉。此案揭示了商家申诉权与消费者隐私之间的紧张关系，尤其是在《个人信息保护法》对个人数据处理有严格规定的背景下。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://iclg.com/practice-areas/consumer-protection-laws-and-regulations/china">China - Consumer Protection Laws and Regulations 2026</a></li>
+<li><a href="https://chinalegalportal.com/china-consumer-protection-law">China Consumer Protection Law Guide | CPL, CBEC, 10× Damages</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#privacy`, `#complaint handling`, `#platform dispute`, `#consumer protection`
+
+---
+
+<a id="item-35"></a>
+## [骗徒冒充香港航空客服 谎称航班取消赔偿 骗走退休妇 120 万](https://news.google.com/rss/articles/CBMimwNBVV95cUxNYzdSMHdER1BUSklsQ2xNa2JzQ2tMYU9BQWlBNGhFeTNPRmpHSDNPd0JYN0l1RG0wV3duZWl0VnRTN0ZaMW00TTFBYW1VeFMxOUQya0RKbFRJQ1QzZmw1Y2xPWkJOX2JmeHpXdUhpNnptYm9oMWY1U3JfYnlxd00yNTdFc1RVMVktSTJ1N3dWMkxYWWdndjFFbXdJTEhWNHVwVGJuZ1NFQ05yN2JDeVk1WDV6d1NpN0hTekdyR0RpU1BzLUNydHd6b3loaHE4V2tvN01hUjZqcWw3NW95Rk1qdVg0WTdSQ0t2SWgxYmpoU3RtcWRnRURRWXo4Y3d2QzFVVVl2b2ZjbjJOQmFlZUxKSkVBbXZBSFZxclpYend4UVZPRUxsTG9RSmx1MFZ2SDRBWGpyT2ZYeEY4b3dHTjJld21NWFdOTE1kbkF5Wk9RZlNkRFM3Q2N4RURDYmNQX1o4N2o5NWpIZXRPanBPdmh6YjFHUTU3bGNIV3daUFZxT3pZM3NZWnp2ZGdhajlNM1duMDVrUS0xTGxyVkE?oc=5) ⭐️ 6.0/10
+
+骗徒冒充香港航空客服人员致电一名退休妇人，谎称其航班取消并可获得赔偿，诱骗她转账，最终骗走她 120 万港元毕生积蓄。 此案凸显了冒充客服针对老年人的诈骗威胁日益严重，损害了公众对航空公司沟通渠道的信任。它强调了加强身份验证和公众意识以防止类似诈骗的必要性。 香港航空官方致电仅使用 3916 3666（香港）和 9507 1500（内地）两个号码。公众可通过 Cyber Defender 网站上的 Scameter 工具或拨打反诈骗热线 18222 核实可疑信息。
+
+rss · 客服行业动态 · 10月23日 12:11
+
+**背景**: 冒充诈骗是指骗子假扮成知名公司人员以窃取个人信息或金钱。老年人因数字素养较低而常成为目标。香港当局已推出 Scameter 等工具帮助公众识别诈骗。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.dimsumdaily.hk/fake-hong-kong-airlines-call-costs-victim-hk1-36-million/">Fake Hong Kong Airlines call costs victim HK $1.36 million</a></li>
+<li><a href="https://www.hongkongairlines.com/en_HK/homepage">Fly Hong Kong Airlines | Flights To &amp; From Hong Kong</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service fraud`, `#impersonation scam`, `#aviation industry`, `#elderly fraud`, `#security`
+
+---
+
+<a id="item-36"></a>
+## [顺风车订单留言成招嫖广告区，客服回应暗语乱象](https://news.google.com/rss/articles/CBMicEFVX3lxTE5pdTRCNnk1REFIeW5FZ1JNWVpMY3lGZkdIWExfdXJONkFEQkczNXMtSzN4TnNWN09STXVjQmFwa2hjZFhQbUZ2SDl1UGpSY0JtWmlicUpiQnBRTmQ2Umw1SmtEdndWR1FLRWlya0FheFQ?oc=5) ⭐️ 5.0/10
+
+中华网的一篇报道指出，顺风车订单的留言区被滥用来发布使用暗语的招嫖广告，平台客服已对此作出回应，并再次引发对内容审核漏洞的关注。 这一事件凸显了依赖用户生成评论的平台所面临的持续信任与安全挑战，表明暗语可以绕过自动审核，并影响客服工作量和品牌信任。 报道未指明具体平台名称或所使用的确切暗语，客服回应似乎是一般性声明而非详细执法行动；该事件凸显了在简短、缺乏上下文的评论中检测委婉语的难度。
+
+rss · 客服行业动态 · 10月23日 05:54
+
+**背景**: 顺风车平台允许乘客和司机在订单上留言以便沟通，但这些开放的文本字段可能被用于非法广告。内容审核系统通常结合关键词过滤、机器学习和人工审核，但委婉语——带有隐藏含义的普通词语——以难以自动检测而著称，正如针对内容审核的自监督委婉语检测研究所示。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2103.16808">[2103.16808] Self-Supervised Euphemism Detection and ... GitHub - WanzhengZhu/Euphemism: Self-Supervised Euphemism ... Self-Supervised Euphemism Detection and Identification for ... Self-Supervised Euphemism Detection and Identification for ... [2103.16808] Self-Supervised Euphemism Detection and ... Euphemism Detection with Fine-Tuned XLNet - GitHub Self-Supervised Euphemism Detection and Identification for ...</a></li>
+<li><a href="https://www.tspa.org/curriculum/ts-fundamentals/content-moderation-and-operations/what-is-content-moderation/">What Is Content Moderation? - Trust &amp; Safety Professional ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#content moderation`, `#ride-sharing`, `#trust and safety`, `#platform governance`
+
+---
+
+<a id="item-37"></a>
+## [广州地铁澄清 270 分钟乘车上限及 15 元罚款，此前有乘客因停留 5 小时被罚](https://news.google.com/rss/articles/CBMipgNBVV95cUxOV3FWOE5hT1BEamxxM0VWZmJvNEZpVDg4Qk1kN0YtLXljSlZtZVpZU0hPR0hLVTEzLWxTQVRKZ0JlU3pKVXpRWUNJd09DWjBuMXltck5XYjZ4bWxXWU1iMUJDT0s1MVNQVVpiSktvTmcwSTdYOEkyZmR4UjRoampuaGtqdlgwYTZOMVlYaWdvSjJmT2lUaDVrTUUxQlEyTlVEQmtYaXVsbVp4Z25xNGV4MC1OZkh4cnB4U1NGVTBzME1TQWNHYjFGM0YtVUpfWlZJZkxHZ25yZmItM2Zzb0RzQV9VLXllcUFkSS1YUm9pSlQxMFpES0NhME5PRnZMN0dveXVmb1pMRVB5VlJhZUxnamYxSE5lcklkcE5TRDBNX2w2Tzd0eG9oSEJpSUJWb0hDZ1NLT2dncllaRFp1aDdiZTdQZ0FqSFBPYlQ0R2Jfbmo3a3ZrME9aVENTTlZpQ1ZiSTlJNXNjajNvWGFZQzFPZDN0S1VVd0dVMWZEYkliM1hndkdXemRBRFQxbnFnc3I1VlJqRFVUTnFBdnlFTl9YclowS0Q1QQ?oc=5) ⭐️ 5.0/10
+
+广州地铁客服澄清，乘客在付费区内停留的最长时间为 270 分钟（4.5 小时），超时需缴纳 15 元罚款。此前有乘客因在站内停留 5 小时被罚，报道还对比了其他中国城市的类似时限规定。 这一澄清有助于乘客了解一项鲜为人知的规定，避免因超时被意外罚款，提升了公共交通政策的透明度。同时，它也体现了客服回应如何化解困惑、预防纠纷，对交通行业的客户服务和政策沟通具有参考意义。 270 分钟的限制适用于在付费区内的停留时间，超时后出站时需缴纳 15 元罚款。报道指出，中国其他城市也有类似的时限规定，但具体时长可能有所不同。
+
+rss · 客服行业动态 · 10月23日 13:02
+
+**背景**: 中国许多地铁系统对单次乘车设有最长时限，以防止乘客逗留、倒卖车票或将地铁用于非交通目的。这些限制通常印在车票或车站告示上，但常被乘客忽视。罚款在出站闸机处执行，系统会计算在付费区内的总停留时间。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.travelchinaguide.com/cityguides/guangdong/guangzhou/subway/">Guangzhou Metro : Subway Lines, Ticket, Operating Hours</a></li>
+<li><a href="https://www.chinadiscovery.com/guangdong/guangzhou/metro.html">Guangzhou Metro : Map, Lines, Stations, Operating Hours &amp; Tickets...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#public transportation`, `#policy clarification`, `#metro regulations`, `#China`
+
+---
+
+<a id="item-38"></a>
+## [苹果警告勿撕 iPhone Duo 磨砂膜，维修费 398 元](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zTmExakp5ZEFqXzNKbnF2WXN2REEtbUhXS0htNVFSdnFXMG9fTmFZTXpnRFEtaFhQVzNqUXB5QXBLR0Rsb1NnV2JaazBzUE1NOWhCRTVCb3M?oc=5) ⭐️ 4.0/10
+
+针对用户撕下 iPhone Duo 内屏磨砂膜的视频在网上流传，苹果客服回应称不建议这样做，并警告损坏纳米纹理表层后的维修费用为 398 元。 这明确了磨砂层是显示屏的组成部分而非可拆卸的保护膜，有助于 iPhone Duo 用户避免昂贵的损坏，并让用户对苹果的维修定价有合理预期。 iPhone Duo 内屏的纳米纹理层可减少反光、控制眩光，并使折痕不那么明显；撕掉它可能导致屏幕出现波纹和永久性损坏，维修费用为 398 元。
+
+rss · 客服行业动态 · 10月23日 03:42
+
+**背景**: 苹果的纳米纹理技术通过在玻璃表面进行超精细蚀刻，将反射率降低至约 1-2%，从而显著提升强光环境下的可视性。在苹果的折叠屏手机 iPhone Duo 上，这种磨砂处理被应用于内屏，以减少眩光并掩盖折痕。与屏幕保护膜不同，纳米纹理层是显示屏覆盖系统的一部分，并非设计为可拆卸的。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://tech.yahoo.com/phones/articles/don-t-peel-why-removing-155926674.html">Don’t Peel It: Why Removing the iPhone Duo’s Nano-Texture ...</a></li>
+<li><a href="https://gizmodo.com/iphone-duo-do-not-remove-nano-texture-2000829356">This Is Why You Don&#x27;t Peel Off the iPhone Duo&#x27;s Matte Screen ...</a></li>
+<li><a href="https://www.macobserver.com/news/iphone-duo-display-wrinkles-matte-film-removal-video/">iPhone Duo Display Video Shows Ripples After Matte Layer Is ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#customer service`, `#iPhone`, `#product care`, `#repair cost`
+
+---
