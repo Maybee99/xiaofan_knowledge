@@ -1,0 +1,796 @@
+---
+layout: default
+title: "Horizon Summary: 2026-10-26 (ZH)"
+date: 2026-10-26
+lang: zh
+---
+
+> 从 61 条内容中筛选出 34 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [美国能源部将氦气列为关键材料，影响半导体生产](#item-1) ⭐️ 7.0/10
+2. [谷歌建虚拟电厂缓解数据中心供电压力](#item-2) ⭐️ 7.0/10
+3. [湖北省发布新型能源体系建设“十五五”规划](#item-3) ⭐️ 7.0/10
+4. [南方区域电力市场助力海南清洁能源岛建设](#item-4) ⭐️ 6.0/10
+5. [国家能源局局长王宏志赴广东调研新型电力系统建设](#item-5) ⭐️ 6.0/10
+6. [武清企业特变电工 29 项新技术产品一次性通过国家级鉴定](#item-6) ⭐️ 6.0/10
+7. [系统动力学研究模拟多级物流网络碳中和转型](#item-7) ⭐️ 5.0/10
+8. [2026 青科会深海资源环境论坛举行 各国专家共话深海开发保护](#item-8) ⭐️ 5.0/10
+
+### 🤖 AI 科技
+
+9. [OpenAI 与 Anthropic 在数月内将 LLM 价格下调高达 80%](#item-9) ⭐️ 8.0/10
+10. [上下文工程现状：领域概览与社区讨论](#item-10) ⭐️ 7.0/10
+11. [10 年前的 CNN 在皮肤癌诊断上超越前沿 LLM](#item-11) ⭐️ 7.0/10
+12. [FOSDEM 拒绝互联网审查演讲引发辩论](#item-12) ⭐️ 6.0/10
+13. [俄勒冈警方就一名警员的记录索要 250 万美元费用](#item-13) ⭐️ 6.0/10
+14. [关于 AI“Eunice”的推测性文章引发 Hacker News 热议](#item-14) ⭐️ 6.0/10
+15. [迪士尼动画制作流程页面引发关于工匠精神的讨论](#item-15) ⭐️ 5.0/10
+16. [程序员怀旧文章引发 HN 网友分享编程起源故事](#item-16) ⭐️ 4.0/10
+
+### 🏢 大厂要闻
+
+17. [中国首个区域电力市场在南方区域正式运行](#item-17) ⭐️ 8.0/10
+18. [数智周报：MiniMax 港股破发，DeepSeek 开源 DeepInfer 并披露收入，美国土安全部禁用 DeepSeek](#item-18) ⭐️ 8.0/10
+19. [首批主动 ETF 落地：主动管理能力迎来“透明化”检验](#item-19) ⭐️ 7.0/10
+20. [英飞凌续约 Wolfspeed：200mm 碳化硅的“下一关”](#item-20) ⭐️ 7.0/10
+21. [AI 股两天跌近 15%但业绩强劲：杀的是估值不是业绩](#item-21) ⭐️ 7.0/10
+22. [苹果首款折叠屏 iPhone Duo 开售即遭铰链处屏幕开裂集中投诉](#item-22) ⭐️ 7.0/10
+23. [小鹏“老登”营销风波升级，道歉后仍未平息](#item-23) ⭐️ 6.0/10
+24. [AI 大模型狂飙推高面板价格，下游挑战犹存](#item-24) ⭐️ 6.0/10
+25. [中国核电出海三条腿，只有一条站得稳？](#item-25) ⭐️ 6.0/10
+26. [15%指数权重上限今日生效；国资委推进国企改革；标普新规影响 3750 亿美元基金](#item-26) ⭐️ 5.0/10
+
+### 🎧 客服行业动态
+
+27. [多家品牌企业微信账号遭外挂攻击发送引流链接](#item-27) ⭐️ 7.0/10
+28. [纽约市提议监管 AI 客服聊天机器人](#item-28) ⭐️ 7.0/10
+29. [康卡斯特宽带流失 14.4 万户，裁员并转向 AI 客服](#item-29) ⭐️ 7.0/10
+30. [小鹏 X9 撞后气囊未弹出，客服回应令车主困惑](#item-30) ⭐️ 6.0/10
+31. [AI 接手例行工作，客服却喊更累：难题全丢给真人](#item-31) ⭐️ 6.0/10
+32. [南昌车主易捷钱包余额蒸发，中国石化称账号已注销](#item-32) ⭐️ 5.0/10
+33. [华为在日本开设首家直营售后服务综合中心](#item-33) ⭐️ 5.0/10
+34. [闲鱼用户处理退货遭客服语音辱骂，已获道歉](#item-34) ⭐️ 5.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [美国能源部将氦气列为关键材料，影响半导体生产](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNVC1YSEE2c1BHbzVOb2k0UHNrRUVPUUhaYnV4UjBWZE5ZUHdTbWJZVWtFTnY4LUhHUWc2RmpPT1dIVE9lamdkeA?oc=5) ⭐️ 7.0/10
+
+10 月 23 日，美国能源部宣布，已根据《2020 年能源法》将氦气认定为关键材料，以加强美国制造业和供应链安全。 氦气在半导体制造中不可或缺，用于冷却、泄漏检测和维持惰性气氛，美国的这一认定可能促使出台保障供应的新政策，影响科技行业和能源资源战略。 该认定基于《2020 年能源法》，该法允许能源部识别对能源和国家安全至关重要的材料；氦气的独特性质，如原子半径小和惰性，使其在芯片制造中的超高精度泄漏检测和真空腔体示踪等工艺中至关重要。
+
+google\_news · 财联社 · 10月25日 20:43
+
+**背景**: 氦气是一种稀有气体，具有最小的原子半径，使其成为半导体制造中泄漏检测和冷却介质的理想选择。它通常从天然气中提取，全球供应集中在卡塔尔和美国等少数国家。近期供应链中断，例如中东紧张局势引发的供应问题，凸显了半导体行业氦气供应的脆弱性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wenku.baidu.com/view/7217eeefd93383c4bb4cf7ec4afe04a1b071b0e6.html">氦气在半导体制造中的5大关键作用及使用注意事项_百度文库</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/586028056">氦气在半导体制造中发挥着重要作用 - 知乎</a></li>
+<li><a href="https://m.163.com/dy/article/KSRV2612051497H3.html">m.163.com/dy/article/KSRV2612051497H3.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#helium`, `#critical materials`, `#semiconductor supply chain`, `#energy policy`, `#U.S. Department of Energy`
+
+---
+
+<a id="item-2"></a>
+## [谷歌建虚拟电厂缓解数据中心供电压力](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMXItZnpVR2w5OGV3Ml9Cams1NnllbWFnY3I3MjBtcmNJUG04eDVIN1E1ZUpkVWJLUkdNNHB6NW5pZ3hFMkJIMVF2R3ZjSmppZWlRVW5TMjhiNGwxUFE?oc=5) ⭐️ 7.0/10
+
+谷歌正在建设一座虚拟电厂（VPP），通过付费让家庭和企业减少用电，从而为数据中心腾出电网容量。该计划通过需求响应聚合分布式能源资源，以缓解当地电网的供电压力。 这标志着大型科技公司通过需求侧解决方案而非单纯增加发电来应对电网约束，为数据中心运营商与公用事业及监管机构合作树立了先例。在 AI 驱动的数据中心需求激增背景下，此举对能源政策、公用事业合作及企业可持续发展战略均有影响。 该虚拟电厂通过聚合小型分布式资源（如家用电池、智能温控器、电动汽车充电器和可灵活调节的工业负荷），使其能够作为一个协调统一的电厂运行。谷歌向参与的家庭和企业支付补偿，以在高峰时段减少用电，从而有效转移需求而非增加供应。
+
+google\_news · DoNews · 10月25日 03:19
+
+**背景**: 虚拟电厂（VPP）是通过软件编排聚合分布式能源资源、作为单一电厂运行的系统，可平衡供需并提供电网服务。需求响应是一个相关概念，指用户根据价格信号或电网运营商/聚合商的付费请求改变用电量。数据中心需要巨大且不断增长的电力，而电网容量往往为其最大需求预留，这可能阻碍其他用户并给当地基础设施带来压力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_power_plant">Virtual power plant</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Demand_response">Demand response</a></li>
+<li><a href="https://academic.oup.com/ooenergy/article/doi/10.1093/ooenergy/oiad014/7329550">Stretched grid? Managing data center energy demand and grid ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#virtual power plant`, `#data center energy`, `#demand response`, `#energy policy`, `#Google`
+
+---
+
+<a id="item-3"></a>
+## [湖北省发布新型能源体系建设“十五五”规划](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FdWw5bWYtdzViaV8xUXVhX2JGaGFISUhueW9EdlBFZ0VjNFF2clJfclkxSGZ5ZzNBZzluaV9nOXpyZVRldThwclFObXRIazRQeWpJSUJn?oc=5) ⭐️ 7.0/10
+
+湖北省发布了新型能源体系建设“十五五”规划，明确了区域能源转型和基础设施建设的重点任务。该规划是继 2026 年 6 月国家发展改革委和国家能源局印发《新型能源体系建设“十五五”规划》后，地方层面的落实举措。 该省级规划将国家能源转型目标转化为具体的区域行动，影响湖北的能源政策相关方、投资者和基础设施规划者。它标志着各省在“十五五”期间（2026-2030 年）如何落实国家向更清洁、更安全的能源体系转型。 该规划可能涉及湖北的能源结构，其供应体系呈现“水火互济、风光互补、煤气协同”的多元化格局，但面临一次能源缺乏的天然短板。预计完整文件将详细列出可再生能源装机、电网基础设施和储能等方面的具体目标。
+
+google\_news · 搜狐网 · 10月25日 01:59
+
+**背景**: 中国的“新型能源体系”指的是向太阳能、风能、水能和核能等清洁能源转型，传统能源发挥兜底保障作用。“十五五”时期（2026-2030 年）是中国能源转型的关键阶段，国家发展改革委和国家能源局已发布相关国家规划。湖北是能源消费大省和能源输入大省，其区域规划对于理解国家目标如何落地具有重要意义。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.gov.cn/zhengce/zhengceku/202606/content_7073322.htm">关于印发《新型能源体系建设“十五五”规划》的通知_国务院部门文件_中...</a></li>
+<li><a href="https://www.ndrc.gov.cn/xxgk/zcfb/tz/202606/P020260625612978907651.pdf">新型能源体系建设“十五五”规划</a></li>
+<li><a href="https://wenku.baidu.com/view/3e94d2c2a951f01dc281e53a580216fc710a535c.html">湖北省能源发展现状分析 - 百度文库</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#十五五规划`, `#新型能源体系`, `#湖北`, `#能源转型`
+
+---
+
+<a id="item-4"></a>
+## [南方区域电力市场助力海南清洁能源岛建设](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fWjhMdWxQYmJYcndPX29IRkN2cjRNeFVra09xdlV0ckcxLVVTT0Q2OTJFRWZOVXVFTzVzOEI4T0ZLS2dKMFVzeVF4UlVCX3c?oc=5) ⭐️ 6.0/10
+
+据凤凰网报道，南方区域电力市场正在助力海南建设清洁能源岛和新型电力系统。此前，该市场于 2026 年 10 月 24 日转入正式运行，且海南清洁能源岛新型电力系统建设场景入选国家首批标志性重大应用场景。 这很重要，因为南方区域电力市场是中国首个区域电力市场，覆盖包括海南在内的五个省区，其正式运行标志着全国统一电力市场体系建设取得重大突破。对海南而言，该市场通过跨省区交易平衡其不断增长的可再生能源供应，助力该省建设清洁能源示范岛。 南方区域电力市场覆盖广东、广西、云南、贵州和海南五省区，2026 年 1 至 9 月累计交易电量近 9000 亿度，相当于五省区用电量的七成，单日最大交易电量可达 40 亿度。海南清洁能源岛场景于 2026 年 10 月 20 日入选国家发改委等六部委公布的首批 136 个标志性重大应用场景清单。
+
+google\_news · 凤凰网 · 10月25日 06:59
+
+**背景**: 区域电力市场允许电力跨省区交易，由市场供求而非行政分配来决定发多少电、价格多少以及谁使用、用多少。中国的新型电力系统指 increasingly 以风电、光伏等波动性可再生能源为基础的电网，相比传统火电需要更灵活的的交易和平衡机制。海南致力于建设“清洁能源岛 2.0 版”和“低碳岛”，并于 2025 年发布了《海南清洁能源岛新型电力系统建设实施方案》。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.cctv.com/2026/10/24/ARTIU01CYM23MvARiD1OrPmk261024.shtml">南方区域电力市场顺利“转正” 电力交易更便捷、更灵活_新闻频道_央视网...</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%8D%97%E6%96%B9%E5%8C%BA%E5%9F%9F%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/67393654">南方区域电力市场（覆盖广东、广西、云南、贵州、海南五省区的电力交...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261022A09OYQ00">海南清洁能源岛新型电力系统建设场景入选国家首批标志性重大应用场景_...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电力市场`, `#清洁能源`, `#海南`, `#新型电力系统`, `#能源政策`
+
+---
+
+<a id="item-5"></a>
+## [国家能源局局长王宏志赴广东调研新型电力系统建设](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTnBvY2JOcU0zOHNzZ194bnk4QmtBYW1aUllCM3l1S3pybkFPUTJ0WHVWRzRlMjhBOTExdEVuUmNFZ3FBdXN6OWFIemxfUFNEU19PY0ZmaExRQzB5bXVkTVNaaUJDRDNpc0UzeWpOcU5NcUc4M0ZPa0NvVEd3YXFJQV9CR3VDc1RUWUV3dA?oc=5) ⭐️ 6.0/10
+
+国家能源局局长王宏志赴广东省，就新型电力系统建设开展实地调研。此次调研释放了政策层面对电网现代化和可再生能源并网的关注信号，但并未宣布具体的新政策举措。 此次调研凸显了国家能源局对广东这一经济与用电大省在电网现代化和可再生能源并网方面的重视，可能影响未来的电力系统规划与投资。这反映了中国推进能源转型和碳达峰碳中和目标的更广泛努力。 此次调研属于例行官方考察，未发布具体的新政策，因此直接影响较为温和。它强调了国家能源局在协调能源基础设施建设和实施国家能源战略方面的职能。
+
+google\_news · 搜狐网 · 10月25日 04:11
+
+**背景**: 中国“新型电力系统”概念于 2021 年首次提出，旨在构建以新能源为主体的清洁低碳、安全高效的电力系统，支撑碳达峰碳中和目标。国家能源局负责制定和实施能源发展战略、政策和规划，并协调能源基础设施建设。广东作为经济领先省份，在电力消费和电网创新方面发挥着关键作用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552">新型电力系统（电力系统术语）_百度百科</a></li>
+<li><a href="https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/P020260803594268920789.pdf">新型电力系统建设 十五五 规划</a></li>
+<li><a href="https://docs.pingcode.com/ask/ask-ask/452799.html">哪些项目领主管部门管理 – PingCode</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#新型电力系统`, `#国家能源局`, `#广东`, `#电力改革`
+
+---
+
+<a id="item-6"></a>
+## [武清企业特变电工 29 项新技术产品一次性通过国家级鉴定](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEtOclpBT2NzYjJvWnRsS3B1MWx0dXdlWks2c2QteU1oUmRDSWVhd3N1clVJUTlUU2ZpekRXcE55LXJvRklYQVgyRGlqTllEUExWaUFfYlBmYUUwei1DYktiYnk2S3NSc0RBMU0xYXZjNG9RSkJTd0FCNENGWEwxTHdBOFZjRDB6SzVVYQ?oc=5) ⭐️ 6.0/10
+
+10 月 24 日，中国机械工业联合会在天津主持召开新产品（新技术）鉴定会，由中国科学院、中国工程院院士在内的 50 位权威专家组成的鉴定委员会一致认定特变电工 29 项输配电及新能源电力装备一次性通过国家级新产品鉴定，其中 18 项达到国际领先水平，11 项达到国际先进水平。 这一里程碑彰显了特变电工在电力设备领域的技术实力，并支持中国推动能源技术自主创新的努力，可能增强该公司在国内和国际市场的竞争力。这也标志着中国电网和新能源基础设施在可靠性和先进性方面的进步。 鉴定由包括院士在内的 50 人专家委员会进行，29 项产品涵盖输配电及新能源电力装备。其中 18 项国际领先、11 项国际先进的评价表明其技术具有较高水平。
+
+google\_news · 搜狐网 · 10月25日 02:45
+
+**背景**: 特变电工（TBEA）是一家中国大型能源装备制造企业，成立于 1988 年，总部位于新疆昌吉，以变压器、电缆和可再生能源解决方案闻名。中国的国家级产品鉴定是由行业联合会组织的正式流程，由专家小组评估新技术的先进性和市场成熟度，通常作为政府采购和行业认可的前提。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.stdaily.com/web/gdxw/2026-10/25/content_602355.html">特变电工29项电力装备一次性通过国家级新产品鉴定</a></li>
+<li><a href="https://www.cinn.cn/2026/10-25/K18LmJ61.html">特变电工29项输配电及新能源电力装备一次性通过国家级新产品鉴定 - 中...</a></li>
+<li><a href="https://tech.cnr.cn/techgd/20261025/t20261025_527852476.shtml">特变电工29项输配电及新能源电力装备一次性通过国家级新产品鉴定_央广...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#TBEA`, `#power equipment`, `#technology appraisal`, `#energy policy`, `#China`
+
+---
+
+<a id="item-7"></a>
+## [系统动力学研究模拟多级物流网络碳中和转型](https://news.google.com/rss/articles/CBMibkFVX3lxTE9jMFR5YjJac05rSGp5V2ZsWlEyTmUtN0tKYUMwNmtfMXdxbmpoenh4VjlQT3JFU2RBTV9JZUI5LVJuSzUxZ2NiamFPZm9leWctUXBOT0c4SVNlQ2JnZU5xaWRlQjNOMHZMNmZTaWN3?oc=5) ⭐️ 5.0/10
+
+一项通过生物通发布的新研究采用系统动力学模拟框架，分析了组合减排策略如何推动多级物流网络的碳中和转型，重点探讨了时间非对称性与协同效应。 该研究为减排措施的时间安排和相互作用如何影响物流脱碳提供了方法学见解，可帮助货运和供应链企业更有效地安排绿色投资顺序。 该研究采用系统动力学的存量-流量建模方法，结合反馈回路和时间延迟来捕捉非线性动态；然而，作为基于模拟的学术研究，其结论依赖于模型假设，可能无法直接推广到所有物流场景。
+
+google\_news · 生物通 · 10月25日 03:44
+
+**背景**: 系统动力学是一种数学建模方法，利用存量、流量、反馈回路和时间延迟来理解复杂系统随时间的非线性行为。多级物流网络涉及中心仓库、区域配送中心和本地站点等层级节点，要实现碳中和需要跨层级协调策略。时间非对称性是指干预措施的效果可能因其实施时机不同而有所差异，而协同效应则是指组合措施产生的总影响大于各自单独行动之和。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/System_dynamics">System dynamics - Wikipedia</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2214716025000429">Cross-border multi-level warehouse network optimization ...</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0195925525004202">18–26 years: A critical window for synergistic reduction of ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#carbon neutrality`, `#logistics networks`, `#system dynamics`, `#emission reduction strategies`, `#energy policy modeling`
+
+---
+
+<a id="item-8"></a>
+## [2026 青科会深海资源环境论坛举行 各国专家共话深海开发保护](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW5vOExhcDNyQXNVam9vMmJjVEx1YkppLXdaX28wdkhDQlpGRnVibVFraWxrZnM4ODFZTFd1dXJ2WGl5RUtOTmZQemlPOTdMTzZIdlJTNGhVUm82QVFvYVV3Y2QwWUNSVVl5TXJYRE9FSWFrTkE4eERPWmlZMV9QNDBmcTZJU1BK?oc=5) ⭐️ 5.0/10
+
+2026 青科会深海资源环境论坛汇聚了各国专家，共同探讨深海资源开发与环境保护之间的平衡。该论坛为深海资源可持续利用提供了对话平台，但报道未提及具体的政策成果或协议。 随着能源转型对关键矿产需求的增长，深海采矿日益受到关注，关于平衡开采与生态保护的国际对话具有重要政策意义。该论坛反映了全球深海资源治理的广泛讨论，将影响未来海洋秩序和资源供应链。 该新闻仅为简要概述，未提及具体政策成果、协议或详细技术见解，因此属于中等关注度的报道，而非突破性进展。论坛讨论可能涉及环境影响评估和国际法规，但细节未予提供。
+
+google\_news · 搜狐网 · 10月25日 06:14
+
+**背景**: 深海资源包括多金属结核、富钴结壳和热液硫化物等矿物，这些对电池和可再生能源技术至关重要。根据《联合国海洋法公约》，国际海底管理局（ISA）负责管理国家管辖范围以外的矿产资源，监督勘探和最终开发。环境担忧（包括栖息地破坏和沉积物羽流）已引发暂停采矿和加强监管的呼吁。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ouc.edu.cn/2026/0915/c86a122732/page.htm">【学习时报】全球深海资源治理发展态势</a></li>
+<li><a href="https://www.greenpeace.org.cn/wp-content/uploads/2024/05/%E6%B7%B1%E6%B5%B7%E7%91%B0%E5%AE%9D%E4%B9%8B%E4%B8%8B%E7%AE%80%E6%8A%A5-%E5%8D%95%E9%A1%B5%E7%94%B5%E5%AD%90%E7%89%880513.pdf">Jellyfish in the Sargasso Sea</a></li>
+<li><a href="https://www.toutiao.com/article/7603284950577611310/">深海采矿对海洋生态潜在影响引关注 - 今日头条</a></li>
+
+</ul>
+</details>
+
+**标签**: `#deep-sea resources`, `#energy policy`, `#environmental protection`, `#international cooperation`, `#conference`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-9"></a>
+## [OpenAI 与 Anthropic 在数月内将 LLM 价格下调高达 80%](https://minimaxir.com/2026/10/cheap-llms/) ⭐️ 8.0/10
+
+根据 Max Woolf 的博客文章，OpenAI 和 Anthropic 在几个月内将其大语言模型（LLM）API 价格下调了高达 80%。此次降价涉及两家公司的旗舰模型，并引发了关于这一趋势原因及可持续性的讨论。 此次降价代表了 AI 行业经济格局的重大转变，使先进的 LLM 对初创企业和大型企业更加可及。这也标志着 OpenAI 与 Anthropic 之间竞争加剧，以及来自更廉价开源模型的压力，可能重塑市场动态和利润率。 降价可能由多种因素驱动，包括更高效的推理技术（如缓存和更小的模型变体），以及来自 Kimi 和 GLM 等开源模型的竞争压力。然而，一些观察人士质疑如此大幅的降价从长期来看是否可持续。
+
+hackernews · minimaxir · 10月25日 21:11 · [社区讨论](https://news.ycombinator.com/item?id=50236102)
+
+**背景**: 大语言模型通常通过按 token 计费的 API 访问，推理成本占 AI 公司运营支出的重要部分。近期模型架构的进步（如混合专家模型 MoE）和优化技术降低了推理成本，使降价成为可能。与此同时，中国开源模型以更低价格提供有竞争力的性能，获得了市场关注，加剧了全球竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://theaicronicle.com/en/news/economics/ai-price-war-openai-anthropic-china-pressure">AI Price War: OpenAI and Anthropic Slash Prices by 80%</a></li>
+<li><a href="https://arxiv.org/html/2507.11181v2">Mixture of Experts in Large Language Models - arXiv.org</a></li>
+<li><a href="https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/">Applying Mixture of Experts in LLM Architectures | NVIDIA ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的评论者提供了多样化的观点：一些人将降价归因于来自 Kimi 和 GLM 等更廉价开源模型的竞争，而另一些人则认为这是争夺市场份额的战略举措，或是一场可能不可持续的逐底竞争。还有人推测 OpenAI 和 Anthropic 正在推动监管以阻碍开源竞争对手。
+
+**标签**: `#LLM pricing`, `#AI competition`, `#OpenAI`, `#Anthropic`, `#AI industry economics`
+
+---
+
+<a id="item-10"></a>
+## [上下文工程现状：领域概览与社区讨论](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html) ⭐️ 7.0/10
+
+dbreunig 的一篇博客文章概述了 LLM 应用中上下文工程的现状，涵盖了上下文污染、压缩、缓存和上下文长度退化等问题。该文章在 Hacker News 上引发了实质性讨论，从业者就概念区分和实际经验展开了辩论。 上下文工程是应用 AI/LLM 工程中一个热门且实际重要的话题，因为上下文的管理方式直接影响 LLM 应用和智能体的性能与可靠性。社区讨论通过强调许多开发者遇到但很少正式化的权衡和现象，增加了实际价值。 评论者争论了存储在模型权重中的问题是否应称为“上下文污染”，讨论了在压缩前修剪上下文时的缓存失效权衡，并分享了较长上下文使模型显得“更笨”的轶事观察。一位评论者指出，上下文过多或过少都可能导致智能体代码反模式行为异常。
+
+hackernews · pchristensen · 10月25日 20:32 · [社区讨论](https://news.ycombinator.com/item?id=50235780)
+
+**背景**: 上下文工程是指设计和管理在推理过程中提供给大型语言模型的信息（上下文）的实践，包括对话历史、检索文档和工具输出。随着 LLM 应用和智能体处理更长的交互，它们面临上下文窗口填满、长输入性能下降（有时称为“上下文腐烂”）以及需要压缩或总结上下文以保持在限制内等挑战。缓存和压缩等技术旨在缓解这些问题，但会引入缓存失效等权衡。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.elastic.co/search-labs/blog/context-poisoning-llm">Context poisoning in LLMs: How to defend your RAG system ... - Elastic</a></li>
+<li><a href="https://arxiv.org/abs/2605.23296">[2605.23296] Parallel Context Compaction for Long-Horizon LLM ...</a></li>
+<li><a href="https://www.tinyfish.ai/blog/context-rot">Context Rot: How Long Inputs Degrade LLM Accuracy... | TinyFish Blog</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的讨论富有洞见并得到了社区的验证，评论者就概念区分（权重与上下文污染）、压缩带来的缓存失效权衡以及“上下文越长模型越笨”的现象展开了辩论。一些人对某些术语表示怀疑，而另一些人则分享了使用托管压缩的实践经验以及管理上下文大小的挑战。
+
+**标签**: `#context-engineering`, `#LLM`, `#AI agents`, `#prompt-engineering`, `#context-window`
+
+---
+
+<a id="item-11"></a>
+## [10 年前的 CNN 在皮肤癌诊断上超越前沿 LLM](https://lynchlab.net/llm-skin-cancer) ⭐️ 7.0/10
+
+Lynch Lab 的一篇博客文章报告称，一个 10 年前的 Inception v3 卷积神经网络在 68,011 张皮肤镜图像上微调后，在 200 个病变的测试集上诊断皮肤癌的表现优于两个前沿大型语言模型。 这一发现挑战了通用大型语言模型在专业任务中具有优势的假设，并凸显了领域特定架构的价值，引发了对如何正确基准测试医学诊断模型的辩论。 该 CNN 在单个 H100 GPU 上使用 ISIC 档案中的图像进行训练，测试病变及所有相关图像已从训练中移除；批评者认为比较不公平，因为 CNN 专门针对此任务调优，而 LLM 则没有。
+
+hackernews · sungam · 10月25日 17:15 · [社区讨论](https://news.ycombinator.com/item?id=50233779)
+
+**背景**: 卷积神经网络（CNN）是专为图像处理设计的深度学习模型，而前沿 LLM 是用于语言和多模态任务的大型生成模型。在医学影像中，专用 CNN 长期用于皮肤癌诊断，但最近的兴趣集中在通用 LLM 能否匹配或超越其性能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">Convolutional neural network - Wikipedia</a></li>
+<li><a href="https://www.emergentmind.com/topics/frontier-large-language-models-llms">Frontier Large Language Models - emergentmind.com</a></li>
+<li><a href="https://jamanetwork.com/journals/jamadermatology/fullarticle/2826310">Skin Cancer Diagnosis by Lesion, Physician, and Examination ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为专用模型超越通用 LLM 是意料之中的，一些人称这种比较是“刷榜”，另一些人指出 LLM 仍可通过整合临床笔记或生成患者问题来增加价值。
+
+**标签**: `#AI`, `#medical imaging`, `#LLM`, `#CNN`, `#benchmarking`
+
+---
+
+<a id="item-12"></a>
+## [FOSDEM 拒绝互联网审查演讲引发辩论](https://talkweb.eu/openweb/4558/) ⭐️ 6.0/10
+
+FOSDEM 演讲《我拒绝接受被审查的互联网。加入我在 FOSDEM 27》被宣布，该演讲反对互联网审查并倡导开放网络。该公告在 Hacker News 上引发了大规模讨论，获得 361 分和 180 条评论，辩论无审查互联网的可行性。 这很重要，因为它凸显了互联网自由倡导者与企业和国家对基础设施控制的现实之间日益加剧的紧张关系，影响着开发者和用户对待隐私和规避工具的方式。强烈的社区参与表明该话题在技术社区中引起了深刻共鸣。 该演讲计划在 FOSDEM 27 上进行，这是布鲁塞尔一年一度的自由及开源软件会议，讨论中提到了为应对伊朗互联网封锁而创建的项目“Mother of all VPNs”（moav.sh）。评论者还辩论了审查与内容审核之间的区别。
+
+hackernews · Tomte · 10月25日 17:30 · [社区讨论](https://news.ycombinator.com/item?id=50233929)
+
+**背景**: FOSDEM 是一个非商业、志愿者组织的年度会议，专注于自由及开源软件，在布鲁塞尔的 ULB Solbosch 校区举行。互联网审查涉及网络过滤、深度包检测和限速等技术机制，被政权用来阻止或削弱流量。辩论通常集中在鉴于大多数流量通过由企业和国家控制的基础设施路由，无审查的互联网在技术上是否可行。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/FOSDEM">FOSDEM - Wikipedia</a></li>
+<li><a href="https://www.ietf.org/archive/id/draft-irtf-pearg-censorship-10.html">A Survey of Worldwide Censorship Techniques</a></li>
+<li><a href="https://ourcodeworld.com/articles/read/2695/understanding-internet-censorship-and-the-technology-behind-it">Understanding Internet Censorship and the Technology Behind It</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对无审查互联网的可行性表示怀疑，指出它可以被关闭，因为它依赖于被加密包裹的受审查基础设施。一些人认为大多数人更喜欢与其政治倾向一致的受审查互联网，而另一些人则强调在线讨论中审核的必要性，模糊了审查与内容审核之间的界限。
+
+**标签**: `#internet-censorship`, `#fosdem`, `#open-web`, `#privacy`, `#internet-freedom`
+
+---
+
+<a id="item-13"></a>
+## [俄勒冈警方就一名警员的记录索要 250 万美元费用](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/) ⭐️ 6.0/10
+
+俄勒冈州尤金市警察局告知一家当地新闻媒体，要完成其针对一名警员的公共记录申请，至少需要 44,816 个工作人员小时，费用约为 2,484,599.04 美元。这一估算相当于约 21 年的工作量，被广泛视为一种以高额费用阻止信息公开的手段。 此案表明，政府机构可以利用成本估算和处理拖延来实质性地拒绝公众获取公共记录，从而削弱新闻监督和政府问责。它也引发了更广泛的讨论：公共记录法是否需要更严格的费用减免和时间限制保障。 俄勒冈州法律允许机构在披露主要惠及公众时免除或降低费用，但这种减免属于自由裁量而非强制义务。所报数字是工作人员时间的估算，并非实际账单，警方也未说明是否会以较低成本公开部分记录。
+
+hackernews · tdeck · 10月25日 18:04 · [社区讨论](https://news.ycombinator.com/item?id=50234232)
+
+**背景**: 公共记录法，如美国联邦《信息自由法》（FOIA）和俄勒冈州的公共记录法规，赋予公众和记者申请获取政府文件的权利。机构可以就检索、审查和复制收取费用，批评者认为虚高的估算被用来吓退申请者。俄勒冈州法律允许在公开记录主要惠及公众时减免费用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://oregon.public.law/rules/oar_250-001-0020">OAR 250-001-0020 – Fees for Public Records - OregonLaws</a></li>
+<li><a href="https://oregonpublicrecords.guide/en/fee-waivers">Public-Interest Fee Waivers &amp; Reductions | Oregon Public ...</a></li>
+<li><a href="https://www.rcfp.org/open-government-sections/5-have-agencies-imposed-prohibitive-fees-to-discourage-requesters/">5. Have agencies imposed prohibitive fees to discourage requesters?</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者描述了其他地方类似的阻挠手段，包括一个学区在一年多时间里每月只零星提供部分记录，并指出德国的信息公开法正面临允许收取高额费用的修法威胁。还有人将美国体系与英国 30 天答复模式对比，并提到 2015 年美国国防部曾对一项 FOIA 申请估算需 1500 万小时、6.6 亿美元。
+
+**标签**: `#public records`, `#FOIA`, `#police accountability`, `#government transparency`, `#journalism`
+
+---
+
+<a id="item-14"></a>
+## [关于 AI“Eunice”的推测性文章引发 Hacker News 热议](https://armincat.com/articles/eunice-is-almost-here) ⭐️ 6.0/10
+
+一篇题为“Eunice is almost here”的推测性文章在 armincat.com 上发表，讨论了一个名为 Eunice 的即将到来的人工智能，并将其与科幻作品相提并论。该文章在 Hacker News 上分享，获得了 6.0/10 的评分，并引发了 47 条评论，反应不一。 这场讨论反映了社区对人工智能采用的速度和形式（尤其是语音界面和个人 AI 助手）的广泛兴趣和怀疑态度。它突显了 AI 的推测性愿景如何经常塑造公众期望和行业叙事。 文章缺乏具体的技术细节，Hacker News 的讨论包括使用 GrokBot 等 AI 工具快速开发应用的个人轶事，与 Jarvis 和 HAL 等科幻 AI 的比较，以及对威廉·吉布森作品如《外围》和《Wintermute》的引用。
+
+hackernews · armcat · 10月25日 19:40 · [社区讨论](https://news.ycombinator.com/item?id=50235316)
+
+**背景**: Eunice 并非一个广为人知的 AI 项目；这篇文章似乎是对未来 AI 的推测性作品。Hacker News 是一个流行的技术讨论论坛，推测性 AI 话题经常引发多样化的观点。像 Jarvis（钢铁侠的 AI）和 HAL 9000（来自《2001 太空漫游》）这样的科幻引用常被用来构建对 AI 能力的期望。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Eunice_Newton_Foote">Eunice Newton Foote</a></li>
+<li><a href="https://www.eunice.ai/about">AI -Powered Crypto Compliance &amp; Due Diligence Platform | Eunice AI</a></li>
+<li><a href="https://hackernewsai.com/">Hacker News AI - Newsletter</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了混合观点：一些人分享了使用 AI 工具进行快速开发的积极经验，而另一些人对语音界面的采用持怀疑态度，指出人们通常避免语音通话。还有人引用了科幻作品，一位评论者提到了威廉·吉布森的《外围》，另一位则暗示讨论可能与 Wintermute 和 HF 黑客事件有关。
+
+**标签**: `#AI`, `#speculation`, `#Hacker News`, `#discussion`, `#science fiction`
+
+---
+
+<a id="item-15"></a>
+## [迪士尼动画制作流程页面引发关于工匠精神的讨论](https://www.disneyanimation.com/process/) ⭐️ 5.0/10
+
+迪士尼动画的官方制作流程页面在 Hacker News 上被分享，该页面概述了制作动画电影的步骤，并引发了 30 条评论的讨论，内容涉及工匠精神以及与之相关的 AI 电影制作参考。 讨论凸显了传统动画工匠精神的持久价值，以及独立创作者如何利用 AI 工具借鉴这些原则，反映了动画行业的更广泛趋势。 该页面是迪士尼动画制作流程的知名教育性概述，社区成员指出它曾在 2022 年和 2024 年在 Hacker News 上流行，表明对该主题的持续兴趣。
+
+hackernews · embedding-shape · 10月25日 20:27 · [社区讨论](https://news.ycombinator.com/item?id=50235738)
+
+**背景**: 迪士尼动画的制作流程页面详细介绍了制作动画电影的各个阶段，从故事开发到最终渲染。正如评论者所指出的，皮克斯和迪士尼动画是两家独立的工作室，拥有不同的制作流程和渲染软件。AI 电影制作工具正越来越多地被独立创作者用于简化动画工作流程。
+
+**社区讨论**: 评论者分享了关于皮克斯对细节极度关注的故事，例如为场景中看不见的部分完全添加纹理，还有人指出皮克斯和迪士尼动画使用不同的渲染软件。另一位 AI 电影制作人评论说，他们使用类似的步骤但更多的基本元素来分解 AI 电影，第三位则分享了他们受迪士尼和皮克斯研究启发而制作的动画电影。
+
+**标签**: `#animation`, `#Disney`, `#Pixar`, `#film-production`, `#AI-filmmaking`
+
+---
+
+<a id="item-16"></a>
+## [程序员怀旧文章引发 HN 网友分享编程起源故事](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) ⭐️ 4.0/10
+
+一篇题为《我为什么是一名程序员》的个人博客文章在 Hacker News 上分享，作者回顾了自己进入编程领域的历程。这篇文章引发了许多评论者分享他们自己的怀旧起源故事，从童年时期接触早期计算机的经历到关键的发现时刻。 虽然这不是技术突破，但文章及其讨论凸显了吸引人们进入编程领域的多样且往往个人化的动机，在开发者之间营造了一种社区感和共同历史感。这样的反思可以激励新人，并让资深开发者回想起最初吸引他们进入这一领域的快乐和好奇心。 原博客文章是一篇个人随笔，没有技术内容，而 Hacker News 的讨论则由关于早期编程经历的轶事评论组成，涉及 VIC-20、C64、Apple IIe、TI-83 和 Casio 计算器等系统。该条目获得了 4.0/10 的中等分数，表明其更广泛的影响力有限。
+
+hackernews · jruohonen · 10月25日 19:11 · [社区讨论](https://news.ycombinator.com/item?id=50235017)
+
+**背景**: Hacker News 是一个流行的技术和创业讨论论坛，经常在技术新闻之外刊登个人随笔和怀旧反思。评论者提到了 20 世纪 70 年代末到 90 年代的经典计算机和编程环境，如 Commodore VIC-20 和 64、Apple IIe 以及德州仪器计算器，这些是许多人首次接触编程的工具。
+
+**社区讨论**: 评论者热情地分享了他们自己的编程启蒙经历，通常涉及早期的家用电脑和计算器，并表达了对那些早期时光的简单和魔力的怀念。许多人强调了创造和解决问题的乐趣，一些人指出最初的火花至今仍激励着他们。
+
+**标签**: `#programming`, `#career`, `#nostalgia`, `#community`, `#personal-essay`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-17"></a>
+## [中国首个区域电力市场在南方区域正式运行](https://www.tmtpost.com/8180995.html) ⭐️ 8.0/10
+
+南方区域电力市场作为中国首个、全球最大的区域电力市场正式启动运行，覆盖五个省区。这标志着全国统一电力市场建设迈出关键一步，并有望为陷入困境的售电市场提供缓解。 此次启动是中国电力体制改革的一个里程碑，它打破了省间壁垒，实现了跨省电力交易，直接影响售电公司，并推动全国统一市场的目标。这可能导致区域内资源分配和价格发现更加高效。 该市场采用规则驱动的机制，并根据市场动态进行迭代，它建立在 2021 年启动的南方区域调频辅助服务市场等早期区域辅助服务市场的基础之上。具体的交易规则和价格形成机制仍在演进中。
+
+rss · 钛媒体 · 10月25日 10:44
+
+**背景**: 中国一直在推动建立全国统一的电力市场，以优化电力分配并整合可再生能源。区域市场被视为中间步骤，允许各省在全面全国整合之前进行跨省电力交易。南方区域电力市场覆盖五个省区，是中国首个此类市场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/20250717/54ae0fdb11f04b39a5b670999c04ef81/2025071754ae0fdb11f04b39a5b670999c04ef81_19fe782a11f3aa40209907a80e3e692150.pdf">nea.gov.cn/20250717/54ae0fdb11f04b39a5b670999c04ef81...</a></li>
+<li><a href="https://news.bjx.com.cn/html/20260324/1488921.shtml">南 方 能源监管局与 南 网2026...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电力市场`, `#能源改革`, `#南方区域`, `#售电市场`, `#政策`
+
+---
+
+<a id="item-18"></a>
+## [数智周报：MiniMax 港股破发，DeepSeek 开源 DeepInfer 并披露收入，美国土安全部禁用 DeepSeek](https://www.tmtpost.com/8181051.html) ⭐️ 8.0/10
+
+MiniMax 在香港交易所上市，但首日即跌破发行价；DeepSeek 开源了其高性能推理框架 DeepInfer，并披露了收入数据。与此同时，美国国土安全部（DHS）正式下令联邦民事机构从 IT 系统中移除 DeepSeek 产品及任何基于 DeepSeek 模型构建的第三方服务。 MiniMax 上市首日表现疲软，表明尽管市场预期很高，投资者对中国 AI 基础模型公司仍持谨慎态度；而 DeepSeek 开源 DeepInfer 并公开收入，可能加速其技术采用并为行业开放性树立新标准。美国国土安全部的禁令加剧了中美技术脱钩，可能阻止美国企业采用中国 AI 模型，影响全球 AI 供应链。 DeepInfer 是支撑 DeepSeek 大规模生产服务的高性能推理框架，此次开源版本提供了离线推理及大规模服务所需的核心功能。MiniMax 根据第 18C 章（ specialist technology company）上市，IPO 募资 48 亿港元，但首个交易日股价即跌破发行价。
+
+rss · 钛媒体 · 10月25日 09:29
+
+**背景**: DeepSeek 是一家以大型语言模型闻名的中国 AI 公司，而像 DeepInfer 这样的推理框架对于在生产中高效运行这些模型至关重要。MiniMax 是另一家专注于多模态基础模型的中国 AI 初创公司，其香港 IPO 是 AI 基础模型公司中规模最大的之一。美国国土安全部的禁令紧随其他美国机构的类似限制，反映出对数据安全和 AI 地缘政治紧张局势的日益担忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/deepseek-ai/DeepInfer">GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance ...</a></li>
+<li><a href="https://www.businesstimes.com.sg/startups-tech/startups/minimax-chinas-second-ai-tiger-go-public-doubles-value-hong-kong-debut">AI startup MiniMax jumps 54% in Hong Kong IPO debut - The...</a></li>
+<li><a href="https://www.bbc.com/news/articles/cjkgeq0k1wevo">DeepSeek banned from US government in race with China for AI...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#China`, `#DeepSeek`, `#MiniMax`, `#Industry News`
+
+---
+
+<a id="item-19"></a>
+## [首批主动 ETF 落地：主动管理能力迎来“透明化”检验](https://www.tmtpost.com/8181233.html) ⭐️ 7.0/10
+
+中国首批 18 只主动 ETF 正式发售，将主动管理能力与 ETF 场内交易机制相结合。与传统的指数 ETF 不同，这些产品不以跟踪特定指数为目标，而是依赖基金管理人的主动投资能力。 这标志着中国公募基金行业的一个重要里程碑，为投资者提供了一种新的权益投资工具，使主动管理更加透明。它影响着资产管理人、投资者和监管机构，预示着主动管理产品向透明化方向转变。 首批包括 18 只主动 ETF，每个交易日开盘前全量公布持仓清单，并且通常采用双基金经理布局。投资者应注意折溢价波动和策略稀释等风险。
+
+rss · 钛媒体 · 10月25日 12:50
+
+**背景**: 主动 ETF 是一种混合产品，将主动投资策略与 ETF 的场内交易灵活性相结合。在中国，监管机构已发布指引，要求主动 ETF 在名称中明确体现“主动”属性，并对基金管理人提出特定资质要求。此次发行代表了中国基金行业发展的新阶段，此前该行业主要由指数 ETF 和共同基金主导。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sac.net.cn/sjb/hydt/202606/t20260622_81819.html">主动ETF业务指引发布 推动产品平稳落地-中国证券协会</a></li>
+<li><a href="https://stockobserve.com/investment-tools/active-etf-launch-investment-guide">首批主动ETF发售指南：持仓透明度机制、投研老将阵容与投资风险全解析</a></li>
+
+</ul>
+</details>
+
+**标签**: `#主动ETF`, `#公募基金`, `#资产管理`, `#金融创新`, `#中国市场`
+
+---
+
+<a id="item-20"></a>
+## [英飞凌续约 Wolfspeed：200mm 碳化硅的“下一关”](https://www.tmtpost.com/8180973.html) ⭐️ 7.0/10
+
+英飞凌延长了与 Wolfspeed 的 200mm（8 英寸）碳化硅晶圆供应协议，巩固了双方在下一代功率半导体领域的合作。 此次续约凸显了行业向更大尺寸碳化硅晶圆转型以提高制造效率和降低成本，加剧了功率半导体供应链的竞争。 该协议聚焦于 200mm 碳化硅晶圆，相比 150mm 晶圆可产出更多芯片，但在批量生产中的晶体生长和缺陷密度控制方面仍存在挑战。
+
+rss · 钛媒体 · 10月25日 10:45
+
+**背景**: 碳化硅（SiC）是一种宽禁带半导体材料，用于电动汽车和工业应用的功率电子器件，比硅具有更高的效率和导热性。Wolfspeed 是碳化硅材料和器件的领先供应商，英飞凌是主要的功率半导体制造商。从 150mm 向 200mm 晶圆过渡是扩大生产和降低成本的关键步骤。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Wolfspeed">Wolfspeed - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_carbide">Silicon carbide - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#silicon carbide`, `#Infineon`, `#Wolfspeed`, `#power semiconductors`, `#supply chain`
+
+---
+
+<a id="item-21"></a>
+## [AI 股两天跌近 15%但业绩强劲：杀的是估值不是业绩](https://www.tmtpost.com/8179663.html) ⭐️ 7.0/10
+
+AI 相关股票已连续四周下跌，部分个股两天内跌幅接近 15%，但同期企业业绩却集体爆表，例如有公司单季净赚 21.2 亿元。与此同时，股票型 ETF 同期净流入近 700 亿元，显示投资者在逢低买入而非逃离该板块。 强劲基本面与股价大跌之间的背离表明，这轮抛售是估值重置而非 AI 业务前景恶化，这对投资者决定是否买入、持有或卖出 AI 敞口至关重要。这也说明 ETF 资金流入正在提供缓冲，可能限制下行空间，并影响未来几个月 AI 行情的演变方式。 文章提到单季净赚 212 亿元与两天近 15%的跌幅并存，并指出同期股票型 ETF 净流入约 700 亿元。这些数据凸显出调整主要集中在估值倍数而非盈利上，但文章未点名具体公司，也未提供原创研究。
+
+rss · 钛媒体 · 10月25日 03:10
+
+**背景**: 在市场术语中，“杀估值”指的是股价下跌主要由市盈率倍数收缩驱动，而非盈利下滑。AI 股票此前因 AI 驱动的盈利繁荣预期而大幅上涨，将估值推至高位；当市场情绪转变或利率上升时，即使利润依然强劲，估值倍数也可能急剧收缩。股票型 ETF 是追踪一篮子股票的交易所交易基金，其净流入常被视为衡量投资者对某一板块整体兴趣的指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.yicai.com/news/103339633.html">给AI板块算算账本：抛售是估值调整，还是投资逻辑失效？｜专访</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2064096335071131011">当前AI科技股杀估值，从不同叙事阶段看懂不同的估值方法</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI stocks`, `#market analysis`, `#valuation`, `#earnings`, `#ETF flows`
+
+---
+
+<a id="item-22"></a>
+## [苹果首款折叠屏 iPhone Duo 开售即遭铰链处屏幕开裂集中投诉](http://www.geekpark.net/news/372860) ⭐️ 7.0/10
+
+苹果首款折叠屏手机 iPhone Duo 开售不久，海外论坛和小红书上多名用户反馈开箱后屏幕出现亮像素线或沿铰链正上方开裂，一名澳洲用户称到手约 6 小时、开合不到 20 次屏幕便裂开。截至发稿苹果官方尚未公开说明，但已有用户到 Apple Store 后获直接换机。 作为苹果首款折叠屏产品，iPhone Duo 备受期待，开售初期集中出现屏幕故障可能削弱消费者对这一新形态的信心，并让苹果的售后与保修政策受到审视。该事件也凸显了在折叠屏这一新兴品类中，维修费用与责任认定对消费者权益的影响。 目前反馈显示问题可能源于铰链装配公差而非设计缺陷，但涉及规模有限，仍有待观察。未购买 AppleCare+ 时内屏保外维修预估高达 7998 元，购买后服务费为 628 元；法律人士指出消费者可依据国家「三包」规定主张修理、更换或退货，商家若主张「人为损坏」应承担举证义务。
+
+rss · 极客公园 · 10月25日 00:52
+
+**背景**: 折叠屏手机依靠铰链机构实现柔性屏幕的反复折叠与展开，而铰链区域是公认的薄弱环节，磨损和应力容易导致屏幕损坏。「装配公差」指多个零件装配时允许的尺寸偏差，累积公差过大会使屏幕承受不均匀应力。中国「三包」规定赋予消费者在特定期限内就质量问题要求修理、更换或退货的权利，而 AppleCare+ 是苹果提供的付费延保服务，不能替代经营者对商品质量的基本责任。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://post.smzdm.com/p/ae5e5q3m/">从 铰 链 工 艺看 折 叠 屏 手 机 的优劣_ 手 机 _什么值得买</a></li>
+<li><a href="https://auto.sina.com.cn/news/2003-04-11/35452.shtml">汽车 消 费 光有“ 三 包 ”就能保护买车 者 的利 益 吗？_ 新浪汽车_新浪网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#苹果`, `#折叠屏`, `#产品质量`, `#消费者权益`, `#大厂动态`
+
+---
+
+<a id="item-23"></a>
+## [小鹏“老登”营销风波升级，道歉后仍未平息](https://www.tmtpost.com/8181004.html) ⭐️ 6.0/10
+
+10 月 15 日小鹏 MONA L05 预售发布会上，一位年轻产品经理用“老登”一词吐槽传统设计思维，引发争议；10 月 22 日她主动发视频致歉，10 月 24 日小鹏集团副总裁发长文还原全过程，并明确表示若有人能证明小鹏主动让媒体炒作，愿奖励 100 万元。 该事件凸显了车企在年轻化营销中必须把握的表达边界，一个词语就可能疏远年长客户并损害品牌声誉；同时暴露了产品经理与高管在危机沟通上的差距，为电动汽车行业的品牌管理提供了案例。 这位 00 后产品经理在发布会上多次使用“老登”一词，相关视频切片迅速在网上传播；小鹏副总裁的回应中包括悬赏 100 万元以证明公司未主动炒作，凸显了声誉风险的严重性。
+
+rss · 钛媒体 · 10月25日 10:44
+
+**背景**: 小鹏汽车是中国主要的电动汽车制造商，以智能电动车闻名。MONA L05 是一款面向年轻购车者的新车型，预售发布会旨在用互联网化语言吸引年轻受众。“老登”是一个口语化且常带贬义的词，指代老年人，在企业场合使用引发了关于年龄歧视和营销边界的讨论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cj.sina.com.cn/articles/view/9024031781/219dfcc25072027gvg">小鹏这波&quot;老登&quot;争议事件，算不算是成功的事件营销？_新浪财经</a></li>
+<li><a href="https://www.tmtpost.com/8181004.html">小鹏的&quot;老登&quot;风波，为什么道歉之后还没结束？-钛媒体官方网站</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/8259077308/1ec4784bc07201hrp8">小鹏&quot;老登&quot;事件发酵，会不会影响线下门店的销量？_新浪财经</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 网上讨论质疑该争议是否是一次成功的事件营销，但许多人认为并非有意为之且可能适得其反；也有人分析这是否会影响线下门店销量，认为购车决策更多取决于产品价值而非营销失误。
+
+**标签**: `#XPeng`, `#marketing controversy`, `#crisis management`, `#automotive industry`, `#brand communication`
+
+---
+
+<a id="item-24"></a>
+## [AI 大模型狂飙推高面板价格，下游挑战犹存](https://www.tmtpost.com/8180986.html) ⭐️ 6.0/10
+
+包括京东方和 TCL 华星在内的面板厂商集体涨价，理由是部分关键物料采购成本持续上行、供应链成本压力加大，据报道 TCL 华星于 9 月 10 日率先提价。京东方在接受投资者调研时表示，部分关键物料成本上涨是面板产品涨价的重要原因。 此次涨价表明 AI 大模型热潮正传导至上游显示供应链，影响设备制造商、电视品牌和可能面临更高成本的消费者。这可能加速行业洗牌，并推动下游企业向高端化、智能化产品转型。 文章内容简短、缺乏深度，但指出真正的难题在下游，即企业必须消化面板成本上涨。涨价主要由供应链成本压力驱动，而非单纯需求激增，对终端产品价格的影响仍不确定。
+
+rss · 钛媒体 · 10月25日 10:37
+
+**背景**: 面板厂商为电视、显示器和智能手机生产显示屏，其成本对原材料和零部件价格敏感。AI 大模型热潮增加了对算力和相关硬件的需求，使供应链趋紧。在此背景下，面板厂商将更高的材料成本转嫁给下游客户，给消费电子品牌带来新挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.jiemian.com/article/15236279.html">AI大模型狂飙，面板行业也扛不住了|界面新闻 · JMedia</a></li>
+<li><a href="https://www.yicai.com/news/103108377.html">TCL科技去年净利润翻倍，面板行业还需应对原材料涨价挑战</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/7879996004/1d5af3264019018d1e">液晶电视面板又“开启”涨价模式:彩电行业的新挑战与转型契机</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI大模型`, `#面板行业`, `#涨价`, `#供应链`, `#大厂要闻`
+
+---
+
+<a id="item-25"></a>
+## [中国核电出海三条腿，只有一条站得稳？](https://www.tmtpost.com/8180994.html) ⭐️ 6.0/10
+
+钛媒体的一篇分析文章指出，中国核电出海战略依赖三大支柱——上游资源投资、供应链嵌入和项目融资，而目前只有资源这一条腿踩得最实，融资环节则最为薄弱和不确定。 这一分析框架的意义在于，核电出口是长周期、资本密集型业务，融资往往决定项目能否落地；融资这条腿的薄弱可能拖慢中国核电的海外扩张，即便其供应链和资源布局已相对扎实。 该文是一篇简短的分析评论而非新闻事件，提出了资源、供应链、融资的三维框架，但缺乏原创数据；文章认为资源投资这条腿踩得最实，供应链嵌入虽已展开但并不均衡，而融资则悬而未决。
+
+rss · 钛媒体 · 10月25日 10:37
+
+**背景**: 在 2026 年两会期间，中国核电“三步走”战略被提及已进入关键阶段，即从热堆到快堆、最终走向聚变堆。中国核电供应商在设备国产化和燃料制造方面已积累深厚能力，而出口信贷机构（ECA）历来在全球核电出口融资中扮演核心角色。文章的三支柱框架正说明，核电出海需要资源、供应链与融资三者协同。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.cgtn.com/news/2026-03-10/China-s-Three-Step-Strategy-for-nuclear-energy-enters-new-era-1Lp6OcELakU/p.html">China&#x27;s Three-Step Strategy for nuclear energy enters ... - CGTN</a></li>
+<li><a href="https://cnbizinsight.com/chinas-nuclear-power-supply-chain-opportunities-for-international-partners/">China&#x27;s Nuclear Power Supply Chain – Opportunities for ...</a></li>
+<li><a href="https://www.ifri.org/sites/default/files/migrated_files/documents/atoms/files/nuclear_power_plant_projects_sept.pdf">Financing Nuclear Power Plant Projects</a></li>
+
+</ul>
+</details>
+
+**标签**: `#nuclear power`, `#China going global`, `#energy strategy`, `#supply chain`, `#financing`
+
+---
+
+<a id="item-26"></a>
+## [15%指数权重上限今日生效；国资委推进国企改革；标普新规影响 3750 亿美元基金](https://www.tmtpost.com/8181200.html) ⭐️ 5.0/10
+
+自 10 月 26 日起，上证指数、上证 A 股指数、上证流通指数和科创综指及其衍生指数启用修订后的编制方案，规定单一样本权重不超过 15%，并调整了风险警示证券的剔除时点。此外，国务院国资委重申大力推进国资国企改革，标普也出台新规影响 3750 亿美元基金。 15%的权重上限降低了这些广泛跟踪基准的集中度风险，可能改变被动资金流向，使指数更代表整体市场。同时，国资委的改革推进和标普的基金新规表明监管与结构性变化仍在持续，可能影响国内外投资者。 此次修订不改变样本空间，因为 ST 和\*ST 证券原本就不纳入，仅新增权重上限并调整风险警示证券的剔除起算时点。标普新规影响 3750 亿美元基金，但简报中未提供具体细节。
+
+rss · 钛媒体 · 10月25日 23:20
+
+**背景**: 指数编制规则决定成分股的选择和权重，直接影响跟踪基金。权重上限可防止单只股票主导指数，提高分散度。中国国企改革旨在提升国有企业效率和竞争力，而标普的规则调整反映了全球基金标准的演变。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_34328014">明起实施！上证指数、科创综指等拟修订，单样本权重不超15%_牛市点线...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261025A06MHN00">明起实施！上证指数、科创综指等拟修订，单样本权重不超15%</a></li>
+<li><a href="https://www.toutiao.com/article/7700479768042553897/">部分QDII专户产品陆续清盘？业内人士：与QDII专户额度比例调整有关 - ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#指数编制规则`, `#国资国企改革`, `#标普新规`, `#A股市场`, `#新闻简报`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-27"></a>
+## [多家品牌企业微信账号遭外挂攻击发送引流链接](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkM2NvMFJqRXBMdjdpZjJnVEo4dTJmRUpNNDIwWGt6d3NIYkJsVUhrTFR1LVBoMmlTbWRJR25FLWFETEhPenJDeVhkeWNhTnZ6Z3ljWA?oc=5) ⭐️ 7.0/10
+
+10 月 24 日凌晨，安克、耐克、盒马、CATLINK 等多个品牌的企业微信客服账号几乎同时向客户发送涉黄引流链接。企业微信安全团队随后确认，某第三方外挂软件服务被攻破，导致使用该外挂服务的账号受到影响，并已封禁相关账号和链接。 此次事件凸显了企业在企业微信上使用的第三方集成工具存在严重安全漏洞，可能削弱用户对此类工具的信任，并促使平台加强监管。它影响了依赖这些外挂进行客服的品牌，并提高了对企业通信中账号安全的关注。 此次攻击涉及许多品牌用于客服自动化的第三方外挂服务，受影响的账号已被强制下线。事件发生在凌晨，恶意链接为涉黄引流内容，已被企业微信迅速封禁。
+
+rss · 客服行业动态 · 10月25日 16:40
+
+**背景**: 企业微信是腾讯推出的企业通信与协作平台，在中国被广泛用于客服和内部管理。第三方外挂是扩展功能的非官方工具，违反平台政策并带来安全风险。腾讯多次警告不要使用此类外挂，否则可能导致账号封禁和数据泄露。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.toutiao.com/article/7700202420602339874/">多家品牌企业微信发涉黄信息，外挂为何频频惹麻烦？</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/5044281310/m12ca99fde03302lhyu">企业微信回应耐克等账号发色情信息：第三方外挂软件服务被攻破，已强...</a></li>
+<li><a href="https://finance.sina.com.cn/tech/roll/2026-10-24/doc-iniwicvq4814285.shtml">企业微信回应耐克等企业账号发色情链接：系第三方外挂服务被攻破_新浪...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服安全`, `#企业微信`, `#第三方外挂`, `#账号安全`, `#腾讯`
+
+---
+
+<a id="item-28"></a>
+## [纽约市提议监管 AI 客服聊天机器人](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtbFZQbi1ERFhmV2stZ1p1VGxkVFhRRndrNWo2QlVkcnUzaEwxQkV3Z3JGWlpsUkk0Mno0S28yTFAtVXA5MHoxa1J5cEFjdnBwVnVHeDNYNkxUdTByV05Oek9B0gFnQVVfeXFMTktZTUVRXzlZaVB6aGFaRzkyZ3RTQzMyN2I5ZXFmSlp4cjZoYWhQVmxORTFPNExOb2VGVjNLTVp0VUF1UGw1RmZvenNYNk05enlYZkYxYm9OWkZWZ2FMbFdZMmJsNzVzNA?oc=5) ⭐️ 7.0/10
+
+2026 年 10 月 20 日，纽约市消费者部门提出一项规则，要求企业在客户与 AI 客服聊天机器人互动时进行披露，并提供便捷的人工转接途径。该提案由市长佐兰·马姆达尼的政府推动，旨在保护消费者免受自动化回复造成的令人沮丧的“死循环”。 如果通过，纽约市将成为美国首个专门监管 AI 客服聊天机器人的城市，为全国范围内的 AI 治理和合规要求树立先例。部署自动化客户交互的企业将需要调整其系统以满足披露和人工转接标准，这将对各行业的客户服务运营产生影响。 该拟议规则专门针对 AI 客服聊天机器人，要求明确披露并提供便捷的人工代表转接途径。它是一揽子立法提案的一部分，还包括举报人激励和第三方验证等内容，将于 10 月 5 日在市议会全体听证会上讨论。
+
+rss · 客服行业动态 · 10月25日 02:02
+
+**背景**: AI 客服聊天机器人正越来越多地被企业用于处理常规咨询，但它们可能让用户陷入重复循环而无法联系到人工。纽约市的提案是地方和州层面 AI 监管趋势的一部分，重点关注透明度和消费者保护。该规则将要求企业告知用户他们正在与 AI 对话，并提供与人工交谈的替代方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://council.nyc.gov/press/2026/09/25/3252/">New York City Council Unveils Legislative Proposals to ...</a></li>
+<li><a href="https://theaieducator.io/press/2026-10-21-nyc-ai-customer-service-doom-loops-human">New York proposes a right to reach a human behind AI customer ...</a></li>
+<li><a href="https://www.semafor.com/article/10/20/2026/mamdani-takes-on-ai-chatbot-doom-loops-in-new-york">Mamdani takes on AI chatbot ‘doom loops’ in New York</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI regulation`, `#customer service`, `#chatbots`, `#policy`, `#New York City`
+
+---
+
+<a id="item-29"></a>
+## [康卡斯特宽带流失 14.4 万户，裁员并转向 AI 客服](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1la2FPdlgwOXpkbUoyUzI1SFkteWt0Z3NIUTFfU2d4VWJUNDZFSk5lZ0lubERtVzdpVTVXUkN2T3ZtNFo2Z2paLXg2dnhWQW5nUGNKOHZFRXdfc3FfS2dacTBn?oc=5) ⭐️ 7.0/10
+
+康卡斯特在裁员并将客服工作转向 AI 系统的同时，报告流失了 14.4 万宽带用户。该公司一直在扩大 AI 的使用，包括用 Xfinity Assistant 聊天机器人处理客户咨询。 这一案例凸显了大规模用 AI 取代人工客服的潜在风险，用户流失可能表明客户不满。它为电信和服务行业在自动化与客户体验之间权衡提供了具体的数据点。 康卡斯特的 AI 客服包括 Xfinity Assistant 聊天机器人和基于大语言模型的工具，但文章未说明具体裁员人数，也未明确用户流失是否与 AI 客服变更直接相关。14.4 万这一数字对大型宽带提供商而言是显著下滑。
+
+rss · 客服行业动态 · 10月25日 11:54
+
+**背景**: 康卡斯特是美国大型电信集团，通过 Xfinity 品牌提供宽带、有线电视和电话服务。与许多公司一样，它越来越多地采用 AI 和机器学习来自动化客户支持，包括聊天机器人和自助服务工具。电信行业出现了裁员和采用 AI 的更广泛趋势，一些公司后来因客户反弹而逆转政策。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.toolify.ai/ai-news/transforming-customer-experience-comcasts-ai-and-ml-success-story-1482075">Transforming Customer Experience: Comcast&#x27;s AI and ... - Toolify</a></li>
+<li><a href="https://arxiv.org/html/2405.00801v1">“Ask Me Anything”: How Comcast Uses LLMs to - arXiv.org</a></li>
+<li><a href="https://news.outsourceaccelerator.com/ai-customer-service-layoffs/">AI-led customer service layoffs set to reverse by 2027 ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#康卡斯特`, `#裁员`, `#宽带流失`, `#客服自动化`
+
+---
+
+<a id="item-30"></a>
+## [小鹏 X9 撞后气囊未弹出，客服回应令车主困惑](https://news.google.com/rss/articles/CBMijAFBVV95cUxNU0hKd2lSbGgzM3k5YUNnWUF4R3NPd1dqZTZkd0E0QnI4TTlxdmFwdWdhVVAzd2ZnVFJjcGxwRWpmSzJ5dGJjRDltYU5ZY2swTVhYdE5FMDJWT3JyTm9JbXpGTUJGSDZfc1FVNWlUeUxZVE0zc0VTdUNVLWJUbk8xSHgzZWptUEFrN210NQ?oc=5) ⭐️ 6.0/10
+
+据搜狐网报道，一位小鹏 X9 车主反映车辆在发生碰撞后安全气囊未弹出，而客服人员的回应让车主感到困惑。该事件凸显了车企在碰撞后服务场景中与客户之间可能存在的沟通差距。 该案例凸显了车企在处理安全相关投诉时面临的声誉风险，尤其是对于 X9 这样的旗舰车型。糟糕的危机沟通可能削弱客户信任并放大负面舆论，在竞争激烈的电动汽车市场中影响品牌形象。 安全气囊的弹出取决于传感器检测到的碰撞是否达到特定阈值，该阈值因碰撞类型和严重程度而异；例如，侧面气囊在撞击狭窄物体时可能在低至 8 英里/小时的速度下弹出。该事件的具体情况（如碰撞角度和速度）未在报道中详细说明，因此仍存在技术解释的空间。
+
+rss · 客服行业动态 · 10月25日 15:12
+
+**背景**: 安全气囊是辅助约束系统，依靠传感器检测突然减速或撞击，并在碰撞超过预定阈值时触发弹出。小鹏 X9 是一款售价约 40 万元人民币的豪华电动 MPV，配备了包括 XPILOT 在内的先进驾驶辅助系统，该系统使用英伟达 Orin X 芯片和一系列传感器。在汽车行业，客户服务沟通至关重要，因为安全问题可能迅速升级为公关危机。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iihs.org/research-areas/airbags">Information from IIHS-HLDI on airbags</a></li>
+<li><a href="https://en.wikipedia.org/wiki/XPeng_X9">XPeng X9 - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#automotive`, `#crisis communication`, `#Xpeng`, `#service recovery`
+
+---
+
+<a id="item-31"></a>
+## [AI 接手例行工作，客服却喊更累：难题全丢给真人](https://news.google.com/rss/articles/CBMivAJBVV95cUxORE8wWHJoQXFnMS16Q2hvVkZLMXFWTXh4TWZmR3R1emNacmFhZWZJa1JEc3RGY1hfaUdaQTgta3VsRkNRZ3JTTXFhNnBuNU4xbXUweC1OMGhFclZ6V0RQRndsWGFLNEpxVm9Zck92b1YtcDA2bWFEaGw4SVVxN21TMWJJS1ZORXJMSUhULWZuLWtsUXV3MGJWbTlHWE9zLWtjUTd6VFpQeXoxdlNmNG50MWlUNXBvU213M2lJUVBvYTJabHVSemRYQ3Ewc0w2b3hkWXFYNjBwZ0JlaDhsNENKWUUwaUZzcXVTN0lVUHNJSVpyYWVNWEFXVzQtRDBZZDRVeldIRHVnN3VCVFhFM0RBUThvdWpFb1J6anMweUhsaGE0LUVZZ0lDU1BzV3J4UnphaWVZOGZkYXRLZ001?oc=5) ⭐️ 6.0/10
+
+亚洲电视新闻的一篇报道指出，虽然 AI 接手了例行的客服工作，但人类客服人员却只剩下最困难和最耗费情感的问题，导致压力与疲劳加剧。这种常被称为“自动化悖论”的现象，随着企业部署 AI 以提升效率而逐渐显现。 这一点很重要，因为它挑战了 AI 总能改善工作条件的假设；相反，AI 可能通过将复杂案例集中到人类身上而加剧其负担。随着更多企业在客服中采用 AI，理解这一动态对于维护员工福祉和服务质量至关重要。 文章表明，AI 分诊系统只将最棘手的案例转给人类，这可能导致更高的情绪劳动和职业倦怠。企业需要监控工作量分配，并为处理升级问题的人类客服提供充分支持。
+
+rss · 客服行业动态 · 10月25日 02:00
+
+**背景**: 客服中的 AI 通常涉及处理常规咨询的聊天机器人和虚拟代理，而人类客服则处理复杂或敏感的问题。自动化悖论指的是自动化反而增加而非减少人类工作量的反直觉结果，因为人类只剩下最具挑战性的任务。这对劳动力管理和 AI 的道德部署具有影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/automation-paradox-when-smarter-cx-starts-feel-colder-ibex-global-1sf0e">The Automation Paradox: When Smarter CX Starts to Feel Colder</a></li>
+<li><a href="https://growthleadersnews.com/cx-paradox-2026-human-touch-vs-automation/">CX Paradox 2026: Balancing Human Touch &amp; Automation</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#AI`, `#workforce`, `#automation`, `#employee well-being`
+
+---
+
+<a id="item-32"></a>
+## [南昌车主易捷钱包余额蒸发，中国石化称账号已注销](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MeUZQQXRLQXM1MUt0eFkySEtIczhTZ1N2aFprakltTjhrcVFHdFE3UVRDd0gtNzZ3MlZiaVgtMC16TVFLR2U1d2JR?oc=5) ⭐️ 5.0/10
+
+南昌市民田先生发现，他于 2023 年 10 月在中国石化易捷钱包充值的 1500 元在消费几次后剩余的几百元余额，在今年 10 月 16 日查看时已清零。中国石化客服称其账号已被注销且余额为 0，但田先生坚称自己从未主动注销账号。 该事件凸显大型国企运营的预付钱包在账户安全和客户沟通方面可能存在的漏洞，若此类纠纷不能透明解决，可能削弱消费者对储值支付产品的信任。 该钱包于 2023 年 10 月充值，余额在今年 10 月 16 日消失；争议焦点在于账号是用户自行注销还是被公司注销，且剩余资金如何处理尚未得到解释。
+
+rss · 客服行业动态 · 10月25日 07:47
+
+**背景**: 易捷是中国石化旗下的加油站便利店及数字服务品牌，易捷钱包是一种预付储值账户，车主可充值后用于加油及其他消费。此类钱包在中国燃油零售领域广泛使用，但也引发关于资金安全、账号注销规则和纠纷解决的消费者保护问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20261025A04QIQ00">南昌一车主易捷钱包余额“蒸发”客服称账号已被注销，车主称未主动注销...</a></li>
+<li><a href="https://www.sinopecsales.com/">中国石化加油卡网上营业厅</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#Sinopec`, `#wallet balance`, `#account cancellation`, `#dispute`
+
+---
+
+<a id="item-33"></a>
+## [华为在日本开设首家直营售后服务综合中心](https://news.google.com/rss/articles/CBMifkFVX3lxTE9lNk9DbTBUdmZ3ZFBqVE1IM1huSHBwUy1HdG1mMWFmbHI5TlowaHd2US1kRG1RRllrZXdaVGFqcGRIWUE0Mjhrbm9Ma1Y0bVk3Z0xkV2k0Mk1XTV9LbVJwcjNPSmhqdzY1TUpPbU45YTZmblVZQ2VlVEpUMi1jUQ?oc=5) ⭐️ 5.0/10
+
+华为在日本开设了首家直营综合售后服务中心，位于东京都千代田区神田须田町，紧邻秋叶原电器街。 这标志着华为在日本市场对本地化服务基础设施的投入加深，旨在提升客户体验和品牌信任度，因为在竞争激烈的市场中，售后服务对消费电子和企业产品至关重要。 该中心由华为直接运营，不同于之前的授权服务点，提供华为产品的综合售后支持，但具体服务内容和开业日期在来源中未详细说明。
+
+rss · 客服行业动态 · 10月25日 15:07
+
+**背景**: 尽管存在地缘政治紧张，华为一直在扩大其在日本的存在，专注于智能手机和可穿戴设备等消费产品。在成熟的日本电子市场中，售后服务是关键差异化因素，客户期望高质量的支持。直营中心使品牌能够控制服务质量并更有效地收集客户反馈。
+
+**标签**: `#customer service`, `#after-sales service`, `#Huawei`, `#service expansion`, `#Japan market`
+
+---
+
+<a id="item-34"></a>
+## [闲鱼用户处理退货遭客服语音辱骂，已获道歉](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nTjFidjh2cEVPRG1Hc3VEQlFxaUdVLWM1anU2bnptOGFkQnlOLVZyekxxMjVOSW1IYjctVUVlQ2ZZOXBuRjdtODdocWhyQUpWWG9POGlFakRhMl9XNk5ZYQ?oc=5) ⭐️ 5.0/10
+
+据澎湃新闻报道，一名闲鱼用户在处理退货时遭到客服人员语音辱骂，事后已获得道歉。 该事件凸显了闲鱼等大型平台在客服服务质量管理上的风险，可能削弱用户信任，并引发对投诉与退货处理流程的关注。 辱骂通过语音消息在退货过程中发生，用户已获得道歉；摘要中未披露平台是否采取纪律处分或其他回应措施。
+
+rss · 客服行业动态 · 10月25日 07:51
+
+**背景**: 闲鱼是阿里巴巴旗下领先的消费者对消费者（C2C）二手交易平台，成立于 2014 年，提供回收、鉴定和用户评分等服务。作为 C2C 平台，退货和纠纷常需客服介入调解，因此服务质量对用户体验至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.alibabagroup.com/en-US/about-alibaba-businesses-1747081802473799680">XIANYU -Alibaba Group</a></li>
+<li><a href="https://blog.fishgoo.com/xianyu-vs-goofish/">Xianyu vs Goofish: Are They the Same App ? (2026 Explainer) - Fishgoo</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#e-commerce`, `#service quality`, `#Xianyu`, `#consumer complaint`
+
+---
