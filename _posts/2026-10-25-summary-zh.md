@@ -1,0 +1,708 @@
+---
+layout: default
+title: "Horizon Summary: 2026-10-25 (ZH)"
+date: 2026-10-25
+lang: zh
+---
+
+> 从 61 条内容中筛选出 29 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [IEA 警告全球煤炭需求或创新高，若 LNG 运输受阻明年可能再破纪录](#item-1) ⭐️ 7.0/10
+2. [美国能源部将氦气列为关键材料](#item-2) ⭐️ 7.0/10
+3. [特变电工首款固态变压器在天津实现量产](#item-3) ⭐️ 7.0/10
+4. [南方区域电力市场经营主体超 29 万家](#item-4) ⭐️ 6.0/10
+5. [炼油厂原油供应中断 美国紧急释放 40 万桶战略石油储备](#item-5) ⭐️ 6.0/10
+6. [中国核电瞄准两亿千瓦装机，探索跨行业减碳新机遇](#item-6) ⭐️ 6.0/10
+7. [数字能源基础设施面临网络安全与绿色转型双重压力](#item-7) ⭐️ 5.0/10
+8. [《粤港澳大湾区供应链促进报告 2026》发布](#item-8) ⭐️ 5.0/10
+9. [西门子推广智能电网作为可再生能源整合的关键](#item-9) ⭐️ 4.0/10
+10. [湖南省政协领导毛万春赴国网湖南电力开展调研协商](#item-10) ⭐️ 4.0/10
+
+### 🤖 AI 科技
+
+11. [Dan Luu 呼吁软件业更雄心勃勃，HN 热议 AI 的作用](#item-11) ⭐️ 7.0/10
+12. [开发者推出带比特币奖金的 PHP RCE 实时挑战](#item-12) ⭐️ 7.0/10
+13. [Aardappel 发布 Goose：一种无共享的系统编程语言](#item-13) ⭐️ 7.0/10
+14. [网站直播并转录美国核力量在 11175 kHz 上的紧急行动信息](#item-14) ⭐️ 6.0/10
+15. [无数学量子物理解释文章引发 HN 热烈讨论](#item-15) ⭐️ 6.0/10
+16. [FreeDNS 在 Hacker News 上重新引发关注，既有赞誉也有安全警告](#item-16) ⭐️ 5.0/10
+17. [Roku 将开发者仓库从 GitHub 迁移至 GitLab](#item-17) ⭐️ 4.0/10
+18. [SpeedCrunch 1.1 修复长期存在的运算顺序错误](#item-18) ⭐️ 4.0/10
+
+### 🏢 大厂要闻
+
+19. [苹果首款折叠屏 iPhone Duo 交付，DeepSeek 传 IPO，Kimi K3.1 Pro 与 Seedance 2.5 4K 发布](#item-19) ⭐️ 7.0/10
+20. [iPhone Duo 支持微信平板登录，实现多设备同时在线](#item-20) ⭐️ 6.0/10
+21. [实测 Kimi K3.1 Pro：国产旗舰模型竞争重启](#item-21) ⭐️ 6.0/10
+22. [微信初步适配 iPhone Duo，全球 PC 出货量下降 21%，何刚出任华为董事](#item-22) ⭐️ 6.0/10
+23. [开发者将 Claude 集成到电视系统中，进行非常规实验](#item-23) ⭐️ 4.0/10
+
+### 🎧 客服行业动态
+
+24. [安克、耐克客服账号因第三方企业微信外挂被攻破而发送疑似色情信息](#item-24) ⭐️ 8.0/10
+25. [新国标满月，AI 转人工客服仍难](#item-25) ⭐️ 7.0/10
+26. [苹果客服称 iPhone Duo 屏幕亮线非硬件问题](#item-26) ⭐️ 5.0/10
+27. [新浪网提醒双十一警惕假客服和假优惠诈骗](#item-27) ⭐️ 4.0/10
+28. [任泽平公众号突遭“禁止关注”](#item-28) ⭐️ 4.0/10
+29. [苹果客服回应 iPhone Duo 屏幕开裂问题](#item-29) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [IEA 警告全球煤炭需求或创新高，若 LNG 运输受阻明年可能再破纪录](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）警告，今年全球煤炭需求有望创下历史新高，而如果液化天然气（LNG）运输无法从当前的干扰中恢复，2026 年可能再次打破纪录。据财联社报道，这一预测将煤炭需求的反弹与天然气供应受限及能源安全担忧联系起来。 这一警告凸显了能源安全与气候目标之间的紧张关系：随着天然气供应趋紧，各国可能更加依赖煤炭这种碳排放最高的化石燃料，从而使脱碳目标更加复杂。对于权衡燃料切换决策的能源政策制定者、公用事业公司和投资者而言，该预测是重要的市场情报。 IEA 的展望关键在于 LNG 航运物流：如果 LNG 油轮运输和交付路线持续受阻，天然气价格可能维持高位，促使更多发电转向煤炭。该预测属于展望而非政策变化，实际需求将取决于天气、中国和印度的经济增长，以及 LNG 供应链恢复正常的速度。
+
+google\_news · 财联社 · 10月24日 17:38
+
+**背景**: 国际能源署是一个总部位于巴黎的政府间组织，成立于 1974 年，就全球能源领域提供政策建议、分析和数据；其成员国约占全球能源需求的 75%。液化天然气（LNG）由专用 LNG 运输船在约-162°C 的低温下运输，这一航运网络一旦中断，可能迅速收紧天然气市场。当天然气变得稀缺或昂贵时，公用事业公司往往转向煤炭发电，这就是 LNG 航运状况直接影响煤炭需求预测的原因。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/International_Energy_Agency">International Energy Agency - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LNG_carrier">LNG carrier - Wikipedia</a></li>
+<li><a href="https://www.iea.org/reports/global-energy-review-2026/coal">Coal - Global Energy Review 2026 - IEA</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal demand`, `#IEA`, `#LNG shipping`, `#energy security`, `#energy policy`
+
+---
+
+<a id="item-2"></a>
+## [美国能源部将氦气列为关键材料](https://news.google.com/rss/articles/CBMihgFBVV95cUxPeTZ5ZWY0ZkZGM21ma2c4UkVWVnBBMnRYY1hGbkRjSHJJa1M4cF9pQVdyMThxMjZ2LXUyUEJJelk1YTE3c2hwQ29LdlllZ2NKcG03c29yenVUQng1OVJTZGZ1RHAxa1g4Z21rNG1NUzBvRkZlRWVmQXRUV3pubkYwdElMbnZkZw?oc=5) ⭐️ 7.0/10
+
+美国能源部已将氦气列入其关键材料清单，这一认定正式确认该气体对国家的能源、技术和安全利益至关重要。印尼商报和财联社等媒体对此进行了报道，并强调氦气对半导体生产的重要性。 将氦气提升为关键材料，意味着华盛顿可能会将更多政策关注、资金和供应链保障措施投向这一生产高度集中且易受地缘政治干扰的资源。此举将影响半导体制造、医学成像（MRI）、航空航天和科学研究，并可能重塑加拿大、卡塔尔等盟友供应商的投资与采购战略。 这一认定延续了美国能源部 2023 年关键材料评估，该评估审查了 37 种材料并确定其中 18 种为能源关键材料；氦气被纳入反映了其在芯片制造中作为载气、冷却介质和等离子体控制气体的不可替代作用。不过，该分类本身并不会自动施加出口管制或补贴，具体政策落地仍有待观察。
+
+google\_news · Shangbao Indonesia · 10月24日 01:31
+
+**背景**: 氦气最为人熟知的是用于气球，但其独特性质——极低的沸点、极小的原子尺寸和化学惰性——使其在半导体制造中不可或缺，用于化学气相沉积、离子注入和晶圆冷却等环节。全球氦气供应十分脆弱，因为它主要是天然气开采的副产品，生产集中在美国、卡塔尔等少数地区。美国能源部维护关键材料清单，以指导研究、替代材料开发和供应链韧性政策，将氦气列入该清单提升了其战略地位。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.energy.gov/sites/default/files/2023-05/2023-critical-materials-assessment.pdf">2023 Critical Materials Assessment</a></li>
+<li><a href="https://css.umich.edu/publications/factsheets/material-resources/critical-materials-factsheet">Critical Materials Factsheet | Center for Sustainable Systems</a></li>
+<li><a href="https://specgasinc.com/feeds/blog/helium-semiconductor-manufacturing">Why Helium Is Essential to Semiconductor Manufacturing</a></li>
+
+</ul>
+</details>
+
+**标签**: `#helium`, `#critical materials`, `#energy policy`, `#supply chain`, `#DOE`
+
+---
+
+<a id="item-3"></a>
+## [特变电工首款固态变压器在天津实现量产](https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3NIaHlSaXp1UzNYUTJrcU9BOHBCVmQzeW1IRGxPc1lNdWxnRVoxRTlZYUdEaXBwOFBKR0xuZVhxS2FQVno2Z2Qxa19JOUdDTTh6MTRHeFdVM2JwVGlkSDVHVk45UWxQVkJQZENSamZveW5zUVcxYlBSZkdYOHBtUGJ3?oc=5) ⭐️ 7.0/10
+
+特变电工于 10 月 24 日宣布，其首款自主研发的固态变压器——睿驭系列（Roy Sync）已在天津制造业基地实现批量生产，年产能达 200 台。该系列包括户内型和户外型两种形态，其中户外型产品已应用于四川广元智运绿能物流超充站项目并完成现场投运。 这标志着固态变压器技术从研发走向产业化应用的关键一步，有望加速电网装备升级，并支撑智能算力中心和新能源并网日益增长的需求。作为中国能源装备领域的龙头企业，特变电工的量产将推动固态变压器市场的更广泛应用和竞争。 睿驭系列基于一个技术平台，可覆盖人工智能算力中心、重卡超充与船舶岸电、新能源场站、源网荷储一体化以及钢铁冶金五种应用场景。户外型产品已获得订单并完成现场投运，表明其已具备实际部署能力。
+
+google\_news · 天津日报 · 10月24日 20:19
+
+**背景**: 固态变压器（SST）利用电力电子技术实现比传统铁芯变压器更高效、更灵活的电压转换，支持双向功率流动和直流输出。它被视为智能电网、新能源并网和数据中心的关键使能技术，可将中压交流电直接转换为 800V 直流电，为芯片直接供电。特变电工是中国最大的能源装备制造商之一，其实现固态变压器量产表明国内供应链正日趋成熟。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1092344226_121443915">抢占新型电力赛道先机 特变电工首款固态变压器在津量产</a></li>
+<li><a href="http://school.10jqka.com.cn/20261024/c681051739.shtml">特变电工睿驭系列固态变压器发布</a></li>
+<li><a href="https://finance.sina.cn/2026-10-25/detail-iniwkmrm3727001.d.html?vt=4">特变电工首款固态变压器在津量产|天津日报|天津市|智能算力|电力|天津...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#固态变压器`, `#特变电工`, `#智能电网`, `#能源装备`, `#量产`
+
+---
+
+<a id="item-4"></a>
+## [南方区域电力市场经营主体超 29 万家](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XWVVndHlaSExPdlFER0FZazZMZndiN2t5NFdxT0ppdUNtYzkyRy1KaFpiMHNNZFhoUER6YTlfRkpQZkppQ0ZmRk9jbWs1YS1EalFJYzY1VWViRzFkdFln?oc=5) ⭐️ 6.0/10
+
+据中工网视频报道，南方区域电力市场经营主体已超过 29 万家，交易更加便捷、灵活。 这一里程碑反映了中国电力体制改革中市场参与度的提升和交易灵活性的增强，影响着南方五省区的发电企业、售电公司和大用户。 该报道为简短的视频新闻，缺乏深入分析或原始数据，因此对能源政策专家的价值有限。
+
+google\_news · 中工网 · 10月24日 07:13
+
+**背景**: 南方区域电力市场覆盖广东、广西、云南、贵州和海南五省区，于 2022 年 7 月 23 日启动试运行，并于 2025 年 6 月 28 日转入连续结算试运行。该市场由中长期市场、现货市场和辅助服务市场构成，采用统一交易规则。经营主体包括参与电力市场化交易的发电企业、售电公司和大用户。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E5%8D%97%E6%96%B9%E5%8C%BA%E5%9F%9F%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/67393654">南方区域电力市场（覆盖广东、广西、云南、贵州、海南五省区的电力交...</a></li>
+<li><a href="https://www.csg.cn/xwzx/2026/2026gsyw/202607/t20260707_356102.html">南方区域电力市场试运行一周年 市场化交易电量占比近7成 改革赋能成效...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电力市场`, `#南方区域`, `#能源政策`, `#市场改革`, `#经营主体`
+
+---
+
+<a id="item-5"></a>
+## [炼油厂原油供应中断 美国紧急释放 40 万桶战略石油储备](https://news.google.com/rss/articles/CBMijAFBVV95cUxPODJvWkl3UUwyeTRuNHd4WXVkTXd1U3gzb0RIZE10N3AwOGI5TVFWejlRb19YQk4tNVI3UWF3OGI5bHcyUUdqTjdFVG5lU0FlNUxvRzU4SHUxenZHbFFxN0J4NUdRT1U4ZG92WUdFNXlZQ05mLWdPLWpvUjZ5LUYycHpWUUlOOUZLX2NhaA?oc=5) ⭐️ 6.0/10
+
+据搜狐网报道，一家炼油厂的原油供应中断，促使美国紧急从战略石油储备中调拨 40 万桶原油作为应急措施。此次释放是针对特定供应中断的定向应对，而非大范围的市场干预。 此举表明战略石油储备的应急机制可以针对局部炼油厂供应问题启动，而不仅限于大规模全国性短缺。对能源政策观察者和炼油企业而言，这展示了应急工具正被小规模使用，不过 40 万桶的规模有限，影响可能局限于局部地区。 40 万桶的释放量相对于战略石油储备最高 7.5 亿桶的授权容量而言规模很小，此类行动通常依据《能源政策与保护法》以交换或有限销售的形式进行。报道未说明受影响的是哪家炼油厂、中断原因，以及这些原油是否需要偿还。
+
+google\_news · 搜狐网 · 10月24日 02:07
+
+**背景**: 战略石油储备成立于 1975 年石油输出国组织（OPEC）石油禁运之后，作为防范未来供应中断的保险措施，最初计划储存至少 7.5 亿桶原油。原油必须经过炼油加工才能成为汽油、柴油或航空燃油，因此即使原油充足，炼油厂中断也可能导致燃料供应紧张。根据《能源政策与保护法》，总统可在发生严重能源供应中断或履行国际能源义务时授权释放或交换战略石油储备。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.spr.doe.gov/">The Strategic Petroleum Reserve</a></li>
+<li><a href="https://www.energy.gov/hgeo/opr/spr-sales-and-exchanges">SPR Sales and Exchanges | Department of Energy</a></li>
+<li><a href="https://energymatters.org/the-strategic-petroleum-reserve-explained/">The Strategic Petroleum Reserve, Explained - Energy Matters</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Strategic Petroleum Reserve`, `#energy policy`, `#oil supply disruption`, `#refinery`, `#US energy`
+
+---
+
+<a id="item-6"></a>
+## [中国核电瞄准两亿千瓦装机，探索跨行业减碳新机遇](https://news.google.com/rss/articles/CBMid0FVX3lxTE81OVFHUU1iek0zbW1DRGtxVGhwellSVFBZa0dCeG5qVkRJajhSa3RDRHJfbnR1VFdtRVBBNnU4azdBcmYtSWI0a1JwUmJ3MzlMclZwb2t3cDN4YS15LW1nREtGdUREOW53bGRXdXB0VnhHVFh4MFJB?oc=5) ⭐️ 6.0/10
+
+据 ZAKER 新闻报道，中国核电行业正瞄准两亿千瓦（200 GW）的装机容量目标，并探索跨行业减碳的新机遇。文章强调了核能在发电之外对脱碳的潜在贡献。 这一目标凸显了中国将核电扩张作为减少碳排放和保障能源安全战略的一部分。它可能显著影响中国的能源结构，并为全球气候目标做出贡献。 文章可能讨论了具体应用，如核能区域供热、利用高温气冷堆制氢以及海水淡化等，这些在中国正在发展，以将核能用于非电领域。
+
+google\_news · ZAKER新闻 · 10月24日 10:02
+
+**背景**: 核能是一种低碳能源，可提供基荷电力和热能。中国一直在快速扩张其核电机组，以减少对煤炭的依赖并实现气候目标。跨行业脱碳是指将核能不仅用于发电，还用于供热、制氢和海水淡化，从而减少其他行业的排放。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.world-nuclear-news.org/articles/chinas-first-commercial-nuclear-district-heating-scheme-expands">China&#x27;s first commercial nuclear district heating scheme ...</a></li>
+<li><a href="https://www.researchgate.net/publication/366179075_Hydrogen_production_by_using_high-temperature_gas-cooled_reactors">Hydrogen production by using high - temperature gas - cooled reactors</a></li>
+<li><a href="https://www.envisioning.com/research/substrate/china__nuclear-seawater-desalination">Nuclear -Powered Seawater Desalination | Substrate | Envisioning</a></li>
+
+</ul>
+</details>
+
+**标签**: `#nuclear power`, `#energy policy`, `#decarbonization`, `#China`, `#installed capacity`
+
+---
+
+<a id="item-7"></a>
+## [数字能源基础设施面临网络安全与绿色转型双重压力](https://news.google.com/rss/articles/CBMipgFBVV95cUxPblAtOXlhLVd1QjBlWW4wX2dxa2xzVmpkUy1oR1RSaEpaS2ltS1RkeGZMUHk2a0RYNG1hVHEzRjV6YUJiVEhodFd0Rm5wQ09KcGZ0b0dUdllQNUhGQzI0SlB2MldOTk5QczVtU2QwU1NvRTFDMzJzUXF0UVc5X2loRnRnU19HQVZhZjdEeVZ0NDlfX25adGhwRUNFNnlOOWJVaHYtUTJ3?oc=5) ⭐️ 5.0/10
+
+Vietnam.vn 的一则新闻指出，数字能源基础设施正面临网络安全威胁和绿色转型需求的双重压力。该报道强调了能源行业数字化与可持续发展之间日益紧密的交集。 随着能源系统日益数字化，它们越来越容易受到网络攻击，确保这些系统的安全对于维持可靠的电力供应至关重要。同时，绿色转型的推进需要整合可再生能源和智能技术，这使得网络安全成为实现可持续发展目标的基础要素。 该新闻内容简短，缺乏关于事件、技术或政策措施的具体细节。它反映了一个更广泛的趋势，即能源基础设施网络安全被视为一项战略挑战，需要保护运营技术（OT）并在发电、输电和配电环节整合弹性解决方案。
+
+google\_news · Vietnam.vn · 10月24日 10:15
+
+**背景**: 数字能源基础设施是指利用智能电网、物联网传感器和数据分析等数字技术来管理和优化能源生产与分配。绿色转型涉及从化石燃料转向可再生能源以减少碳排放。随着这两大趋势的融合，能源行业面临确保数字系统免受网络威胁同时支持环境可持续性的挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://energy.ec.europa.eu/topics/eus-energy-system/digitalisation-energy-system_en">Digitalisation of the energy systems</a></li>
+<li><a href="https://qihhub.com/energy-infrastructure-cybersecurity/">Energy Infrastructure Cybersecurity : Risks and Strategic Solutions</a></li>
+<li><a href="https://english.vov.vn/en/economy/smart-energy-infrastructure-key-to-vietnams-green-growth-digital-transformation-post1309273.vov">Smart energy infrastructure key to Vietnam’s green growth ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#cybersecurity`, `#green transition`, `#digital infrastructure`, `#Vietnam`
+
+---
+
+<a id="item-8"></a>
+## [《粤港澳大湾区供应链促进报告 2026》发布](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcy1hQ1VXUTNMS2pFaW83NFVGem5LWEhPRW9TakEwZzFRTEZEY3pBV2lobmwxSV9wbDVDSGJaY0c0RTdNSUVMS1F0X1pTS3lDeWQwT21VTTBOejN6NUV3Q09yc3ZwSlljbWZsX08tYWw3MVRXWHg4RTEzMHV5WE14WUNFR19HMDJpMUd1Sks5Z3FmLWRiaTRlZmxCRG1GV1Z0NW4wWjBLbjJ6d2kzbnptbGhtMWx3QzFfRS1SQ2UzOFAzOGdyM1hlSDZneVdOSjBqVTBCckNWM2Y?oc=5) ⭐️ 5.0/10
+
+《粤港澳大湾区供应链促进报告》在第三届粤港澳大湾区发展工商大会上由中国贸促会研究院发布，这是该报告首次发布。报告系统梳理了近年来大湾区供应链促进情况，并首次绘制了智能汽车和创新药供应链图谱。 该报告全面概述了大湾区供应链发展情况，突出了产业合作和创新的机遇。它可为政策和商业决策提供参考，特别是在智能汽车和医药等关键领域，并有助于区域一体化和全球竞争力提升。 报告共分四个章节，立足工商界视角。它首次绘制了大湾区智能汽车和创新药供应链图谱，揭示了供应链促进体系为湾区产业合作和企业创新带来的新机遇。
+
+google\_news · 新浪财经 · 10月24日 05:20
+
+**背景**: 粤港澳大湾区是由广东省九个城市以及香港和澳门组成的城市群，旨在成为全球创新和经济枢纽。粤港澳大湾区发展工商大会是促进商业合作的年度活动，而供应链报告是一项新举措，旨在绘制和促进区域供应链一体化。供应链图谱直观地展示了供应商、制造商和物流提供商的网络，有助于识别优势和差距。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20250915A05D1600">《 粤 港 澳 大 湾 区 供 应 链 促 进 报 告 》在广州发布_腾讯新闻</a></li>
+<li><a href="https://pub-zhtb.hizh.cn/a/202509/16/AP68c8b57ce4b0e43b4fbf40ee.html">聚焦 供 应 链 协同创新！ 这场 大 会为 粤 港 澳 大 湾 区 发展机遇画重点</a></li>
+<li><a href="https://www.cls.cn/detail/2145061">绘制 大 湾 区 发展新图谱 《 粤 港 澳 大 湾 区 供 应 链 促 进 报 告 》发布</a></li>
+
+</ul>
+</details>
+
+**标签**: `#supply chain`, `#Greater Bay Area`, `#regional development`, `#energy policy`, `#industry report`
+
+---
+
+<a id="item-9"></a>
+## [西门子推广智能电网作为可再生能源整合的关键](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TUURQZkppWkF5YllzUTZOcGNhNk9SSXpqYjJBckpaRGNnNnE5Rm5Od19tNURvc0M4VmpYelQyM0VvLWQtWjZuUV9MNXFRa2dhMFJnTk95TTBpdmw5MmxKdkJLTVA0LV9ia1RSZVdzRQ?oc=5) ⭐️ 4.0/10
+
+西门子发布了一篇宣传文章，强调其智能电网技术是整合可再生能源到电力系统的关键。内容着重于数字电网解决方案在支持能源转型中的作用，但未提供新数据或政策分析。 这凸显了数字电网技术在提高波动性可再生能源比例方面日益重要的作用，这是全球公用事业和电网运营商面临的关键挑战。然而，作为供应商视角，它主要起到提高普遍认知的作用，而非为政策决策提供依据。 西门子的智能电网产品组合包括能源自动化服务、数字输配电解决方案和灵活性管理平台。文章缺乏具体案例研究、性能指标或对监管障碍的讨论。
+
+google\_news · Siemens · 10月24日 09:27
+
+**背景**: 智能电网利用数字通信和自动化技术实时平衡电力供需，这对于整合太阳能和风能等间歇性可再生能源至关重要。西门子是电网自动化和数字化技术的主要供应商，在不断增长的电网现代化市场中与其他设备供应商竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.siemens.com/en-us/products/energy-automation-services/">Services for energy automation and smart grids | Siemens</a></li>
+<li><a href="https://www.siemens-energy.com/global/en/home/products-services/solutions-industry/power-transmission.html">Electric power transmission and distribution solutions</a></li>
+<li><a href="https://www.tatapower.com/glossary/s/smart-grid">Smart Grid : Definition, Working, Benefits &amp; Examples</a></li>
+
+</ul>
+</details>
+
+**标签**: `#smart grid`, `#renewable energy`, `#energy policy`, `#Siemens`, `#corporate promotion`
+
+---
+
+<a id="item-10"></a>
+## [湖南省政协领导毛万春赴国网湖南电力开展调研协商](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rLWtxRzBRQWt6M3djOE5fX0ZyNGdfcVp3Y1FOdmxoT25KbFlwYVBGWURGNmRncFdKUWVuc0x1WnhBQkFEQ3JIV3JxbmNzTkZQQWN1eDFrOHd6ZFJZVEJv?oc=5) ⭐️ 4.0/10
+
+湖南省政协领导毛万春赴国网湖南电力公司开展调研协商活动。该消息由湖南政协新闻网报道，体现了政协机构对省级重点能源企业的关注与互动。 此次调研协商反映了政协在区域能源议题上的建言献策作用，可能预示着湖南电力行业即将展开的政策讨论或建议。尽管属于常规活动，但此类互动可能对地方能源政策和电网运营产生影响。 此次调研由湖南省政协领导毛万春带队，国网湖南电力公司承办，该公司是全球最大公用事业企业国家电网有限公司的省级子公司。目前公开摘要中未披露协商的具体议题。
+
+google\_news · https://www.xiangshengnet.com/ · 10月24日 03:33
+
+**背景**: 中国人民政治协商会议（政协）是政治咨询机构，向政府部门提交提案和建议，但不具有立法权。国家电网有限公司是国有企业，运营着中国大部分输电和配电网络，其省级子公司如国网湖南电力负责管理地方电网。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China">State Grid Corporation of China - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chinese_People&#x27;s_Political_Consultative_Conference">Chinese People&#x27;s Political Consultative Conference</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#State Grid`, `#Hunan`, `#political consultation`, `#regional news`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [Dan Luu 呼吁软件业更雄心勃勃，HN 热议 AI 的作用](https://danluu.com/ambitious/) ⭐️ 7.0/10
+
+Dan Luu 发表了一篇文章，主张软件开发者应该更有雄心，这在 Hacker News 上引发了 83 分、47 条评论的讨论，探讨 AI 工具如何能支持更大型的项目，同时也承认 LLM 辅助开发的局限性。 这场讨论凸显了开发者思维方式的转变：AI 工具降低了构建复杂系统的门槛，可能使以前不可行的项目变得可行，但从业者警告说，MVP 之后的复杂性和过拟合仍然是重大挑战。 评论者分享了具体经验，例如使用 LLM 构建从 Postgres WAL 到 ClickHouse 的 ETL 管道，否则不可能完成；但也有人指出，AI 生成的代码可能对测试过的用例过拟合，在性能上无法泛化。
+
+hackernews · ltratt · 10月24日 21:47 · [社区讨论](https://news.ycombinator.com/item?id=50225695)
+
+**背景**: Dan Luu 是一位知名的软件工程师和博主，撰写关于软件工程、性能和行业迷思的详细文章。像 GPT 这样的大型语言模型（LLM）越来越多地用于软件开发的代码生成、测试和调试，但研究表明它们会带来过拟合和可维护性等风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://danluu.com/">danluu.com</a></li>
+<li><a href="https://arxiv.org/abs/2507.03156">[2507.03156] The Impact of LLM-Assistants on Software ... The Impact of LLM-Assistants on Software Developer ... Leveraging Large Language Models in the Software Development ... Challenges in LLM usage in Software Development - LinkedIn When AI codes, Who tests? A teaching case on risk, quality ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区总体上赞同要更有雄心的观点，一些人分享了 LLM 如何帮助他们处理曾经认为不可能的项目，而另一些人则强调 AI 无法消除 MVP 之后的复杂性，如功能权衡和集成挑战。少数评论者强调，建立能够交付雄心勃勃的 AI 辅助软件的声誉很重要。
+
+**标签**: `#software-engineering`, `#AI-assisted-development`, `#LLMs`, `#developer-productivity`, `#ambition`
+
+---
+
+<a id="item-12"></a>
+## [开发者推出带比特币奖金的 PHP RCE 实时挑战](https://stealmybitcoin.com/) ⭐️ 7.0/10
+
+一位开发者创建了 stealmybitcoin.com，这是一个实时挑战网站，托管了一个 PHP 远程代码执行（RCE）漏洞，并设置了价值约 502 美元的比特币钱包作为奖金，询问是否有人——或任何 AI 代理——能够利用该漏洞。该网站运行的 PHP 版本早于 PHP2SHELL CVE 发布，并通过一个 print-flag 二进制文件隐藏了可访问的钱包密钥。 这项挑战是对自主 AI 代理是否真能利用实时漏洞的现实测试，直接为关于代理式 AI 能力和“代理蜂群”炒作的辩论提供信息。它还引发了关于负责任披露以及在补丁仍在部署时演示有效漏洞利用的风险的伦理问题。 该挑战使用的 PHP 版本选自 PHP2SHELL CVE（CVE-2026-109618 和 CVE-2026-109619）发布之前，钱包密钥可通过 print-flag 二进制文件被 PHP 用户账户访问。服务器很快因流量过大而过载，奖金价值随比特币价格波动。
+
+hackernews · cloudlandsdev · 10月24日 20:30 · [社区讨论](https://news.ycombinator.com/item?id=50224916)
+
+**背景**: PHP 是一种广泛使用的服务器端脚本语言，远程代码执行（RCE）漏洞允许攻击者在服务器上运行任意命令。2026 年 10 月披露的 PHP2SHELL 漏洞是核心 PHP 中的严重 RCE 缺陷，影响数百万台服务器。负责任披露通常涉及在公开细节之前给供应商时间打补丁，而这项挑战测试 AI 代理能否自动化利用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.vulncheck.com/blog/php2shell-vulnerabilities">PHP 2Shell Vulnerabilities : CVE-2026-109618 and... | VulnCheck</a></li>
+<li><a href="https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now">Critical PHP RCE Vulnerabilities : Patch Now... | DigitalOcean</a></li>
+<li><a href="https://www.wiz.io/blog/php2shell-php-rce">PHP 2Shell: AI uncovers critical RCE vulnerabilities ... | Wiz Blog</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者就挑战的伦理和影响展开辩论：dguido 称其可能是陷阱，并拒绝演示有效漏洞利用，以避免在补丁应用前泄露；而 technion 认为挑战持续未被攻破反驳了自主 AI 代理攻击猖獗的说法。scottydelta 分享了 AI 代理（GLM-5.3、GPT-6.1-Sol）的实验，这些代理要么尝试挑战，要么将其视为网络安全请求而拒绝；jerrythegerbil 指出攻击者可能规避蜜罐风险。
+
+**标签**: `#AI agents`, `#security`, `#PHP RCE`, `#vulnerability disclosure`, `#agentic AI`
+
+---
+
+<a id="item-13"></a>
+## [Aardappel 发布 Goose：一种无共享的系统编程语言](https://aardappel.github.io/goose/) ⭐️ 7.0/10
+
+Urho3D 和 Wouter 的创造者 Aardappel 推出了 Goose，这是一种新的内存安全系统编程语言，它通过将每个工作线程编译为具有自己内存的独立程序并使用类型化队列进行通信来消除数据竞争。该语言还具有多个数据栈和可调整大小的字段，并引发了详细的 Hacker News 讨论和 AMA。 Goose 的无共享并发模型通过消除对锁、原子操作和内存排序的需求，可能简化并行编程，使并发代码更安全且更易于推理。其性能声明（在基准测试中比 C++ 和 Rust 更快且使用更少内存）以及对动态值的新颖处理方法可能会影响未来的语言设计。 Goose 没有堆分配器、垃圾回收器或生命周期注解，它使用相对引用和内置的二进制结构验证来实现数据结构的直接内存映射。该语言是实验性的，一些社区成员批评其文档是 AI 生成的。
+
+hackernews · bobbydigitales · 10月24日 19:06 · [社区讨论](https://news.ycombinator.com/item?id=50224100)
+
+**背景**: Goose 是一种系统编程语言，旨在实现内存安全和并发性，而无需传统线程模型的复杂性。在无共享模型中，每个工作线程在隔离环境中运行，拥有自己的内存，仅通过消息传递进行通信，从而在设计上避免了数据竞争。多个数据栈允许语言在没有堆的情况下处理动态大小的值，这是系统编程中的一个关键挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/aardappel/goose">GitHub - aardappel / goose : The Goose Programming Language</a></li>
+<li><a href="https://aardappel.github.io/goose/">The Goose Programming Language · Goose</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者将 Goose 的无共享线程与 Dart Isolates 进行了比较，并质疑在固定数量的栈下如何表示像带有字符串的哈希表这样的动态大小值。一些人对该设计表示赞赏，John Carmack 称其“非常巧妙”并强调了其在快速解析方面的潜力，而另一些人则批评 AI 生成的文档是“AI 垃圾”。
+
+**标签**: `#programming languages`, `#concurrency`, `#memory model`, `#language design`, `#Hacker News`
+
+---
+
+<a id="item-14"></a>
+## [网站直播并转录美国核力量在 11175 kHz 上的紧急行动信息](https://missileer.watch/) ⭐️ 6.0/10
+
+一个新网站 missileer.watch 允许用户收听美国核力量在短波频率 11175 kHz 上传输的紧急行动信息（EAM）的实时音频并阅读转录文本。该网站引发了关于短波监测、Skyking 消息以及 AI 在内容生成中作用的讨论。 这突显了公开可接收的短波传输如何为了解核指挥与控制通信提供一个窗口，提高了爱好者和公众对此类信号可访问性的认识。它也展示了 AI 在无线电信号实时转录和分析中日益增长的应用。 主要的 HFGCS 语音频率包括 4724.0 kHz、8992.0 kHz、11175.0 kHz 和 15016.0 kHz，其中 11175 kHz 是 EAM 的常用频率。Skyking 消息是一种特定类型的 EAM，可能在不同频率上传输，而网站的 AI 生成转录有时可能不准确或带有推测性。
+
+hackernews · liotier · 10月24日 19:43 · [社区讨论](https://news.ycombinator.com/item?id=50224422)
+
+**背景**: 紧急行动信息（EAM）是美国军事核指挥与控制系统使用的预格式化加密信息，用于指示具备核能力的力量执行攻击选项。它们通过高频全球通信系统（HFGCS）在 11175 kHz 等频率上传输，可被短波无线电爱好者接收。Skyking 是一种 EAM，广播关键指令，通常以“Skyking”一词开头。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Emergency_Action_Message">Emergency Action Message - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Frequency_Global_Communications_System">High Frequency Global Communications System - Wikipedia</a></li>
+<li><a href="https://lswilson.dewlineadventures.com/skyking/">“ Skyking ” Emergency Action Message (EAM) | The DEWLine</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了在 8775 kHz 等其他频率上听到 Skyking 消息的经历，并指出 AI 生成的内容仍然很明显。一位用户分享了关于测试消息使用乐队名称的趣闻，导致出现幽默的“ disregard”消息，另一位推荐了更新的 Claude 模型以获得更好的转录效果。
+
+**标签**: `#radio`, `#nuclear`, `#EAM`, `#HF`, `#hobbyist`
+
+---
+
+<a id="item-15"></a>
+## [无数学量子物理解释文章引发 HN 热烈讨论](https://www.southampton.ac.uk/~doug/quantum_physics/index.html) ⭐️ 6.0/10
+
+南安普顿大学的 Doug 在 2018 年发表了一篇试图不依赖大量数学来解释量子物理的文章，最近在 Hacker News 上被分享，引发了 200 多条评论。 讨论突出了量子力学的多种教学方法，提供了替代学习路径和资源，有助于非物理学家理解这一学科。 评论者推荐了 L. V. Tarasov 的《量子力学基本概念》和 Bob Coecke 的《描绘量子过程》等资源，还有人分享了一个名为“Apples to Entanglement”的互动自学指南。
+
+hackernews · rramadass · 10月24日 09:53 · [社区讨论](https://news.ycombinator.com/item?id=50219666)
+
+**背景**: 量子力学是物理学的基础理论，描述最小尺度下的自然现象，此时经典物理学失效。它以其反直觉性著称，涉及叠加和纠缠等概念，通常需要高等数学来教授。许多学习者在从经典概念直接跳到抽象希尔伯特空间的入门解释中感到困难。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50219666">I Don&#x27;t Understand Quantum Physics | Hacker News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quantum_mechanics">Quantum mechanics - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了不同观点：一人认为学习量子比特的线性代数让量子力学变得易懂，另一人推荐 Tarasov 的书因其引人入胜的对话，还有人称赞《描绘量子过程》的视觉化方法。也有人对文章使用未注明出处的图片表示担忧。
+
+**标签**: `#quantum physics`, `#education`, `#pedagogy`, `#Hacker News discussion`, `#science communication`
+
+---
+
+<a id="item-16"></a>
+## [FreeDNS 在 Hacker News 上重新引发关注，既有赞誉也有安全警告](https://freedns.afraid.org/) ⭐️ 5.0/10
+
+长期运营的免费动态 DNS 服务 FreeDNS 在 Hacker News 上被讨论，用户分享了近二十年的正面使用体验，并提出了安全担忧，例如其域名未列入公共后缀列表（PSL）。 讨论凸显了像 FreeDNS 这样的免费基础设施服务的可靠性和持久性，同时也强调了依赖共享域名进行 cookie 等 Web 机制的用户所面临的安全影响。 一个关键的技术警告是 FreeDNS 的域名不在公共后缀列表（PSL）上，这可能导致浏览器错误处理共享域名上的 cookie，潜在地允许一个子域为另一个子域设置 cookie；用户还指出 FreeDNS 的备份 DNS 服务是一个有用的功能。
+
+hackernews · esher · 10月24日 15:20 · [社区讨论](https://news.ycombinator.com/item?id=50222133)
+
+**背景**: 动态 DNS（DDNS）是一种服务，可自动更新域名的 DNS 记录以指向变化的 IP 地址，这对于在具有动态 IP 的家庭互联网连接上进行自托管非常有用。公共后缀列表（PSL）是一个社区维护的域名后缀列表，独立组织可以在这些后缀下注册自己的站点，浏览器使用它来执行安全性和隐私策略，例如 cookie 作用域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Public_Suffix_List">Public Suffix List</a></li>
+<li><a href="https://publicsuffix.org/">Public Suffix List</a></li>
+<li><a href="https://en.wikipedia.org/wiki/FreeDNS">FreeDNS</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍赞扬 FreeDNS 的可靠性和持久性，一些人分享了 15-20 年的正面使用经验，而另一些人则提出了对缺失 PSL 条目及由此产生的 cookie 安全风险的担忧；一位用户还指出其设计与 dns.he.net 相似。
+
+**标签**: `#dns`, `#free-services`, `#dynamic-dns`, `#web-infrastructure`, `#security`
+
+---
+
+<a id="item-17"></a>
+## [Roku 将开发者仓库从 GitHub 迁移至 GitLab](https://blog.roku.com/developer/gitlab-move) ⭐️ 4.0/10
+
+Roku 在其开发者博客上宣布，已将其开发者仓库从 GitHub 迁移至 GitLab。此次迁移影响了 Roku 开发者社区所使用的代码托管与协作平台。 此次迁移凸显了企业对 GitLab 作为 GitHub 替代方案的兴趣日益增长，尤其是在集成 CI/CD 方面。这也反映了开发者工具生态中对平台可靠性和供应商锁定的更广泛担忧。 Roku 未公开说明迁移原因，但社区猜测可能与近期 GitHub 服务中断以及对 GitLab 内置 CI/CD 的偏好有关。此次迁移涉及 Roku 面向开发者的仓库，但公司未披露规模或时间表。
+
+hackernews · cxr · 10月24日 16:06 · [社区讨论](https://news.ycombinator.com/item?id=50222622)
+
+**背景**: GitHub 自 2018 年起由微软所有，是最大的源代码托管平台，拥有超过 1 亿开发者；GitLab 则提供类似平台，并通过 .gitlab-ci.yml 文件配置集成的 CI/CD 流水线。GitHub Actions 在 GitHub 内直接提供 CI/CD，但一些团队更青睐 GitLab 的一体化方案。Roku 是主流流媒体平台，其开发者工具包括用于构建频道的 BrightScript 语言和 SceneGraph 框架。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GitHub">GitHub - Wikipedia</a></li>
+<li><a href="https://docs.gitlab.com/ci/">Get started with GitLab CI / CD | GitLab Docs</a></li>
+<li><a href="https://developer.roku.com/">Roku</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对此举看法不一：有人称赞 GitLab 更适合企业项目，且其 CI/CD 优于 GitHub Actions；也有人质疑更换平台能否解决可靠性问题。有人提到 Roku 即将被福克斯收购可能是因素之一，还有人希望 Roku 能更公开地解释迁移原因。
+
+**标签**: `#GitLab`, `#GitHub`, `#developer tools`, `#platform migration`, `#Roku`
+
+---
+
+<a id="item-18"></a>
+## [SpeedCrunch 1.1 修复长期存在的运算顺序错误](https://www.speedcrunch.org/) ⭐️ 4.0/10
+
+SpeedCrunch 1.1 已发布，主要亮点是修复了一个长期存在的运算顺序错误，现在像 1/2\(-9.8\) 这样的表达式会正确计算为 -4.9，而不是 -0.05102040816326530612。 这一修复确保用户可以信任计算器对标准数学符号的处理，提高了学生、工程师以及任何依赖 SpeedCrunch 进行精确计算的人的准确性。 该更新还会用乘号渲染隐式乘法（例如 1 / 2 × \(−9.8\)），以明确计算顺序，并保留了 SpeedCrunch 的核心特性，如 50 位精度和以键盘为中心的操作方式。
+
+hackernews · LordNibbler · 10月24日 19:19 · [社区讨论](https://news.ycombinator.com/item?id=50224210)
+
+**背景**: SpeedCrunch 是一款免费、开源的科学计算器，适用于 Windows、macOS 和 Linux，以其高精度（最高 50 位）以及对复数、单位和向量的支持而闻名。运算顺序（PEMDAS/BODMAS）规定乘除优先于加减，而隐式乘法（如 2\(3\)）在没有正确解析规则时可能会产生歧义。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.speedcrunch.org/">SpeedCrunch — Free High-Precision Scientific Calculator</a></li>
+<li><a href="https://dev.to/alphashark/the-order-of-operations-bug-that-plagues-every-online-calculator-2e2l">The Order of Operations Bug That Plagues Every Online Calculator</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对该错误修复表示欢迎，有人指出隐式乘法的渲染得到了改进。其他人分享了怀旧之情和 Numbat 等替代工具，还有人提到在 GitHub 问题上收到了 AI 生成的回复，他们认为这是可以接受的。
+
+**标签**: `#open-source`, `#calculator`, `#software-release`, `#bug-fix`, `#developer-tools`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-19"></a>
+## [苹果首款折叠屏 iPhone Duo 交付，DeepSeek 传 IPO，Kimi K3.1 Pro 与 Seedance 2.5 4K 发布](http://www.geekpark.net/news/372858) ⭐️ 7.0/10
+
+苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式交付，预购需求强劲导致部分订单推迟至 2027 年 1 月。同时，DeepSeek 据传获君联资本等新融资并聘请中信证券筹备最早 2027 年的 IPO，月之暗面发布 Kimi K3.1 Pro，字节跳动推出 Seedance 2.5 4K，红果短剧上线防沉迷提醒。 iPhone Duo 标志着苹果正式进入折叠屏市场，这一重大里程碑可能重塑高端智能手机格局，并给三星等竞争对手带来压力。DeepSeek 的融资与 IPO 计划则表明中国 AI 行业日益成熟并获得资本支持，联想生态有望借此获得更深的 AI 协同效应。 iPhone Duo 内屏为 7.6 英寸，彭博社的马克·古尔曼透露，预计 2028 年推出的第三代机型可能将屏幕增至 8 英寸出头并加入长焦镜头，但物理空间限制仍是挑战。DeepSeek 的新投资方包括君联资本（联想控股旗下）、石溪资本和吉利，公司已于 9 月任命新的首席财务官。
+
+rss · 极客公园 · 10月24日 00:34
+
+**背景**: 折叠屏智能手机采用柔性显示屏和铰链机制，可折叠成更小的形态，苹果多年来一直有传闻在研发此类产品。DeepSeek 是一家以开源大语言模型闻名的中国 AI 初创公司，若成功 IPO 将成为首批上市的中国大模型公司之一。Kimi K3.1 Pro 是月之暗面 AI 的最新模型，Seedance 2.5 则是一款 AI 视频生成模型，能够利用多模态参考生成最长 30 秒的视频片段。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://habr.com/ru/news/1098732/">Moonshot выпустили Kimi K 3 . 1 Pro : лучше GPT-6 Astra... / Хабр</a></li>
+<li><a href="https://seeddance.ai/seedance-2-5">Seedance 2 . 5 — 30s One-Take AI Video with Multimodal Reference</a></li>
+<li><a href="https://news.qq.com/rain/a/20261023A0AC5Q00">红果短剧，上线防沉迷提醒_腾讯新闻</a></li>
+
+</ul>
+</details>
+
+**标签**: `#苹果`, `#折叠屏手机`, `#DeepSeek`, `#IPO`, `#大厂动态`
+
+---
+
+<a id="item-20"></a>
+## [iPhone Duo 支持微信平板登录，实现多设备同时在线](https://www.ifanr.com/1685714?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+苹果折叠屏手机 iPhone Duo 现已支持微信平板登录，用户可以在手机和电脑上同时保持在线。这意味着微信可以将 iPhone Duo 识别为平板设备，从而实现手机、平板、电脑三设备同时在线。 这一进展对苹果生态内的微信用户意义重大，因为它提升了多设备办公效率和沟通的连贯性。同时，这也反映出折叠屏设备正被主流应用视为类平板形态的趋势。 微信的多设备登录通常允许一台手机、一台平板和一台电脑同时在线，但 iPhone Duo 的折叠屏特性可能需要特殊适配。用户应确保微信应用更新至最新版本以使用此功能。
+
+rss · 爱范儿 · 10月24日 03:25
+
+**背景**: 自微信 8.0.8 版本起，微信就支持手机、平板和电脑三设备同时在线，但平板登录此前仅限于 iPad 和安卓平板。iPhone Duo 是苹果于 2026 年 9 月发布的首款折叠屏手机，模糊了手机与平板的界限。此次更新将微信的平板登录能力扩展至 iPhone Duo，将其更大的折叠屏识别为类平板设备。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_Duo">IPhone Duo</a></li>
+<li><a href="https://inf.news/en/tech/d03ccdf99122cbc5e611fdf1d705dd68.html">WeChat finally supports multiple devices online at the same time, but...</a></li>
+<li><a href="https://min.news/en/tech/d29a8a46a4f8c5e8bcbab56fa9574cf8.html">WeChat can log in several devices at the same time</a></li>
+
+</ul>
+</details>
+
+**标签**: `#WeChat`, `#iPhone Duo`, `#multi-device login`, `#Apple`, `#Tencent`
+
+---
+
+<a id="item-21"></a>
+## [实测 Kimi K3.1 Pro：国产旗舰模型竞争重启](https://www.ifanr.com/1685684?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+一篇关于月之暗面 Kimi K3.1 Pro 的实测文章发布，认为这标志着国产大模型厂商重新在旗舰级别展开竞争。该文为第一手测试，但目前可见的摘要仅有一句预告。 这很重要，因为它表明月之暗面等中国 AI 公司仍在持续推进旗舰级模型，可能加剧国内大模型生态的竞争并加速创新。中国的用户和开发者可能因此获得更强大、更多样的模型选择。 Kimi K3.1 Pro 是月之暗面尚未发布的模型，据信是 Kimi K3 的后续版本，但截至搜索结果显示，它仍缺少官方模型卡、权重、上下文窗口、定价和发布日期。由于摘要内容单薄，仅包含一句预告和微信推广，无法验证评测的深度。
+
+rss · 爱范儿 · 10月24日 02:07
+
+**背景**: 月之暗面是一家总部位于北京的 AI 公司，是中国“AI 六小虎”之一，以其 Kimi 聊天机器人和大语言模型闻名。据报道，其于 2026 年 7 月发布的 Kimi K3 是史上最大的开放权重模型，拥有 2.8 万亿参数。Kimi K3.1 Pro 预计是一次增量升级，但细节仍然稀少。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://kie.ai/blog/what-is-kimi-k3-1">What Is Kimi K 3 . 1 ? Pi Teaser Explained</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moonshot_AI">Moonshot AI - Wikipedia</a></li>
+<li><a href="https://openrouter.ai/moonshotai/kimi-k3">Kimi K3 - API Pricing &amp; Benchmarks | OpenRouter</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Kimi`, `#Moonshot AI`, `#大模型`, `#国产AI`, `#旗舰模型`
+
+---
+
+<a id="item-22"></a>
+## [微信初步适配 iPhone Duo，全球 PC 出货量下降 21%，何刚出任华为董事](https://www.ifanr.com/1685660?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+据每日科技新闻汇总报道，微信已初步适配苹果折叠屏手机 iPhone Duo，但仍不支持平板登录。同一报道还指出全球 PC 出货量下降 21%，以及何刚出任华为董事。 微信对 iPhone Duo 的适配表明中国主要应用开始支持折叠屏设备，这可能加速新形态设备的普及。PC 出货量下降 21%反映了全球 PC 市场持续疲软，而何刚出任董事可能意味着华为领导层的调整。 尽管已初步适配，微信仍无法在平板上登录，表明适配仅局限于折叠屏手机上的基本显示和功能。新闻简报还提到英伟达 CEO 黄仁勋对与长鑫存储合作持开放态度，并认为 2029 年内存不会过剩，以及沃尔沃计划全球裁员约 2500 人。
+
+rss · 爱范儿 · 10月24日 00:26
+
+**背景**: iPhone Duo 是苹果首款折叠屏 iPhone，于 2026 年 9 月推出，采用折叠屏设计，提供星光白和夜空蓝两种颜色。微信是腾讯开发的中国主流即时通讯和社交媒体应用，其对新设备形态的支持对设备成功至关重要。全球 PC 出货量因经济不确定性和消费者优先级变化而持续下滑，而华为是中国主要科技公司，其领导层变动常受关注。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">Apple today introduced iPhone Duo , the first foldable iPhone .</a></li>
+<li><a href="https://m.yunyunvip.com/learn/12561.html">微 信 双设备 登 录 不掉线指南：安全便捷的跨设备体验_云人脉</a></li>
+<li><a href="https://www.tmtpost.com/7889093.html">让 黄 仁 勋 “低头”的 存 储 ，到底有多金贵？ -钛媒体官方网站</a></li>
+
+</ul>
+</details>
+
+**标签**: `#微信`, `#PC出货量`, `#华为`, `#大厂动态`, `#行业快讯`
+
+---
+
+<a id="item-23"></a>
+## [开发者将 Claude 集成到电视系统中，进行非常规实验](https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 4.0/10
+
+一位开发者将 Anthropic 的 Claude AI 模型集成到了电视系统中，展示了该大语言模型的一种非常规用例。该实验表明 Claude 可以嵌入到消费电子产品中，而不仅限于典型的聊天机器人应用。 这一实验凸显了将 AI 模型嵌入日常设备的增长趋势，可能将大语言模型的覆盖范围扩展到电脑和手机之外。它可能启发更多开发者探索 AI 在智能家居和娱乐系统中的创意集成。 文章对集成过程的技术细节介绍有限，更多聚焦于用例的新颖性。它被呈现为一件奇闻趣事而非深入的技术分析，在电视上运行 Claude 的具体方法或挑战并未详细阐述。
+
+rss · 爱范儿 · 10月24日 10:10
+
+**背景**: Claude 是由 Anthropic 开发的一系列大语言模型，于 2023 年 3 月作为聊天机器人发布。智能电视（例如运行 Google TV 的设备）越来越能够运行第三方应用，使其成为 AI 集成的潜在平台。然而，由于硬件限制，将大语言模型集成到电视中通常需要基于云的 API。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Claude_%28AI%29">Claude ( AI ) - Wikipedia</a></li>
+<li><a href="https://claude.com/">Claude</a></li>
+<li><a href="https://tv.google/intl/en_in/">Google TV | All in one smart TV streaming platform</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Claude`, `#AI应用`, `#智能电视`, `#开发者实验`, `#大厂动态`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-24"></a>
+## [安克、耐克客服账号因第三方企业微信外挂被攻破而发送疑似色情信息](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYllDV2JwWGJ1ejBUZkdSZzlZR3NHNEdLelQyaUVuN0doRy1talBveXpmWjFMMUlxZGY4dHBXYzQxbjFfYno0MlNXcWJQeGFzM1pQTzF3MU1JUS01aVZj?oc=5) ⭐️ 8.0/10
+
+2026 年 10 月 24 日，安克、耐克等品牌的企业微信客服账号向用户发送了疑似色情引流信息。企业微信安全团队排查后确认，系某第三方外挂软件服务被攻破所致，已对受影响账号强制下线并封禁相关链接；耐克已致歉，警方正在调查。 该事件暴露了客服运营中的供应链风险：即便是大品牌，也可能因不安全的第三方工具导致官方渠道被劫持，损害品牌声誉并可能危及用户数据。这凸显了企业严格审查和保护第三方集成的必要性，也凸显了企业微信治理其插件生态的责任。 企业微信表示仅少量账号受影响，根源是某第三方“外挂”服务被攻破，而非企业微信本身；公司已强制下线受影响账号并封禁链接，并提醒企业用户拒绝使用外挂。耐克已致歉并表示警方正在调查，安克等品牌称正紧急排查并提醒用户勿点击不明链接。
+
+rss · 客服行业动态 · 10月24日 06:56
+
+**背景**: 企业微信是腾讯推出的企业通讯与客户管理平台，被众多品牌用于在中国开展私域客服与营销。许多企业依赖第三方插件或“外挂”工具来增加群发消息、自动回复、客户标签等功能，但这些非官方工具往往需要账号凭证或会话权限，形成单点故障。一旦此类插件被攻破，攻击者便可利用所连接的企业官方账号向客户发送垃圾或钓鱼链接，此次事件正是如此。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.toutiao.com/article/7700115858475074090/">安克、耐克等客服账号被指发送疑似色情信息，企业微信回应：系第三方...</a></li>
+<li><a href="https://finance.sina.com.cn/wm/2026-10-24/doc-iniwikcn4724842.shtml">企业微信回应安克、耐克等客服账号被指发送疑似色情信息：系第三方外...</a></li>
+<li><a href="https://news.17173.com/content/10242026/150045185.shtml">企业微信回应耐克等企业账号发色情链接：系第三方外挂服务被攻破_游戏...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服安全`, `#企业微信`, `#第三方插件`, `#数据泄露`, `#品牌声誉`
+
+---
+
+<a id="item-25"></a>
+## [新国标满月，AI 转人工客服仍难](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTncxMElILWJISWxvN3hpRjRTQWp6cnBnQ1JKb1NNQVB5SnkycEF6NlByY0FyOTRYbm9MUC1VQmxyQkJGMWY0WktmYjBQQ0hBeklYUmM1d3dRZ3BIYTJNaFRWdTRNUVlaN0JFU19iSFNJd1JtYXNleUJ6dVBmUHFnN0pGTWRzSlRJWVE?oc=5) ⭐️ 7.0/10
+
+新国标实施一个月后，记者调查发现，多个平台仍然难以转接人工客服，有的需拨打 10 多次才能等到真人，还有平台用 AI 客服加上键盘音效来模仿真人，让人真假难辨。 此次调查揭示了新国标执行中的明显差距，表明消费者仍面临糟糕的服务体验甚至被欺骗的风险。这可能促使监管部门加强执法，并推动行业改善人工客服的可及性。 记者的实测显示，部分平台需拨打 10 多次才能接通人工，一些 AI 系统还加入键盘敲击音效以显得更像真人。新国标 GB/T 47746—2026 旨在明确 AI 与人工客服的协同边界，但缺乏强有力的执行机制。
+
+rss · 客服行业动态 · 10月24日 03:40
+
+**背景**: 中国新国标《顾客联络服务 人工与智能客户服务协同要求》（GB/T 47746—2026）于 2026 年 9 月实施。该标准旨在界定 AI 与人工客服的角色，确保 AI 处理常规问题，而人工应对复杂或情感需求。这是更广泛监管努力的一部分，还包括生成式 AI 服务管理和 AI 拟人化互动服务等规定。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sac.gov.cn/xxgk/zcjd/art/2026/art_ebe5dabe957c4a64a0ab00c1165b100e.html">《顾客联络服务 人工与智能客户服务协同要求》国家标准解读材料</a></li>
+<li><a href="https://www.peopleapp.com/column/30053124441-500007693565">新国标“立规矩”！AI客服，如何更好服务消费者_人民日报</a></li>
+<li><a href="https://www.toutiao.com/article/7682415964235530762/">新国标明确智能客服、人工客服服务范围，9月起实施 - 今日头条</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#AI`, `#regulation`, `#user experience`, `#investigation`
+
+---
+
+<a id="item-26"></a>
+## [苹果客服称 iPhone Duo 屏幕亮线非硬件问题](https://news.google.com/rss/articles/CBMigAFBVV95cUxOR09IZE9lR1ZCbExia19JbnFvZVhhREJySnc1eHNZQ3ZQTzY1ZVZwSERYZDItZFViSkpXRFBBdjluWUFjSkduUW5EWmc5RWM1T3J2V2xVM3NOWWdnc3JGbXVUZU9ZamhKaHhoOG1wZFN2UUo5RXFJQTMtSU9Rdjd0OQ?oc=5) ⭐️ 5.0/10
+
+苹果客服针对用户投诉的 iPhone Duo 屏幕出现亮线问题作出官方回应，称该问题并非硬件问题。这一回应是在用户报告这款苹果首款折叠屏手机存在显示缺陷的背景下发布的。 苹果如何处理这一显示问题将影响用户对其首款折叠屏设备的信任，并可能为该公司处理新品类产品缺陷树立先例。这一回应还可能影响用户是否寻求保修维修或更换。 苹果称亮线并非硬件问题，暗示可能通过软件更新解决，或被视为外观或使用相关现象。然而，该公司尚未提供具体原因或修复时间表的细节。
+
+rss · 客服行业动态 · 10月24日 04:18
+
+**背景**: iPhone Duo 是苹果首款折叠屏智能手机，于 2026 年 9 月发布，10 月上市。由于折叠屏的柔性特性，其显示屏更容易出现折痕和亮线等问题。苹果在三星等竞争对手多年之后才进入折叠屏市场，旨在提供成熟的体验。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_Duo">IPhone Duo</a></li>
+<li><a href="https://www.apple.com/iphone-duo/">iPhone Duo - Apple</a></li>
+<li><a href="https://www.wired.com/review/apple-iphone-duo/">Apple iPhone Duo Review: Is It Worth It? | WIRED</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#Apple`, `#iPhone Duo`, `#product support`, `#consumer complaints`
+
+---
+
+<a id="item-27"></a>
+## [新浪网提醒双十一警惕假客服和假优惠诈骗](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aZVJWSXhWcnZDOTJ5R2VoWFFWYXZUUWZORVJTX01RRmpQcVZPV2VuZFlLall4czducUtVdERkRENwalRxV08taXZNcEdZN0F5bDlzWG9hM0ducUlTcW1RUzYzM3hEb1R5VFdieHlIYkZxdm8?oc=5) ⭐️ 4.0/10
+
+新浪网在双十一购物节期间发布文章，提醒消费者警惕假冒客服和虚假优惠等诈骗手段，并呼吁读者提高反诈意识，守好个人财产。 双十一是中国最大的网购促销活动，诈骗分子会利用交易高峰，通过假客服电话和虚假促销 targeting 消费者，因此这类提醒有助于减少经济损失并提升消费者保护意识。 该文章是一则公益提醒，而非针对具体新型诈骗或政策变化的报道，未提供技术细节或统计数据；它仅呼吁消费者在透露个人信息或支付信息前，核实客服渠道和优惠信息的真实性。
+
+rss · 客服行业动态 · 10月24日 05:51
+
+**背景**: 双十一又称光棍节，是中国每年一度的购物节，始于 2009 年，现已发展成为全球最大的网购盛会，各大电商平台销售额巨大。在此类购物高峰期，诈骗分子常冒充客服人员或发布虚假优惠，诱骗消费者泄露敏感信息或进行支付。假客服诈骗是电商领域常见的欺诈形式，犯罪分子冒充平台或品牌代表以获取信任并骗取钱财或数据。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sixthtone.com/news/1008959">Why This Year’s ‘ Double Eleven ’ Felt Different</a></li>
+<li><a href="https://lock.pub/en/blog/shopee-lazada-scam-vietnam">Online Shopping Scams : How to Spot Fake Sellers... | LOCK.PUB Blog</a></li>
+<li><a href="https://www.freep.com/story/money/personal-finance/susan-tompor/2025/05/22/watch-out-for-scams-bogus-customer-service/83746999007/">Watch out for scams when trying to fix problems, like flight delays</a></li>
+
+</ul>
+</details>
+
+**标签**: `#anti-fraud`, `#customer service`, `#Double 11`, `#consumer protection`, `#e-commerce`
+
+---
+
+<a id="item-28"></a>
+## [任泽平公众号突遭“禁止关注”](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGFOMUxUalhmb1R6U0szSFhfMi1DVXAyWWdCUHNUVll3OTYyQWsyZ2c2b2VDQmlDN2FmN1cxTHI0RWtJVThraEFMVTN1QnpoQ3JQQ3didE9mdGM0ZEFPbEQwSVlad184OUJMU1N5bWl0Tzh3TE1LeUE4dzl0ME9ramxITFFKMG9W?oc=5) ⭐️ 4.0/10
+
+任泽平的微信公众号突然被禁止关注，客服表示账号异常但具体违规原因不清楚；他在 23 日还曾发文谈论反弹行情。 这一事件凸显了平台执法的透明度问题，可能影响任泽平触达其大量受众的能力，引发对公众人物内容审核透明度的担忧。 该禁令具体阻止新用户关注，现有粉丝可能仍能访问内容；微信客服未提供详细解释，具体违规原因未知。
+
+rss · 客服行业动态 · 10月24日 06:12
+
+**背景**: 任泽平是中国知名经济学家，以宏观经济分析著称，经常在社交媒体上分享市场观点。微信公众号是中国意见领袖的重要平台，“禁止关注”是一种限制新订阅者的处罚，通常因政策违规或异常活动导致。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cs.help.wechat.com/hc/en-us/sections/16403803472911-Account-Restrictions">Account Restrictions – WeChat Help Center</a></li>
+<li><a href="https://zh.wikipedia.org/zh-hans/%E4%BB%BB%E6%B3%BD%E5%B9%B3">任泽平 - 维基百科，自由的百科全书</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#social media`, `#account restriction`, `#WeChat`, `#Ren Zeping`
+
+---
+
+<a id="item-29"></a>
+## [苹果客服回应 iPhone Duo 屏幕开裂问题](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQT3JlU3RXbjBjR1dlc0dDT3VfaXAwM295eF95YUFVLWFOR0RnRDd4OG5uNjF1S2NOR0xxalU5eG5BSFRfV0dvT0VfMXdxcHZzRXpVVHg3R19tRzNrYTYzbTdYSkQ2QVFldk9TVDlMTQ?oc=5) ⭐️ 4.0/10
+
+苹果客服针对用户报告新款 iPhone Duo（苹果首款折叠屏手机）屏幕开裂的问题，发布了标准回应声明。 这是苹果首款折叠屏设备，早期屏幕开裂报告可能影响消费者信心及苹果在折叠屏市场的声誉。 iPhone Duo 于 2026 年 9 月 9 日发布，10 月 23 日上市；部分用户报告屏幕开裂，但苹果的回应是常规客服声明，未涉及原因或解决方案的细节。
+
+rss · 客服行业动态 · 10月24日 02:52
+
+**背景**: iPhone Duo 是苹果首款折叠屏智能手机，采用可折叠显示屏。众所周知，折叠屏由于反复折叠容易出现折痕和磨损，早期产品可能存在缺陷。苹果客服的回应是处理此类报告的典型第一步。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_Duo">IPhone Duo</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">Apple today introduced iPhone Duo , the first foldable iPhone .</a></li>
+<li><a href="https://www.tuaw.com/2026/09/11/iphone-duo-screen-crease-is-inevitable-but-apple-has-a-plan/">iPhone Duo Screen Crease Is Inevitable, but Apple Has a Plan - TUAW</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#Apple`, `#product defect`, `#response`, `#iPhone`
+
+---
