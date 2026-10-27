@@ -1,0 +1,965 @@
+---
+layout: default
+title: "Horizon Summary: 2026-10-27 (ZH)"
+date: 2026-10-27
+lang: zh
+---
+
+> 从 86 条内容中筛选出 40 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [IEA 警告：全球能源市场 2027 年难回战前水平，油价逼近 120 美元](#item-1) ⭐️ 8.0/10
+2. [IEA 警告：LNG 运输中断持续，全球煤炭需求或再创新高](#item-2) ⭐️ 7.0/10
+3. [谷歌与 Voltus 扩大虚拟电厂规模至 1.07GW](#item-3) ⭐️ 7.0/10
+4. [欧盟碳边境壁垒威胁韩国钢铁出口](#item-4) ⭐️ 7.0/10
+5. [不建厂房、不烧煤，虚拟电厂如何工作？](#item-5) ⭐️ 6.0/10
+6. [南方区域电力市场助力海南清洁能源岛新型电力系统建设](#item-6) ⭐️ 6.0/10
+7. [国民党批民进党能源政策错误，启动全台核能公投动员](#item-7) ⭐️ 6.0/10
+8. [江苏省智能电网项目主体结构全部封顶](#item-8) ⭐️ 5.0/10
+9. [河北加快构建新型电力系统](#item-9) ⭐️ 5.0/10
+10. [财联社推介新型电力系统三大指数](#item-10) ⭐️ 4.0/10
+
+### 🤖 AI 科技
+
+11. [OpenAI 宣称其 AI 模型推翻 ETH 并证明杨-米尔斯存在性](#item-11) ⭐️ 10.0/10
+12. [Anthropic 提交 S-1 文件启动 IPO，披露巨额云服务承诺](#item-12) ⭐️ 9.0/10
+13. [Sebastian Raschka 发布从零构建推理模型的视频课程](#item-13) ⭐️ 8.0/10
+14. [Cloudflare 披露 Workers AI 上 GLM-5.3 的跨请求 KV 缓存泄露事件](#item-14) ⭐️ 8.0/10
+15. [OpenAI 发布 GPT-6.1 Terra 并降价，引发社区讨论](#item-15) ⭐️ 8.0/10
+16. [微软提出 Python 类型服务器协议](#item-16) ⭐️ 7.0/10
+17. [Hob：开源、本地运行的 Claude Cowork 和 ChatGPT 替代品](#item-17) ⭐️ 7.0/10
+18. [博客探讨仍能在 Windows 11 上运行的最老 GUI 应用](#item-18) ⭐️ 6.0/10
+19. [CSS-Tricks 再次易主，DigitalOcean 退出](#item-19) ⭐️ 6.0/10
+20. [关于冯·诺依曼遗产的博客文章引发 HN 上关于抽象化的讨论](#item-20) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+21. [早报：OpenAI GPT-6.1 Terra、苹果 iOS 27.2、Anthropic IPO、小鹏 L4 Robotaxi](#item-21) ⭐️ 8.0/10
+22. [Anthropic 以 2 万亿美元估值递交 IPO，OpenAI 改革 AI 定价模式](#item-22) ⭐️ 8.0/10
+23. [Kimi 发布 K3.1 Pro 及 Highspeed 版本，以更低价格挑战 Opus 5.5](#item-23) ⭐️ 8.0/10
+24. [中国大厂快速推出又关闭 AI 产品](#item-24) ⭐️ 7.0/10
+25. [央行推出稳债市新工具；奥迪在华品牌重组；中金公司完成合并](#item-25) ⭐️ 7.0/10
+26. [京东广告联合华为鲲鹏超节点，端到端推理时延降低 15%](#item-26) ⭐️ 7.0/10
+27. [新 iPad mini 发布：5499 元起，配备 OLED 屏但刷新率仍为 60Hz](#item-27) ⭐️ 6.0/10
+28. [《影之刃零》：首个登上世界舞台的中国武侠游戏](#item-28) ⭐️ 6.0/10
+29. [小米推出 150 元开源 AI 硬件，让普通人玩转 Vibe Coding](#item-29) ⭐️ 6.0/10
+30. [武汉二十年芯片赌注：长江存储与 A 股错失的机会](#item-30) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+31. [法官：品牌客服账号被外挂劫持群发涉黄链接，建议构建“担保型连带”责任](#item-31) ⭐️ 7.0/10
+32. [AI 全面渗透客服行业，效率与压力同步攀升](#item-32) ⭐️ 6.0/10
+33. [广汽埃安陷“香蕉电池”风波，召回流程启动](#item-33) ⭐️ 6.0/10
+34. [iPhone Duo 问题频发、售价破发，苹果客服称大量订单被取消](#item-34) ⭐️ 6.0/10
+35. [iPhone Duo 被曝屏幕亮线开裂，苹果称非硬件问题](#item-35) ⭐️ 5.0/10
+36. [奈雪的茶一门店设消费入座，效仿星巴克](#item-36) ⭐️ 5.0/10
+37. [学习通（超星）平台宕机，学生无法登录和提交作业](#item-37) ⭐️ 5.0/10
+38. [存量竞争下幻想客服探索精细化交付路径](#item-38) ⭐️ 4.0/10
+39. [双十一诈骗预警：常见诈骗手法瞄准消费者钱包](#item-39) ⭐️ 4.0/10
+40. [美宜佳回应“梅姨家”玩梗：品牌声誉管理引关注](#item-40) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [IEA 警告：全球能源市场 2027 年难回战前水平，油价逼近 120 美元](https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3FXQWphRnRCNEgyc3NqRkQzUWUyeFpoUGpuWjlhZE5rdkxId2hkTlMxZ3Y3aFVNZDRpU2NvcmJ5TmN1UWp6REloUHZ6OGV0OVhKNzhfdlJuQ0EwREtnUTU4Z0RwOXFjNkU3OUlxY21NSnItaUhUMXVVWXJjTHU1Um9yMmV1VHM?oc=5) ⭐️ 8.0/10
+
+国际能源署（IEA）警告称，全球能源市场在 2027 年前难以恢复到战前水平，油价逼近每桶 120 美元，欧洲将面临严峻的冬季考验。IEA 署长比罗尔表示，他认为能源市场在 2027 年恢复到伊朗战争前水平的任何可信途径都不存在。 这一警告表明市场将持续紧张，能源安全风险加剧，对政策制定者和分析师具有重大的地缘政治和经济影响。欧洲消费者和工业可能面临更高的能源成本和潜在的供应中断，而全球石油市场仍易受地缘政治冲击的影响。 油价正逼近每桶 120 美元，IEA 强调能源危机正在加速核电复兴，因为各国寻求替代能源。该警告特别提到了伊朗战争的背景，表明市场在未來几年内预计不会恢复到冲突前水平。
+
+google\_news · 新浪财经 · 10月26日 06:50
+
+**背景**: 国际能源署（IEA）是由经济合作与发展组织（OECD）于 1974 年成立的政府间组织，旨在协调应对石油供应中断，并提供能源统计和政策建议。能源安全是指以可负担的价格不间断地获取能源，而地缘政治冲突（如美伊战争）可能严重扰乱石油和天然气供应，导致价格飙升和市场不稳定。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh/%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E7%BD%B2">國際能源署 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.iea.org/">IEA – International Energy Agency</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#oil prices`, `#energy security`, `#Europe`, `#energy policy`
+
+---
+
+<a id="item-2"></a>
+## [IEA 警告：LNG 运输中断持续，全球煤炭需求或再创新高](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）警告，今年全球煤炭需求有望创下历史新高，而如果 LNG 运输中断无法恢复，明年需求可能再破纪录。这一警告的背景是 LNG 流动持续受扰，尤其是霍尔木兹海峡关闭导致天然气价格走高，促使部分需求转向煤炭。 预计创纪录的煤炭需求对能源安全和气候政策具有重大影响，可能减缓化石燃料的转型进程并增加碳排放。政策制定者和市场分析师在规划能源战略和基础设施投资时需要考虑这一变化。 根据 IEA 的《2026 年煤炭中期更新》，今年煤炭需求预计增长 1.2%，欧洲、日本、韩国和中国等拥有燃气发电机组和备用煤炭产能的国家需求有所上升。LNG 运输中断，尤其是霍尔木兹海峡的阻断，使得 LNG 作为发电燃料的可靠性和经济性下降。
+
+google\_news · 财联社 · 10月26日 15:12
+
+**背景**: 国际能源署（IEA）是一个政府间组织，负责提供全球能源领域的数据、分析和政策建议。LNG（液化天然气）是经冷却成液态的天然气，由专用运输船运送；LNG 运输中断（如地缘政治冲突或咽喉要道关闭所致）可能收紧天然气供应并推高价格。当天然气短缺或价格高企时，各国往往转向煤炭发电，从而扭转煤炭使用量的暂时下降趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.oe-wheels.com/news/coal-demand-to-rise-1-2-as-hormuz-closure-drives-gas-prices-iea/">Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA...</a></li>
+<li><a href="https://tradingeconomics.com/commodity/coal/news/587454">Coal Rises on Tightening Supply</a></li>
+<li><a href="https://www.iea.org/">IEA – International Energy Agency</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal demand`, `#IEA`, `#LNG shipping`, `#energy policy`, `#global energy markets`
+
+---
+
+<a id="item-3"></a>
+## [谷歌与 Voltus 扩大虚拟电厂规模至 1.07GW](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZ09ZQkhsUlhNR2owNkg2WXBzblh2Z3V5VXVOcTc1R09vVjY1Vm1DT3ZpZ0hPRWhBcEJORFVJQ0xYemJaUEJTcEltZG1nVERuTmJRTXBzb1M?oc=5) ⭐️ 7.0/10
+
+谷歌与 Voltus 宣布扩大合作协议，在 PJM 电网区域建设 1.07GW 的虚拟电厂，规模较 2026 年 6 月签署的初始 100MW 协议大幅提升。该虚拟电厂将通过经济激励招募家庭和企业参与电力调节，在电网需要时减少用电，从而在不新建发电设施的情况下提供灵活容量。 这是规模最大的虚拟电厂交易之一，表明需求侧灵活性资源可以商业化规模化，以满足数据中心巨大的电力需求。它为电网运营商和大型能源用户提供了推迟昂贵基础设施升级、整合更多可再生能源的范本。 该虚拟电厂在 PJM 电网区域运营，聚合了参与用户的需求响应等分布式能源资源。它不依赖新建发电厂，而是在电网需要时补偿用户临时减少用电。
+
+google\_news · 维度网 · 10月26日 03:40
+
+**背景**: 虚拟电厂（VPP）是一种将分布式能源资源（如屋顶光伏、电池和柔性负荷）聚合协调、像传统电厂一样提供电网服务的网络。需求响应（DR）是其中的关键机制，用户根据价格信号或激励措施改变用电行为。PJM 是美国最大的批发电力市场，服务 13 个州和哥伦比亚特区。谷歌的参与反映了数据中心日益增长的电力需求及其获取灵活容量的战略。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.voltus.co/press/google-voltus-1gw">Google and Voltus Announce One Gigawatt BYOC Agreement</a></li>
+<li><a href="https://www.sohu.com/a/1092464521_122066678">谷歌如何通过虚拟电厂应对数据中心电力危机？_Voltus_能源_企业</a></li>
+<li><a href="https://baike.baidu.com/item/%E9%9C%80%E6%B1%82%E5%93%8D%E5%BA%94/6620027">需求响应（电力术语）_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#需求响应`, `#能源政策`, `#电力市场`, `#谷歌`
+
+---
+
+<a id="item-4"></a>
+## [欧盟碳边境壁垒威胁韩国钢铁出口](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BY3pxSjBJUUtkT0ZOUXB6MTZrcDVzWlJtWjhMeVN4c0dSX3FpNURVVWxSd3YxQkRIYmo5M1ltT0w1eDh1bVNZaXNLVVRBS01YVVE?oc=5) ⭐️ 7.0/10
+
+韩国通商当局 26 日表示，欧盟以碳中和为先导的贸易壁垒，特别是碳边境调节机制（CBAM），预计将在八年后使韩国对欧盟的钢铁出口额每年减少超过 1.3 万亿韩元。 这一预测凸显了欧盟气候政策正在重塑全球贸易，并使韩国等出口依赖型经济体进入紧急状态，可能迫使韩国钢铁企业加速脱碳，否则将失去关键出口市场的份额。 欧盟 CBAM 将对钢铁、水泥、化肥、铝、电力和氢气的进口征收碳价，要求进口商购买反映隐含排放的证书；过渡期已于 2023 年开始，全面实施定于 2026 年，同时欧盟生产商的免费配额将逐步取消。
+
+google\_news · 매일경제 · 10月26日 08:37
+
+**背景**: 碳边境调节机制（CBAM）是欧盟防止碳泄漏的工具，即防止欧盟产业迁往气候政策较宽松的地区，通过确保进口商品承担与国内生产商在欧盟排放交易体系（ETS）下相当的碳成本。作为全球首个碳边境税，CBAM 旨在创造公平竞争环境，并鼓励非欧盟国家进行更清洁的工业生产。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en">Carbon Border Adjustment Mechanism - Taxation and Customs Union</a></li>
+<li><a href="https://en.wikipedia.org/wiki/EU_Carbon_Border_Adjustment_Mechanism">EU Carbon Border Adjustment Mechanism - Wikipedia</a></li>
+<li><a href="https://www.consilium.europa.eu/en/policies/carbon-border-adjustment-mechanism/">Carbon border adjustment mechanism - Consilium</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU carbon border adjustment`, `#trade barriers`, `#steel industry`, `#South Korea exports`, `#energy policy`
+
+---
+
+<a id="item-5"></a>
+## [不建厂房、不烧煤，虚拟电厂如何工作？](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Wd3VESUVqT0RHcXgtYVVSRVZOT0VPZFloUlhhTjJWV1lUN1hXdWhjT1RnenRGRUF3Z3NOVjdRWkpZaG5VVG5vdEZRYThjSGV4UGF3cWZQSjg3RmRzTFVoQTV3NUZ1SEVs?oc=5) ⭐️ 6.0/10
+
+中国新闻网近期发布的一篇解释性文章介绍了虚拟电厂如何在不建设实体厂房、不消耗煤炭的情况下运行，即通过软件平台聚合和协调分布式能源资源（如光伏、储能和可控负荷）。 虚拟电厂对于整合可再生能源和增强电网灵活性日益重要，因为它们能以远低于新建电厂的成本提供削峰填谷、调频等辅助服务，影响能源政策、电网运营商和消费者。 文章强调，虚拟电厂依靠先进的信息通信技术、物联网和人工智能算法，将分布式发电、储能、电动汽车和可调节负荷聚合为一个统一的、可调度的实体，参与电力市场和电网运行。
+
+google\_news · 中国新闻网 · 10月26日 07:22
+
+**背景**: 虚拟电厂是一种基于云端的系统，它聚合和协调分布式能源资源（DER），如太阳能电池板、电池、电动汽车和柔性负荷，使其像单一电厂一样运作。该概念最早于 1997 年提出，本身并不发电，而是利用软件平衡供需，提供削峰填谷和调频等服务。中国自 2016 年起开始试点虚拟电厂，江苏和河北的早期项目侧重于需求响应和基于市场的辅助服务。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎 虚拟电厂技术解析：如何通过聚合分布式能源提升电网运行效率与稳定性 虚拟电厂全景图：一张图解析聚合、通信与控制三大核心要素_虚拟电厂的... 面向分布式资源聚合管控的虚拟电厂建模与优化控制综述 MyEMS 在虚拟电厂（VPP）中的角色：如何将分布式资源聚合为可调度资产... 虚拟电厂的虚实共生：从聚合资源到实现系统价值的跃迁之路_虚拟电厂解...</a></li>
+<li><a href="https://baike.baidu.com/item/%E8%81%9A%E5%90%88%E8%B5%84%E6%BA%90/68706423">聚合资源（在虚拟电厂中）_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力系统`, `#需求侧管理`, `#新能源`
+
+---
+
+<a id="item-6"></a>
+## [南方区域电力市场助力海南清洁能源岛新型电力系统建设](https://news.google.com/rss/articles/CBMidEFVX3lxTE04SVVBZkxFSUNrNUFVa25VRzk1U2R1aFFqVWFYUXlvVXRMUDBmQTZaaVRoNFR3LUZpSUFFZmVmejloTERtRmhDdXhPTFJQOUJMTUlFdzhPcUFxVVMzaDczbkhDSVlvX0VxWTF6WFk1VEEybUNs?oc=5) ⭐️ 6.0/10
+
+新华网报道，南方区域电力市场正助力海南建设清洁能源岛和新型电力系统。此前，该市场于 2026 年 10 月 24 日从试运行转入正式运行，成为我国首个区域电力市场。 南方区域电力市场实现了南方五省区的市场化电力交易，有助于海南消纳高比例可再生能源并减少对煤电的依赖。这支撑了中国建设全国统一电力市场以及实现碳达峰、碳中和的更广泛目标。 在 2026 年 1 月至 9 月的试运行期间，南方区域电力市场累计交易电量近 9000 亿千瓦时，约占南方五省区用电量的七成，单日最大交易电量达 40 亿千瓦时。海南清洁能源岛新型电力系统还入选了国家级场景。
+
+google\_news · 新华网 · 10月26日 00:30
+
+**背景**: 南方区域电力市场是我国首个区域电力市场，覆盖南方五省区。新型电力系统是以低碳为主、多元化为特征、智能化为方向的电力系统，旨在最大化消纳新能源，中国已发布相关国家蓝图。海南“清洁能源岛”建设旨在提高全省电力结构中清洁能源的比重。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20261026A06YA700">南方区域电力市场正式运行 全国统一电力市场体系建设取得重大突破_腾...</a></li>
+<li><a href="https://news.cctv.com/2026/10/24/ARTIU01CYM23MvARiD1OrPmk261024.shtml">南方区域电力市场顺利“转正” 电力交易更便捷、更灵活_新闻频道_央视网...</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552">新型电力系统（电力系统术语）_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电力市场`, `#清洁能源`, `#海南`, `#新型电力系统`, `#能源政策`
+
+---
+
+<a id="item-7"></a>
+## [国民党批民进党能源政策错误，启动全台核能公投动员](https://news.google.com/rss/articles/CBMib0FVX3lxTE5UaXRVYkVuNEhCYktGczF4dk00enhyR0dpeUVmWDV0Y3pzTS1EQ3ZJYmFXYmxyOVJwZEEzTGc2TUthaV83R3hnOUdGaXNGT1FJczRJOERLWGJvNUFxeVJNS0JYcTNOakhWNkZnNjVhVQ?oc=5) ⭐️ 6.0/10
+
+台湾在野党国民党宣布启动全台动员，支持一项关于核能的公投，并批评执政的民进党能源政策错误。 这场运动直接挑战民进党的核能淘汰政策，并可能在 2026 年公投前重塑台湾的能源辩论，该公投将与地方选举同时举行。它凸显了能源安全和气候问题成为关键政治议题。 公投定于 2026 年 11 月 28 日与地方选举同日举行，将询问选民台湾是否应采用核能。国民党的动员旨在争取公众支持，尽管民进党长期持反核立场。
+
+google\_news · www.hkcna.hk · 10月26日 13:35
+
+**背景**: 台湾民进党政府推行核能淘汰政策，最后一座运行中的反应堆于 2025 年关闭。国民党认为核能对能源安全和减少碳排放是必要的。台湾的公投受《公投法》规范，允许公民提议或废除法律。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nuclear_power_in_Taiwan">Nuclear power in Taiwan - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Taiwanese_referendum">2026 Taiwanese referendum - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Referendums_in_Taiwan">Referendums in Taiwan - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Taiwan energy policy`, `#nuclear referendum`, `#KMT-DPP politics`, `#nuclear phase-out`, `#energy politics`
+
+---
+
+<a id="item-8"></a>
+## [江苏省智能电网项目主体结构全部封顶](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tbUV5NDFBbU00REYybnJ6UDg5SS1wUzdhS3RXQlRoYmhBUm1nYzRFSXNBZXI3Zks2c29WMEx2S0E0bTlDNGt6WXAxeTc0QUNkc2RDVzNiX1dIRFU4aHc?oc=5) ⭐️ 5.0/10
+
+江苏省智能电网项目主体结构已全部封顶，标志着新型电网建设取得阶段性进展。 这一里程碑有助于江苏推进电力基础设施现代化和接入更多可再生能源，对能源政策关注者和中国电网运营商具有重要意义。 该项目是江苏智能电网发展的一部分，此前已建成省级数字智能电网并整合超过万亿条数据；但该项目的具体技术细节尚未披露。
+
+google\_news · 国际电力网 · 10月26日 07:00
+
+**背景**: 智能电网利用信息通信技术实时监测和管理电力供需，提高效率和可靠性。江苏一直是中国电网现代化的先行者，于 2024 年建成了全国首个省级数字智能电网。电网现代化涉及用传感器、自动化和网络安全升级老化的基础设施，以在保持稳定的同时整合可再生能源。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-cn/%E6%99%BA%E6%85%A7%E9%9B%BB%E7%B6%B2">智能电网 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://english.news.cn/20240111/01780a6f83164c55999d8aa5136d41ef/c.html">China builds first provincial-level digital smart power grid</a></li>
+<li><a href="https://www.ibm.com/cn-zh/think/insights/grid-modernization">构建弹性未来：为什么电网现代化对工业电气化至关重要 | IBM</a></li>
+
+</ul>
+</details>
+
+**标签**: `#smart grid`, `#energy policy`, `#Jiangsu`, `#power infrastructure`, `#grid modernization`
+
+---
+
+<a id="item-9"></a>
+## [河北加快构建新型电力系统](https://news.google.com/rss/articles/CBMieEFVX3lxTE5QelRKY2FSZG1TUm9Xb21mSUx5WmdnbGx0QVNnUG80bmlfbHpmWDZMTjVYWVRnczVQaEZTaTFDY0Y5aF9QZFFmd0xOa3dBZExrZGotMWhKbm85cE1WQzdOV05HR3dYUmNwc1VId3FSYVNjdUdMQ1VRUw?oc=5) ⭐️ 5.0/10
+
+据新浪财经报道，河北省正在加快构建新型电力系统。这一消息表明该省正着力推进电网建设和能源转型工作。 这反映了中国更广泛的能源转型战略，因为省级电力系统升级对于整合不断增长的可再生能源装机至关重要。此举可能影响河北及周边地区的电网规划、储能部署和电力市场改革。 该报道未提供具体技术细节，但新型电力系统概念通常涉及整合间歇性可再生能源发电、部署储能以及提升电网灵活性和数字化水平。省级规划往往包括可再生能源装机、电网升级和市场机制等方面的目标。
+
+google\_news · 新浪财经 · 10月26日 11:32
+
+**背景**: 中国的“新型电力系统”是一个政策框架，旨在重塑电力系统以支持国家的碳中和目标。与传统上由可控火电主导的系统不同，它高度依赖风能、太阳能等波动性可再生能源，需要更强的灵活性、储能和智能电网技术。中国各省份正在作为国家能源转型的一部分推进此类系统建设。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf">nea.gov.cn/download/xxdlxtfzlpsgk.pdf</a></li>
+<li><a href="https://eea.tsinghua.edu.cn/en/info/1038/3547.htm">New - Type Power System Exchange Seminar and the 15th...</a></li>
+<li><a href="https://jsuese.scu.edu.cn/rc-pub/front/front-article/download/47407157/lowqualitypdf/%E2%80%9C%E5%8F%8C%E7%A2%B3%E2%80%9D%E7%9B%AE%E6%A0%87%E4%B8%8B%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%BA%E4%B8%BB%E4%BD%93%E7%9A%84%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%B4%A1%E7%8C%AE%E3%80%81%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8C%91%E6%88%98.pdf">Carbon Neutrality: Contribution, Key Techniques, and Challenges</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#new power system`, `#Hebei`, `#power grid`, `#energy transition`
+
+---
+
+<a id="item-10"></a>
+## [财联社推介新型电力系统三大指数](https://news.google.com/rss/articles/CBMiSEFVX3lxTE14QVdWTVFhckgwZHhPTEVCVnJrcHd2dWdjR05BR2xxTEMyejRlTklLTG5MOVluTjFyXzF6SnpMSUlydllqNTVDag?oc=5) ⭐️ 4.0/10
+
+财联社发布了一篇偏产品推介的简短文章，介绍与中国“新型电力系统”相关的三大指数，并将其定位为可供投资者选择的投资标的。文章未披露指数编制方法、成分股细节或业绩数据，也没有原创性的政策报道。 这篇文章表明金融产品机构正将能源转型打包为可投资的指数主题，可能引导散户和机构资金流向电网、储能和可再生能源资产。但由于其本质是产品推介而非实质性分析，对跟踪真实市场或监管动态的能源政策从业者而言价值有限。 该条目只是指向财联社文章的一条 Google News RSS 短链接，未附带数据、编制方法或指数代码，也没有提供社区讨论。希望了解成分股或加权方案等具体信息的读者，需直接查阅原文或指数编制机构。
+
+google\_news · 财联社 · 10月26日 17:55
+
+**背景**: 中国的“新型电力系统”是一个围绕碳达峰、碳中和目标重构电网的政策概念，以坚强智能电网为枢纽平台，以源网荷储互动与多能互补为支撑。它与国家发展改革委发布的《新型电力系统建设“十五五”规划》密切相关，该规划明确了未来五年的建设方向和重点工作。随着这一主题获得政策推动，指数机构和基金管理人推出了电力及新能源相关指数，例如中证全指电力公用事业指数和国证新能源电池指数，为投资者提供参与能源转型的敞口。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552">新型电力系统（电力系统术语）_百度百科</a></li>
+<li><a href="https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/P020260803594268920789.pdf">新型电力系统建设 十五五 规划</a></li>
+<li><a href="https://www.sohu.com/a/1043754218_223785">250%规模跃升背后：2026年资金为何集体&quot;抢筹&quot;电力赛道？电力ETF景顺(1...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新型电力系统`, `#能源指数`, `#电力市场`, `#能源政策`, `#财经资讯`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [OpenAI 宣称其 AI 模型推翻 ETH 并证明杨-米尔斯存在性](https://openai.com/index/building-scientific-understanding-with-academic-communities/) ⭐️ 10.0/10
+
+OpenAI 宣布其模型在数学、计算机科学和物理学领域取得了新成果，包括声称推翻了指数时间假设（ETH）以及证明了杨-米尔斯存在性，并于 2026 年 10 月 16 日完成了 Lean 形式化。 如果得到验证，这些结果将推翻复杂性理论中的一个基础性假设，并解决克雷千年大奖问题之一，标志着 AI 驱动的科学发现和形式化验证的里程碑时刻。 所声称的 ETH 反证给出了一种确定性算法，用于精确计算 k-CNF 公式的满足赋值，其运行时间为 \(n+m\)^\{O\_k\(1\)\} 2^\{n/\(log n\)^\{1/2+o\(1\)\}\}，是超多项式但次指数级的；杨-米尔斯证明于 2026 年 9 月 9 日以自然语言形式产生，随后于 9 月 18 日产生 QCD 证明，发布推迟到 Lean 形式化完成之后。
+
+hackernews · jonluca · 10月26日 21:35 · [社区讨论](https://news.ycombinator.com/item?id=50251344)
+
+**背景**: 指数时间假设由 Impagliazzo 和 Paturi 于 1999 年提出，猜想 3-SAT 不能在次指数时间内求解，是一个比 P ≠ NP 更强的假设。杨-米尔斯存在性和质量间隙问题是七个千年大奖问题之一，要求对具有质量间隙的杨-米尔斯理论给出严格的数学构造。Lean 是一种证明助手和函数式编程语言，用于形式化验证数学证明。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Exponential_time_hypothesis">Exponential time hypothesis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap">Yang–Mills existence and mass gap - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lean_%28proof_assistant%29">Lean (proof assistant) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对 ETH 结果表示震惊和难以置信，指出其对参数化复杂性和硬度证明的重要意义，一些人询问这是否会更新对 P=NP 的先验信念；其他人则惊叹于长期猜想被接连推翻的速度以及杨-米尔斯形式化工作的规模。
+
+**标签**: `#AI for science`, `#complexity theory`, `#automated theorem proving`, `#Lean formalization`, `#OpenAI`
+
+---
+
+<a id="item-12"></a>
+## [Anthropic 提交 S-1 文件启动 IPO，披露巨额云服务承诺](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) ⭐️ 9.0/10
+
+Anthropic 已向美国证券交易委员会提交 S-1 注册声明，计划在纳斯达克全球精选市场进行首次公开募股。文件披露了巨额基础设施承诺，包括向谷歌承诺 1140 亿美元、向 AWS 承诺 1100 亿美元、向博通承诺 1610 亿美元以及向 SpaceX 承诺 1200 亿美元，同时收入快速增长，主要驱动力来自 Claude Code 等 AI 编程工具。 这是 AI 行业的里程碑事件，揭示了在前沿 AI 领域竞争所需的巨额财务押注，并验证了 AI 编程作为杀手级应用的地位。此次 filing 将影响投资者对整个 AI 行业的预期，并可能为未来的 AI IPO 树立标杆。 Anthropic 在 2026 年上半年录得 807 亿美元净亏损，主要由于会计调整，且据称其计算投资回收期不到一年，每花费 1 美元计算资源可带来 2.08 美元收入。公司收入增长高度集中于 AI 编程领域，引发了对如此快速采用可持续性的质疑。
+
+hackernews · SiNTEx · 10月26日 13:04 · [社区讨论](https://news.ycombinator.com/item?id=50242939)
+
+**背景**: S-1 是计划上市公司向美国证券交易委员会提交的注册声明，提供详细的财务和业务信息。Anthropic 是一家 AI 安全与研究公司，开发了 Claude 系列大语言模型，其 IPO 将成为 AI 公司史上最大规模之一。此次 filing 正值全行业 AI 基础设施支出激增和 AI 实验室竞争加剧之际。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.anthropic.com/news/s1-sec">Anthropic files S - 1 with the SEC for proposed initial public offering</a></li>
+<li><a href="https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html">Anthropic IPO live updates: AI lab&#x27;s S - 1 filing</a></li>
+<li><a href="https://www.businessinsider.com/anthropic-s-1-filing-public-finances-compute-deals-2026-10">Anthropic &#x27; s Public S - 1 Sets Stage for Massive IPO... - Business Insider</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者就需求是否可持续展开辩论，一些人指出 Anthropic 的巨额承诺是必要的赌注，但如果增长放缓可能会带来痛苦。其他人强调 AI 编程是关键收入驱动力，并质疑其持续快速采用的可能性，还有人指出中国实验室的开源模型构成竞争风险。
+
+**标签**: `#Anthropic`, `#S-1`, `#AI industry`, `#financials`, `#AI coding`
+
+---
+
+<a id="item-13"></a>
+## [Sebastian Raschka 发布从零构建推理模型的视频课程](https://magazine.sebastianraschka.com/p/building-reasoning-models) ⭐️ 8.0/10
+
+Sebastian Raschka 发布了一门名为“从零构建推理模型”的新视频课程，教授如何用 PyTorch 从零实现推理模型，涵盖推理扩展、强化学习和蒸馏等内容。 该课程填补了推理大模型实践教育方面的空白，这类模型在复杂问题求解和智能体应用中日益重要，为希望理解这些模型内部机制的从业者提供了动手指导。 该课程强调使用 PyTorch 从零构建推理模型，Raschka 认为这是真正理解其工作原理的最佳方式，并配有书籍和代码仓库供进一步探索。
+
+hackernews · sgiannopoulos · 10月26日 15:11 · [社区讨论](https://news.ycombinator.com/item?id=50245138)
+
+**背景**: 推理模型是在回答前使用扩展思考来解决复杂问题的大语言模型，通常采用推理扩展、强化学习和蒸馏等技术。Sebastian Raschka 是知名的 AI 教育者和《从零构建大语言模型》一书的作者，他的从零教程旨在揭开现代 AI 系统内部运作的神秘面纱。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://magazine.sebastianraschka.com/p/building-reasoning-models">Building Reasoning Models from the Ground Up: A Video Course</a></li>
+<li><a href="https://sebastianraschka.com/reasoning-from-scratch/">Build a Reasoning Model (From Scratch) | Sebastian Raschka, PhD</a></li>
+<li><a href="https://github.com/rasbt/LLMs-from-scratch">GitHub - rasbt/LLMs-from-scratch: Implement a ChatGPT-like ... Building a Large Language Model (LLM) from Scratch - Medium Build an LLM from Scratch with PyTorch Tutorial — AI Tutorial How to Build a Large Language Model from Scratch Using Python Train Your Own LLM From Scratch: A Complete End-to-End Guide</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 上的讨论（545 分，81 条评论）显示出高度参与，用户称赞 Raschka 能够直观地解释复杂主题。一些评论者就“从零”教程的实用性展开辩论，指出这类教程并非为了产出生产级模型，而是为了建立理解，另一些人则担心 AI 系统会变得过于复杂而人类无法理解。
+
+**标签**: `#LLM`, `#reasoning models`, `#education`, `#from-scratch`, `#tutorial`
+
+---
+
+<a id="item-14"></a>
+## [Cloudflare 披露 Workers AI 上 GLM-5.3 的跨请求 KV 缓存泄露事件](https://blog.cloudflare.com/kv-cache-exposure-remediation/) ⭐️ 8.0/10
+
+Cloudflare 发布了一份根因分析报告，披露其 Workers AI 平台上 GLM-5.3 模型存在跨请求 KV 缓存暴露漏洞：尽管该模型对外宣称支持 1,048,576 个 token 的上下文窗口，但预填充阶段的 KV 缓存池实际只能容纳 681,280 个 token，导致缓存状态可能在请求之间泄露。Cloudflare 迅速下线该模型并完成修复，同时承认在发布前就已知道这一容量不匹配问题。 这是一起发生在大型 AI 推理服务商生产环境中的安全事件，暴露出多租户 LLM 服务固有的共享租户风险——为提升吞吐而进行的 KV 缓存复用可能成为跨租户数据泄露的通道。该事件还引发了对宣称的上下文窗口是否与实际服务容量相符的尖锐质疑，影响到所有依赖托管模型 API 的开发者。 披露的核心不匹配在于：对外宣称的 1,048,576 token 上下文窗口与仅能容纳 681,280 token 的预填充 KV 缓存池之间存在差距，而 Cloudflare 表示在发布前就已知晓这一点；该事件被定性为共享租户攻击模型，即一个请求的缓存条目可能被另一个请求观察到。这份透明的根因分析还解释了为何内部测试未能发现该漏洞。
+
+hackernews · wondersky · 10月26日 22:41 · [社区讨论](https://news.ycombinator.com/item?id=50252159)
+
+**背景**: 在 LLM 推理中，预填充阶段会处理输入提示并存储键值（KV）张量，使后续的 token 生成可以复用这些张量而无需重新计算注意力，这是现代推理服务提升吞吐量的主要优化手段。在多租户部署中，该缓存通常跨用户共享以实现前缀复用，而此前的研究已表明这种共享会形成侧信道，使一个租户能够重建另一个租户的提示内容。GLM-5.3 是 Z.ai 的旗舰智能体编程模型，拥有 100 万 token 的上下文窗口，Cloudflare 于 2026 年 8 月在 Workers AI 上线了该模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developers.cloudflare.com/workers-ai/models/glm-5.3/">glm-5.3 (Zhipu AI) · Cloudflare AI docs · Cloudflare Workers ...</a></li>
+<li><a href="https://developers.cloudflare.com/changelog/post/2026-08-28-glm-5.3-workers-ai/">Z.ai GLM-5.3 now available on Workers AI · Changelog</a></li>
+<li><a href="https://arxiv.org/abs/2608.09225">[2608.09225] Governing the KV Cache: Preventing Timing Side ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者称赞这份根因分析体现了担当，清楚解释了测试为何未能发现该漏洞，并对快速下线模型表示认可。不少人聚焦于容量不匹配问题，质疑 Cloudflare 是否在仅有 681,280 token 容量时对外宣传了 1,048,576 token 的上下文窗口，还有人表示自己在其他服务商 API 上偶尔收到完全不相关的回复，可能也是类似问题所致。另一些人则强调共享缓存上的多租户攻击难以避免，处理高度敏感数据的企业应使用非共享主机。
+
+**标签**: `#LLM security`, `#KV cache`, `#AI infrastructure`, `#multi-tenancy`, `#incident response`
+
+---
+
+<a id="item-15"></a>
+## [OpenAI 发布 GPT-6.1 Terra 并降价，引发社区讨论](https://openai.com/index/introducing-gpt-6-1-terra/) ⭐️ 8.0/10
+
+OpenAI 发布了 GPT-6.1 Terra，这是 GPT-6.1 系列中的中端模型，相比之前模型有大幅降价。该版本包含了 GPT-6 系列的对齐改进，定位于日常智能体、编程和写作任务。 此次发布加剧了 AI 模型市场的竞争，尤其是针对 Anthropic 的 Sonnet 5.5，为高负载工作提供了高性价比的选择。它影响了那些寻求经济且能力强的模型用于智能体和编程应用的开发者和企业。 GPT-6.1 Terra 的定价为每百万输入 token 1.00 美元，每百万输出 token 5.00 美元，缓存输入为每百万 token 0.05 美元。它支持 100 万 token 的上下文窗口和文本/图像输入，但社区成员指出其推理 token 行为令人困惑，例如“低”推理级别有时比“无”级别使用更少的 token。
+
+hackernews · meetpateltech · 10月26日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=50248124)
+
+**背景**: OpenAI 的 GPT-6 系列包括多个按规模和能力分层的模型：Luna（小）、Terra（中）、Sol（大）和 Astra（更大）。推理 token 是 LLM 在“思考”过程中生成的中间 token，用于解决复杂问题，其使用会影响成本和性能。模型阵容变得复杂，能力和定价重叠，导致社区困惑。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://openrouter.ai/openai/gpt-6.1-terra">GPT - 6 . 1 Terra - API Pricing &amp; Providers | OpenRouter</a></li>
+<li><a href="https://artificialanalysis.ai/models/gpt-6-1-terra">GPT - 6 . 1 Terra (max) - Intelligence, Performance... | Artificial Analysis</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-6-1-terra/">Introducing GPT - 6 . 1 Terra | OpenAI</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员对模型阵容和定位表示困惑，有人称 Terra 是 Luna 和 Sol 之间的“奇怪中间孩子”。他们质疑在每任务成本结果下为何选择 Terra 而非 Sol，并指出推理 token 行为奇怪。总体而言，此次发布被视为渐进式降价举措而非突破。
+
+**标签**: `#OpenAI`, `#LLM release`, `#model pricing`, `#AI industry`, `#benchmarks`
+
+---
+
+<a id="item-16"></a>
+## [微软提出 Python 类型服务器协议](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) ⭐️ 7.0/10
+
+微软发布了一项类型服务器协议（TSP）提案，旨在标准化 Python 类型检查器与编辑器之间的类型信息交换方式，可能通过 LSP 扩展将类型检查器与特定编辑器解耦。 如果被采纳，TSP 可以让任何类型检查器与任何编辑器配合工作，促进 Python 工具生态系统的竞争和创新。它会影响类型检查器开发者、编辑器插件开发者以及依赖类型感知工具的 Python 开发者。 该协议将机器可读的类型查询定义为 LSP 扩展，但其结果类型高度针对 Python（例如缺少全称量词绑定），引发了关于其是否适用于其他语言的疑问。此外，由于其仅针对 Python，命名也被批评过于宽泛。
+
+hackernews · adamnemecek · 10月26日 18:14 · [社区讨论](https://news.ycombinator.com/item?id=50248371)
+
+**背景**: 语言服务器协议（LSP）标准化了编辑器与语言服务器之间的通信，实现了自动补全、跳转定义等功能。Python 类型检查器如 Pyright、mypy 和 Pyre 提供静态类型分析，但目前每个编辑器必须单独与每个类型检查器集成。TSP 提出了一种标准接口，使编辑器可以从任何兼容的类型检查器查询类型信息。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50248371">Type Server Protocol | Hacker News</a></li>
+<li><a href="https://github.com/Microsoft/python-language-server">GitHub - microsoft / python -language- server : Microsoft Language...</a></li>
+<li><a href="https://typing.python.org/en/latest/spec/protocol.html">Protocols — typing documentation</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对该协议的命名进行了辩论，一些人认为应称为 Python 类型服务器协议以避免命名空间混淆，尤其是微软是通用 LSP 的背后推手。其他人质疑在 LSP 已有能力的情况下 TSP 的必要性，同时指出 basedpyright 的维护者批评了该设计，而 Astral 的 Ty 计划支持它。
+
+**标签**: `#Python`, `#Type Checking`, `#LSP`, `#Developer Tools`, `#Protocols`
+
+---
+
+<a id="item-17"></a>
+## [Hob：开源、本地运行的 Claude Cowork 和 ChatGPT 替代品](https://github.com/FrigadeHQ/hob) ⭐️ 7.0/10
+
+Hob 是一款新的 MIT 许可桌面应用，支持 Mac、Windows 和 Linux，可在本地运行开放权重模型（目前是 Gemma 4 和 gpt-oss）来处理文件、聊天并执行沙盒中的 Python 代码，为 Claude 和 ChatGPT 桌面应用提供了一个注重隐私的替代方案。 这很重要，因为它将文件操作、图像识别和代码执行等此前仅限于云端 AI 助手的功能带到了完全本地、离线的环境中，解决了隐私顾虑并减少了对托管模型的依赖。 Hob 使用 Electron 与 llama.cpp 桥接，自动为你的硬件选择最佳模型，并对代码执行进行沙盒隔离（macOS 上使用 sandbox-exec，Linux 上使用 Landlock，Windows 上使用低完整性进程）；要获得良好性能需要 16GB 以上内存，开发者指出让小型模型可靠地使用工具是最困难的部分。
+
+hackernews · pancomplex · 10月26日 16:12 · [社区讨论](https://news.ycombinator.com/item?id=50246238)
+
+**背景**: 开放权重模型是指训练参数公开的 AI 模型，任何人都可以下载并在本地运行，这与 OpenAI 和 Anthropic 等公司的专有模型形成对比。在设备上运行此类模型可确保数据永远不会离开用户的计算机，这对于隐私敏感的任务至关重要。Hob 还集成了 SearXNG（一个注重隐私的元搜索引擎）用于网络搜索，并支持 MCP（模型上下文协议）连接器以实现扩展性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Open-weight_model">Open-weight model</a></li>
+<li><a href="https://help.openai.com/en/articles/11870455-openai-open-weight-models-gpt-oss">OpenAI open - weight models (gpt-oss) | OpenAI Help Center</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SearXNG">SearXNG - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍赞扬该项目诚实的展示方式和简洁的 README，有人表示会为每个此类项目点赞，因为它比大公司所做的更重要。其他人则提出了关于硬件兼容性、选择 JavaScript/Electron 以及之前改名等实际问题。
+
+**标签**: `#local-ai`, `#open-source`, `#privacy`, `#desktop-app`, `#llm`
+
+---
+
+<a id="item-18"></a>
+## [博客探讨仍能在 Windows 11 上运行的最老 GUI 应用](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) ⭐️ 6.0/10
+
+一篇博客文章探究了仍与 Windows 11 兼容的最老图形用户界面应用程序，突显了传统软件的惊人寿命。 这一探索突显了 Windows 强大的向后兼容性，使得几十年前的应用程序能在现代系统上运行，并引发了关于软件保存和 UI 演进的讨论。 该博客很可能指认了早期 Windows 时代的一个特定应用程序，社区评论提到了 8 位游戏中的调色板处理和基于注册表的游戏存档等挑战。
+
+hackernews · enlyth · 10月26日 17:56 · [社区讨论](https://news.ycombinator.com/item?id=50248055)
+
+**背景**: Windows 通过其 Win32 API 和兼容层在保持与旧软件的兼容性方面有着悠久历史。来自 Windows 3.1 时代（1990 年代初）的 GUI 应用程序有时仍能在 Windows 11 上运行，展示了该操作系统对向后兼容性的承诺。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Microsoft_Windows">Microsoft Windows - Wikipedia</a></li>
+<li><a href="https://github.com/microsoft/WindowsAppSDK">GitHub - microsoft/WindowsAppSDK: The Windows App SDK...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了对经典 Windows 游戏和 UI 的怀旧之情，批评了移动优先界面等现代设计趋势，并讨论了与其他媒体（如书籍）相比向后兼容性的价值。
+
+**标签**: `#retro-computing`, `#Windows`, `#GUI`, `#software-compatibility`, `#Hacker News`
+
+---
+
+<a id="item-19"></a>
+## [CSS-Tricks 再次易主，DigitalOcean 退出](https://css-tricks.com/css-tricks-has-a-new-owner/) ⭐️ 6.0/10
+
+由 Chris Coyier 于 2007 年创办的长期 CSS 与前端资源网站 CSS-Tricks 已再次易主，此前 DigitalOcean 于 2022 年 3 月以 400 万美元收购了该网站。据报道，新主人是长期为该网站供稿的 Geoff Graham。 此次所有权变更凸显了独立开发者内容网站维持运营的挑战，尤其是当 AI 工具和 TailwindCSS 等框架的变迁改变了开发者的学习和工作方式时。这也标志着 DigitalOcean 从内容驱动的社区建设中撤退。 DigitalOcean 在 2022 年收购 CSS-Tricks 时，该网站拥有 6,500 篇文章和每年 8800 万次页面浏览量，但在其管理下，该网站据称被忽视。新主人 Geoff Graham 一直是该网站最活跃的贡献者，这让人们对网站重新获得关注充满希望。
+
+hackernews · edent · 10月26日 15:51 · [社区讨论](https://news.ycombinator.com/item?id=50245831)
+
+**背景**: CSS-Tricks 始于 2007 年 Chris Coyier 的博客，后来发展成为 CSS 技术、教程和前端新闻的重要参考。2022 年 3 月，DigitalOcean 收购该网站以扩展其开发者教育，但网站的活跃度和可见度有所下降。此次出售给 Geoff Graham 标志着网站回归独立所有。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://byteiota.com/css-tricks-has-a-new-owner-digitaloceans-ugly-exit/">CSS-Tricks Has a New Owner: DigitalOcean’s Ugly Exit</a></li>
+<li><a href="https://www.digitalocean.com/blog/css-tricks-joins-digitalocean">CSS-Tricks joins DigitalOcean, expanding our commitment to ...</a></li>
+<li><a href="https://css-tricks.com/css-tricks-is-joining-digitalocean/">CSS-Tricks is joining DigitalOcean!</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为 DigitalOcean 的所有权是失败的，一些人表示该公司似乎忘记了自己拥有该网站。其他人则讨论开发者内容的经济模式，指出广告和课程往往不成功，并质疑 LLM 是否已经“解决”了前端开发，一位工程师认为 AI 生成的前端仍然需要大量人工优化。
+
+**标签**: `#CSS-Tricks`, `#web development`, `#frontend`, `#content business`, `#DigitalOcean`
+
+---
+
+<a id="item-20"></a>
+## [关于冯·诺依曼遗产的博客文章引发 HN 上关于抽象化的讨论](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html) ⭐️ 6.0/10
+
+一篇题为《来自未来的人：为什么约翰尼无法停止抽象》的博客文章探讨了约翰·冯·诺依曼的遗产以及人类抽象化的驱动力，在 Hacker News 上引发了 113 分、60 条评论的讨论。 讨论凸显了像冯·诺依曼这样的历史人物如何塑造现代计算，以及软件行业自身的颠覆如何映照出它曾施加于其他领域的变化。 评论者推荐了相关书籍，如乔治·戴森的《图灵大教堂》和本杰明·拉巴图特的《疯子》，还有人提出了关于遗觉记忆以及这种回忆在认知上如何运作的问题。
+
+hackernews · aray07 · 10月26日 17:49 · [社区讨论](https://news.ycombinator.com/item?id=50247928)
+
+**背景**: 约翰·冯·诺依曼是一位博学家，在计算机体系结构、博弈论和量子力学方面做出了奠基性贡献。基于他 1945 年《EDVAC 报告初稿》的冯·诺依曼架构，至今仍是存储程序计算机的主导模型。软件工程中的抽象化是将复杂细节隐藏在更简单接口背后的实践，是现代编程的核心原则。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Von_Neumann_architecture">Von Neumann architecture - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Abstraction_%28software_engineering%29">Abstraction (software engineering)</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了书籍推荐，并反思了软件行业当前的剧变，其中一人指出软件工程现在正承受它曾施加于其他行业的颠覆。另一位评论者对 1900 年前后布达佩斯涌现的天才群体表示惊叹，并开玩笑说匈牙利是火星人的掩护故事。
+
+**标签**: `#John von Neumann`, `#computing history`, `#abstraction`, `#software engineering`, `#Hacker News discussion`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [早报：OpenAI GPT-6.1 Terra、苹果 iOS 27.2、Anthropic IPO、小鹏 L4 Robotaxi](https://www.ifanr.com/1685979?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 8.0/10
+
+OpenAI 发布 GPT-6.1 Terra，API 价格减半且电脑操作提速；苹果推送 iOS 27.2，Apple Music 迎来黑白新设计，iPhone Duo 支持 Apple Pencil；Anthropic 公开上市申请，或成史上最大 IPO；小鹏 Robotaxi 获批 L4 级示范运营。 这些公告标志着重大转变：OpenAI 降价加剧 AI 竞争，苹果更新应对 iPhone Duo 上市困境，Anthropic IPO 可能重塑 AI 投资格局，小鹏获批推动自动驾驶出租车商业化。 GPT-6.1 Terra 的 API 降价和电脑操作提速可能降低开发者门槛；iOS 27.2 为 Apple Music 带来新设计，并让折叠屏 iPhone Duo 支持 Apple Pencil，而该机型曾出现屏幕开裂报告；Anthropic 秘密提交 IPO 申请，估值可能达 9650 亿美元；小鹏获批在广州全域开展 L4 级 Robotaxi 示范运营。
+
+rss · 爱范儿 · 10月27日 00:06
+
+**背景**: L4 级自动驾驶指系统在特定条件下可完成全部驾驶任务，无需人类接管。iPhone Duo 是苹果首款折叠屏手机，早期机型据报沿铰链开裂。Claude 开发商 Anthropic 提交 IPO 申请，可能成为史上最大 IPO，此前 OpenAI 也已递交申请。小鹏获批标志着从技术验证迈向商业化探索。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://chejiahao.autohome.com.cn/info/26735024">小鹏正式获批L4级自动驾驶示范运营资质 商业化再进一步_车家号_发现车...</a></li>
+<li><a href="https://news.mydrivers.com/1/1160/1160739.htm">苹果门店员工驳斥 iPhone Duo ... | 快科技</a></li>
+<li><a href="https://biggo.com.tw/news/202606011922_Anthropic_files_for_IPO_at_965_billion_valuation">Anthropic 秘密 申 請 上 市 ，估值達 9650... - BigGo 新聞</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#Apple`, `#Anthropic`, `#XPeng`, `#Big Tech`
+
+---
+
+<a id="item-22"></a>
+## [Anthropic 以 2 万亿美元估值递交 IPO，OpenAI 改革 AI 定价模式](https://www.tmtpost.com/8182929.html) ⭐️ 8.0/10
+
+Anthropic 公开向美国证券交易委员会递交 S-1 文件，拟以代码 ANT 登陆纳斯达克，披露上半年营收 163 亿美元（同比增长约 13.5 倍）、净亏损 807 亿美元，估值目标高达 2 万亿美元。与此同时，OpenAI 发布 GPT-6.1 Terra，标准 API 价格减半、单任务成本降低约九倍，并将计量单位从 token 转向“完成的任务”。 Anthropic 的 IPO 是公开市场对 AI 估值叙事的首次压力测试，而英伟达可能高达 100 亿美元的锚定入股将进一步加深 AI 实验室与芯片供应商之间的资本互锁。OpenAI 按任务计价的模式可能重塑企业 AI 采购逻辑，将定价权从实验室转向企业 CFO。 Anthropic 已锁定至少 5180 亿美元不可取消的算力承诺，其 S-1 招股书包含 80 页风险因素，警示模型的自我保存倾向。807 亿美元净亏损中约 720 亿为非现金公允价值费用，意味着实际现金亏损远小于表面数字。
+
+rss · 钛媒体 · 10月27日 01:04
+
+**背景**: S-1 是公司在 IPO 前向美国证券交易委员会提交的注册声明，需披露财务数据、风险因素和业务细节。非现金公允价值费用是反映资产或负债估值变化的会计费用，并非实际现金流出，往往会放大账面亏损。按 token 计价是依据处理的文本单位收费，而按任务计价则依据完成的产出收费，使成本与业务成果对齐。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.investopedia.com/terms/s/sec-form-s-1.asp">investopedia.com/terms/s/ sec -form- s - 1 .asp</a></li>
+<li><a href="https://fastercapital.com/content/Fair-Value-Adjustments--Valuation-Variations--Fair-Value-Adjustments-as-Non-Cash-Expenses.html">Fair Value Adjustments: Valuation Variations: Fair Value ...</a></li>
+<li><a href="https://www.phoronix.com/news/Linux-Foundation-25p-AI-Slop">Linux Foundation Estimates 25% Of New Pull Requests To Be Low ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI 资本`, `#Anthropic IPO`, `#OpenAI`, `#大厂动态`, `#AI 监管`
+
+---
+
+<a id="item-23"></a>
+## [Kimi 发布 K3.1 Pro 及 Highspeed 版本，以更低价格挑战 Opus 5.5](http://www.geekpark.net/news/372943) ⭐️ 8.0/10
+
+10 月 24 日，Kimi 正式上线 K3.1 Pro，这是 K3 的后训练升级版，同步推出速度快 2 到 3 倍的 Highspeed 版本。官方承诺在 11 月 4 日前放出完整模型权重，并将 API 定价设为每百万 token 输入 13 元、输出 68 元，比 K3 便宜约三分之一，约为 Claude Opus 5.5 的一半。 此次发布意义重大，因为它缩小了开放权重模型与闭源模型之间的差距：权重放出后，K3.1 Pro 预计将成为得分最高的开放权重模型，在 Artificial Analysis 智能指数上与闭源领先者的差距从 12 分缩小到 3 分。更强的性能加上更低的价格也加剧了大模型市场的竞争，尤其是对 Anthropic 的 Claude Opus 5.5 构成直接挑战。 K3.1 Pro 保留了与 K3 相同的底座架构——混合专家模型，总参数 2.8 万亿、激活参数 1040 亿，上下文窗口 100 万 token，原生支持图像和视频输入——但投入了大幅增加的后训练算力，并在数百个下游领域进行了大规模联合强化学习。在 Terminal-Bench 4.0 上它拿到 65.7%，略低于 Claude Opus 5.5 的 66.4%；在 Artificial Analysis 智能指数上达到 55 分，排名全球第四；不过 Artificial Analysis 指出它完成同样任务要多用 14% 的输出 token，因此每个任务的实际成本约为 1.98 美元，与 K3 基本持平。
+
+rss · 极客公园 · 10月26日 10:16
+
+**背景**: 后训练是指模型在初始预训练之后进一步精调的阶段，通常通过强化学习来提升推理、指令遵循和任务表现，而不改变底座架构。Kimi 的 K3.1 Pro 就是这样一个后训练版本：底层的混合专家（MoE）架构——每次输入只激活一部分专门子网络以保持推理效率——保持不变，但模型用更多算力和数据重新“教”了一遍。像 Kimi 这样的开放权重模型会发布可下载的参数，让研究者和开发者能在本地运行或微调，而 Claude Opus 5.5 等闭源模型只能通过 API 访问。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Post-training_of_large_language_models">Post-training of large language models</a></li>
+<li><a href="https://www.ibm.com/think/topics/mixture-of-experts">What is mixture of experts ? | IBM</a></li>
+<li><a href="https://arxiv.org/abs/2407.16216v3">Reinforcement Learning for LLM Post - Training : A Survey</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 早期用户反馈褒贬不一：开发者称赞 K3.1 Pro 的编程能力，认为它在一个 Rust、C、汇编混合项目上强过 DeepSeek V4.1 Flash，完成任务只需 20 分钟，而 K3 估计要 40 到 60 分钟，许多人还提到它的思考过程快了很多。但前端审美遭到批评，论坛用户在其单文件 HTML 测试中给它排了倒数，并指出用 Three.js 还原 Steam 手柄时出现空间关系错误。
+
+**标签**: `#Kimi`, `#Moonshot AI`, `#大模型发布`, `#开源权重`, `#LLM竞争`
+
+---
+
+<a id="item-24"></a>
+## [中国大厂快速推出又关闭 AI 产品](https://www.tmtpost.com/8182953.html) ⭐️ 7.0/10
+
+腾讯的 QClaw 在公测 188 天后将关闭，这是更广泛趋势的一部分：八家中国主要 AI 公司在十多个产品线上快速推出独立 AI 产品，随后又在数周内将其更名、合并或关闭。 这种整合表明，中国大厂正从试验独立 AI 产品转向将能力嵌入通用助手，因为下一个竞争战场是能够自主管理任务的个人 AI 代理。 QClaw 基于 OpenClaw 构建，由腾讯打包实现一键本地部署，允许用户通过微信或 QQ 远程控制 PC；其在短短 188 天后关闭，凸显了中国实验性 AI 产品的快速生命周期。
+
+rss · 钛媒体 · 10月26日 23:23
+
+**背景**: 个人 AI 代理是超越聊天机器人的自主助手，能管理数字任务；而通用助手如集成 Bard 的 Google Assistant 则整合生成式 AI 来处理广泛用户需求。中国科技巨头常推出多个实验性 AI 产品测试市场契合度，然后将成功功能整合到核心产品中。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://qclawd.com/en/">Qclaw - AI Agent for WeChat PC Remote Control</a></li>
+<li><a href="https://dev.to/akhileshpothuri/personal-ai-agents-explained-what-they-are-how-they-work-and-how-to-build-one-56ef">Personal AI Agents Explained: What They Are, How They Work ...</a></li>
+<li><a href="https://blog.google/products-and-platforms/products/assistant/google-assistant-bard-generative-ai/">Google Assistant with Bard: New generative AI features</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI strategy`, `#China big tech`, `#product lifecycle`, `#Tencent`, `#personal agents`
+
+---
+
+<a id="item-25"></a>
+## [央行推出稳债市新工具；奥迪在华品牌重组；中金公司完成合并](https://www.tmtpost.com/8182711.html) ⭐️ 7.0/10
+
+中国人民银行于 10 月 26 日宣布设立债市非银大额赎回互换便利（BNSF），旨在为非银机构应对大额赎回提供紧急流动性支持。同日，奥迪宣布在华品牌重组，四环品牌归一汽，字母标品牌归上汽；中金公司也完成与东兴证券、信达证券的“三合一”合并，新增股份于 10 月 29 日上市流通。 央行新工具旨在通过为非银机构在赎回潮中提供流动性支持，防范债券市场系统性风险，从而增强金融稳定。奥迪的品牌拆分反映了其在中国这一全球最大汽车市场的战略调整，而中金公司的合并则打造了更大的券商，可能重塑中国证券行业格局。 BNSF 被设计为紧急流动性后备工具，而非全面兜底，央行强调需防范道德风险。中金公司的合并涉及吸收两家 A 股上市公司，由于 A+H 两地上市，流程较为复杂，新增股份将于 10 月 29 日开始交易。
+
+rss · 钛媒体 · 10月26日 23:20
+
+**背景**: 非银机构（如资管机构和券商）可能面临突发大额赎回，被迫抛售债券从而冲击市场稳定。央行新工具在特定情景下通过互换方式向这些机构提供流动性。奥迪在华重组将高端四环品牌归一汽，而字母标新品牌归上汽，反映了不同的合作战略。中金公司与东兴、信达的“三合一”合并是中国证券行业整合趋势的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.news.cn/fortune/20261026/b3861b2f4f0c4f01aebeb88ef1a944c2/c.html">财经深一度丨救急不兜底， 央 行 推出 稳 债 市 新 工 具 - 新 华网</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/1733360754/6750fc7202001fjxi">cj.sina.com.cn/articles/view/1733360754/6750fc7202001fjxi</a></li>
+<li><a href="https://www.21jingji.com/article/20260819/herald/68d81cc8ece0d2e553d88bb213b2f349.html">从汇 金 系到万亿航母： 中 金 合 并 东兴、信达的整 合 逻辑与牌照博弈 - 21...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#央行`, `#债市`, `#奥迪`, `#中金公司`, `#大厂要闻`
+
+---
+
+<a id="item-26"></a>
+## [京东广告联合华为鲲鹏超节点，端到端推理时延降低 15%](https://www.tmtpost.com/8181692.html) ⭐️ 7.0/10
+
+京东广告联合华为鲲鹏，通过灵衢互联将四级缓存压缩为两级、构建 300TB 共享内存池并重构 RPC 通信，使端到端推理时延降低 15%，并已在 618 大促核心场景 5%流量中完成验证。 这是系统架构层面的工程突破，从通算侧而非单纯堆叠 GPU 来解决生成式广告的算力瓶颈，对广告推荐行业和国产算力生态具有较高的参考价值。 该工作针对生成式推荐千倍算力需求与 300 毫秒时延红线之间的矛盾，KV Cache 和 RPC 性能大幅提升；但这仍属于单场景优化而非范式级突破，双方合作正从广告向搜推等场景外溢，并布局 SuperCache、Agent 沙箱等方向。
+
+rss · 钛媒体 · 10月26日 12:19
+
+**背景**: 生成式推荐与广告模型大幅推高了算力需求，而推理时延往往受制于数据搬运和通信而非单纯的 GPU 算力。华为灵衢互联架构支持分级存储池化和节点间高速直连，使缓存可以跨机共享。KV Cache 通过缓存已计算的键值张量避免 token 生成时的重复计算，RPC（远程过程调用）则决定了推理集群中各服务之间的通信方式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.huawei.com/cn/news/2026/9/hc-lingqu-agent-ai">以灵衢互联为核心，打造集群与超节点协同的新计算架构 - 华为</a></li>
+<li><a href="https://e.huawei.com/cn/news/2026/solutions/computing/hc-lingqu-agent-ai">以灵衢互联为核心，打造集群与超节点协同的新计算架构-华为企业业务</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/23495735854">大模型推理优化：KV Cache - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#京东`, `#华为鲲鹏`, `#生成式广告`, `#推理时延优化`, `#超节点架构`
+
+---
+
+<a id="item-27"></a>
+## [新 iPad mini 发布：5499 元起，配备 OLED 屏但刷新率仍为 60Hz](https://www.ifanr.com/1685961?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+苹果发布了新款 iPad mini，起售价为 5499 元，首次配备 OLED 显示屏，但刷新率仍保持在 60Hz。 此次更新将 OLED 引入 iPad mini 系列，有望提升色彩和对比度，但缺少高刷新率可能会让期待更高级体验的用户感到失望。这反映了苹果在 iPad 产品线中持续进行功能细分。 OLED 面板应能提供比之前 LCD 更深的黑色和更好的对比度，但 60Hz 刷新率保持不变，这意味着动画和滚动不会像 120Hz ProMotion 设备那样流畅。
+
+rss · 爱范儿 · 10月26日 14:39
+
+**背景**: OLED 是一种每个像素自行发光的显示技术，能实现真正的黑色和高对比度；刷新率衡量屏幕每秒更新的次数，60Hz 是标准，而 120Hz 等更高刷新率能提供更流畅的动态效果。苹果一直将 ProMotion（120Hz）保留给 Pro 机型，而 iPad mini 此前一直使用 LCD 屏幕。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Comparison_of_CRT,_LCD,_plasma,_and_OLED_displays">Comparison of CRT, LCD, plasma, and OLED displays - Wikipedia</a></li>
+<li><a href="https://screeninspector.com/blog/monitor-refresh-rate-explained/">Monitor Refresh Rate Explained: 60Hz vs 120Hz vs 144Hz vs ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#iPad mini`, `#product launch`, `#OLED display`, `#consumer electronics`
+
+---
+
+<a id="item-28"></a>
+## [《影之刃零》：首个登上世界舞台的中国武侠游戏](https://www.ifanr.com/1685506?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+爱范儿报道称，由灵游坊开发的国产 3A 武侠游戏《影之刃零》成为首个登上世界舞台的中国武侠游戏，其试玩演示在大型游戏展会上展出，并获得全球媒体和玩家的赞誉。 这标志着中国 3A 游戏行业的一个里程碑，表明中国开发商能够打造出引起全球共鸣的高质量武侠动作游戏，可能为更多中国游戏在国际市场取得成功铺平道路。 据灵游坊 CEO 梁其伟透露，游戏提供四种难度选项，玩家可在一周目内获得白金奖杯；此外，该游戏还入选了国家级《艺术研究》期刊。
+
+rss · 爱范儿 · 10月26日 07:36
+
+**背景**: 《影之刃零》是由灵游坊（S-Game）开发的动作角色扮演游戏，以《影之刃》系列闻名。游戏设定在暗黑武侠世界，以其快节奏的战斗和高品质画面受到关注。该游戏是越来越多瞄准全球市场的中国 3A 游戏之一。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ithome.com/1/000/957.htm">梁其伟详解《 影 之 刃 零 》 游 戏 ：四种难度可选、一周目可白金 - IT 之 家</a></li>
+<li><a href="https://forum.gamer.com.tw/B.php?bsn=77711">影 之 刃 零 哈啦板 - 巴哈姆特</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反应非常积极，许多人表示兴奋，并将其与顶级动作游戏相提并论；一些人指出它有潜力成为年度游戏的有力竞争者。
+
+**标签**: `#国产3A`, `#影之刃零`, `#武侠游戏`, `#游戏行业`, `#中国游戏出海`
+
+---
+
+<a id="item-29"></a>
+## [小米推出 150 元开源 AI 硬件，让普通人玩转 Vibe Coding](https://www.tmtpost.com/8182406.html) ⭐️ 6.0/10
+
+在 2026 观猹大会上，小米技术委创新产品团队首次公开了其孵化的开源 AI 硬件 HachimoDock，自制成本约 150 元。这款巴掌大小的桌面设备让用户通过自然语言编程（Vibe Coding）自由创造功能，支持桌宠、智能家居控制等组件。 此举大幅降低了 AI 硬件创作的门槛，让非开发者也能以极低成本打造个性化 AI 设备。这反映了大厂在 AI 硬件和开发者工具方向上的探索趋势，有望推动 AIoT 生态的创新民主化。 小米公开了 HachimoDock 的全部软件源码及硬件资料，用户可以复现和修改设计。该设备定位为桌面级创新产品，用户通过自然语言与 Coding Agent 协作来定制功能。
+
+rss · 钛媒体 · 10月26日 11:29
+
+**背景**: Vibe Coding（氛围编程）由 Andrej Karpathy 于 2025 年初提出，指用户用自然语言描述需求、由 AI 生成代码的编程范式。这种方式降低了软件创作门槛，而小米的 HachimoDock 将这一概念延伸到硬件，让用户通过对话定义设备行为。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://navxd.com/ai-news/5305/">小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding</a></li>
+<li><a href="https://www.sohu.com/a/1092891412_121885030">小米推出150元开源硬件HachimoDock，助力AI桌面创新</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/32476516386">Vibe Coding彻底火了，到底什么是“氛围编程”？它如何改变未来的软件开...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#小米`, `#AI硬件`, `#Vibe Coding`, `#大厂动态`, `#自然语言编程`
+
+---
+
+<a id="item-30"></a>
+## [武汉二十年芯片赌注：长江存储与 A 股错失的机会](https://www.tmtpost.com/8181223.html) ⭐️ 6.0/10
+
+钛媒体的一篇文章讨论了武汉围绕长江存储（YMTC）打造半导体产业长达二十年的努力，但指出 A 股投资者可能错失了从中获利的机会。文章强调了漫长的等待以及城市产业投资与股市回报之间明显的脱节。 这个故事凸显了将长期、资本密集型的半导体发展转化为公开市场投资者短期财务回报的挑战。它对于理解中国芯片雄心如何与 A 股市场动态互动，以及投资于周期性、政策驱动行业的风险具有重要意义。 文章内容极为简短，仅包含“芯片贵，周期短，武汉难”这一句话，暗示了芯片行业的高成本、周期性特点以及武汉面临的具体挑战。摘录中没有提供具体的财务数据或详细分析。
+
+rss · 钛媒体 · 10月26日 10:33
+
+**背景**: 长江存储（YMTC）是中国领先的 NAND 闪存制造商，由长江存储控股集团全资拥有，该集团一直在推进 IPO。武汉二十年来大力投资围绕长江存储构建半导体生态系统，但芯片行业以周期性和资本密集著称，回报不确定。A 股投资者往往追求快速获利，这可能与半导体开发的长期性相冲突。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://stock.cfi.cn/p20260520003385.html">子 公 司 撤单、母 公 司 接力， 长 控集团携 长 江 存 储 冲刺A股IPO- CFi.CN...</a></li>
+<li><a href="https://www.jiuyangongshe.com/a/1hbxmr81b8g">9月26...</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/1790671321/6abb79d900101383g?finpagefr=p_104">cj.sina.com.cn/articles/view/1790671321/6abb79d900101383...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#长江存储`, `#武汉`, `#半导体`, `#A股`, `#芯片产业`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-31"></a>
+## [法官：品牌客服账号被外挂劫持群发涉黄链接，建议构建“担保型连带”责任](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfYzRLNFAwMEllT0x2VTZMU0NuYnlqMTllVUZpYXVkR1oxSWJZNDQtUFJUVG0teDEyN3hVUGlOa0ZybHNoOUVYMlZsS3NsUUZMZ2w4?oc=5) ⭐️ 7.0/10
+
+一位中国法官报告称，品牌客服账号被外挂劫持并群发涉黄链接，并提出了“担保型连带”责任模型以应对此类安全漏洞。该事件涉及多个品牌，包括充电宝巨头和耐克，其客服账号因网络攻击而发送了疑似色情链接。 这凸显了客服渠道中的重大安全风险，被劫持的账号可能损害品牌声誉并使用户接触有害内容。拟议的法律框架可能为品牌、平台和第三方服务商之间的责任分配树立先例，影响企业如何保障其客服系统安全。 攻击似乎通过外挂程序劫持官方客服账号实施，可能利用了被盗凭证或系统漏洞。法官提出的“担保型连带”责任建议品牌与可能的平台承担连带责任，但具体法律机制和范围尚不明确。
+
+rss · 客服行业动态 · 10月26日 10:13
+
+**背景**: 社交媒体和通讯平台上的客服账号通常由第三方工具或外挂管理，这可能引入安全漏洞。“连带责任”是一个法律概念，指多方可能对损害共同负责，而“担保型”可能意味着类似保证人的义务。此类事件是針對品牌账号进行网络攻击以传播垃圾信息或恶意链接的更广泛趋势的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.haolvshi.com.cn/ztw/0-93755.html">连 带 担 保 是什么意思？ -好 律 师网</a></li>
+<li><a href="https://www.110ask.com/video/10193262491383546526.html">担 保 和 连 带 担 保 的区别-吴小蝶 律 师 法 律 短视频- 法 师兄</a></li>
+<li><a href="https://www.fatterpig.com/article_179.html">fatterpig.com/article_179.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service security`, `#account hijacking`, `#legal liability`, `#brand protection`, `#plug-in risks`
+
+---
+
+<a id="item-32"></a>
+## [AI 全面渗透客服行业，效率与压力同步攀升](https://news.google.com/rss/articles/CBMiVkFVX3lxTE52VE1RbE41QWxUR2dVWm1sMjhSRUs0M2wzR0lEaXllZHIxYlpfTmNBZ0tkckNpYjJqRHE5UklSYnoxNEJ5SGRTLWNOemJScDVZaE9NSzlB?oc=5) ⭐️ 6.0/10
+
+据亿邦动力网报道，AI 已深度融入客服行业，在显著提升运营效率的同时，也给运营和员工带来了更大的压力。 这一趋势影响着各行业的客服专业人员和组织，因为 AI 的采用正在重塑工作角色和工作量预期，尽管效率提升，但可能导致更高的压力和职业倦怠。 根据 2026 年基准数据，AI 自动化处理常规任务，将客服人员工作量减少约 5.8%，但由于剩余查询的复杂性和绩效监控的增加，员工的整体压力可能仍会上升。
+
+rss · 客服行业动态 · 10月26日 08:12
+
+**背景**: 客服行业越来越多地采用聊天机器人和虚拟坐席等 AI 技术来自动化响应并提高效率。这些系统可以处理重复性查询、提供个性化交互，并让人类坐席专注于复杂问题，但也带来了情感劳动和技术压力等新挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.comm100.com/blog/ai-reduce-customer-service-agent-workload/">How AI Reduces Customer Service Agent Workload | Comm100</a></li>
+<li><a href="https://www.psychreg.org/how-ai-automation-customer-support-reduces-stress-improves-user-experience/">How AI Automation of Customer Support Reduces Stress and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Customer_service">Customer service - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#customer service`, `#industry trends`, `#efficiency`, `#workforce pressure`
+
+---
+
+<a id="item-33"></a>
+## [广汽埃安陷“香蕉电池”风波，召回流程启动](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Vbkk4bERVUDJSYkp4WEFHVzJ0WDRXTV9NbTdHdkpRUG5oU0JiTnJmcUVZUmhtSEFnQ1JFOWM2UGVJcFN1bDd6ZzZkMEtoMDV4dy1XdEpEaThxY3hIeWJRMg?oc=5) ⭐️ 6.0/10
+
+广汽埃安因一批搭载中创新航电池的营运车辆出现电池质量问题而陷入“香蕉电池”风波。10 月 22 日，广汽埃安客服向澎湃新闻表示“已经在走召回流程”，三名投诉“只修不换”的车主也已获得回应。 这一事件凸显了车企在处理电池质量问题和客户投诉时面临的挑战，尤其是对于用于网约车等营运服务的车辆。广汽埃安如何处理召回和维修将影响其品牌声誉，并为电动汽车行业的危机沟通树立范例。 据报道，受影响车辆搭载的是中创新航 177Ah 电池，因出现变形问题被网友戏称为“香蕉电池”。广汽埃安客服表示，更换或维修需根据每台车部件的专业评估结果判断，具体召回公告将通过官方公众号发布。
+
+rss · 客服行业动态 · 10月26日 10:57
+
+**背景**: “香蕉电池”指的是中创新航生产的一批动力电池，据称存在变形问题，形似香蕉，可能带来安全隐患。广汽埃安是广汽集团旗下的中国电动汽车品牌，而中创新航是主要电池供应商，但据报道已逐渐淡出埃安的核心供应商圈。电池召回在电动汽车行业并不罕见，例如大众汽车近期因起火风险在全球召回 7.27 万辆电动汽车。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mp.ofweek.com/dianyuan/a056714025687">“ 香 蕉 电 池 ”背后：中创新航早已淡出 埃 安 核心圈，发生了什么？| 明镜pro...</a></li>
+<li><a href="https://evsays.com/calb-aion-177ah-official-response/">GAC Aion , CALB Open Joint Probe Into 177Ah &quot; Banana Battery ...&quot;</a></li>
+<li><a href="https://k.sina.cn/article_5044281310_12ca99fde02002lj7u.html">广汽埃安陷“香蕉电池”风波：客服称在走召回流程，三名车主投诉遭“只修...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#automotive`, `#recall`, `#complaint handling`, `#crisis management`
+
+---
+
+<a id="item-34"></a>
+## [iPhone Duo 问题频发、售价破发，苹果客服称大量订单被取消](https://news.google.com/rss/articles/CBMieEFVX3lxTE1FUjZTQkVkT2NTS05jSmYwcHRQYkVWLUtMVmx0SFV1WXFPOVRkQjg0WHZYSGtfREJ6Rmh6dGdoWmJ4VzdiSXpnMV9wZDVhQzZLMnh5bmN2UU5YaEhtbS1rOVhHY0taWTJGWlRpd0ZZLUhCczlXUVFLQw?oc=5) ⭐️ 6.0/10
+
+苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日首销，但发售仅三天，第三方渠道售价和回收价便跌破 15999 元的官方起售价。苹果客服证实大量客户取消订单，同时 iFixit 的拆解报告指出，尽管该机是史上最易维修的折叠屏手机，却存在严重的屏幕问题。 这一事件是苹果客服应对大规模取消订单和质量投诉的重要案例，可能损害苹果在高端折叠屏市场的声誉。同时，它也表明早期用户对屏幕缺陷和价格波动高度敏感，可能影响苹果的折叠屏战略和渠道管理。 iPhone Duo 的内屏采用可徒手撕除的纳米纹理膜，但撕除后折痕更明显，且存在内屏漏液风险；官方换膜费用为 398 元（AppleCare 用户 139 元），而内屏维修最高可达 7998 元（AppleCare 用户 628 元）。苹果客服表示，第三方渠道降价可能源于平台补贴或店铺优惠，官网价格更为稳定。
+
+rss · 客服行业动态 · 10月26日 15:15
+
+**背景**: iPhone Duo 是苹果首款折叠屏手机，于 2026 年 9 月 9 日发布，国行起售价 15999 元。折叠屏手机的内屏通常覆盖一层保护膜，多数竞品禁止用户自行撕除，而苹果将 Duo 的膜设计为官方可更换部件。“破发”指产品市场价格跌破官方发行价，通常反映需求疲软或质量隐忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ifixit.com/News/119895/iphone-duo-teardown">iPhone Duo Teardown: The Most Repairable Foldable ... - iFixit</a></li>
+<li><a href="https://www.cnet.com/tech/mobile/iphone-duo-ifixit-teardown-cracked-screens-culprit/">As iPhone Duo Cracked Screen Reports Surface, a New Teardown ...</a></li>
+<li><a href="https://post.m.smzdm.com/p/awwo8onk/">iPhone Duo 内屏膜可徒手撕下：恢复要 398 元，撕坏内屏维修最高 7998...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#Apple`, `#product recall`, `#order cancellation`, `#consumer electronics`
+
+---
+
+<a id="item-35"></a>
+## [iPhone Duo 被曝屏幕亮线开裂，苹果称非硬件问题](https://news.google.com/rss/articles/CBMijAVBVV95cUxQVzFNWl9MM2p1ZFY0RmNFTEVuNlRDcUg4Y0syQUtNMXZIZF8zUGhzUWpiZFY1QnAwVUo0YVo0cE9DS2RPRFQtVEhZYllQVHhOTnptQXlpZm5JNmJMN0tMQUNqbWJfeVZaMTFxWDZvVXhIcFVnVC11bnEwMHNKcEYyVVpiemN6S3BXRUFEeS1TZHVmNUVDUl9GcjRwODdJRDdqeUlkZ2tyWDJaUnJOVHQ5by16ajVVUW5mc1luV1V6T0NSb1VSS2Z6VUEzV3dkdm5fUms3aElLYWZPMkdVZjZPVVE0RjI1a3hRNHZURlJqT2F2N1lSajhCLXMtQ2RsNDE3VHdDU1dtN0o4ZG52ZFAtdkE4OF9lZE5TMkpnZ2JYZjdzdExGdEUtSjBtNzBrRm1IWHJXNThEc1BVM2Q0Ri1xajlSN1BEYW83bTJtNXRmNHZNeU5tRjBEeE1XMlk5YWFtTnBnQW1MZ21SdGduM05sazV0S1NUMlE1QzBqXzl4UmQ5VnhLejdKNkxJcHpYMm1MckF6VVJEVFN4Z2RkRmNWb3lMZkEzR09GQU9HSXZXVG9KMnBZYUFYNXVyY0pkeDdBZkNiczZrakRXWTJ3eWFvYVNmR2pwV0ZDRTZRQ3luWXZmNlFRY2JoQ0N3OTNQWll4NkxXQ3g3US12N1NhbUZDZ2tkTnpQTFo4SGdVS1Q4WHBadkxiaFVXMnRuM3VJeTdaTmJFaVF4WXU2R1VvbnlwaGFWLVZZdmVYdUh2ekhMbkNsRnlKamROREd0R0ZNWkVBT25HeWpvdm1MV2NHMHFPWFNYeTFpWDhDZkRtR1g0RUxPQVJ2RmpHNE1KeUlwbzhteFY5NkZ3OW9EbzRS?oc=5) ⭐️ 5.0/10
+
+多名 iPhone Duo 用户报告称，设备折叠铰链处出现裂纹，屏幕上出现由坏点形成的亮线，其中一位澳大利亚用户表示其设备在开合不到 20 次后就出现开裂。苹果客服回应称，该问题并非硬件问题。 作为苹果首款折叠屏 iPhone，Duo 的耐用性备受关注，苹果如何处理这些投诉可能影响消费者信任以及未来折叠机型的市场接受度。该回应也可能引发监管机构和媒体对折叠设备保修和维修政策的关注。 reported 的故障包括折叠机构处的裂纹，通常会导致屏幕一侧出现由坏点形成的亮线。苹果称这不是硬件问题，暗示公司可能将问题归因于软件或用户使用方式，但尚未详细说明具体的解决方案或维修政策。
+
+rss · 客服行业动态 · 10月26日 03:50
+
+**背景**: iPhone Duo 是苹果首款折叠屏智能手机，于 2026 年 9 月 9 日发布，同年 10 月 23 日上市。折叠屏手机采用柔性显示屏和铰链机构，比传统直板手机更容易磨损和损坏。iPhone 屏幕上的亮线可能由软件故障或显示面板损坏等硬件问题引起。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_Duo">IPhone Duo</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">Apple today introduced iPhone Duo , the first foldable iPhone .</a></li>
+<li><a href="https://www.tbsnews.net/tech/apples-iphone-duo-users-report-screen-cracks-along-folding-hinge-1583021">Apple’s iPhone Duo users report screen cracks along folding ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#Apple`, `#product quality`, `#consumer complaints`, `#tech support`
+
+---
+
+<a id="item-36"></a>
+## [奈雪的茶一门店设消费入座，效仿星巴克](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6S2NNSTIyTXVnb3NTQTQ4dWE0Wl9idnY0VUJCeU0zYkxfQUFkc3praEFtbGJRR0tycjY4NVgtRDY2UVBsSE5Pc3hITHdMaGZDZjhRWldGalo?oc=5) ⭐️ 5.0/10
+
+奈雪的茶一家门店实施了消费入座政策，要求顾客购买饮品后才能使用座位区，公司官方客服已对此作出回应。此举效仿了星巴克在部分门店推出的类似消费入座规定。 这反映了饮品连锁品牌通过将座位与消费挂钩来管理门店空间和客流的趋势，可能影响非消费顾客，并促使其他品牌调整店内政策。同时，这也凸显了在竞争激烈的茶饮和咖啡市场中，营收与顾客体验之间的平衡难题。 该政策似乎是单店行为而非全国性规定，官方回应未说明是否会推广至更多门店。此类政策通常设有最低消费或时间限制，但报道未详细说明该门店的具体条款。
+
+rss · 客服行业动态 · 10月27日 00:43
+
+**背景**: 奈雪的茶是中国知名茶饮连锁品牌，以高端饮品和烘焙产品著称，门店通常设有宽敞的座位区。全球咖啡连锁巨头星巴克此前已在部分市场试行消费入座政策，以应对拥挤问题并确保付费顾客有座位。在中国竞争激烈的饮品市场，各品牌正尝试通过门店政策优化运营和顾客体验。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Starbucks">Starbucks - Wikipedia</a></li>
+<li><a href="https://itopmarketing.com/info19575">首家轻饮轻食店开业： 奈 雪 的 茶 的 一场自救豪赌-TopMarketing...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#food &amp; beverage`, `#policy`, `#consumer experience`, `#Nayuki Tea`
+
+---
+
+<a id="item-37"></a>
+## [学习通（超星）平台宕机，学生无法登录和提交作业](https://news.google.com/rss/articles/CBMidkFVX3lxTE9zS01qWS1vVkxYdGhDY0hCOVc3MDR0SngxY0kwQ1FfY3NkbmM4Y1RVb19QbUFRZVEzQzFwX2QtdDlKTGs0OUtkVjVZVE04STNJQ0VUZzJLZXUtMzVhVW92dnNHaERrQ2RGdkZRY3F2TmVaNllDSkE?oc=5) ⭐️ 5.0/10
+
+超星旗下广泛使用的学习平台学习通发生大规模宕机，导致学生无法登录账号和提交作业，相关话题冲上热搜。客服已对此作出回应。 此次宕机凸显了教育机构对单一平台的依赖以及在高峰使用时段维持服务可靠性的挑战，影响了数百万师生。同时也强调了在突发服务中断时有效危机沟通和客户支持的重要性。 宕机的具体原因尚未披露，但此类事件通常源于突发流量高峰或基础设施故障。客服回应可能建议用户稍后重试或使用替代方式，但具体细节尚不清楚。
+
+rss · 客服行业动态 · 10月26日 08:14
+
+**背景**: 学习通是超星公司开发的基于微服务架构的学习平台，整合了超星积累的海量图书、期刊、视频等资源。它提供课程学习、知识管理和办公应用等功能，在中国高校和学校中广泛用于在线教育和作业管理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://app.chaoxing.com/">学习通</a></li>
+<li><a href="https://www.chaoxing.com/">超星</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#outage`, `#education technology`, `#crisis management`, `#platform reliability`
+
+---
+
+<a id="item-38"></a>
+## [存量竞争下幻想客服探索精细化交付路径](https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2h2RnNXNXl3Y2JZM2NBZkh5RktIQ0lzaElFTUxRZFBpQm5BY0daTURzMU5QRE14MFc4dHV3M1pZRkNsR0hZT0h6YjVUMEp4ZExJTG5aZlVYX2pPeVVpREVYZENWdTNvcUNVNWdFNFdyYUV2d3l4MFJLZEZIakROaHpKUFVYckgwNHBRWE03S2Fmdw?oc=5) ⭐️ 4.0/10
+
+新浪手机网的一篇文章讨论了客服提供商幻想客服如何在存量竞争和服务标准升级的背景下，精细化其交付路径。文章强调该公司正转向更精细化的交付方式，以在饱和市场中实现差异化。 随着许多行业进入存量竞争阶段，增长来自争夺市场份额而非扩大整体市场，客服提供商必须通过更高的服务质量和更精细的交付模式来实现差异化。这一转变影响着需要适应更严格服务标准以保持竞争力的客服专业人士和外包公司。 该文章是一篇推广性的行业观察文章，聚焦于幻想客服的方法，但没有提供具体的技术细节、指标或新颖见解。它缺乏对实施挑战或可衡量成果的深入分析。
+
+rss · 客服行业动态 · 10月26日 08:34
+
+**背景**: 存量竞争是指增长放缓、用户规模或市场容量接近天花板的市场状态，企业以零和博弈的方式争夺现有市场份额。在这种环境下，马太效应加剧，头部品牌集中市场力量。客服服务标准通常包括统一话术、响应流程和服务质量指标，以确保一致的品牌体验，尤其是在外包场景中。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E5%AD%98%E9%87%8F%E7%AB%9E%E4%BA%89/58370281">存量竞争_百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2042283138848740444">客服外包核心服务标准全解析：告别粗放服务，搭建标准化落地体系</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#service standards`, `#delivery model`, `#industry observation`, `#promotional`
+
+---
+
+<a id="item-39"></a>
+## [双十一诈骗预警：常见诈骗手法瞄准消费者钱包](https://news.google.com/rss/articles/CBMic0FVX3lxTFBTTjd0cV9TRzRSa0ZyRWlKS1dIMkdYaWpMUmUyN0R2Y0FiRk1OX3VKbmdmVzFQcS1CaTI0R29QVTlFUnhpdWIzejVwdnR2YVJLU3RLdDRRRGtUMmJGY0pEQ1BxTFl0N3FXWFAwMjlUeHpaQWM?oc=5) ⭐️ 4.0/10
+
+潮新闻客户端发布文章，提醒消费者在双十一购物节期间警惕常见的网购诈骗手段，重点揭露了虚假预售链接和冒充客服退款等诈骗手法。 双十一带来海量交易，诈骗分子利用网购高峰实施犯罪，提高消费者防范意识对于避免财产损失和保护个人信息至关重要。 诈骗分子常发送带有恶意链接的虚假预售信息窃取支付信息，或冒充客服人员诱导受害者扫描二维码、下载 APP，从而获取银行卡号和验证码。
+
+rss · 客服行业动态 · 10月26日 09:37
+
+**背景**: 双十一是中国每年最大的网购节日，在 11 月 11 日举行，各大电商平台会推出大幅折扣。交易量的激增为诈骗分子提供了可乘之机，他们利用虚假退款、钓鱼链接和假客服等手段瞄准消费者。建议消费者通过官方渠道核实订单，切勿泄露验证码。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E5%86%92%E5%85%85%E5%AE%A2%E6%9C%8D%E9%80%80%E6%AC%BE%E8%AF%88%E9%AA%97/68973210">冒充客服退款诈骗_百度百科</a></li>
+<li><a href="https://m.juming.com/help/500.htm">10...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#e-commerce fraud`, `#consumer protection`, `#Double 11`, `#customer service`, `#anti-fraud awareness`
+
+---
+
+<a id="item-40"></a>
+## [美宜佳回应“梅姨家”玩梗：品牌声誉管理引关注](https://news.google.com/rss/articles/CBMif0FVX3lxTE0tZVE0VXZoZlprSk5fd1p5dDhfQ1piUHl4TklHWkhweDdjX2djTlU2RFZ1WndyOUtLa3pPTE1oOHltQWt5NDdTX3ItdW9kb0F6bEQ3Uks5VFU1OURrWktKLXU2UmpacE44Z2RTTjU3b2s3aFdHbXVwNVJuTkgxbFE?oc=5) ⭐️ 4.0/10
+
+中国领先的便利店连锁品牌美宜佳针对社交媒体上流传的“梅姨家”梗（利用品牌名与臭名昭著的人贩子“梅姨”谐音）作出了客服回应。公司就这一病毒式传播的梗进行澄清，以维护品牌形象并缓解声誉担忧。 这一事件凸显了品牌在互联网梗文化下面临的声誉风险，尤其是当品牌名称与敏感刑事案件产生关联时。它强调了在社交媒体时代快速进行危机沟通和品牌监测的必要性，对零售连锁企业及其营销团队具有警示意义。 该梗源于“美宜佳”与“梅姨”的谐音，而“梅姨”是一起备受关注的拐卖儿童案件中臭名昭著的人贩子的代称。美宜佳客服回应称品牌名称与此无关，试图撇清与犯罪分子的关联，但报道未详细说明回应的具体措辞。
+
+rss · 客服行业动态 · 10月26日 17:44
+
+**背景**: 美宜佳成立于 1997 年，是东莞市糖酒集团旗下的便利店连锁品牌，也是中国门店数量最多的便利店品牌，拥有庞大的加盟网络。“梅姨案”指一系列拐卖儿童案件，其中一名绰号为“梅姨”的女性涉案；该案已成为中国打拐事业的标志性符号，在社交媒体上“梅姨”几乎等同于人贩子。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.southcn.com/node_de9aedeec1/1ce9cb09d3.shtml">一文读懂“ 梅 姨 案 ”：她 是 谁 ？ 干了什么？ 怎么抓获的？_ 南方网</a></li>
+<li><a href="https://sqyykj.goworkla.cn/module/campustalkdetail/id-65498fb86935d8ceaf7d399b/nid-5682">筑梦计划—— 美 宜 佳 2024...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#brand reputation`, `#crisis communication`, `#internet meme`, `#retail`
+
+---
