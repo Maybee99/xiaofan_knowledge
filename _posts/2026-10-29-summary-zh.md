@@ -1,0 +1,843 @@
+---
+layout: default
+title: "Horizon Summary: 2026-10-29 (ZH)"
+date: 2026-10-29
+lang: zh
+---
+
+> 从 93 条内容中筛选出 35 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [欧盟不满法德拟取消 2035 年车企碳中和目标的协议](#item-1) ⭐️ 8.0/10
+2. [美国能源部向 Alliant Energy 提供 51 亿美元贷款以扩建电网](#item-2) ⭐️ 8.0/10
+3. [美国能源部承诺向 Constellation 能源公司提供 50 亿美元贷款以支持核能项目](#item-3) ⭐️ 8.0/10
+4. [北京发布五年能源转型规划](#item-4) ⭐️ 8.0/10
+5. [正泰安能通过上海虚拟电厂 4 秒级响应能力验证](#item-5) ⭐️ 7.0/10
+6. [三部门发文加强氢能综合应用；火电发电量近十年首降](#item-6) ⭐️ 7.0/10
+7. [中国明确实现碳达峰目标的路线图](#item-7) ⭐️ 7.0/10
+8. [南方电网分享新型电力系统建设中国实践方案](#item-8) ⭐️ 6.0/10
+9. [欧盟能源监管合作署：今夏欧盟液化天然气进口量下降 14%](#item-9) ⭐️ 6.0/10
+10. [国际能源署署长称中国引领全球清洁能源转型](#item-10) ⭐️ 6.0/10
+
+### 🤖 AI 科技
+
+11. [指纹脚本意外生成生物武器内容，揭示 LLM 安全军备竞赛](#item-11) ⭐️ 8.0/10
+12. [谷歌发布 Gemini 4 Carbon，迄今最先进 AI 模型](#item-12) ⭐️ 8.0/10
+13. [Qwenputer：在 Qwen3.5 内部模拟出确定性的 RISC-V CPU](#item-13) ⭐️ 7.0/10
+14. [Alpine Linux 披露 GitLab CVE-2026-97229 修复在于 Ruby 补丁而非 GitLab 代码](#item-14) ⭐️ 7.0/10
+15. [CNC 石材雕刻：现代技术与哥特式建筑的结合](#item-15) ⭐️ 6.0/10
+16. [Formlabs 推出 699 美元 Form Studio 1 树脂 3D 打印机](#item-16) ⭐️ 6.0/10
+17. [《纽约时报》烹饪应用新增 AI 功能，部分用户不满](#item-17) ⭐️ 5.0/10
+
+### 🏢 大厂要闻
+
+18. [苹果发布首款触屏 MacBook Pro，22999 元起](#item-18) ⭐️ 9.0/10
+19. [Edge AI 早报：微软与 Alphabet 财报分化，谷歌开放 TPU，Anthropic 递交 S-1](#item-19) ⭐️ 8.0/10
+20. [蚂蚁灵波 LingBot-World 2.0 驱动 AMD IFA 2026 开幕演示](#item-20) ⭐️ 8.0/10
+21. [即梦上线「短剧工作室」，将剧本、导演和剪辑整合进同一工作流](#item-21) ⭐️ 7.0/10
+22. [OpenAI 拟采购谷歌 TPU；Gemini 4 Carbon 发布；宇树与红杉中国成立机器人基金](#item-22) ⭐️ 6.0/10
+23. [理想汽车推出 i6 SUV，起售价 23.98 万元补齐产品短板](#item-23) ⭐️ 6.0/10
+24. [Netflix 下调全年广告收入预期，结构性挑战显现](#item-24) ⭐️ 6.0/10
+25. [韩国的 GDP，写在别人的预算表上](#item-25) ⭐️ 6.0/10
+26. [不到 1%的负净资产样本如何扭曲 A 股行业 PB 均值](#item-26) ⭐️ 6.0/10
+27. [北京发布“十五五”能源蓝图，构建“1+3+6”体系](#item-27) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+28. [奥迪中国“分家”：2027 年后上汽奥迪四环车售后由谁负责？](#item-28) ⭐️ 6.0/10
+29. [冒充品牌客服号码泛滥，亟待监管整治](#item-29) ⭐️ 6.0/10
+30. [法官警示品牌客服账号遭外挂劫持群发涉黄链接，建议构建“担保型连带”责任](#item-30) ⭐️ 6.0/10
+31. [演员董勇控诉太平洋保险阻碍车险续保](#item-31) ⭐️ 4.0/10
+32. [奈雪的茶成都一门店推出消费入座政策](#item-32) ⭐️ 4.0/10
+33. [王者荣耀官方账号被指调侃职业选手健康，客服称将核实](#item-33) ⭐️ 4.0/10
+34. [海信称与皇马合作仅限西班牙，并谴责姆巴佩言论](#item-34) ⭐️ 4.0/10
+35. [HeroDash 接入越南 Zalo 渠道，实现 AI 与人工协同客服](#item-35) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [欧盟不满法德拟取消 2035 年车企碳中和目标的协议](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JVUt4azEzSF96aEFYLVpEOVROZDh6c1JqX2lmeDdLMDhqV3ZTNUVKOVhZQzBxT2lrZXFMd0tGTjFPRXExZVFyaGRGRmVzSHNXV0F1SFFKQWJzTGtBYlE?oc=5) ⭐️ 8.0/10
+
+法国和德国达成联合协议，拟取消欧盟 2035 年车企碳中和目标，该目标原要求车辆二氧化碳排放减少 100%，并实际禁止销售新的燃油车。据报道，欧盟对这一双边行动表示不满，引发了对欧盟气候政策方向的担忧。 这一潜在的政策倒退标志着欧洲能源转型政策的重大转变，将影响汽车行业、气候目标以及欧盟的凝聚力。它可能削弱欧盟在全球气候行动中的领导地位，并为其他地区推迟类似目标开创先例。 据报道，法德协议放宽了 2035 年禁令，以换取更严格的“欧洲制造”规则，旨在在中国竞争和近期裁员（如宝马裁员 8000 人）的背景下保住汽车行业就业。在德国、意大利和汽车制造商施压后，欧盟委员会已提议将目标从 100%降至比 2021 年水平低 90%。
+
+google\_news · 36Kr · 10月28日 11:52
+
+**背景**: 欧盟 2035 年目标是《欧洲绿色协议》的一部分，该协议旨在到 2050 年使欧盟实现气候中和。该目标实际上从 2035 年起禁止新的汽油和柴油车，要求转向电动汽车。作为主要汽车制造商的所在地，法国和德国一直在推动放宽规则以保护就业和竞争力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://informedclearly.com/en/automotive/59467/eu-2035-engine-ban-franco-german-deal-2026">EU 2035 Engine Ban Weakened: Franco-German Deal Saves Jobs</a></li>
+<li><a href="https://thedriven.io/2026/10/08/france-and-germany-cut-deal-to-delay-phase-out-of-internal-combustion-cars-reports-say/">France and Germany cut deal to delay phase out of internal ...</a></li>
+<li><a href="https://new-german.com/news/combustion-engine-ban-germany-france-deal/">Combustion Engine Ban: Germany, France Reach Deal</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU energy policy`, `#carbon neutrality`, `#automotive industry`, `#climate policy`, `#France-Germany relations`
+
+---
+
+<a id="item-2"></a>
+## [美国能源部向 Alliant Energy 提供 51 亿美元贷款以扩建电网](https://news.google.com/rss/articles/CBMid0FVX3lxTFB0UVRkdEh3Y19wOGZtQTB1bVk4NW9vQWExWHJTclVuZVBNVFFjMU5tek5hbG5fSmJBaTY1dzhWOTRHSnpVX0V6QXJJandYdFJGXzhZdEd6d2NQb1M4LWtBemlxaGpvZGtfR0hIZl82enJoRWxJSUE4?oc=5) ⭐️ 8.0/10
+
+美国能源部已向 Alliant Energy 提供 51 亿美元贷款，用于扩大爱荷华州和威斯康星州的发电量并加强电网建设。该贷款方案包括为新天然气发电项目提供融资。 这是联邦政府对能源基础设施的一项里程碑式投资，直接支持中西部地区的电网现代化和不断增长的电力需求。它表明联邦政府持续支持可调度的天然气发电与清洁能源部署并行，影响公用事业用户和区域电网可靠性。 该贷款由美国能源部贷款项目办公室提供，很可能依据 Title 17 清洁能源融资计划，该计划可为清洁能源和能源基础设施项目提供贷款担保。该方案明确包括为新天然气发电项目提供融资，这对于一个通常与清洁能源相关的计划来说是一个值得注意的纳入。
+
+google\_news · 英为财情 Investing.com · 10月28日 13:19
+
+**背景**: Alliant Energy Corporation 是一家公共事业控股公司，总部位于威斯康星州麦迪逊，在爱荷华州和威斯康星州提供受监管的电力和天然气服务。美国能源部贷款项目办公室管理 Title 17 清洁能源融资计划，该计划可为清洁能源、设施脱碳和能源基础设施再投资项目提供超过 3000 亿美元的贷款担保。天然气是美国最大的单一发电来源，2023 年约占发电总量的 43%，电网规划者预计天然气开发将持续以满足不断增长的需求并保持可靠性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alliant_Energy">Alliant Energy</a></li>
+<li><a href="https://content.govdelivery.com/accounts/USDOELPO/bulletins/35b6635">LPO Program Update: New Guidance Released for Title 17 Clean ...</a></li>
+<li><a href="https://www.eia.gov/todayinenergy/detail.php?id=61444">Use of natural gas-fired generation differs in the United ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#grid expansion`, `#DOE loan`, `#infrastructure investment`, `#utilities`
+
+---
+
+<a id="item-3"></a>
+## [美国能源部承诺向 Constellation 能源公司提供 50 亿美元贷款以支持核能项目](https://news.google.com/rss/articles/CBMipwFBVV95cUxONDJqaUJfRW5WYnNsYk1wTTBPR1JnaW1wUVAxenJ4aExvT2xnYnBFVHVUUDlySWdrMU9BOFRmLUFqaXlac0lSU0t6NzM5M2JPVThOUFlSaHFfMEI4akotQmdMWlJHLUVTczNWN2JDTEpqVG02NEk5YWttanNEVVZ5WHkzWTJ3clVscDZNRzM1bTZuVzJuOUZOcHRVQldrMHEtcnRLZUk2Zw?oc=5) ⭐️ 8.0/10
+
+美国能源部宣布向 Constellation 能源公司提供高达 50 亿美元的有条件贷款承诺，用于资助其位于伊利诺伊州、马里兰州和宾夕法尼亚州的核电机组的升级和现代化改造。 这是联邦政府为支持核能作为清洁基荷电源而做出的重大资金承诺，反映了核电复兴以及满足数据中心日益增长的电力需求这一更广泛的政策势头。 该贷款是美国能源部能源主导融资办公室的有条件承诺，旨在为核电机组升级和现代化改造提供资金，以提高现有电厂的发电量，而非建造新反应堆。
+
+google\_news · UA.NEWS · 10月28日 09:56
+
+**背景**: Constellation 能源公司是美国最大的核电站所有者和运营商。核能提供可靠、无碳的基荷电力，美国政府一直利用贷款计划支持核能，作为电网脱碳和满足科技公司日益增长需求努力的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs">Energy Department Announces $5 Billion Loan to Boost Nuclear ...</a></li>
+<li><a href="https://www.fool.com/investing/2026/10/07/big-tech-keeps-signing-nuclear-deals-with-the-same/">Big Tech Keeps Signing Nuclear Deals With the... | The Motley Fool</a></li>
+
+</ul>
+</details>
+
+**标签**: `#美国能源部`, `#核能`, `#清洁能源融资`, `#能源政策`, `#Constellation`
+
+---
+
+<a id="item-4"></a>
+## [北京发布五年能源转型规划](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdER0TmVrWDFDQ0lKS3NPUXFLN3U5ZlhmWnA2SkMtTlZoWk9LZzlveWZmaF8wREtVZ2taSTJjLU91dGVhdUp4UWRJel9tMFBrX2xSUlo5OWVFY2ZxdHlKV0g0TzhWazZzYkNfY1FRRkp2ck52UGlMUW1LN0VhUmZ3X0ROeXpBTUJC?oc=5) ⭐️ 8.0/10
+
+据搜狐网报道，北京发布了一项重磅五年规划，勾勒出能源转型的路线图。该规划为未来五年北京的能源战略指明了方向。 该规划意义重大，因为它将塑造北京这一重要直辖市和政治中心的区域能源战略、投资和监管。它标志着中国能源转型在地方层面的方向，并可能影响其他地区。 该规划是市级五年规划，但现有摘要中未详细说明具体目标和措施。此类规划通常包括可再生能源占比、能效和减排等目标。
+
+google\_news · 搜狐网 · 10月28日 07:36
+
+**背景**: 中国的五年规划是指导国家、省、市各级经济社会发展的综合性政策蓝图。能源转型是指从化石燃料向可再生能源的转变，中国在这一全球趋势中扮演着核心角色。北京的规划是能源系统脱碳这一更广泛努力的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Energy_transition">Energy transition - Wikipedia</a></li>
+<li><a href="https://barbadostoday.bb/2021/02/09/btcolumn-the-energy-transition/">#BTColumn – The energy transition - Barbados Today</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#Beijing`, `#energy transition`, `#five-year plan`, `#China`
+
+---
+
+<a id="item-5"></a>
+## [正泰安能通过上海虚拟电厂 4 秒级响应能力验证](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ydDBBUG1hd0RIY0NrRVJ1SDI3eEUxczhxTXhNWUVldzBXR0h4Z2REWGdESlF0aEhQZUFQaElNd1Zxdml1WmVmM2RUVzZSZjZGRGZVRkxkRlhPRzNa?oc=5) ⭐️ 7.0/10
+
+正泰安能宣布通过上海虚拟电厂二级响应能力验证，基于用户侧储能等分布式资源实现 4 秒级响应。公司表示将以此为新起点，把秒级调度接入拓展至更多分布式光伏、充电桩、V2G 充电桩和可调负荷资源。 这一结果表明，聚合的分布式光伏与储能能够提供接近瞬时的电网支撑能力，而这类能力过去主要由大型常规机组提供。若能在更大范围内复制，将增强虚拟电厂作为中国电力市场快速调频与辅助服务来源的说服力。 此次验证在上海虚拟电厂框架下进行，该框架按响应速度划分能力等级，其中二级要求 4 秒级响应。正泰安能计划深化“AI+调控”能力，提升多类型资源的协同响应精度，但需注意这仍是单一企业的认证，而非全行业标准。
+
+google\_news · 国际太阳能光伏网 · 10月28日 09:44
+
+**背景**: 虚拟电厂将屋顶光伏、电池储能、电动汽车充电桩和可调工业负荷等分布式能源资源聚合起来，协调它们像一座电厂一样为电网服务。随着新能源渗透率上升和电力现货市场扩围，中国正在扩大虚拟电厂试点，需求响应和辅助服务补偿机制也逐步落地。上海已在开展百万千瓦级虚拟电厂调度测试，响应速度正成为衡量聚合资源价值的关键指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://solar.in-en.com/html/solar-2465081.shtml">4秒！正泰安能通过上海虚拟电厂秒级响应能力验证</a></li>
+<li><a href="https://industry7view.com/research/virtual-power-plant/">虚拟电厂：从需求响应到电力市场化的新型电网调度平台</a></li>
+<li><a href="https://energy.chint.com/news/detail/id/1072.html">媒体关注 | 炎炎夏日，松江有座“看不见的 电 厂 ”在发力 正 泰 新 能 源</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#需求响应`, `#分布式光伏`, `#储能`, `#电力辅助服务`
+
+---
+
+<a id="item-6"></a>
+## [三部门发文加强氢能综合应用；火电发电量近十年首降](https://news.google.com/rss/articles/CBMid0FVX3lxTE9DdTlnUldLODJ4QUlWb3gwZ2UzcWhXZGczbVdhcGpQQnVMMFhCSS1udmVrY2hNWnllUXl3LVFYR3M2cllZeW1jNUZ2Y0FDRnl4UEIyTzBjX1NhTjBjd1JNSVR3Q3FxaXdMOC05NG9rN1p6X3I1c01r?oc=5) ⭐️ 7.0/10
+
+工信部、财政部与国家发改委三部门联合发布《关于开展氢能综合应用试点工作的通知》，启动氢能综合应用试点，推动氢能应用场景由燃料电池汽车向交通、工业等多元领域拓展。同时，国家能源局数据显示，2025 年我国火电发电量同比下降 0.7%，为近十年来首次下降。 氢能试点政策标志着支持方向从单一燃料电池汽车转向“制储输用”全产业链一体化发展，有望加速氢能在重工业和交通领域的商业化。火电发电量在总用电需求增长背景下出现下降，表明中国电力结构正迎来结构性拐点，非化石能源发电正逐步替代煤电，这对实现碳中和目标具有关键意义。 氢能试点采用“1+N+X”生态模式，要求参与城市群将相关数据上传至氢能综合应用试点管理服务平台。火电下降部分受暖冬抑制采暖需求影响，但行业转型升级和非化石能源发电的快速增长是主要推动因素。
+
+google\_news · ZAKER新闻 · 10月28日 08:32
+
+**背景**: 中国氢能战略最初聚焦燃料电池汽车，但新试点将应用拓展至工业和更广泛的交通领域，以构建自我维持的价值链。以煤电为主的火电长期占中国发电量的 60%以上；在碳中和承诺下，可再生能源规模不断扩大，火电的持续下降将标志着历史性转变。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://auto.gasgoo.com/news/202603/20I70451012C501.shtml">氢 能 的故事，讲不下去了吗？ -盖世汽车资讯</a></li>
+<li><a href="https://www.toutiao.com/article/7615929422222344704/">十年首降！火电发电量同比下滑0.7%，煤电行业迎来“质的飞跃”</a></li>
+<li><a href="https://www.toutiao.com/article/7612964824582062643/">2025年我国火电发电量十年来首次下降 - 今日头条</a></li>
+
+</ul>
+</details>
+
+**标签**: `#氢能政策`, `#火电回落`, `#碳中和`, `#能源转型`, `#中国能源政策`
+
+---
+
+<a id="item-7"></a>
+## [中国明确实现碳达峰目标的路线图](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1NxTVB2dHZISWVnakFKOW5QZHpqcXAzd2lyeGZ3cDBoN2NfandueWlSVVJjTUx1QTFrRzY0ek5zMkZPNWdQWTF6ck82TEdUY1dfc2FXVjVXcXpMdWlYNFdBSG5tUGd4RXdyLWFUMGpBc1FNN0ZvSUtob1czMkEycEtDTlJmUkgy?oc=5) ⭐️ 7.0/10
+
+据搜狐网报道，中国已明确实现碳达峰目标的路线图，概述了关键政策方向。该路线图可能详细说明了“十五五”期间（2026-2030 年）确保在 2030 年前实现碳达峰的具体行动和目标。 该路线图具有重要意义，因为它为中国的能源转型和减排努力提供了具体的政策指导，影响工业、投资者和全球气候目标。它表明中国致力于将经济增长与碳排放脱钩，并加速向可再生能源转型。 该路线图可能包括到 2030 年单位 GDP 二氧化碳排放比 2025 年降低 17%、非化石能源消费占比达到 25%等目标。这些具体内容属于更广泛的“十五五”碳达峰行动方案的一部分。
+
+google\_news · 搜狐网 · 10月28日 05:52
+
+**背景**: 碳达峰是指二氧化碳排放不再增长、达到峰值后逐步回落，标志着历史性拐点。中国在 2020 年承诺力争 2030 年前实现碳达峰、2060 年前实现碳中和，即“双碳”目标。国务院于 2021 年印发《2030 年前碳达峰行动方案》，而“十五五”时期（2026-2030 年）是实现碳达峰的关键阶段。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E7%A2%B3%E8%BE%BE%E5%B3%B0/56175236">碳达峰（碳排放术语）_百度百科</a></li>
+<li><a href="https://www.gov.cn/zhengce/202511/content_7047492.htm">碳达峰碳中和的中国行动_白皮书_中国政府网</a></li>
+<li><a href="https://www.gov.cn/gongbao/2026/issue_12866/202607/content_7075909.html">国务院关于印发《“十五五”碳达峰行动方案》的通知 “十五五”碳达峰行动...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#carbon peak`, `#energy policy`, `#China`, `#climate goals`, `#roadmap`
+
+---
+
+<a id="item-8"></a>
+## [南方电网分享新型电力系统建设中国实践方案](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wZ0JGMlNVOVVwRG1ZTkptV0RWWERwZjFhbUxmeVF6OW5pNllTbExTSVpTR0pVendzYWZ6b1o1WUlEU19wVTUyd0lKZFVncmxlV0JKQlc5X3dWZm1WeWFGYWlDXzNpZkhDVEE?oc=5) ⭐️ 6.0/10
+
+据中国网报道，南方电网分享了新型电力系统建设的中国实践方案，重点介绍了该公司在电力系统转型方面的经验。这一消息似乎是在行业或国际论坛上对实践经验的常规分享，而非具体的政策或技术突破。 作为中国两大国有电网运营商之一，南方电网在可再生能源并网和电网数字化方面的经验，为其他寻求能源转型的地区提供了参考模式。此次分享反映了中国在国际上推广其电力系统转型方案的持续努力，可能影响全球能源政策讨论。 报道未提供太多技术细节，但新型电力系统概念涉及高比例可再生能源发电，这带来了波动性，需要增强电网灵活性、储能和数字化监控。南方电网一直在开发人工智能工具，包括用于电力运营的多模态大模型，以支持这些目标。
+
+google\_news · 中国网 · 10月28日 06:56
+
+**背景**: 中国的“新型电力系统”是一个政策框架，旨在通过从燃煤发电转向风能、太阳能等可再生能源，实现电力行业脱碳。与传统依赖可控火电机组的电网不同，该系统必须管理可再生能源的间歇性出力，需要在电网稳定技术、储能和数字化方面进行升级。南方电网服务南方五省区，是试点这些变革的关键参与者。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf">nea.gov.cn/download/xxdlxtfzlpsgk.pdf</a></li>
+<li><a href="https://news.bjx.com.cn/html/20260430/1494024.shtml">news.bjx.com.cn/html/20260430/1494024.shtml</a></li>
+<li><a href="https://mcn.solarbe.com/news/20260611/50024291.html">mcn.solarbe.com/news/20260611/50024291.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新型电力系统`, `#南方电网`, `#能源转型`, `#电力政策`, `#中国实践`
+
+---
+
+<a id="item-9"></a>
+## [欧盟能源监管合作署：今夏欧盟液化天然气进口量下降 14%](https://news.google.com/rss/articles/CBMiakFVX3lxTE1KTXN0LVRmOFE2cTRHUXNrWmdTdFREM3lDV1plS2pJTFE0aXdtbHN4cjlsejF3bEY2U3lEdVdRS1JjQW8zSllvRWhwajVoaVVRaHF5Rk1XbEZDamZWMl84TjdGWXdacnduM1E?oc=5) ⭐️ 6.0/10
+
+欧盟能源监管合作署（ACER）报告称，2025 年夏季欧盟液化天然气（LNG）进口量较去年同期下降 14%。 这一下降表明欧洲天然气需求动态正在变化，可能影响全球 LNG 贸易流向、储气策略以及欧盟摆脱俄罗斯管道气的多元化努力。 ACER 在摘要中未说明具体驱动因素，但此次下降发生在储气水平较高和工业需求疲软的背景下；该数据涵盖夏季月份，为同比比较。
+
+google\_news · 中国金融信息网 · 10月28日 13:06
+
+**背景**: ACER 是协调各国能源监管机构并监测天然气和电力市场的欧盟机构。自 2022 年以来，欧盟大幅减少俄罗斯管道气进口，转而大量采购 LNG，主要来自美国，到 2025 年美国已占欧盟 LNG 进口量的约 57%。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.163.com/dy/article/KOTTUCI905568K5X.html">163.com/dy/article/KOTTUCI905568K5X.html</a></li>
+<li><a href="https://m.chinagas.org.cn/4646/202401/57960.html">美对 欧 天 然 气 出 口 创新高， 欧 洲 天 然 气 价格回落_中国城市燃 气 协会</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU energy policy`, `#LNG imports`, `#ACER`, `#natural gas`, `#energy market`
+
+---
+
+<a id="item-10"></a>
+## [国际能源署署长称中国引领全球清洁能源转型](https://news.google.com/rss/articles/CBMijwFBVV95cUxOakpQakhzMUdQbGVNcUdBeVIxZWJ2RWEwSkY5X2Fwd2lVOUl6U29ObFlsOURRcHF0WUN6SUw5alhybXl5ejZnU0ptbjVSelFQTV9uaFRQMlVjTVJ3Sm9kTVdMQWVYekRrQW5jRGR6U1FDWDBrXy1MS0lrLUcyR3pEdmNiVVE2WkhqbjRQcFhtWQ?oc=5) ⭐️ 6.0/10
+
+国际能源署（IEA）署长表示，中国在清洁能源领域发挥引领作用，强调了该国在全球能源转型中的关键地位。据 21 财经报道，此番言论凸显了中国在清洁能源供应链和部署方面的核心作用。 这一来自国际顶级能源机构的认可，巩固了中国在清洁能源制造和部署方面的主导地位，这影响着全球供应链、技术成本和能源安全。它表明中国的角色对于实现国际气候和能源转型目标至关重要。 该声明是对一个广泛认可的趋势的重申，而非新的政策或数据驱动的突破，且文章深度有限。此番言论正值国际能源署持续监测全球能源市场并倡导清洁能源转型之际。
+
+google\_news · 21财经 · 10月28日 09:39
+
+**背景**: 国际能源署（IEA）是一个政府间组织，与各国合作制定能源政策，以实现安全可持续的未来，重点关注能源安全、经济发展和环境意识。中国已成为全球最大的太阳能电池板、风力涡轮机和电动汽车电池制造商，使其成为全球清洁能源转型的核心参与者。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/">IEA – International Energy Agency</a></li>
+<li><a href="https://www.visualcapitalist.com/chinas-dominance-in-battery-manufacturing/">Visualizing China &#x27;s Dominance in Battery Manufacturing (2022-2027)</a></li>
+
+</ul>
+</details>
+
+**标签**: `#clean energy`, `#China`, `#IEA`, `#energy policy`, `#global energy transition`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [指纹脚本意外生成生物武器内容，揭示 LLM 安全军备竞赛](https://nullpt.rs/fingerprinting-bioweapons) ⭐️ 8.0/10
+
+nullpt.rs 上的一篇博客文章分析了一个指纹脚本，该脚本在被 LLM 检查时生成了与生物武器相关的内容，突显了混淆技术如何无意中触发或绕过 LLM 安全过滤器。 这一事件凸显了混淆方法与 AI 审核之间日益增长的对抗动态，对 AI 安全以及 LLM 护栏在实际应用中的可靠性具有影响。 该脚本故意使用误导性变量名来阻止 LLM 辅助的反混淆，但反而导致模型生成有害内容，揭示了安全机制的脆弱性。
+
+hackernews · hazebooth · 10月28日 17:13 · [社区讨论](https://news.ycombinator.com/item?id=50276998)
+
+**背景**: 指纹脚本用于识别和跟踪用户或系统，通常采用混淆技术来避免检测。LLM 越来越多地用于代码分析，但其安全过滤器可能被此类混淆代码绕过或意外触发，从而在攻击者和防御者之间形成军备竞赛。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://nullpt.rs/fingerprinting-bioweapons">Why Is This Fingerprinting Script Creating Bioweapons?</a></li>
+<li><a href="https://www.elastic.co/security-labs/threat-command/llm-reversing-vs-llm-obfuscation">The Cost of Understanding: LLM -Driven Reverse Engineering vs...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Adversarial_machine_learning">Adversarial machine learning - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了兴趣和担忧，提到类似的水印导致隔离的经历，并观察到一些 LLM（如 GLM）更为宽松。他们讨论了这种混淆策略的有效性和影响，一些人认为这是一场疯狂的军备竞赛。
+
+**标签**: `#AI security`, `#LLM safety`, `#fingerprinting`, `#obfuscation`, `#adversarial ML`
+
+---
+
+<a id="item-12"></a>
+## [谷歌发布 Gemini 4 Carbon，迄今最先进 AI 模型](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) ⭐️ 8.0/10
+
+谷歌宣布推出 Gemini 4 Carbon，称其为最强模型，具备最先进的网络安全和长时程能力。该模型目前仅限部分网络安全专家使用，此前 Gemini 4 Argon 的发布也仅限于有限范围。 此次发布表明谷歌意在引领前沿 AI，尤其是在网络安全等专业领域，但受限的访问和混乱的模型层级可能阻碍采用。这会影响依赖谷歌 AI 产品的开发者、企业和研究人员。 Gemini 4 Carbon 尚未广泛可用，且基准测试结果公布时未提供公开发布日期，引发对其相关性的质疑。模型命名和层级（如 Argon、Carbon 等）增加了用户选择合适模型的复杂性。
+
+hackernews · acossta · 10月28日 17:01 · [社区讨论](https://news.ycombinator.com/item?id=50276792)
+
+**背景**: 谷歌的 Gemini 模型分为多个层级（Ultra、Pro、Flash、Lite）和版本（稳定版、预览版、实验版），这可能让用户感到困惑。像 Gemini 4 Carbon 这样的前沿模型专为高级任务设计，初期通常限制访问。MMLU 和 HumanEval 等基准常用于比较 LLM 性能，但当模型未发布时，其价值存在争议。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Introducing Gemini 4 Carbon - The Keyword</a></li>
+<li><a href="https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/">Google&#x27;s Gemini 4 &quot;Carbon&quot; model reportedly feels like ...</a></li>
+<li><a href="https://www.cnet.com/tech/services-and-software/google-genie-4-gemini-4-carbon-ai-news/">Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对谷歌混乱的模型层级和命名表示不满，有人开玩笑说难以访问正确的模型。其他人批评在没有发布模型的情况下公布基准测试，认为在快速发展的领域这毫无意义，并质疑谷歌延迟发布的策略。
+
+**标签**: `#Gemini`, `#Google`, `#LLM`, `#model-release`, `#benchmarks`
+
+---
+
+<a id="item-13"></a>
+## [Qwenputer：在 Qwen3.5 内部模拟出确定性的 RISC-V CPU](https://divagr.com/blog/qwenputer) ⭐️ 7.0/10
+
+divagr 的一篇博客文章展示了完全在 Qwen3.5 语言模型内部模拟出的、可运行的确定性 RISC-V CPU，利用训练层和 DeltaNet 状态实现内存与文件存储。该系统名为 Qwenputer，实现了一个文件系统：文件名被哈希到 DeltaNet 状态中的 1024 个目录槽位，文件内容则存储在其他注意力头中，每行八个 token。 这一实验拓展了机制可解释性和“LLM 作为计算基底”理念的边界，表明 Transformer 可以被训练来执行确定性指令序列并管理持久状态。它为理解计算如何嵌入模型权重和循环状态提供了一个具体且有启发性的试验平台，尽管其实际应用价值尚不明确。 CPU 模拟依赖于添加的层，这些层在解释 RISC-V 指令时被训练来预测输出，而 DeltaNet 状态则充当一种 RAM，利用门控注意力进行内存模拟。确定性意味着相同输入应产生相同输出，但该方法高度定制化，在规模和通用性上可能受限。
+
+hackernews · csmantle · 10月29日 00:25 · [社区讨论](https://news.ycombinator.com/item?id=50282838)
+
+**背景**: Qwen3.5 是阿里巴巴 Qwen 团队开发的大语言模型系列，以强大的推理和编码能力著称。DeltaNet 是一种线性注意力变体，维护一个压缩的键值状态矩阵，并应用误差校正的 delta 规则进行更新，起到记忆的作用。RISC-V 是一种开源指令集架构，通常通过软件模拟；而在这里，模拟并非用传统代码实现，而是通过 LLM 内部训练过的神经网络层来完成。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://winterrykim.github.io/blog/2026/linear-attention-and-deltanet/">From KV Cache to a State Matrix: Linear Attention and DeltaNet</a></li>
+<li><a href="https://vivekgupta.ai/llm-visualizer/visualization/DeltaNet.html">DeltaNet | LLM Improvement Visualizer</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对技术细节表现出浓厚兴趣，有人询问 CPU 模拟如何工作，还有人好奇从零开始训练带有这种电路的模型会表现如何。一位持怀疑态度的评论者将其斥为鲁布·戈德堡机械，将其与神经图灵机相比较，并质疑除了“因为 LLM”之外的实际目的。
+
+**标签**: `#LLM`, `#RISC-V`, `#mechanistic-interpretability`, `#transformer-architecture`, `#emulation`
+
+---
+
+<a id="item-14"></a>
+## [Alpine Linux 披露 GitLab CVE-2026-97229 修复在于 Ruby 补丁而非 GitLab 代码](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) ⭐️ 7.0/10
+
+Alpine Linux 发布了一份详细的安全事件报告，描述了针对 GitLab 中 CVE-2026-97229 的尝试性利用，并揭示升级到 GitLab 19.3.6 并未修复该漏洞，因为修复实际上是对 Ruby 正则表达式引擎的补丁，而 GitLab 仅在其官方软件包中应用该补丁。他们的镜像使用的是标准 Ruby，因此仍然存在漏洞。 这一事件凸显了一个关键的供应链风险：使用标准 Ruby 发行版从源码构建 GitLab 或其他 Ruby 应用的组织，即使在应用了 GitLab 官方更新后，仍可能处于暴露状态。它还强调，语言运行时中的漏洞可能影响最初目标之外的许多应用。 该漏洞源于 Ruby 正则表达式引擎 Onigmo 中的内存破坏缺陷，当编译攻击者控制的正则表达式模式时可能触发，导致远程代码执行。Ruby 已发布 4.0.9、3.4.12 和 3.3.13 版本以修复导致四个严重 GitLab CVE 的三个 Onigmo 缺陷，但标准 Ruby 构建可能不包含 GitLab 应用的具体补丁。
+
+hackernews · sashk · 10月28日 23:45 · [社区讨论](https://news.ycombinator.com/item?id=50282544)
+
+**背景**: CVE-2026-97229 是 GitLab CE/EE 中的一个严重未认证远程代码执行漏洞，影响 19.2 至 19.2.8 之前、19.3 至 19.3.5 之前以及 19.4 至 19.4.2 之前的版本。该漏洞源于 CI/CD 配置解析中正则表达式验证不足，允许通过精心构造的正则表达式执行任意代码。GitLab 通过修补其附带的 Ruby 运行时解决了该问题，但底层缺陷在于 Ruby 的 Onigmo 正则引擎，因此任何编译来自不可信输入的正则表达式的程序都可能受到影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab/">CVE - 2026 - 97229 : Critical Unauthenticated Remote Code Execution in...</a></li>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2026-97229">CVE - 2026 - 97229</a></li>
+<li><a href="https://www.ruby-lang.org/en/news/2026/10/23/regexp-fixes-for-gitlab-cves/">Regexp compilation fixes related to GitLab &#x27;s CVE-2026-89078...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者赞扬了报告的透明度以及对未知因素的明确讨论，同时表达了对持续不断的漏洞利用与补丁循环的沮丧，尤其是对从源码构建的用户。一些人强调该缺陷存在于 C 库（Onigmo）中，并调侃 C 库漏洞的普遍性，还有一位评论者推测未来 LLM 发现的“超级漏洞”可能造成大规模破坏。
+
+**标签**: `#security`, `#GitLab`, `#CVE`, `#Ruby`, `#supply-chain`
+
+---
+
+<a id="item-15"></a>
+## [CNC 石材雕刻：现代技术与哥特式建筑的结合](https://carmelitegothic.com/cnc-stone-carving/) ⭐️ 6.0/10
+
+一篇关于 CNC 石材雕刻的讨论强调了其在加尔默罗会修士建造哥特式修道院以及圣家堂持续完工中的应用，其中 CNC 自 20 世纪 90 年代初以来一直被使用。 这表明 CNC 等数字制造技术正被传统石材雕刻所采用，使得复杂的建筑项目成为可能，并可能复兴华丽的建筑风格。 CNC 石材雕刻机使用金刚石刀片和铣刀，而不是水或激光，圣家堂采用 CNC 粗加工与手工精加工相结合的方式。
+
+hackernews · bschne · 10月28日 14:38 · [社区讨论](https://news.ycombinator.com/item?id=50274409)
+
+**背景**: CNC（计算机数控）加工使用计算机控制的工具高精度地雕刻材料。哥特式建筑以其复杂的石雕闻名，传统上需要高技能的工匠。巴塞罗那的圣家堂由安东尼·高迪设计，自 1882 年开始建造，是将现代技术融入历史设计的著名例子。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://carmelitegothic.com/cnc-stone-carving/">CNC Stone Carving - Carmelite Gothic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Construction_of_Gothic_cathedrals">Construction of Gothic cathedrals - Wikipedia</a></li>
+<li><a href="https://www.barcelona-tickets.com/sagrada-familia-tickets/sagrada-familia-architecture/">Sagrada Familia Architecture | Construction &amp; Design</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出，雕塑中的自动化有历史先例，从古埃及到罗马作坊，而 CNC 对圣家堂的进展至关重要。一些人对修士们雄心勃勃的项目表示惊叹，并想知道为什么如今华丽的立面不更常见。
+
+**标签**: `#CNC`, `#stone carving`, `#digital fabrication`, `#art history`, `#construction`
+
+---
+
+<a id="item-16"></a>
+## [Formlabs 推出 699 美元 Form Studio 1 树脂 3D 打印机](https://formlabs.com/products/form-studio-1-basic-founders-edition/) ⭐️ 6.0/10
+
+Formlabs 推出了 Form Studio 1 树脂 3D 打印机，基础版售价 699 美元，Flex 版售价 749 美元，这标志着该公司面向专业消费者市场的产品价格大幅下降。 此次发布将 Formlabs 的工业级树脂打印技术带到了更低的价格点，可能颠覆目前由更便宜的开源平台替代品主导的爱好者和专业消费者树脂打印机市场。 该打印机使用专有的树脂墨盒和树脂槽，树脂槽设计寿命超过 75,000 层；然而，工作流程需要溶剂清洗和后固化，一些用户认为这既麻烦又可能存在危险。
+
+hackernews · mhb · 10月28日 21:19 · [社区讨论](https://news.ycombinator.com/item?id=50281044)
+
+**背景**: 树脂 3D 打印，也称为立体光刻（SLA），使用光源逐层固化液态树脂，产生高细节的打印件，但需要用异丙醇等溶剂进行后处理和紫外线固化。Formlabs 是知名的专业级树脂打印机制造商，其进入 1000 美元以下市场标志着桌面 3D 打印领域竞争加剧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://formlabs.com/global/3d-printers/form-studio-1/">Form Studio 1 | Professional Desktop 3D Printer for Anyone | Formlabs</a></li>
+<li><a href="https://www.techradar.com/pro/formlab-form-studio-1-review">Formlab Form Studio 1 resin 3D printer review | TechRadar</a></li>
+<li><a href="https://www.reddit.com/r/resinprinting/comments/yn58kc/what_proprietary_consumables_do_i_need_to_be/">What ‘proprietary’ consumables do I need to be aware of ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论对 Formlabs 的专有树脂墨盒系统表示担忧，将其比作纸张打印机昂贵的墨水模式，并强调树脂打印的 messy、化学密集型工作流程。一些用户还质疑与日益强大的 FDM 打印机相比的价值主张，而其他人则欣赏较低的价格点但指出其麻烦。
+
+**标签**: `#3D printing`, `#resin printer`, `#Formlabs`, `#hardware`, `#proprietary consumables`
+
+---
+
+<a id="item-17"></a>
+## [《纽约时报》烹饪应用新增 AI 功能，部分用户不满](https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/) ⭐️ 5.0/10
+
+《纽约时报》在其烹饪应用中新增了可选的 AI 功能，其中包括一项允许订阅者修改官方菜谱的工具，目前已在 iOS 平台上线并逐步推广。团队表示，食材替换是目前用户需求最大的功能。 用户的褒贬不一凸显了媒体公司在为订阅产品添加 AI 功能时面临的矛盾：用户看重的是人工精心策划的内容。纽约时报如何平衡 AI 的便利性与编辑公信力，可能影响其他消费类应用的类似举措。 这些 AI 功能是可选的，旨在帮助家庭厨师定制数千份纽约时报菜谱，但公司强调人工编辑仍负责基础菜谱。该功能在 iOS 上逐步推出，团队正在监测使用情况以指导后续开发。
+
+hackernews · ilamont · 10月29日 00:16 · [社区讨论](https://news.ycombinator.com/item?id=50282766)
+
+**背景**: NYT Cooking 是《纽约时报》旗下的订阅制菜谱应用，以经过专业测试的菜谱著称。2026 年，AI 烹饪助手已成为一个不断增长的品类，提供食材替换和膳食计划等功能，但往往引发对准确性和人类专业经验流失的担忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/10/23/insider/cooking-recipes-ai.html">How, and Why, We’re Adding A.I. Tools to NYT Cooking</a></li>
+<li><a href="https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/">The New York Times is adding more AI features to its Cooking ...</a></li>
+<li><a href="https://agihunt.info/en/p/1a184e6c05a0f8d017f09428b85">NYT adds AI recipe-modification to Cooking app… · AGI Hunt</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者意见分歧：一些人认为反对声浪被夸大，因为 AI 功能是可选的且对修改菜谱有用；另一些人则指出，激烈的批评者可能不代表广大用户群体。还有几人表示他们已在使用 ChatGPT 或 Claude 进行类似的菜谱调整，并欢迎一个经过审核、有工程团队支持的替代方案。
+
+**标签**: `#AI features`, `#consumer apps`, `#user reception`, `#NYT Cooking`, `#product update`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-18"></a>
+## [苹果发布首款触屏 MacBook Pro，22999 元起](http://www.geekpark.net/news/373084) ⭐️ 9.0/10
+
+苹果发布了首款触屏 MacBook Pro，提供 14 英寸和 16 英寸两种尺寸，搭载 M5 Pro 和 M5 Max 芯片，并采用全新的 PROLED XDR OLED 显示屏。国行 14 英寸版 22999 元起（16 英寸版 27999 元起），10 月 30 日开启预购，11 月 6 日正式发售。 这标志着苹果的重大转变，该公司十多年来一直认为笔记本电脑的触屏在人体工学上存在缺陷，乔布斯在 2010 年曾对此有过著名论断。此举可能重塑高端笔记本市场，并预示着在新任 CEO 约翰·特努斯领导下 Mac 的新方向。 触屏版比同芯片、同内存、同存储的 mini-LED 版贵 3000 元（美国贵 400 美元），多出的费用主要覆盖 OLED 面板、触控功能以及更轻的机身（14 英寸轻 220 克，16 英寸轻 320 克）。PROLED XDR 显示屏提供 1000 尼特全屏亮度、2000 尼特 HDR 峰值亮度和 1000 万:1 对比度，但触控功能目前仅限于基本手势，第三方应用需在今年晚些时候更新适配。
+
+rss · 极客公园 · 10月28日 18:27
+
+**背景**: 苹果长期以来一直拒绝在 Mac 上添加触屏，乔布斯在 2010 年曾指出垂直触控表面会导致手臂疲劳。全新的 PROLED XDR 显示屏是苹果对其串联 OLED 技术的品牌命名，该技术使用两层自发光像素，无需背光即可实现高亮度和高对比度。M5 Pro 和 M5 Max 芯片最初于 2026 年 3 月推出，现在与这一新的显示屏选项搭配。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.apple.com/macbook-pro/proled-xdr-display/pdf/PROLED_XDR_Display_Technical_Paper.pdf">PROLED XDR DISPLAY Technology Overview</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apple_M5">Apple M5 - Wikipedia</a></li>
+<li><a href="https://www.rtings.com/monitor/learn/mini-led-vs-oled">Mini LED vs OLED: Understanding Different Monitor ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者意见分歧：一些人担心触屏支持会带来 UI 缩放问题并产生 bug，影响所有 Mac 用户；另一些人则称赞通过 OLED 面板和机身重新设计实现的显著减重（约轻 15%）。少数人质疑笔记本触屏的实用性，提到指纹污渍和鼠标输入的优越性，但也承认其在测试 iOS 应用等方面的潜在用途。
+
+**标签**: `#苹果`, `#MacBook Pro`, `#触屏笔记本`, `#M5芯片`, `#产品发布`
+
+---
+
+<a id="item-19"></a>
+## [Edge AI 早报：微软与 Alphabet 财报分化，谷歌开放 TPU，Anthropic 递交 S-1](https://www.tmtpost.com/8185314.html) ⭐️ 8.0/10
+
+微软与 Alphabet 同日发布财报，表现分化：微软 Azure 单季营收达 332 亿美元，同比增长 48%；而 Alphabet 搜索广告增速滑落至 12%，自由现金流转负。同日，谷歌发布 Gemini 4 Carbon 并向甲骨文开放 TPU，OpenAI 转购谷歌芯片，Anthropic 递交 S-1 文件，估值最高达 2 万亿美元。 财报分化凸显 AI 云增长正成为科技巨头间的关键分水岭，而谷歌开放 TPU 及 OpenAI 转购谷歌芯片，可能动摇英伟达在 AI 芯片供应链的主导地位。Anthropic 以超高估值递交 S-1，加上 Meta 250 亿美元增发，表明 AI 领域的资本竞赛正愈演愈烈。 谷歌 Gemini 4 Carbon 被称为其最强模型，具备顶尖的网络安全与长程能力，在部分基准测试中排名第一。英伟达 Nemotron 3.5 Lightning 是一款 300 亿参数的开源模型，采用混合 MoE 架构，可在 RTX 4070 等消费级 GPU 上运行。Anthropic 的 S-1 文件包含创始人锁定 50.1%投票权，并被纳入恒生港美科技指数。
+
+rss · 钛媒体 · 10月29日 00:16
+
+**背景**: TPU（张量处理单元）是谷歌为加速机器学习而设计的定制 ASIC，自 2015 年起内部使用，2018 年起向第三方开放。Gemini 4 Carbon 是谷歌最新的旗舰 AI 模型，强调先进的网络安全与长程推理能力。Anthropic 递交 S-1 是美国 IPO 的必经步骤，会披露财务与治理细节。英伟达 Nemotron 系列是面向高效本地部署的开源大语言模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Introducing Gemini 4 Carbon - The Keyword</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%87%8F%E5%A4%84%E7%90%86%E5%8D%95%E5%85%83">张量处理单元 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://build.nvidia.com/nvidia/nemotron-3.5-lightning-30b-a3b/modelcard">nemotron-3.5-lightning-30b-a3b Model by NVIDIA | NVIDIA NIM</a></li>
+
+</ul>
+</details>
+
+**标签**: `#大厂财报`, `#AI芯片`, `#Gemini`, `#Anthropic`, `#英伟达`
+
+---
+
+<a id="item-20"></a>
+## [蚂蚁灵波 LingBot-World 2.0 驱动 AMD IFA 2026 开幕演示](http://www.geekpark.net/news/373059) ⭐️ 8.0/10
+
+在 IFA 2026 开幕主题演讲中，AMD 高级副总裁 Jack Huynh 用搭载 Ryzen AI Max PRO 处理器的笔记本实时演示了可交互三维世界生成，其背后是蚂蚁集团旗下具身智能团队灵波科技的世界模型 LingBot-World 2.0。这是该类能力首次以高完成度登上消费电子主舞台。 这一演示标志着中国具身智能模型进入全球技术底层，从实验室演示走向芯片厂商开发套件和学术基准。它有望推动世界模型在科研、开发者工具和红海珊瑚研究等垂直场景中的加速落地。 LingBot-World 2.0 开源了 14B 完整版和 1.3B 快速版；一位爱沙尼亚开发者在 RTX 5090 上通过 FP16 VAE、SageAttention、FP8 量化和 torch.compile 将 1.3B 模型从 6 帧/秒优化到 16.1 帧/秒。斯坦福 OpenWAM 采用 LingBot-VA 作为参考实现，南洋理工/清华/普林斯顿的 DeCoPrune 方案将历史缓存 token 削减 85%，同时保持 0.67 的 DINO 相似度。
+
+rss · 极客公园 · 10月28日 07:37
+
+**背景**: 世界模型是能够实时模拟可交互三维环境的生成式 AI 系统，是具身智能和机器人技术的关键基础。物体恒存——即镜头离开再返回时能否还原物体——是这类模型公认的难题。灵波是蚂蚁集团旗下的具身智能模型系列，其开源版本已成为学术界和开发者常用的基准。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://kldh.com/lingbot-world-2-0/">LingBot - World 2 . 0 - 蚂蚁 灵 波 科 技 开源的实时交互 世 界 模 型 | AI工具集</a></li>
+<li><a href="https://www.pingwest.com/a/315403">AI 开服了： LingBot - World 2 . 0 做成了可玩的开源无限 世 界 -品玩</a></li>
+<li><a href="https://www.zhiding.cn/edge-ai/2026/1027/3203657.shtml">评测｜掀翻本地 AI 的“天花板”192G统一内存， AMD 锐龙 AI Max + PRO ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#蚂蚁集团`, `#世界模型`, `#具身智能`, `#AMD`, `#IFA 2026`
+
+---
+
+<a id="item-21"></a>
+## [即梦上线「短剧工作室」，将剧本、导演和剪辑整合进同一工作流](http://www.geekpark.net/news/373066) ⭐️ 7.0/10
+
+10 月 26 日，字节跳动旗下即梦上线「短剧工作室」，这是一款将剧本创作、角色与场景资产管理、分镜设计、视频生成和后期剪辑整合进单一项目工作流的一站式 AI 创作工具。该工作室包含 DreamScript 剧本模型辅助剧本开发、3D 导演台用于安排机位和运镜，以及智能预演功能，让创作者能以约 10%的成本提前验证整场戏效果。 这标志着 AI 视频生成领域的竞争焦点从单段视频的模型质量转向端到端的工作流整合，有望降低制作完整短剧的门槛，并影响内容创作者、制作团队及整个 AI 内容工具生态。这也体现了字节跳动利用其剪映团队能力、抢占快速增长的 AI 短剧市场的战略。 该工作室支持三种创作起点：一句话灵感、改编小说等已有 IP，或直接导入完整剧本；它能自动提取角色和场景资产以保持镜头间的一致性，并允许在后续剧集中复用。3D 导演台让创作者可以预演演员站位、道具、机位和运动路径，而智能预演功能可以用生成一段 8 秒视频的成本预演一场 1 分 13 秒的戏。
+
+rss · 极客公园 · 10月28日 08:04
+
+**背景**: AI 视频生成模型发展迅速，生成高质量视频片段越来越容易，但制作一部完整短剧仍需串联剧本、分镜、视频生成和剪辑等多个工具。据援引中国网络视听协会的数据，今年上半年各平台上线的微短剧中，AI 相关内容占比超过 74%，凸显 AI 在内容生产中的作用日益增强。即梦是字节跳动的 AI 创作平台，其短剧工作室据称整合了剪映团队旗下短剧 Agent「小云雀」的成熟能力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.yjpoo.com/article/7809.html">即 梦 AI&quot; 短 剧 工 作 室 &quot;在哪里？_ 映技派,专注ai人 工 智能!</a></li>
+<li><a href="https://www.ithome.com/1/017/480.htm">消息称 字 节 跳 动 AI...</a></li>
+<li><a href="https://k.sina.com.cn/article_5044281310_12ca99fde02002k4g6.html">真人凉了， AI 速朽， 短 剧 行业一天一个样？ | 新浪 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI视频生成`, `#短剧`, `#字节跳动`, `#创作工具`, `#内容生产工作流`
+
+---
+
+<a id="item-22"></a>
+## [OpenAI 拟采购谷歌 TPU；Gemini 4 Carbon 发布；宇树与红杉中国成立机器人基金](https://www.ifanr.com/1686590?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+OpenAI 计划采购谷歌 TPU，并已招聘工程师适配其前沿模型；谷歌发布迄今最强模型 Gemini 4 Carbon；宇树科技联合红杉中国成立“杉宇·创计划”，投资具身智能与机器人早期项目。 OpenAI 若采用谷歌 TPU，可能减少对英伟达 GPU 的依赖，重塑 AI 硬件供应格局；Gemini 4 Carbon 的发布加剧了前沿 AI 模型竞争；宇树与红杉中国的基金则表明中国机器人生态投资正在升温。 谷歌 TPU 是为神经网络负载定制的 ASIC 芯片，支持 TensorFlow、JAX 和 PyTorch 等框架；Gemini 4 Carbon 被定位为谷歌最强模型，具备顶尖的网络安全和长程任务能力，在基准测试中排名靠前。
+
+rss · 爱范儿 · 10月29日 00:00
+
+**背景**: 张量处理单元（TPU）是谷歌为加速机器学习而定制的芯片，2015 年内部启用，2018 年向第三方开放。Gemini 4 Carbon 是谷歌 Gemini 模型系列的最新版本，宇树是一家以四足和人形机器人闻名的中国机器人公司，红杉中国则是知名风险投资机构。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Tensor_Processing_Unit">Tensor Processing Unit - Wikipedia</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Introducing Gemini 4 Carbon - The Keyword</a></li>
+<li><a href="https://www.yicai.com/news/103413353.html">宇树将与红杉中国成立“杉宇·创计划”</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#Google`, `#OpenAI`, `#BYD`, `#robotics`
+
+---
+
+<a id="item-23"></a>
+## [理想汽车推出 i6 SUV，起售价 23.98 万元补齐产品短板](https://www.ifanr.com/1686458?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+理想汽车推出了全新 SUV 车型 i6，起售价为 23.98 万元。此次发布旨在补齐公司产品线的短板。 作为中国新能源汽车的领军企业，理想汽车的新车型和激进定价可能加剧中型 SUV 市场的竞争，并帮助公司扩大市场覆盖。 根据汽车之家的配置信息，i6 至少提供两驱标准版。不过，上市公告中并未完全披露详细的技术规格和交付信息。
+
+rss · 爱范儿 · 10月28日 14:27
+
+**背景**: 理想汽车是一家中国电动汽车制造商，以增程式电动汽车（EREV）闻名。公司一直在调整产品策略，包括近期对产品线进行重组以及推出新一代 L6 车型，以在日益拥挤的新能源汽车市场中更好地竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.autohome.com.cn/config/series/8183.html">【理想i6参数配置】_理想i6参数配置表大全_购车价格-汽车之家</a></li>
+<li><a href="https://www.sohu.com/a/1051904977_118622">新一代L6补上短板，理想产品线新逻辑落地 - 搜狐</a></li>
+
+</ul>
+</details>
+
+**标签**: `#理想汽车`, `#新能源汽车`, `#新车上市`, `#定价策略`, `#大厂动态`
+
+---
+
+<a id="item-24"></a>
+## [Netflix 下调全年广告收入预期，结构性挑战显现](https://www.tmtpost.com/8185228.html) ⭐️ 6.0/10
+
+Netflix 将 2026 年全年广告收入预期从原先的 30 亿美元下调至 27 亿美元，理由是产品推出速度慢于预期。此次下调导致公司财报发布后股价下跌 6%。 此次下调表明，即便是 Netflix 这样的流媒体巨头，在打造盈利的广告业务时也面临外部制约，这可能削弱投资者对整个行业广告支持流媒体模式的热情。这也意味着广告套餐的增长轨迹可能比先前假设的更难以预测，进而影响广告主、竞争对手和股东。 Netflix 的广告支持套餐于 2022 年推出，一直是其增长最快的收入来源，去年广告收入达到 15 亿美元，原本预计 2026 年将翻倍至 30 亿美元。公司目前正在增加更多数据和广告形式以吸引媒体买家，但在内容时长、数据合作和定价权方面仍面临挑战。
+
+rss · 钛媒体 · 10月29日 01:22
+
+**背景**: Netflix 于 2022 年推出广告支持套餐，作为无广告套餐的廉价替代方案，并迅速获得关注，在 18 个月内在全球积累了 4000 万月活跃用户。随着成熟市场的订阅用户增长放缓，广告业务已成为 Netflix 的关键增长引擎。然而，建立成功的广告业务不仅需要基础设施，还需要足够的内容时长、强大的数据合作以进行精准投放，以及在竞争激烈的广告市场中的定价权。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ainvest.com/news/netflix-ad-tier-growth-engine-forecast-cut-2610/">Netflix: The Ad Tier Was the Growth Engine - Its Forecast ...</a></li>
+<li><a href="https://www.cnbc.com/2026/01/21/netflix-advertising-revenue-strategy-paying-off.html">Netflix&#x27;s advertising strategy is starting to pay off - CNBC</a></li>
+<li><a href="https://www.filmtake.com/streaming/inside-netflixs-next-chapter-ad-tiers-licensing-strategies-partnerships-and-audience-engagement/">Inside Netflix’s Next Chapter: Ad Tiers ... - FilmTake</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Netflix`, `#广告收入`, `#流媒体`, `#数字广告`, `#大厂动态`
+
+---
+
+<a id="item-25"></a>
+## [韩国的 GDP，写在别人的预算表上](https://www.tmtpost.com/8185140.html) ⭐️ 6.0/10
+
+钛媒体的一篇分析指出，若美国五大科技厂商削减资本开支，韩国 GDP 将直接损失约 0.4 个百分点，凸显韩国经济对海外科技巨头投资周期的脆弱依赖。 这凸显了韩国出口导向型经济（尤其是存储芯片）与 AI 驱动的大型科技公司支出深度绑定，美国科技资本开支的回落可能迅速冲击韩国经济增长和全球半导体供应链。 该分析篇幅简短，缺乏详细数据或方法论，但与近期趋势一致：在美國 AI 投资带动下，韩国第二季度 GDP 同比增长 3.7%，主要由半导体出口驱动，而五大科技公司的资本开支决策日益被视为芯片供应商的关键变量。
+
+rss · 钛媒体 · 10月29日 01:20
+
+**背景**: 韩国拥有三星和 SK 海力士两家全球最大的存储芯片制造商，它们为 AI 数据中心供应高带宽内存等组件。亚马逊、微软、谷歌、Meta 和苹果等大型科技公司是 AI 基础设施的最大买家之一，其资本开支计划直接影响韩国芯片的需求。因此，韩国 GDP 增长与全球半导体周期及美国科技投资高度相关。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.kdi.re.kr/eng/research/economy">KDI ECONOMIC OUTLOOK | UPDATE 2026.08 - KDI - Korea ...</a></li>
+<li><a href="https://www.chosun.com/english/market-money-en/2026/07/23/BUFBQ25GWZBP7GQ4OIHGPYKWPE/">South Korea&#x27;s Economy Grows 3.7% Driven by Semiconductors</a></li>
+<li><a href="https://247wallst.com/investing/2026/06/08/why-soxxs-next-12-months-hinge-on-five-tech-giants-capex-decisions/">Why SOXX&#x27;s Next 12 Months Hinge on Five Tech Giants &#x27; Capex ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#韩国经济`, `#半导体`, `#资本开支`, `#宏观经济`, `#产业链`
+
+---
+
+<a id="item-26"></a>
+## [不到 1%的负净资产样本如何扭曲 A 股行业 PB 均值](https://www.tmtpost.com/8185378.html) ⭐️ 6.0/10
+
+文章指出，当少数公司净资产为负时，其市净率（PB）会出现极端值或无法计算，简单算术平均会严重扭曲行业整体 PB 水平。文章强调需要采用更稳健的汇总方法，例如用行业总市值除以总净资产，或剔除净资产为负的公司。 这一点很重要，因为行业 PB 被量化分析师和投资者广泛用于评估估值水平，而扭曲的均值可能导致对行业估值高低得出错误结论。对于任何计算或解读简单平均财务比率的人来说，这都是一个警示。 扭曲的根源在于 PB 等于股价除以每股净资产；当净资产为负且接近零时，比率会变得极大或为负，从而将简单平均值拉离典型水平。稳健的替代方法包括使用汇总（加权）平均值或中位数，并明确处理净资产为负的公司。
+
+rss · 钛媒体 · 10月29日 00:32
+
+**背景**: 市净率（PB）是常用的估值指标，计算方式为股价除以每股净资产，通常会在行业层面汇总以评估整体估值。对个股 PB 取简单算术平均容易受异常值影响，尤其当部分公司净资产为负或接近零时，比率可能无法计算或出现极端值。行业 PB 通常按总市值除以总净资产计算，这种构造方式天然避免了该问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E8%A1%8C%E4%B8%9A%E5%B8%82%E5%87%80%E7%8E%87/8236103">行业市净率 - 百度百科</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1544612322002458">Averaging financial ratios - ScienceDirect</a></li>
+
+</ul>
+</details>
+
+**标签**: `#A股`, `#市净率`, `#财务分析`, `#数据扭曲`, `#量化投资`
+
+---
+
+<a id="item-27"></a>
+## [北京发布“十五五”能源蓝图，构建“1+3+6”体系](https://www.tmtpost.com/8185179.html) ⭐️ 6.0/10
+
+北京市正式印发《北京市“十五五”时期新型能源体系规划》，该规划经国家能源局批复同意，构建了“1+3+6”目标任务体系，全面谋划未来五年北京能源发展的主要目标、重点任务、重大项目和改革举措。 该规划将指导北京未来五年的能源转型和投资，影响首都地区的能源基础设施、可再生能源部署及相关产业。它释放了清洁能源政策优先的信号，并可能对国家能源规划产生影响。 “1+3+6”体系可能指一个总体目标、三大维度（如安全、绿色转型、效率）和六项重点任务，但摘要未提供具体细节。该规划是市级重点专项规划，是“十五五”时期北京能源发展的行动纲领。
+
+rss · 钛媒体 · 10月28日 23:20
+
+**背景**: 中国的“十五五”规划覆盖 2026-2030 年，设定国家经济和社会发展目标。北京的能源规划是这一框架的一部分，旨在构建强调可再生能源、能源安全和低碳转型的新型能源体系。“1+3+6”体系是中国常见的政策结构化方法，用于组织目标和任务。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/ghjhwb/wngh/202610/t20261028_4922188.htm">北京市人民政府关于印发《北京市“十五五”时期新型能源体系规划》的通...</a></li>
+<li><a href="https://invest.beijing.gov.cn/zwgk/zcjd/202610/t20261028_4922193.html">北京“十五五”能源蓝图出炉！“1+3+6”目标任务体系这样干_政策解读_北京...</a></li>
+<li><a href="http://www.ce.cn/cysc/newmain/yc/jsxw/202610/t20261028_3274709.shtml">构建“1+3+6”目标任务体系 《北京市“十五五”时期新型能源体系规划》发...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#大厂要闻`, `#能源政策`, `#金融工具`, `#字节跳动`, `#科创板`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-28"></a>
+## [奥迪中国“分家”：2027 年后上汽奥迪四环车售后由谁负责？](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OFpFcHdDNU5pNnA2dVJ3U3RNY0hzRG9tb3VCNHA0RjBBUExiU3ZiRFBrcUhfYXgyVFNTQUpXN2JiVFJENmtBTHROaVZ4cFdoeDVXcFJCRWt6TW9TQi1XSGt6eFZkNUE?oc=5) ⭐️ 6.0/10
+
+奥迪中国已确定“双品牌、双合作伙伴”的重组方案：四环品牌将由中国一汽奥迪独家运营，上汽奥迪则专注于全新的 AUDI 字母品牌。上汽奥迪在 2027 年底前仍可销售四环车型，此后这些车辆的售后服务预计将转交一汽奥迪负责。 此次重组明确了全球最大汽车市场中的品牌归属和渠道责任，但也为在 2027 年截止前购买上汽奥迪四环车型的客户带来了售后服务连续性的关键问题。保修、服务套餐和经销商网络如何过渡，将直接影响客户体验和品牌信任。 过渡期将持续至 2027 年底，在此期间上汽奥迪仍可销售四环产品；现有车型如 A7L 和 A5L Sportback 的售前和售后预计都将转交一汽奥迪。协议已基本敲定，但细节仍在磋商中。
+
+rss · 客服行业动态 · 10月28日 12:33
+
+**背景**: 奥迪在中国有两家合资伙伴：一汽（长期生产四环车型）和上汽（2022 年开始销售奥迪车辆）。四环标志是奥迪全球核心品牌，而新的 AUDI 字母品牌则是专门为上汽创建，以吸引更年轻、注重科技的中国消费者。这种双伙伴结构造成了内部竞争，促使奥迪明确分拆品牌。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.163.com/dy/article/LA6OUMFG05561G0D.html">奥 迪 中 国 “ 分 家 ”方案公布：四环归 一 汽 ，字母（AUDI...</a></li>
+<li><a href="https://www.mycaijing.com/article/detail/580675?source_id=40">独 家 | 奥 迪 中 国 分 治方案基本敲定， 上 汽 奥 迪 只留AUDI | 《财经》客户端</a></li>
+<li><a href="https://m.jiemian.com/article/15241851.html">奥迪南北“分家”！四环归一汽奥迪，字母标留给上汽奥迪</a></li>
+
+</ul>
+</details>
+
+**标签**: `#automotive after-sales`, `#customer service`, `#Audi China`, `#SAIC Audi`, `#service responsibility`
+
+---
+
+<a id="item-29"></a>
+## [冒充品牌客服号码泛滥，亟待监管整治](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TWW5pOGd5ZXBraXJrM0stam5Rbl8zcUhKV1FCMGlkbFRpVGpZcmh6Zm9BLVJIQmJyQXBYN3dEV2dMYkliMTl6U0lFZUE?oc=5) ⭐️ 6.0/10
+
+信网的一篇文章报道称，冒充品牌客服的号码泛滥，标题称“十个号码六个假”，并呼吁行业监管以遏制这种欺诈行为。 这一问题直接影响消费者信任和品牌声誉，因为冒充客服的骗子可能窃取钱财和敏感数据，并凸显了加强消费者保护和行业监管的必要性。 该文章是一篇呼吁监管的评论文章，而非数据驱动的研究，除了标题中的说法外，缺乏具体的统计数据或案例细节。
+
+rss · 客服行业动态 · 10月28日 07:05
+
+**背景**: 冒充客服诈骗是指犯罪分子设立虚假呼叫中心或在网上（通常在搜索结果或广告中）植入假电话号码，冒充知名品牌。消费者在搜索求助电话时可能被引导至骗子，从而被骗取钱财或个人信息。此类诈骗在全球日益普遍，美国联邦贸易委员会将其列为美国最常见的欺诈类型之一。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://adex.com/blog/fake-customer-support-ads-how-scammers-impersonate-brand-help-desks/">Fake Customer Support Ads: How Scams Work - adex.com</a></li>
+<li><a href="https://www.checkbook.org/national/consumers-notebook/articles/Fraud-Alert-Customer-Service-Imposter-Scams-7399">Fraud Alert: Customer Service Imposter Scams - National Fake Customer Service Numbers in Google Search Results Fuel ... How Scammers Poison AI Results With Fake Customer Support Numbers Scammers are using fake customer service numbers to trap you Scam warning as Americans falling victim to sinister fake ... Fraud Alert: Customer service imposter scams - KOMO</a></li>
+<li><a href="https://political.org/2026/04/10/fake-customer-service-numbers-in-google-search-results-fuel-growing-wave-of-costly-impersonation-scams/">Fake Customer Service Numbers in Google Search Results Fuel ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#fake support`, `#brand impersonation`, `#consumer protection`, `#industry regulation`
+
+---
+
+<a id="item-30"></a>
+## [法官警示品牌客服账号遭外挂劫持群发涉黄链接，建议构建“担保型连带”责任](https://news.google.com/rss/articles/CBMia0FVX3lxTFBUTW5uV1ZXSTJZdkdQaU01a3QyR3B5eS1PdDBsWDdpTlI2Qy05VWxCNTMycl9pdU1XdkZQV2UwcU13bUMwdkFIbWFCSmhBdlYxNE1WSlkwSTMtME9ON3JWZTR2OUJUYkhBcE5Z?oc=5) ⭐️ 6.0/10
+
+10 月 24 日凌晨，安克、耐克、盒马、CATLINK 等多个品牌的企业微信客服账号几乎同时向用户发送涉黄引流链接，企业微信安全团队随后公告称原因系某第三方外挂软件服务被攻破。有法官就此提出构建“担保型连带”责任机制的建议。 该事件凸显了客服运营中的关键安全风险：第三方外挂可能成为单点故障，导致品牌账号被攻破并向用户传播有害内容。拟议的法律框架可能将责任转移至品牌和服务商，从而推动客服行业加强安全实践与问责。 攻击途径涉及一个被攻破的第三方外挂服务，导致多个品牌账号同时受影响；企业微信已强制下线受影响账号并封禁相关链接。法官提出的“担保型连带”责任建议可能旨在让外挂服务商和品牌共同担责，但具体法律机制仍有待明确。
+
+rss · 客服行业动态 · 10月28日 02:49
+
+**背景**: 企业微信是许多品牌用于客户服务的企业通信平台。第三方外挂常被用于增强功能，但可能引入安全漏洞。中国法律中的“连带责任”指多方对同一义务承担责任，而“担保型”则暗示类似保证的安排，即一方为另一方的责任提供担保。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1093736807_120491808">法官：品牌客服账号被外挂劫持群发涉黄链接 建议构建“担保型连带”</a></li>
+<li><a href="https://m.maxlaw.cn/n/20260702/11760401274388.shtml">连 带 责 任 担 保 和一般 担 保 的区别 - 法 律 资讯 - 大 律 师网</a></li>
+<li><a href="https://wenku.baidu.com/view/24d7143d727f5acfa1c7aa00b52acfc788eb9f65.html">企业社媒账号安全入门教程——从账号劫持事件看品牌数字资产防护</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服安全`, `#账号劫持`, `#法律责任`, `#外挂`, `#品牌风险`
+
+---
+
+<a id="item-31"></a>
+## [演员董勇控诉太平洋保险阻碍车险续保](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xN0VsYUdRbmJKd3NkV25BYUpMc3FNclVGWlJrcmNWSFdicFdHRjNVOVZHQi1jaDJwMl85QlNBLUN3VDZ1X3R2VkFUaTQydER6M0dZcUhrOXlGZVpsR2d3?oc=5) ⭐️ 4.0/10
+
+演员董勇在社交媒体上公开投诉中国太平洋保险阻碍其车险续保，指责该公司“店大欺客”。董勇发布视频后事件引发媒体关注，但近一个月后，中国太平洋财产保险仍未作出正式回复。 该投诉凸显了中国车主的一个常见痛点：保险公司可能拒绝或阻碍续保，使消费者感到面对大公司时无能为力。名人的参与放大了这一问题，引发了对保险行业消费者权益的关注，并可能促使监管机构或保险公司处理此类行为。 据报道，纠纷源于太平洋保险的内部规定：自行续保的保单可能不计入代理人业绩，导致其不愿办理续保。根据中国保险法，保险公司不得随意拒绝履行合同义务，消费者可以向公司、行业协会或金融监管机构投诉。
+
+rss · 客服行业动态 · 10月28日 23:06
+
+**背景**: 在中国，车险是强制性的，续保通常通过代理人或直接与保险公司办理。拒绝续保或设置障碍的情况并不少见，往往源于内部业绩政策或风险评估。消费者有法律途径提出投诉，但过程可能繁琐，有时会借助公开曝光来寻求更快解决。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.163.com/dy/article/LABKQGCN05561G0D.html">163.com/dy/article/LABKQGCN05561G0D.html</a></li>
+<li><a href="https://ailegal.baidu.com/legalarticle/qadetail?id=67c00e10053d41250628">保险公司拒绝续保车险可以投诉吗 - ailegal.baidu.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#insurance`, `#consumer complaint`, `#celebrity`, `#China`
+
+---
+
+<a id="item-32"></a>
+## [奈雪的茶成都一门店推出消费入座政策](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3SUh3WllMUE14WkRjTF83VEhvSlhLUDBwN0VlTjZzbDVOdnRFVllCNk1HNDVCMUJhS1NEaEVfY2tjeGZfOE5PUktIRGs1eWd6bndubXhiVldkSW8yOHFydndR?oc=5) ⭐️ 4.0/10
+
+奈雪的茶成都一家门店张贴提示牌，要求顾客消费后才能入座。公司官方客服表示，这是单家门店的自主行为，并非公司统一政策。 这一事件凸显了连锁品牌中单店可能自行尝试运营政策，可能影响顾客体验和品牌一致性。同时也反映了餐饮行业在座位管理和客流管理方面面临的更广泛挑战。 该政策仅在成都一家门店实施，公司澄清并非全国性规定。此类消费入座政策有时被咖啡馆和茶饮店用于在高峰时段管理座位占用。
+
+rss · 客服行业动态 · 10月28日 03:24
+
+**背景**: 奈雪的茶是中国茶饮运营商，由彭心、赵林夫妇于 2015 年 11 月创立，以“茶+软欧包”双产品模式为核心。品牌在中国内地和香港经营，并于 2021 年 6 月 30 日在港交所上市。消费入座是一些餐饮门店为确保翻台率而采用的常见做法，但在顾客中可能引发争议。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6">奈雪的茶 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6/22651614">奈雪的茶_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#retail policy`, `#food and beverage`, `#store operations`, `#China`
+
+---
+
+<a id="item-33"></a>
+## [王者荣耀官方账号被指调侃职业选手健康，客服称将核实](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOVdjVjZSd2FNYjNhbUtQUDdiRTc5Q1dVR3F3RFc4Ql9hbmFKR3VtTnFpRzkxZUNRamFCOFhVLTZHZnhHS0RNQ2hjaVJjOHczQ3QzSjNJWWFzdjhkM0I5UUFDWmNWLUJjRlFLQjlsOEhIYWd0T0VfMEphMlpTNVVIdjVLaElsM09VcS1qX3hMQlNQQ2VSNGxVc00xVGtOdVJTZGlwYkpMUXVXc2VaZzYxVXNPY3QxYXRzcmpBTlRhQWxld0pucmp6QmRVQU1SUQ?oc=5) ⭐️ 4.0/10
+
+王者荣耀官方客服表示，将把官方账号涉嫌“调侃”职业选手健康引发的争议转交对应团队进一步核实。事件起因是王者荣耀官方账号发布的内容被指调侃某职业选手的健康状况。 这一争议凸显了大型游戏厂商在官方渠道以职业选手为对象进行调侃时面临的声誉风险，对于王者荣耀这样体量的游戏尤其如此。公司如何处理升级与核实流程，可能影响玩家信任及其电竞生态的公众形象。 客服回应遵循标准的升级流程，称此事将交由对应团队进一步核实，但未公布时间表或具体处理结果。现有报道未详细说明原帖内容及所指调侃的具体性质。
+
+rss · 客服行业动态 · 10月28日 03:16
+
+**背景**: 王者荣耀是由腾讯天美工作室群开发、腾讯游戏发行的多人在线战术竞技（MOBA）手游，是中国最受欢迎的移动游戏之一，拥有庞大的电竞生态。此类游戏的官方账号和客服渠道在社区争议出现时往往成为焦点，公司通常会将投诉转交内部团队审核。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Honor_of_Kings">Honor of Kings - Wikipedia</a></li>
+<li><a href="https://www.honorofkings.com/esports/?language=en">Honor of Kings Esports : TIME FOR VICTORY</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#escalation process`, `#gaming industry`, `#public relations`, `#Honor of Kings`
+
+---
+
+<a id="item-34"></a>
+## [海信称与皇马合作仅限西班牙，并谴责姆巴佩言论](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tb0hac2F5YzRkNG05R3kxUFRJYnl0SDlHQVhNYV9Eb2dHZGpENnFyRWNKV3RFNk1YbEoyenhubml0dTRHU2NadElIQnREQQ?oc=5) ⭐️ 4.0/10
+
+2026 年 10 月 28 日，海信官方客服回应称，其与皇家马德里的赞助合作仅覆盖西班牙地区，不涉及中国市场，并已第一时间向皇马高层发函谴责。此番回应针对皇马球员基利安·姆巴佩的不当言论在中国引发的争议。 这一争议威胁到皇马在中国的商业利益，海信、石头科技、开云体育和玲珑轮胎等中国赞助商在皇马赞助体系中占据重要位置，而据报道中国国家电视台已暂停转播涉及西甲和姆巴佩的比赛。海信公开切割的做法表明，当全球体育合作伙伴卷入政治敏感事件时，中国品牌可能会迅速采取行动以保护自身声誉。 海信澄清其与姆巴佩本人没有任何直接代言关系，也从未在中国市场开展与皇马相关的联合品牌活动；公司称声明在 24 小时内全网阅读量突破 1.2 亿次。报道还指出，皇马称姆巴佩的不当言论为个人行为，赞助合作未受影响；而 2024 年涉及前皇马主席桑斯之孙的一起事件已引发中国驻西班牙大使馆的交涉。
+
+rss · 客服行业动态 · 10月28日 06:36
+
+**背景**: 皇家马德里是全球最具价值的足球俱乐部之一，收入高度依赖全球赞助和商品销售，中国企业是其重要赞助商。法国球星基利安·姆巴佩于 2024 年加盟皇马，是俱乐部商业吸引力的核心人物。近年来，被视作涉及种族歧视或侮辱中国的不当言论，往往会在中国市场迅速引发消费者抵制和品牌切割。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20261028A086NG00">海信：与皇马合作不涉中国市场，与姆巴佩本人无任何直接代言，已发函...</a></li>
+<li><a href="https://www.sportsbusinessjournal.com/Articles/2026/10/28/real-madrid-apologizes-as-mbappes-comments-spark-china-backlash/">Real Madrid apologizes as Kylian Mbappé’s comments spark ...</a></li>
+<li><a href="https://www.sohu.com/a/1094072313_121607363">10.29日：海信急发声明切割皇马仅限西班牙赞助，成都工厂已改单班_品...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#corporate communication`, `#sponsorship`, `#Hisense`, `#Real Madrid`
+
+---
+
+<a id="item-35"></a>
+## [HeroDash 接入越南 Zalo 渠道，实现 AI 与人工协同客服](https://news.google.com/rss/articles/CBMibkFVX3lxTE51THl1Q3pibFRhVHJVaVlwVHBydG9BdlB4RWpqTkdlR2xaSTl2MmRvcDRwUkZ0bnNGTXB4dzNkbEtVZEdLa0FHSm4tZDhLd3FoMlZhVHlMa2pCWGNfZzJGQm9wN1cxUEhDTjlENEdB?oc=5) ⭐️ 4.0/10
+
+HeroDash 是 Callnovo 的全渠道客服平台，近日正式接入越南 Zalo 消息渠道，使 AI 智能体与人工客服能够协同服务当地顾客。 此次整合使使用 HeroDash 的企业能够通过 Zalo（越南主导性消息应用）触达越南客户，有望提升在越南市场的客户互动和运营效率。 该整合将 AI 智能体与人工客服相结合，可能实现对常规咨询的自动回复，并在复杂问题上无缝转接人工客服，但具体技术细节和限制尚未披露。
+
+rss · 客服行业动态 · 10月28日 09:58
+
+**背景**: Zalo 是由 VNG 公司于 2012 年推出的越南即时通讯应用，是越南最受欢迎的消息平台之一，下载量超过 1 亿次。HeroDash 是 Callnovo 推出的全渠道客服平台，支持语音、电子邮件、聊天及多种社交消息渠道。客服领域的 AI 与人工协同将基于大语言模型的 AI 智能体与人工客服结合，以提升效率和客户体验。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://talkpal.ai/culture/what-is-zalo-used-for-in-vietnam/">What is Zalo used for in Vietnam ? - Talkpal</a></li>
+<li><a href="https://callnovo.ai/herodash/">What Is HeroDash ? Omnichannel Customer Service Platform</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-agents-in-customer-service">AI Agents in Customer Service | IBM</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#AI agents`, `#Zalo`, `#channel integration`, `#Vietnam`
+
+---
