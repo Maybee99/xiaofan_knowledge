@@ -1,0 +1,678 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-02 (ZH)"
+date: 2026-11-02
+lang: zh
+---
+
+> 从 64 条内容中筛选出 28 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [青岛大管岛依托国内首个定频构网全绿电海岛微电网](#item-1) ⭐️ 7.0/10
+2. [华中首例算电协同交易落地，算力企业用电成本预计降 6%](#item-2) ⭐️ 7.0/10
+3. [国家能源局解读算电协同，储能规模达 167GW/435GWh](#item-3) ⭐️ 7.0/10
+4. [上海电气与宁德时代签署战略合作协议](#item-4) ⭐️ 7.0/10
+5. [德国储能先驱 Sonnen 破产，15 万客户价值引发关注](#item-5) ⭐️ 7.0/10
+6. [欧洲拒绝掏家底！G7 一亿桶放储计划或是“新瓶装旧酒”](#item-6) ⭐️ 6.0/10
+7. [新华视点：AI 赋能电力，守护万家灯火](#item-7) ⭐️ 6.0/10
+8. [研究揭示南非智能电网转型中能源政策与收入结果的关联](#item-8) ⭐️ 6.0/10
+9. [量子安全加密技术用于保护电网通信](#item-9) ⭐️ 6.0/10
+10. [七个 OPEC+主要产油国 12 月维持产量不变](#item-10) ⭐️ 6.0/10
+
+### 🤖 AI 科技
+
+11. [陶哲轩：数学已改变，学界必须适应](#item-11) ⭐️ 9.0/10
+12. [论文利用 JEPA 验证并改进柏拉图表示假说](#item-12) ⭐️ 8.0/10
+13. [OmniDiff：用 Rust 编写的快速、内容感知 Git 差异工具](#item-13) ⭐️ 7.0/10
+14. [阿波罗经济学家称 AI 对多数公司带来“零财务回报”](#item-14) ⭐️ 7.0/10
+15. [HackerBooks 索引了 Hacker News 上提到的 1.65 万本书](#item-15) ⭐️ 6.0/10
+16. [HN 讨论尊重隐私的电视选择](#item-16) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+17. [DeepSeek 完成千亿融资并发布 Super-agent 架构](#item-17) ⭐️ 8.0/10
+18. [欧洲准备每年从中国小包裹中征收 60 亿欧元](#item-18) ⭐️ 7.0/10
+19. [每日简报：OpenAI 收购 ADT，苹果拒绝模型业务，xAI 为 Grok 添加水印](#item-19) ⭐️ 7.0/10
+20. [央行与监管机构召开股市会议，国企获巨额回购贷款，电动车交付量创新高](#item-20) ⭐️ 7.0/10
+21. [宁德时代在澳推出储能新品，从卖电芯转向卖并网承诺](#item-21) ⭐️ 7.0/10
+22. [OpenAI、谷歌、微软、Anthropic 联合支持统一 AI 抓取退出标准](#item-22) ⭐️ 7.0/10
+23. [蚂蚁灵光 2.0 转向个人 AI 助理，但超级 App 壁垒仍是门槛](#item-23) ⭐️ 7.0/10
+24. [早报：iPad Pro 均热板、OpenAI 共享额度、智界独立](#item-24) ⭐️ 6.0/10
+25. [苹果选择阿里千问，背后另有战略考量](#item-25) ⭐️ 6.0/10
+26. [谁在决定中国商业火箭的命运？](#item-26) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+27. [自改进 AI 客服可能随时间退化](#item-27) ⭐️ 7.0/10
+28. [景区工作人员向人群扔炸药包道具，NPC 扔回后爆炸](#item-28) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [青岛大管岛依托国内首个定频构网全绿电海岛微电网](https://news.google.com/rss/articles/CBMiTEFVX3lxTE90VWlYV0IwcjJqOXk3RGtmMHNOTjZZT3V5V0hLaVNJd2tTUnVvYkJJOUJMeUFTSzBkekFuMjcwa1lsTl9ZSDBmbGR6d2o?oc=5) ⭐️ 7.0/10
+
+据信网报道，青岛大管岛已依托国内首个定频构网全绿电海岛微电网实现供电。这标志着基于可再生能源的海岛电气化迈出了重要一步。 该项目展示了一种新颖的构网型应用，能够增强完全依赖可再生能源的海岛电网稳定性，为其他偏远海岛电气化提供了可复制的模式。它对能源政策和微电网专业人士高度相关，因为它展示了整合逆变器型资源的技术里程碑。 该微电网以定频运行，并使用构网型逆变器来建立电压和频率参考，这与需要现有电网的跟网型逆变器不同。虽然具体技术参数未公开，但已知定频控制可简化同步并提高孤岛微电网的稳定性。
+
+google\_news · 信网 · 11月1日 23:08
+
+**背景**: 构网型逆变器是一种电力电子设备，能够设定电网的电压和频率，提供类似于同步发电机的稳定性服务。定频控制是微电网中用于维持恒定频率的一种方法，通常利用下垂控制或基于 GPS 的同步。海岛微电网将可再生能源发电与储能相结合，以减少对成本高且污染重的柴油发电机的依赖。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Grid-forming_inverter">Grid-forming inverter</a></li>
+<li><a href="https://www.mdpi.com/2227-9717/13/1/54">A Review of Synchronous Fixed-Frequency Microgrid Droop ...</a></li>
+<li><a href="https://energystorageandpower.com/product-knowledge/how-microgrids-make-remote-islands-self-sufficient/">Microgrid Island Oases: How Microgrids Make Remote Islands ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#microgrid`, `#grid-forming`, `#renewable energy`, `#island electrification`, `#energy policy`
+
+---
+
+<a id="item-2"></a>
+## [华中首例算电协同交易落地，算力企业用电成本预计降 6%](https://news.google.com/rss/articles/CBMieEFVX3lxTFBHelhMemd6Q3ZoS0thUUZobDdZU3RWTF9VVGlaeFdkTGpQWUJMM1BqNm43Q0dWc2puXy1GVVMyZ0dmMlJYQjJUX3NrbGRDY3NnMk9hUWRNWTRvVV9NZy1OZU5sdkFIVjhOTXM4Y0xqdW4za2hodTVHUA?oc=5) ⭐️ 7.0/10
+
+华中地区首例算电协同交易正式落地，参与交易的算力企业预计在 2026 年实现用电成本下降 6%。该交易将数据中心运营商直接与电力市场机制对接，成为算力基础设施与电力交易融合的区域性试点。 该试点展示了电力市场如何适配快速增长的算力基础设施领域，有望降低数据中心的运营成本并促进能源高效利用。若模式得以推广，可能影响国家层面关于数据中心布局和电价政策的制定。 6%的成本降幅是对参与企业的预估，来源于新型市场机制而非直接补贴。该交易是华中地区的首次尝试，其可复制性将取决于当地电力市场规则和数据中心负载的灵活性。
+
+google\_news · 新浪财经 · 11月1日 13:01
+
+**背景**: 算电协同是指算力网络与电力系统在规划、建设、调度、交易全环节的深度融合，其核心逻辑是“电支撑算、算优化电”。2023 年 12 月，国家发展改革委等部门首次将创新算力电力协同机制列为重点任务，并在 2024 年出台推进算电协同的具体措施，总体目标是实现节能减排。数据中心属于高耗能设施，电力是其最大的运营成本之一，因此将其与电力市场（包括绿电交易和分时电价）对接，能显著影响其经济性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260826A09S5T00">探访 算 电 协 同 内蒙古实践：一条完整绿 算 产业链是如何炼成的_腾讯新闻</a></li>
+<li><a href="https://cpnn.com.cn/zt/2026zt/2026lh/2026lhlhnj/202603/t20260309_1871482.html">两会能见丨 算 电 协 同 “先手棋”，中国如何落子？- -中国能源新闻网</a></li>
+<li><a href="https://juejin.cn/post/7636652454424346650">AI...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#算电协同`, `#能源政策`, `#电力市场`, `#数据中心`, `#用电成本`
+
+---
+
+<a id="item-3"></a>
+## [国家能源局解读算电协同，储能规模达 167GW/435GWh](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1maEVxT3ozVFBxNkttc04tNDNyb3RVcENxSXhEN1FsVTdyUU1wdmtJb3YtdlNJb0xadmd0Y01OMkdyUjFtNlVoZmIzNGtWTFZJeGdhZFk5dmJEWS1RUVFRZQ?oc=5) ⭐️ 7.0/10
+
+2026 年 10 月 30 日，国家能源局在三季度例行新闻发布会上通报，前三季度全国新型储能装机规模达 167GW/435GWh，同比增长 63%，并就算电协同、绿电直连等新赛道建设情况作出部署。 这组数据表明储能正成为消纳新能源、支撑 AI 数据中心的核心灵活性资源，而官方推动算电协同意味着能源政策将越来越多地影响算力基础设施的布局与建设方式。 国家能源局表示储能增长势头有望延续，年底装机规模可能达到 200GW，并指出“沙戈荒”大型新能源基地的规模化、集约化开发模式提高了开发效率、降低了成本。
+
+google\_news · 碳索储能网 · 11月2日 01:11
+
+**背景**: 算电协同是指将 AI 算力需求与电力供应统筹协调，让数据中心用上稳定、廉价、绿色的电力，同时帮助消纳西部富余的风光资源。2026 年，“算电协同”首次写入政府工作报告，与“东数西算”并列为国家级新基建工程。新型储能（以电池为主）则为平衡间歇性新能源与数据中心波动性负荷提供了必要的灵活性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/20260710/082757047b114b2798fcdeec42673e18/c.html">算电协同：从“概念”到“落地”的加速跑---国家能源局</a></li>
+<li><a href="https://cn.solarbe.com/news/20261031/50031220.html">国家能源局：储能装机达167GW/435GWh！ 算电协同、绿电直连加快落地</a></li>
+<li><a href="https://news.qq.com/rain/a/20260330A0786E00">一文读懂！算电协同是什么？_腾讯新闻</a></li>
+
+</ul>
+</details>
+
+**标签**: `#算电协同`, `#储能`, `#能源政策`, `#国家能源局`, `#算力基础设施`
+
+---
+
+<a id="item-4"></a>
+## [上海电气与宁德时代签署战略合作协议](https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN3VzR2xBLTJ6TXJyOERoZTZicHlKZ29oRDhmTU9xZG0wZEJHQXZ5Yng2ZjN6QlNsU19JaWlrdXBDREZ3Y1A5WHg4bXRlYmZ1N2o0VmEyQ3g5T0JzU2ZrZF9mTDY5MXNNSGNtS2RCUQ?oc=5) ⭐️ 7.0/10
+
+据金融界等多家中国媒体报道，上海电气与宁德时代已签署战略合作协议，合作领域涵盖零碳园区、新型储能等。双方将结合上海电气的装备与工程能力以及宁德时代的电池储能技术，共同构建零碳园区与新型储能新生态。 此次合作将中国最大的电力装备与工程集团之一与全球领先的电池制造商结合在一起，有望加速一体化储能与零碳园区解决方案的落地。这标志着在中国“十五五”规划推动新型储能规模化发展的背景下，新能源产业链纵向整合进一步加深。 公告未披露财务条款、装机容量目标或时间表，合作范围被宽泛地描述为涵盖零碳园区与新型储能。宁德时代曾表示，其储能业务收入占比预计将从约 20%提升至三年内与动力电池各占一半，因此与电网及工业企业的合作具有重要战略意义。
+
+google\_news · 金融界 · 11月1日 10:35
+
+**背景**: 宁德时代是全球最大的锂离子电池制造商，为电动汽车和基于磷酸铁锂化学体系的固定式储能系统供货。上海电气是中国重要的国有发电设备制造商，产品包括风力发电机组和电网设备，同时提供工程与建设服务。中国的“新型储能”指除抽水蓄能以外的电化学储能、压缩空气储能、飞轮储能等技术，全国装机规模已从“十四五”初期的约 300 万千瓦增长至 2026 年的 1.36 亿千瓦。“零碳园区”是通过清洁能源、能效提升和管理措施使园区碳排放降至近零水平的产业园区，这一概念在中央经济工作会议上被提出，并在“十五五”规划中加以推进。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/20260730/cc3544c50d784ed8a3fcb4a5f5693adf/c.html">国家能源局举行新闻发布会 介绍《中国新型储能发展报告（2026）》---...</a></li>
+<li><a href="https://m.nbd.com.cn/articles/2026-06-12/4424711.html">各地 零 碳 园 区 加速落地，构建可持续商业模式面临挑战 | 每日经济新闻</a></li>
+<li><a href="https://chejiahao.m.autohome.com.cn/info/24990341">宁 德 时 代 的「满产」经营价值_车家号_汽车之家</a></li>
+
+</ul>
+</details>
+
+**标签**: `#strategic cooperation`, `#energy storage`, `#CATL`, `#Shanghai Electric`, `#China energy policy`
+
+---
+
+<a id="item-5"></a>
+## [德国储能先驱 Sonnen 破产，15 万客户价值引发关注](https://news.google.com/rss/articles/CBMijwFBVV95cUxNanB1Tk5qYnJhRU1kN20yTXo3TUl1SzZpQmNEclpTTzZyVGwwM1lXNlkwUW5ZQUFYWG9rMGZVRW5VeGhTOUxBcjBoR2o0SmpVS3lmREtncVBMWDNQQzhGdXJXVmVVMU1JX3dIMHY3VkloS29DcFdDQ052Z2ttTTdZV3lxajJUR0MxVXREeHltcw?oc=5) ⭐️ 7.0/10
+
+成立于 2010 年的德国家庭电池储能公司 Sonnen 已申请破产。此次破产引发了人们对其 15 万已安装客户和虚拟电厂（VPP）资产剩余价值的质疑，同时欧洲硬件制造业正面临竞争力挑战。 Sonnen 的破产表明欧洲储能硬件制造商正面临日益严重的困境，它们要应对来自亚洲电池生产商的激烈价格竞争。这也凸显了聚合客户群和 VPP 平台的战略价值，这些资产可能被竞争对手或能源公用事业公司收购。 Sonnen 的 VPP 将家庭电池聚合起来提供频率调节和削峰等电网服务，其 15 万客户群构成了一个重要的分布式能源资源网络。然而，破产程序将决定这些资产能否作为持续经营实体出售还是被拆分，客户合同的连续性存在不确定性。
+
+google\_news · 搜狐网 · 11月1日 02:46
+
+**背景**: 虚拟电厂（VPP）是一种通过软件协调的分布式能源资源（DER）聚合系统，将家庭电池、太阳能电池板和电动汽车充电器等资源整合起来，作为单一电厂运行并参与能源市场。Sonnen 总部位于德国 Wildpoldsried，是家庭电池储能和 VPP 技术的先驱，在德国生产并在美国亚特兰大设有基地。其破产反映了欧洲硬件制造业面临的更广泛压力，高能源成本和来自低成本亚洲生产商的竞争削弱了其竞争力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_power_plant">Virtual power plant</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sonnen_GmbH">Sonnen GmbH - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy storage`, `#Sonnen bankruptcy`, `#German energy policy`, `#hardware manufacturing competitiveness`, `#virtual power plant`
+
+---
+
+<a id="item-6"></a>
+## [欧洲拒绝掏家底！G7 一亿桶放储计划或是“新瓶装旧酒”](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxVEdQQ2FJbkNRUXpkN3VjVHotcmcyd2JmQi1jQmdmQkY2OFdHYjFqSHd0S2ZjTzF5MmVVVExWQUJSZXNDUTlmZGh0WmsxVnc?oc=5) ⭐️ 6.0/10
+
+七国集团（G7）已同意一项计划，拟释放最多 1 亿桶紧急石油和柴油储备以缓解飙升的燃料价格，但欧洲不愿全力动用自身的战略储备。分析人士认为该计划可能是此前措施的“新瓶装旧酒”，其有效性受到质疑。 此次协调放储旨在平息供应担忧下的石油市场，但欧洲的犹豫可能削弱该计划的可信度并限制其对价格的影响。其结果将影响全球能源市场、通胀以及世界各地的消费者。 如果均匀释放四个月，1 亿桶大约相当于每天 83 万桶，但实际影响取决于各国释放库存的速度以及有多少能转化为柴油。此次释放之前，国际能源署（IEA）曾在 2026 年 3 月协调释放约 4 亿桶，但该行动仍未完成。
+
+google\_news · 金十数据 · 11月1日 12:44
+
+**背景**: 战略石油储备是政府持有的石油库存，用于在供应中断时稳定市场。国际能源署（IEA）负责协调其成员国的释放行动，此类释放行动在物流上十分复杂，需要时间将原油运输并精炼成柴油等产品。由于地缘政治紧张局势，油价已飙升至每桶 100 美元以上，促使七国集团考虑紧急措施。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency">G 7 to release up to 100 m barrels of emergency oil and diesel reserves</a></li>
+<li><a href="https://www.euronews.com/2026/10/02/g7-agrees-100-million-barrel-emergency-oil-release-amid-us-pressure-over-diesel">G 7 agrees 100 million - barrel emergency oil release amid... | Euronews</a></li>
+<li><a href="https://nairametrics.com/2026/10/02/g7-plans-100-million-barrel-oil-release-to-ease-soaring-fuel-prices/">G 7 plans 100 million - barrel oil release to ease soaring... - Nairametrics</a></li>
+
+</ul>
+</details>
+
+**标签**: `#G7`, `#oil reserves`, `#energy policy`, `#Europe`, `#strategic petroleum reserve`
+
+---
+
+<a id="item-7"></a>
+## [新华视点：AI 赋能电力，守护万家灯火](https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3M3ZE9oU2lPOF92dmpIejJROExhaHNkV3lST1BmSTJXS3dLRVBOYlZ6eXZjamFRS3otbXFybDdDUlZjcm9CZDFEOWgydVAxeWZFeVQtd1RQejRDdUVRVGtocXFrc2Nmb3V1eV9TQ0thR0pfdWtjV0lQU2ltbjhYMmN3?oc=5) ⭐️ 6.0/10
+
+新华社发表报道，重点介绍人工智能如何应用于电力系统，以提升电网可靠性并保障家庭稳定供电。 人工智能与电网的融合是能源数字化的重要趋势，有望改善负荷预测、故障诊断和整体电网韧性，影响全国范围内的公用事业和消费者。 该报道可能讨论了精准负荷预测和故障检测等具体 AI 应用，但作为一般新闻，可能缺乏技术深度或详细案例研究。
+
+google\_news · 新华网 · 11月1日 02:49
+
+**背景**: 智能电网集成了先进的传感、信息和控制技术，实现电网的自动化监测和管理。人工智能通过分析海量数据流进行预测性维护和实时决策，增强这些能力，支持能源行业的数字化转型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-cn/%E6%99%BA%E8%83%BD%E7%94%B5%E7%BD%91">智能电网 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E7%94%B5%E7%BD%91%E6%8A%80%E6%9C%AF/69089039">智能电网技术（利用信息和通信技术实现电网智能化运行的技术）_百度百...</a></li>
+<li><a href="https://www.researchgate.net/publication/391227488_rengongzhinengfunengzhinengdianwang">(PDF) 人工智能赋能智能 电 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#电力`, `#能源政策`, `#智能电网`, `#能源数字化`
+
+---
+
+<a id="item-8"></a>
+## [研究揭示南非智能电网转型中能源政策与收入结果的关联](https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWXNzQkpwRThaLU5tQW1GMzJWSF9vckNVN05YMEJvXzdHYVU4RmgzTkdYLXFUcFhrc3U2clFtRlBYUUN3X1dwbjNhLVVKaVhzclZZNGc5Nm9MOUJyeGF0OGtmbVhDN0NGaXd3SDVB?oc=5) ⭐️ 6.0/10
+
+一项发表在 ScienceDirect 上的新实证研究探讨了南非智能电网转型中的能源政策干预如何影响不同转型阶段的公用事业收入结果。该研究填补了政策与收入生成、电价结构和计量实践之间实证证据的空白。 研究结果可为南非及其他发展中经济体的政策制定者和公用事业监管机构提供参考，帮助设计兼顾财务可持续性与能源转型目标的智能电网政策。它强调了基于证据的政策的重要性，以避免可能削弱电网现代化努力的收入短缺问题。 该研究具体分析了智能电网政策和监管框架如何影响电力收入生成，并指出关于这一关系在不同转型阶段的实证证据有限。研究聚焦于南非正在进行的智能电网项目，这些项目旨在应对能源挑战，但面临安全威胁和运营可靠性问题。
+
+google\_news · 生物通 · 11月1日 00:24
+
+**背景**: 南非已承诺到 2050 年逐步淘汰人为碳排放，并正在推动可再生能源并入国家电网，但该国面临持续的能源危机，且是全球第 15 大碳排放国。智能电网整合可再生能源和数字技术以改善电网管理，但需要新的电价结构和计量实践，这可能影响公用事业收入。关于政策干预如何影响这些收入结果的实证研究很少，因此这项研究是有价值的贡献。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2468227626005569">The Nexus between Energy Policy and Revenue Outcomes in South ...</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2468227626000888">Assessing the influence of smart grids policy and regulatory ...</a></li>
+<li><a href="https://theconversation.com/connecting-home-solar-and-electric-vehicle-batteries-to-the-grid-could-boost-south-africas-clean-energy-and-strengthen-the-electricity-system-274990">Connecting home solar and electric vehicle batteries to the grid could...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#smart grid`, `#South Africa`, `#empirical study`, `#revenue outcomes`
+
+---
+
+<a id="item-9"></a>
+## [量子安全加密技术用于保护电网通信](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGZtbzF6RzJmYUlNS2dia3FSZ25aOTRWQ01LSzZieTRVZXdLVnNkSDBYMFlNRTZheWRwcGZvRWk4Y1Aza2ZhNHFaUlV1T3FNa2MwRG1SUWp5b1dzeW1oZ1VOTVNZT2p1MG1WdGRxcTBpQTAydUp0OThoaFNPMDg0UzJ3bm9yM0c5QmZKd1Q3NV9SUQ?oc=5) ⭐️ 6.0/10
+
+新浪网的一篇文章报道了利用量子安全加密作为“量子安全锁”来保护电网内部通信，突显了一种保障能源基础设施网络安全的新颖技术方法。 随着电网日益数字化和互联化，其面临的网络威胁不断增长，量子安全加密有助于使关键能源基础设施能够抵御传统计算机和量子计算机的攻击，具有前瞻性意义。 文章缺乏技术细节，但量子安全方法通常涉及后量子密码（PQC）算法或量子密钥分发（QKD），后者利用量子力学原理检测窃听；然而，QKD 存在实际限制，如需要经过认证的经典信道和高成本。
+
+google\_news · 新浪网 · 11月1日 03:10
+
+**背景**: 量子计算机一旦足够强大，可能破解当今许多广泛使用的公钥加密算法。后量子密码学是指设计用于抵抗此类攻击的新算法，2024 年 NIST 发布了首批三项 PQC 标准。量子密钥分发是一种替代方案，利用量子态创建共享密钥并能检测任何窃听企图，但需要专用硬件和经过认证的经典信道。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Post-quantum_cryptography">Post-quantum cryptography</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quantum_key_distribution">Quantum key distribution</a></li>
+<li><a href="https://csrc.nist.gov/projects/post-quantum-cryptography">Post-Quantum Cryptography | CSRC</a></li>
+
+</ul>
+</details>
+
+**标签**: `#quantum security`, `#power grid`, `#cybersecurity`, `#energy policy`, `#smart grid`
+
+---
+
+<a id="item-10"></a>
+## [七个 OPEC+主要产油国 12 月维持产量不变](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnU3ZjZmaDVkX0RZRUZ5eV91RUlSWkNGbkg5YVpNTXhVbG56djU2OVg4Ym82LXcwNXpfRlBRSm9LQVZRVXNXOVMyb0dpbTVaU3dqUTh6ZWprc19pVnRxSDIyRE91eDYwNDMwSXQ1UU5aRVYwUHhiTUNlUEZNOENTT2VsX0djdVlJNW9aZ2E2dE1iUlpvWS1meG8zTlVBdjRrVTE0?oc=5) ⭐️ 6.0/10
+
+七个 OPEC+主要产油国同意在 12 月维持产量不变，尽管市场存在不确定性，仍保持当前产量目标。 这一决定表明 OPEC+联盟内部政策的连续性和稳定性，影响全球油价预期和供应规划。它关系到石油进口国、能源市场和全球消费者。 这七个产油国可能包括沙特阿拉伯和俄罗斯等核心成员，但具体名单未明确。该决定是在内部就产量配额和 2027 年基线产能评估机制争论不休的背景下做出的。
+
+google\_news · 香港電台 · 11月1日 18:16
+
+**背景**: OPEC+是由沙特阿拉伯和俄罗斯领导的产油国联盟，通过协调产量来影响全球油价。它包括 OPEC 成员国和非 OPEC 盟友，决策通常以协商一致方式做出。产量配额常常引发争议，因为成员国寻求更高的基线以出口更多石油。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://research.titanfx.com/zh-hant/energy-trading/opec-vs-opec-plus">OPEC 與 OPEC+ 是 什 麼？ 成 員國、減產協議與油價影響解析 | Titan FX</a></li>
+<li><a href="https://finance.cnr.cn/jdt/20250705/t20250705_527245615.shtml">加码增 产 ？ OPEC+ 孤注一掷，油价何去何从_央广网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OPEC+`, `#oil production`, `#energy policy`, `#oil markets`, `#supply`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [陶哲轩：数学已改变，学界必须适应](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/) ⭐️ 9.0/10
+
+在一篇广受讨论的文章中，陶哲轩（Terence Tao）指出人工智能已从根本上改变了数学实践，数学界必须重新审视关于 credit（功劳归属）、证明消化（proof digestion）以及何为贡献的规范。他认为，一个人若选择一个有价值的问题、完全借助 AI 获得证明、彻底理解该证明并由此发展出进一步的问题，即使没有在原始证明中提供任何新要素，也应获得实质性的功劳。 陶哲轩是当今最有影响力的在世数学家之一，他呼吁重新思考功劳与贡献规范，可能重塑 AI 时代学术数学的评价、奖励与研究社会化方式。这篇文章标志着更广泛的范式转变，将影响招聘、同行评审以及这个长期以个人技艺为核心组织起来的领域的社会基础。 文章强调对结果的“消化”——即理解并基于 AI 生成的证明继续推进——本身就是一种正当且有价值的数学活动，而不是仅把证明生成视为贡献。文章还隐含地提出了一个问题：当证明由 AI 系统产出、且这些证明可能冗长、不优雅或难以验证时，应如何归属功劳。
+
+hackernews · smilelamp · 11月1日 18:28 · [社区讨论](https://news.ycombinator.com/item?id=50328251)
+
+**背景**: 数学界传统上奖励在证明中提供关键洞见或新要素的人，功劳与个人技艺紧密相连。近年来，大语言模型和 Lean 等形式化证明助手的进步使 AI 系统能够解决越来越困难的问题并生成机器可检验的证明，这引发了关于验证、优雅性以及数学研究社会组织方式的争论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.newscientist.com/article/2583307-why-mathematician-terence-tao-thinks-ai-must-spark-a-rapid-revolution/">Why mathematician Terence Tao thinks AI must spark... | New Scientist</a></li>
+<li><a href="https://arxiv.org/abs/2608.16753">Abstract page for arXiv paper 2608.16753: Mathematics in the age of AI</a></li>
+<li><a href="https://www.science.org/doi/10.1126/science.aej2213">Advancing mathematics research with AI-driven formal proof ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者大多认同陶哲轩关于“消化”的观点，有人指出数学已成为一个结果本身不如理解和扩展结果重要的领域。也有人将这一转变描述为数学从“手工艺时代”迈向“工业化生产时代”，同时有评论担忧 AI 生成的证明丑陋、冗长且难以理解，并认为该领域的社会基础已发生骤变。
+
+**标签**: `#AI`, `#mathematics`, `#research methodology`, `#academia`, `#Terence Tao`
+
+---
+
+<a id="item-12"></a>
+## [论文利用 JEPA 验证并改进柏拉图表示假说](https://arxiv.org/abs/2610.39302) ⭐️ 8.0/10
+
+一篇新的 arXiv 论文利用联合嵌入预测架构（JEPA）对柏拉图表示假说（PRH）进行了实证检验和改进。作者报告称，一个 3300 万参数的文本 JEPA 在 PRH 基准上达到 0.125 分，与 Qwen2.5-3B 和-7B 模型相当，且所需样本更少。 这项工作为关于神经网络是否收敛到共享潜在表示的活跃理论辩论提供了新的实证角度，并表明基于 JEPA 的预训练可能比自回归下一词预测更具样本效率。这些发现可能影响研究人员对表示学习和模型扩展的思考方式。 论文声称其收敛定义比先前工作更稳健，但社区成员指出，早期的 PRH 实验通常只证明了假说的一个子集，该子集可由模型规模和迁移学习解释。JEPA 方法预测抽象表示而非重建原始输入，这可能需要精心设计的“良好视图”进行预训练。
+
+hackernews · Anon84 · 11月1日 13:24 · [社区讨论](https://news.ycombinator.com/item?id=50325454)
+
+**背景**: 柏拉图表示假说由 MIT 研究人员于 2024 年提出，认为在不同目标、架构和数据上训练的神经网络会收敛到对现实的共享表示。JEPA（联合嵌入预测架构）是一种自监督学习框架，训练模型从上下文输入预测目标输入的嵌入，而不是生成原始像素或词元。本文通过使用 JEPA 来检验和改进 PRH，将两者联系起来。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2405.07987">[2405.07987] The Platonic Representation Hypothesis</a></li>
+<li><a href="https://www.turingpost.com/p/jepa">JEPA : Joint Embedding Predictive Architecture Explained</a></li>
+<li><a href="https://grokipedia.com/page/Platonic_Representation_Hypothesis">Platonic Representation Hypothesis</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: HN 评论者进行了实质性辩论：一些人质疑 PRH 是否只是说明存在一种最优降维方法，且随着规模增大更容易近似；另一些人则对 JEPA 模型及其样本效率表示乐观。一个关键担忧是，JEPA 能否构建出与下一词预测所用无结构网络语料库相当的大规模“良好视图”训练集。
+
+**标签**: `#representation-learning`, `#JEPA`, `#Platonic-hypothesis`, `#self-supervised-learning`, `#AI-research`
+
+---
+
+<a id="item-13"></a>
+## [OmniDiff：用 Rust 编写的快速、内容感知 Git 差异工具](https://github.com/ivankovic/omnidiff) ⭐️ 7.0/10
+
+OmniDiff 是一个用 Rust 编写的开源（AGPLv3）Git 差异工具，能够对 25 种语言的代码以及图像、PDF、压缩包和字体进行内容感知的差异比较。它在大型 C++文件上实现了低于 100 毫秒的性能，并且基于从 7400 个 Gentoo 仓库中采样的 2000 个真实差异的分析。 该工具满足了对于能够理解多种内容类型的快速、多功能差异工具的需求，有望提高开发人员的工作效率和代码审查流程。其严谨的方法和性能使其成为 Git 生态系统的宝贵补充，尤其适用于处理多种文件格式的项目。 OmniDiff 目前版本为 0.3.0，作者每天将其作为 Git 差异工具使用。它采用 AGPLv3 许可证，确保即使通过网络使用，修改后的版本也保持开源。
+
+hackernews · FabCH · 11月1日 13:02 · [社区讨论](https://news.ycombinator.com/item?id=50325253)
+
+**背景**: Git difftool 是一个 Git 命令，允许用户使用外部差异工具比较文件。内容感知差异比较超越了逐行比较，通过理解不同文件格式的结构（如代码语法或图像元数据）来生成更有意义的差异。OmniDiff 基于这一概念，支持多种文件类型并优化了速度。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AGPL_license">AGPL license</a></li>
+<li><a href="https://git-scm.com/docs/git-difftool">Git - git-difftool Documentation</a></li>
+<li><a href="https://nbdime.readthedocs.io/">nbdime – diffing and merging of Jupyter Notebooks — nbdime...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反馈积极，用户称赞该工具的潜力以及选择 AGPLv3 许可证。git difftool 的原始创建者建议上游集成并询问了三方合并支持，其他人则将其与 delta 进行比较，并请求并排视图和字符级高亮等功能。
+
+**标签**: `#git`, `#developer-tools`, `#rust`, `#diff-tool`, `#open-source`
+
+---
+
+<a id="item-14"></a>
+## [阿波罗经济学家称 AI 对多数公司带来“零财务回报”](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) ⭐️ 7.0/10
+
+阿波罗首席经济学家托尔斯滕·斯洛克（Torsten Slok）认为，AI 对大多数公司带来了“零财务回报”，他指出“科技七巨头”的每员工收入和利润率在上升，但标普 500 中其余 493 家公司的这两项指标基本持平。这一观点在 Hacker News 上引发广泛讨论，争议焦点在于该研究衡量的是 AI 投资回报率还是仅看营收。 这一说法加剧了“AI 支出增速超过可衡量经济回报”的叙事，可能影响企业投资决策和市场预期。其重要性在于，它挑战了“采用 AI 就会自动带来生产率和利润提升”的普遍假设。 批评者指出，阿波罗的分析衡量的是营收而非 AI 投资的实际回报；有评论者提到，斯洛克此前曾发布一份被广泛引用的报告，称大型公司的 AI 采用率呈下降趋势，但该结论并未经受住时间考验。还有人认为，在零和市场里，AI 可能只是成为竞争必需品，将价值转移给模型提供商，而不会提高整体利润。
+
+hackernews · throwoutway · 11月1日 22:10 · [社区讨论](https://news.ycombinator.com/item?id=50330456)
+
+**背景**: 托尔斯滕·斯洛克是另类资产管理巨头阿波罗全球管理公司的首席经济学家，其研究受到投资者密切关注。这场争论的背景是，麦肯锡等机构报告称，尽管 AI 采用率飙升——近 90%的公司在使用 AI——但只有少数公司报告了积极的财务影响，凸显了个人生产率提升与企业盈利之间的差距。“科技七巨头”指美国最大的几家科技公司，它们推动了 AI 投资热潮的大部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/">Torsten Slok : AI hasn’t delivered on productivity hype, and... | Fortune</a></li>
+<li><a href="https://www.linkedin.com/news/story/ai-has-delivered-zero-payoff-says-apollos-top-economist-9568618/">AI has delivered &#x27;zero payoff,&#x27; says Apollo &#x27;s top economist | Lin...</a></li>
+<li><a href="https://unity-connect.com/our-resources/news/mckinsey-ai-adoption-surges-but-only-6-percent-of-companies-see-financial-payoff/">McKinsey Finds AI Adoption Continues to Surge</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的评论者对研究方法提出质疑，有人指出该研究衡量的是营收而非 AI 投资回报率；一位从业者则报告了在数据科学和特种化学领域取得的显著生产率提升，将想法到原型的时间从 1-2 周缩短到一天。还有人强调了一种零和动态，即 AI 成为向模型提供商支付的竞争税；也有人质疑如何定义和评估 AI 代理中的“良好判断力”。
+
+**标签**: `#AI economics`, `#AI ROI`, `#productivity`, `#industry analysis`, `#AI adoption`
+
+---
+
+<a id="item-15"></a>
+## [HackerBooks 索引了 Hacker News 上提到的 1.65 万本书](https://hackerbooks.org/) ⭐️ 6.0/10
+
+一位开发者利用 Claude Opus 5.5 构建了 HackerBooks 网站，索引了自 2007 年以来至少被两位不同 Hacker News 评论者提及的约 1.65 万本书，每本书都链接回原始评论，并且数据集可供下载。 该项目展示了 LLM 辅助的数据管道如何将长期运行的论坛转变为可搜索的知识库，也体现了使用 Claude 等智能体编码工具以极少人工编码构建完整数据挖掘应用的趋势。 该网站统计提及次数时不区分赞扬与批评，因此被批评的书与被推荐的书排名相同；作者承认存在遗漏或匹配错误的书并欢迎指正，评论者也指出网站缺少排序或筛选功能。
+
+hackernews · roansh · 11月1日 15:58 · [社区讨论](https://news.ycombinator.com/item?id=50326821)
+
+**背景**: Hacker News 是一个流行的技术论坛，用户经常在评论中推荐书籍、工具和视频。Andrej Karpathy 最近构建了 HackerTube，一个类似的网站，索引 Hacker News 上推荐的 YouTube 视频，使用 Claude Opus 5.5 处理数据收集、过滤、编码和部署。HackerBooks 遵循相同的方法，但专注于书籍，从 18 年的评论中提取提及。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aiweekly.co/alerts/karpathy-ships-hackertube-in-2-hours-with-claude-opus-55">Karpathy ships HackerTube in ~2 hours with Claude Opus 5.5</a></li>
+<li><a href="https://kingy.ai/blog/hackertube-karpathy-claude-code/">HackerTube: Karpathy’s Claude-Built Video Site Explained</a></li>
+<li><a href="https://openrouter.ai/anthropic/claude-opus-5.5">Claude Opus 5 . 5 - API Pricing &amp; Benchmarks | OpenRouter</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者称赞网站速度并询问技术栈，但也要求增加按最少推荐书籍排序的功能，报告了缺失的书名，并批评在 HN 帖子中使用生成文本。还有人提出了对分类准确性和包含争议作者的担忧。
+
+**标签**: `#LLM-assisted development`, `#Hacker News`, `#data mining`, `#book recommendations`, `#community project`
+
+---
+
+<a id="item-16"></a>
+## [HN 讨论尊重隐私的电视选择](https://news.ycombinator.com/item?id=50328896) ⭐️ 6.0/10
+
+一个获得 130 分和 232 条评论的 Ask HN 帖子询问哪些电视尊重隐私，评论者分享了断开 Wi-Fi 模块、避免使用内置应用以及将非智能显示器与 Apple TV 或可信 PC 配对等策略。 这很重要，因为智能电视越来越多地通过自动内容识别（ACR）和其他追踪方式收集观看数据，因此消费者需要实用方法来限制数据收集，同时仍能享受现代显示器。 评论者指出，55 英寸及以上的真正“非智能”电视很少见，因此常见的变通方法是购买任何电视但从不连接互联网，使用来自可信盒子的 HDMI 输入，并确保支持 HDMI-CEC 以便控制。
+
+hackernews · LecroJS · 11月1日 19:35
+
+**背景**: 智能电视通常包含自动内容识别（ACR），通过指纹识别您观看的内容来投放定向广告，制造商可能与合作伙伴共享数据。Apple TV 常被认为更注重隐私的流媒体盒子，因为苹果的商业模式较少依赖广告，但它仍会收集一些观看数据。没有智能功能的非智能电视现在大多限于低端或商用显示器，因为谷歌和亚马逊等公司付费给制造商以包含其智能平台。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.rtings.com/tv/learn/research/smart-tv-tracking">Smart TV Tracking - RTINGS.com</a></li>
+<li><a href="https://tech.yahoo.com/home-entertainment/tvs/articles/still-buy-dumb-tv-190115062.html">You Can Still Buy a &quot; Dumb &quot; TV , but Should You?</a></li>
+<li><a href="https://www.cnet.com/tech/home-entertainment/smart-tv-vs-dumb-tv/">Why I&#x27;m Telling People to Stop Hunting for Dumb TVs - CNET</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为没有电视品牌真正尊重隐私，因此最好的方法是将电视视为非智能显示器：断开其无线模块，从不使用内置应用，并插入可信设备如 Apple TV、Linux PC 或游戏主机。一些人提到 Apple TV 无法控制输入切换等烦恼，但总体情绪是这种变通方法有效且值得付出努力。
+
+**标签**: `#privacy`, `#smart-tv`, `#consumer-electronics`, `#apple-tv`, `#ask-hn`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-17"></a>
+## [DeepSeek 完成千亿融资并发布 Super-agent 架构](https://www.tmtpost.com/8189170.html) ⭐️ 8.0/10
+
+DeepSeek 已完成约 1000 亿元人民币（约 150 亿美元）的融资，并发布了 Super-agent 架构，强调大模型也存在壁垒。 这笔由兆易创新、美团及国有基金等投资者支持的巨额融资，使 DeepSeek 有能力加剧与美国 AI 实验室的竞争；而 Super-agent 架构则表明其正向更复杂的多智能体系统演进，可能影响企业部署 AI 的方式。 该 Super-agent 架构来自 DeepSeek Harness 团队，是一个研究原型，采用 Router+Worker 双层设计，面向 GitHub 和飞书，包含两阶段过滤和 Watchdog；它并非官方产品，可能存在缺陷。
+
+rss · 钛媒体 · 11月2日 00:55
+
+**背景**: DeepSeek 是一家以大型语言模型闻名的中国 AI 初创公司。Super-agent 架构通常指一种编排多个专用智能体来处理复杂任务的系统，超越了单一模型。据报道，此轮融资规模较最初目标有所扩大，反映出尽管存在算力和数据壁垒，投资者对中国 AI 的信心仍在增强。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://shattered.io/deepseek-16-billion-funding-round-tencent-catl-state-funds-2026/">DeepSeek Funding Round: $16B at $74B Pre-Money [2026]</a></li>
+<li><a href="https://www.cnbc.com/2026/10/06/deepseek-funding-round.html">DeepSeek latest funding round could reach $15 billion - CNBC</a></li>
+<li><a href="https://github.com/deepseek-ai/dsh-superagent-prototype">GitHub - deepseek-ai/dsh-superagent-prototype: Towards a More ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#DeepSeek`, `#AI融资`, `#Super-agent`, `#大模型`, `#行业动态`
+
+---
+
+<a id="item-18"></a>
+## [欧洲准备每年从中国小包裹中征收 60 亿欧元](https://www.tmtpost.com/8189267.html) ⭐️ 7.0/10
+
+欧盟正准备对来自中国的小额包裹征收费用，预计每年可收取约 60 亿欧元，这标志着低价电商竞争进入新阶段。 这一监管变化直接影响到 Temu、Shein 等中国主要跨境电商平台，增加其运营成本，并可能迫使它们调整定价策略和商业模式。它标志着低价电商格局的结构性转变，不仅影响平台，也波及欧洲消费者和物流服务商。 欧盟将从 2026 年 7 月 1 日起取消 150 欧元的关税豁免（de minimis），并对低价值电商包裹每件征收 3 欧元的临时关税。这些措施旨在为欧盟零售商创造公平竞争环境并保护消费者，但将增加中国卖家的成本，并可能导致欧洲买家面临更高价格。
+
+rss · 钛媒体 · 11月2日 00:55
+
+**背景**: 欧盟的最低限度规则允许价值低于 150 欧元的包裹免税进入欧盟，这促进了中国低价跨境电商的繁荣。Temu 和 Shein 等平台利用这一豁免提供超低价格，但欧盟认为这使它们相对于本地零售商获得了不公平优势。新规则是欧盟海关改革的一部分，旨在实现贸易现代化并确保公平竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.avalara.com/us/en/blog/eu-end-150-customs-duty-exemption-2026.html">EU €150 customs duty exemption ended July 2026: What to know ...</a></li>
+<li><a href="https://taxation-customs.ec.europa.eu/customs/eu-customs-reform_en">EU Customs Reform - Taxation and Customs Union - European ...</a></li>
+<li><a href="https://trade.ec.europa.eu/access-to-markets/en/news/eu-applies-eu3-customs-duty-item-low-value-e-commerce-consignments">EU applies €3 customs duty per item on low-value e-commerce ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#跨境电商`, `#欧盟监管`, `#低价电商`, `#Temu/Shein`, `#小包裹关税`
+
+---
+
+<a id="item-19"></a>
+## [每日简报：OpenAI 收购 ADT，苹果拒绝模型业务，xAI 为 Grok 添加水印](https://www.tmtpost.com/8189326.html) ⭐️ 7.0/10
+
+OpenAI 以 153 亿美元收购 ADT，锁定 600 万家庭的物理入口，并筹划数据中心改名与政策公关闪电战；苹果重申不会成为模型公司；xAI 为 Grok 全系模型默认部署隐形水印以符合欧盟 AI 法案；英伟达预研 OOI 光互联；七巨头 EPS 增速 22.6%首次被标普其余 493 家的 32.6%反超。 这些动态标志着重大战略转变：OpenAI 的收购模糊了 AI 与物理安全的界限，苹果的立场强化了其硬件与服务重心，xAI 的水印为生成式 AI 合规树立先例，英伟达的光学研究可能重塑数据中心互连，而盈利增长变化表明市场涨势正从大型科技股向外扩散。 OpenAI 以 153 亿美元收购 ADT 是其最大收购之一，旨在将 AI 与家庭安全整合；xAI 的水印是对欧盟 AI 法案透明度要求的回应；英伟达的 OOI 将光引擎移至硅中介层，利用 DWDM 在八个波长上实现 256 Gb/s，但散热和可维护性挑战仍存；七巨头 EPS 增速 22.6%首次落后于其余 493 家公司的 32.6%。
+
+rss · 钛媒体 · 11月2日 00:16
+
+**背景**: 共封装光学（CPO）将光引擎与 ASIC 集成在同一封装内，以降低功耗并提高带宽。英伟达的 OOI 是 CPO 的演进，将光学器件置于硅中介层上，进一步缩短电气路径。欧盟 AI 法案于 2024 年通过，要求对 AI 生成内容采取水印等透明度措施。七巨头指推动市场回报的最大科技公司，其盈利增长相对于标普 500 其余公司的表现是市场广度的重要指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Co-packaged_optics">Co-packaged optics - Wikipedia</a></li>
+<li><a href="https://xenospectrum.com/en/nvidia-optics-interposer-dwdm-research/">NVIDIA Unveils OOI Optical Interconnect Research to Shorten ...</a></li>
+<li><a href="https://www.linkedin.com/posts/amylud_anthropic-says-it-will-watermark-text-generated-activity-7493261241277243392-oC3g">Anthropic Embeds Invisible Watermark in AI Text to Comply with EU ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#Apple`, `#xAI`, `#Nvidia`, `#Big Tech`
+
+---
+
+<a id="item-20"></a>
+## [央行与监管机构召开股市会议，国企获巨额回购贷款，电动车交付量创新高](https://www.tmtpost.com/8189217.html) ⭐️ 7.0/10
+
+中国央行、金融监管总局和证监会今日就股市召开会议，同时国有企业中国国新和中国诚通各自从大型银行获得新增千亿元股票回购增持贷款额度。与此同时，电动汽车制造商小鹏和小米 10 月交付量首次超过 5 万辆，而华为鸿蒙智行交付量同比减半。 高层监管会议和巨额国家支持的回购贷款表明，中国正协调努力稳定和支持股市，可能提振投资者信心。小鹏和小米创纪录的交付量凸显中国电动汽车行业竞争加剧，新进入者正在挑战华为鸿蒙智行等老牌企业。 中国国新和中国诚通获得各自千亿元级别的回购贷款额度，由大型银行提供，旨在支持上市公司股票回购和增持。小鹏和小米 10 月交付量首次突破 5 万辆，而鸿蒙智行交付量较去年同期下降一半。
+
+rss · 钛媒体 · 11月1日 23:20
+
+**背景**: 中国股市一直波动较大，促使监管机构采取措施稳定市场，包括鼓励国有企业进行股票回购。中国电动汽车市场是全球最大的，国内品牌之间竞争激烈。小鹏和小米是较新的进入者，而华为鸿蒙智行与汽车制造商合作提供智能驾驶解决方案。
+
+**标签**: `#China tech`, `#stock market`, `#EV deliveries`, `#regulatory meeting`, `#state-owned enterprises`
+
+---
+
+<a id="item-21"></a>
+## [宁德时代在澳推出储能新品，从卖电芯转向卖并网承诺](https://www.tmtpost.com/8189078.html) ⭐️ 7.0/10
+
+宁德时代在澳大利亚展会上推出储能新品，主推长期资产化方案和并网承诺，而不仅仅是销售电芯。 这标志着宁德时代从组件供应商向综合解决方案提供商的商业模式升级，提高了并网合规和资产运营方面的竞争门槛，可能重塑储能行业的竞争格局。 该方案包括长期服务协议（LTSA），涵盖系统监测、性能跟踪和预防性维护，例如宁德时代为澳大利亚 Supernode 项目提供的超过 3GWh 供货。
+
+rss · 钛媒体 · 11月1日 09:13
+
+**背景**: 并网储能系统必须满足有功功率、无功功率和频率等严格要求，以确保电网稳定运行。传统上，电池制造商只销售电芯或模组，将并网集成和合规性留给开发商。宁德时代的举措将这些责任捆绑到其产品中，并提供长期性能保证。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://app.myzaker.com/news/article.php?pk=6a844812b15ec004034bb7c8">8GWh! 宁 德 时 代 /融捷 能 源等4企 储 能 订单及项目落地_ZAKER新闻</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/677506087">储能系统中的并网模式是什么 - 知乎专栏</a></li>
+
+</ul>
+</details>
+
+**标签**: `#宁德时代`, `#储能`, `#澳大利亚`, `#并网`, `#商业模式`
+
+---
+
+<a id="item-22"></a>
+## [OpenAI、谷歌、微软、Anthropic 联合支持统一 AI 抓取退出标准](http://www.geekpark.net/news/373252) ⭐️ 7.0/10
+
+OpenAI、谷歌、微软和 Anthropic 宣布将采用一项新标准，允许内容发布方通过 robots.txt 文件中的单一信号选择退出 AI 抓取，无需再为每家公司单独设置规则。该标准由 Anthropic 的 Kevin Kelley 以 IETF 互联网草案形式提出。 这是行业级的重要动向，可能重塑内容发布方与 AI 公司之间关于网络内容用于模型训练的使用规则，为发布方提供更简单、标准化的数据控制方式。它还可能影响未来监管，并为 AI 协同治理树立先例。 该信号是 Anthropic 的 Kevin Kelley 撰写的个人 IETF 互联网草案，尚未成为正式标准，且无法移除已包含在现有训练数据集中的内容。各公司的实施时间表不同：Anthropic 已开始实施，OpenAI 计划在未来几个月内跟进，微软目标为 2027 年 2 月 1 日，谷歌目标为 2027 年。
+
+rss · 极客公园 · 11月2日 00:27
+
+**背景**: Robots.txt 是网站长期使用的文件，用于告知网络爬虫哪些页面可以访问、哪些不可以，最初用于搜索索引和网页归档。随着生成式 AI 的兴起，AI 爬虫大量抓取网络内容用于模型训练，常常忽视或绕过 robots.txt，令内容发布方头疼。IETF 是制定互联网开放标准的首要标准组织。这项新提案旨在扩展 robots.txt，以统一方式涵盖 AI 训练偏好。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://tech-insider.org/ai-training-opt-out-standard-openai-google-microsoft-anthropic-robots-txt-2026/">AI Training Opt-Out: 4 Giants Agree on 1 Standard [2026]</a></li>
+<li><a href="https://aiweekly.co/alerts/openai-google-microsoft-anthropic-back-one-ai-opt-out-token">OpenAI, Google, Microsoft, Anthropic Back One AI Opt-Out ...</a></li>
+<li><a href="https://www.ietf.org/">IETF | Internet Engineering Task Force</a></li>
+
+</ul>
+</details>
+
+**标签**: `#苹果`, `#AI 数据抓取`, `#OpenAI`, `#谷歌`, `#大厂动态`
+
+---
+
+<a id="item-23"></a>
+## [蚂蚁灵光 2.0 转向个人 AI 助理，但超级 App 壁垒仍是门槛](http://www.geekpark.net/news/373249) ⭐️ 7.0/10
+
+10 月 27 日，蚂蚁集团发布灵光 2.0，将产品定位从「30 秒用自然语言生成小应用」彻底转向「能管事的个人 AI 助理」，口号为「记得住、盯得牢、办得了」。极客公园两天实测发现，它能读取支付宝账单、钉钉群聊和飞书文档，但因自身安全策略和外部平台限制，无法发送消息或完成支付。 这标志着蚂蚁集团在个人 AI 助理竞赛中的重要战略转向，但真正的瓶颈已不再是模型能力，而是中国超级 App 生态内的跨平台权限、安全责任与商业利益。其结果将决定 AI 助理能否在淘宝、微信、美团等封闭生态间运作，影响用户与开发者。 灵光 2.0 能从支付宝账单中识别自动续费项目，但看不到当前签约状态；即使用户确认，也无法发送钉钉或飞书消息，且因反爬和限流无法访问淘宝购物车或米家设备。相比之下，阿里的千问助手能直接访问淘宝购物车并在 App 内完成点单，凸显了蚂蚁与阿里之间的组织边界。
+
+rss · 极客公园 · 11月1日 10:03
+
+**背景**: 一个有用的个人 AI 助理需要四样东西：信息（账单、日程等上下文）、权限（能以你的名义行动并被外部认可）、责任（出错时有明确追责机制）和忠诚（利益冲突时替你着想）。大模型降低了信息整理的成本，但后三项仍受制于商业生态与法律规则。Meta 的 Muse 于 2026 年 9 月上线，通过安全云浏览器运行，并与 Stripe、Shopify 合作；Anthropic 的 Claude Duet 则在云虚拟机上定期检查应用。而在中国，日常消费与沟通集中在少数超级 App 内，跨平台访问难度大得多。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Introducing Muse : The World’s First Personal AI Agent Built for...</a></li>
+<li><a href="https://claude.com/resources/articles/claude-duet">Introducing Claude Duet | Claude by Anthropic</a></li>
+<li><a href="https://hackernoon.com/what-is-claude-duet-inside-anthropics-always-on-ai-assistant">hackernoon.com/what-is- claude - duet -inside-anthropics-always-on- ai ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#蚂蚁集团`, `#个人AI助理`, `#灵光2.0`, `#大厂AI布局`, `#超级App生态`
+
+---
+
+<a id="item-24"></a>
+## [早报：iPad Pro 均热板、OpenAI 共享额度、智界独立](https://www.ifanr.com/1687043?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+一份每日新闻汇总报道称，苹果可能为 iPad Pro 加入均热板散热系统，OpenAI 将让 ChatGPT 与 Codex 共享使用额度，奇瑞就智界品牌独立一事作出回应。该汇总还涵盖 10 月车企销量、萨姆·奥特曼与约 50 名三星高管的座谈，以及西湖大学成立世界模型研究中心。 这些动态表明苹果持续关注高性能平板的散热管理，OpenAI 正推动其 AI 产品生态的统一，而中国车企的品牌战略也在不断演变。这些变化将影响开发者、苹果用户以及 AI 和电动汽车领域的竞争格局。 均热板是一种扁平密封腔体，利用蒸发-冷凝循环将点热源的热量扩散到大面积上，原理类似热管但呈平面形态。Codex 是 OpenAI 的 AI 代码生成模型，能根据自然语言提示生成、补全和修改代码，并于 2025 年 4 月推出了本地 CLI 代理。
+
+rss · 爱范儿 · 11月2日 00:03
+
+**背景**: 均热板是常用于智能手机和笔记本电脑的先进散热组件，用于管理高性能芯片产生的热量。OpenAI Codex 源自 2021 年发布的初代 Codex 模型，现已集成到 OpenAI 的编程工具中。世界模型是能够构建环境内部表征并预测未来状态的 AI 系统，被视为通往通用人工智能的关键一步。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/OpenAI_Codex">OpenAI Codex - 维基百科，自由的百科全书</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI_Codex">OpenAI Codex - Wikipedia</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1934608134745338050">【世界模型】一文读懂世界模型：从核心原理到前沿争议 - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#OpenAI`, `#Chery`, `#AI`, `#Automotive`
+
+---
+
+<a id="item-25"></a>
+## [苹果选择阿里千问，背后另有战略考量](https://www.tmtpost.com/8189162.html) ⭐️ 6.0/10
+
+苹果已选择阿里云的通义千问（Qwen）作为其在中国市场的 AI 合作伙伴，这一决定由阿里巴巴董事局主席蔡崇信于 2025 年 2 月确认。该合作旨在为在中国销售的 iPhone 引入 Apple Intelligence 功能，同时符合当地监管要求。 这一合作意义重大，因为它使苹果能够在中国这一关键市场部署 AI 功能，同时应对严格的数据和内容监管。它 also 增强了阿里巴巴在国内 AI 竞赛中的地位，并可能重塑中国大模型提供商的竞争格局。 据报道，苹果在选择阿里之前测试了百度、字节跳动、腾讯和 DeepSeek 的模型；百度最初被看好，但其模型未能达到苹果的技术标准。Qwen 模型大多以 Apache 2.0 许可证开源，已开源超过 400 个模型，全球下载量突破 30 亿次，最新的 Qwen3-Next 采用混合专家（MoE）架构，总参数 800 亿但仅激活 30 亿。
+
+rss · 钛媒体 · 11月2日 01:17
+
+**背景**: Apple Intelligence 是苹果的 AI 功能套件，在监管严格的地区（如中国）需要与本地 AI 提供商合作。阿里巴巴的通义千问（Qwen）是阿里云开发的大语言模型系列，以其开源策略和多模态强大性能著称。这一合作反映了全球科技公司与中国 AI 企业合作以遵守当地法律并进入市场的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/23314133647">苹果AI入华合作伙伴揭晓，为何最终牵手阿里？ - 知乎</a></li>
+<li><a href="https://m.36kr.com/p/3165772247853575">蔡崇信：苹果为何选择了阿里？-36氪</a></li>
+<li><a href="https://baike.baidu.com/item/%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE/68593854">阿里千问（阿里巴巴旗下的AI平台）_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#苹果`, `#阿里千问`, `#AI大模型`, `#大厂合作`, `#战略布局`
+
+---
+
+<a id="item-26"></a>
+## [谁在决定中国商业火箭的命运？](https://www.tmtpost.com/8189362.html) ⭐️ 6.0/10
+
+一篇行业分析文章以“一箭 18 星”发射为背景，探讨了中国商业火箭公司如何争夺卫星客户的长期发射订单。文章指出，随着火箭数量增多，能否获得稳定的卫星客户订单正成为企业竞争的关键。 这一点很重要，因为商业航天正从技术验证转向商业可行性，长期合同将决定哪些火箭公司能够生存。其结果将影响中国卫星互联网的部署以及更广泛的商业发射市场格局。 文章指出，“一箭 18 星”依靠平板式卫星堆叠技术来提高空间利用率并降低单颗卫星的发射成本。不过，该分析以行业观察为主，缺乏独家数据或重大事件突破。
+
+rss · 钛媒体 · 11月2日 01:11
+
+**背景**: 中国商业航天产业发展迅速，规划了多个低轨卫星星座，包括 GW 星座（12992 颗卫星）、G60/千帆星座（约 1.5 万颗卫星）和鸿鹄星座（1 万颗卫星）。“一箭 18 星”方式于 2024 年 8 月首次用于发射首批千帆星座卫星，现已成为星座组网的常用手段。随着火箭发射次数增加，商业发射服务商之间的竞争日益激烈，各公司都在争夺卫星运营商的长期合同。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E4%B8%80%E7%AE%AD18%E6%98%9F/64762002">一箭18星 - 百度百科</a></li>
+<li><a href="https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91/67904462">中国卫星互联网 - 百度百科</a></li>
+<li><a href="https://news.qq.com/rain/a/20240806A0885L00">一箭18星！中国1.5万颗卫星今起“千帆竞发”_腾讯新闻</a></li>
+
+</ul>
+</details>
+
+**标签**: `#商业航天`, `#火箭发射`, `#卫星互联网`, `#行业竞争`, `#大厂要闻`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-27"></a>
+## [自改进 AI 客服可能随时间退化](https://news.google.com/rss/articles/CBMiX0FVX3lxTE51dkVxdjIxM2dteEU1UHJ3Y2llZlo0WEc5eF9hQ0w1VzR6LUtLUXVTS1FzdzVjMFRSeHRqTXlsakJaVGpCWV96UktuUVJlcFd0YXBvVnlkMTI3RVI2ZW93?oc=5) ⭐️ 7.0/10
+
+科技行者的一篇报道指出，旨在自我改进的 AI 客服系统实际上可能性能退化，通过反馈循环学到不良行为。这种现象通常被称为模型崩溃或时间退化，表明如果没有适当的保护措施，自我训练的 AI 可能随时间推移变得效率更低。 这对客服行业意义重大，因为许多公司正在部署从交互中持续学习的 AI 聊天机器人。如果这些系统退化，可能导致客户体验变差、成本增加和品牌受损，影响企业及其客户。 这种退化通常与反馈循环有关，即模型在自己的输出上训练，放大错误和偏差，这种现象被称为模型自噬障碍。时间退化模式已在多个行业中被观察到，如果没有人工监督或定期用新数据重新训练，性能可能会下降。
+
+rss · 客服行业动态 · 11月2日 00:17
+
+**背景**: 自改进 AI 指的是利用自身交互来更新和改进模型的系统，通常通过人类反馈强化学习等技术实现。然而，当模型在自身生成的数据上训练时，可能会遭遇模型崩溃，即模型在多代训练后失去多样性和准确性。这是机器学习中的一个已知风险，尤其是在客户服务这样用户输入变化很大的动态环境中。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9270447/">Temporal quality degradation in AI models - PMC</a></li>
+<li><a href="https://antlerzz.com/blog/ai-agent-explained-why-your-ai-agent-gets-dumber-every-day/">AI Model Collapse : Why Replacing Humans With AI Is Disastrous</a></li>
+<li><a href="https://jamesfishwick.com/2025/jul/2/model-autophagy-disorder-ai-will-eat-itself/">Model Autophagy Disorder: AI Will Eat Itself | James Fishwick</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI customer service`, `#self-improving AI`, `#model degradation`, `#customer service industry`, `#AI risks`
+
+---
+
+<a id="item-28"></a>
+## [景区工作人员向人群扔炸药包道具，NPC 扔回后爆炸](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kVTB4Smk2SVhJUllIenU1RVZaUTdRN2s5cDUyVU1wS0JucHliU3dKS0s0NEh4MC1RQlNSNENBdDlYSWN4RjhOaEJMYnc?oc=5) ⭐️ 4.0/10
+
+郑州电影小镇景区的一段视频显示，一名工作人员从二楼向楼下游客人群抛下炸药包道具，楼下 NPC（特定角色演出人员）捡起后扔回二楼，随后发生爆炸。景区客服回应称，“炸药包”只是造型道具，实际引爆装置设在二楼，不会对游客造成伤害。 该事件凸显了旅游景区沉浸式实景演出中的安全问题，逼真的特效可能模糊娱乐与危险感知之间的界限。这也引发了对这类演出是否向游客充分传达安全信息的质疑，可能促使景区重新审视互动特技表演的安全规范。 演出发生在河南郑州电影小镇，工作人员从二楼向游客方向抛下炸药包道具，NPC 将其扔回后随即出现爆炸效果。景区声称实际引爆装置设在二楼，不会造成危险，但部分游客对道具可能伤人表示担忧。
+
+rss · 客服行业动态 · 11月1日 12:45
+
+**背景**: 实景演出是在景区内进行的沉浸式表演，常使用爆炸、烟雾等特效来增强体验。在这类演出中，“NPC”指穿着戏服、作为剧情一部分与观众互动的角色扮演人员。该事件引发了关于此类景点在真实感与安全性之间如何平衡的讨论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ifeng.com/c/8xhn42Ks0o2">景 区 工作人员向人群中扔炸药包，被楼下 NPC ... | 凤凰网</a></li>
+<li><a href="https://global.hk01.com/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E4%BA%8B/60405944/%E5%AE%9E%E6%99%AF%E6%BC%94%E5%87%BA%E4%BA%92%E6%8E%B7-%E7%82%B8%E8%8D%AF%E5%8C%85-%E6%B8%B8%E5%AE%A2%E5%BF%A7%E8%AF%AF%E4%BC%A4%E6%97%A0%E8%BE%9C-%E6%99%AF%E5%8C%BA-%E7%BA%AF%E9%81%93%E5%85%B7%E7%89%B9%E6%95%88%E4%B8%8D%E4%BC%A4%E4%BA%BA">实景演出互掷“炸药包”游客忧误伤无辜 景区：纯道具特效不伤人</a></li>
+<li><a href="https://www.toutiao.com/article/7703161307851227691/">郑州一景区工作人员向人群中扔炸药包，被楼下NPC扔回后直接爆炸，景区...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 一些观众称赞这种沉浸式体验很刺激，但也有游客担心逼真的爆炸效果可能导致受伤或引发恐慌。讨论焦点在于景区是否应提供更明确的安全提示，或调整表演以降低感知风险。
+
+**标签**: `#customer service`, `#crisis management`, `#scenic area`, `#incident response`, `#public safety`
+
+---
