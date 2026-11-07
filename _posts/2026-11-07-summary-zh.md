@@ -1,0 +1,827 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-07 (ZH)"
+date: 2026-11-07
+lang: zh
+---
+
+> 从 83 条内容中筛选出 34 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [国家能源局：2030 年虚拟电厂调节能力目标 5000 万千瓦以上](#item-1) ⭐️ 8.0/10
+2. [IEA 预计全球可再生能源新增装机 20 多年来首次下降](#item-2) ⭐️ 8.0/10
+3. [远景参加首次中加能源部长对话，推动新型电力系统落地加拿大](#item-3) ⭐️ 7.0/10
+4. [中国电建长三角首个虚拟电厂上线](#item-4) ⭐️ 7.0/10
+5. [IEA 警告全球煤炭需求或创新高，LNG 运输恢复成关键](#item-5) ⭐️ 7.0/10
+6. [IEA：未来五年新兴经济体可再生能源新增装机将追平发达经济体](#item-6) ⭐️ 7.0/10
+7. [欧盟监管机构警告：到 2050 年电网费用可能上涨 50%至 100%](#item-7) ⭐️ 7.0/10
+8. [欧盟能源监管机构 ACER 发布 EU-Flex 电网灵活性模型初版](#item-8) ⭐️ 7.0/10
+9. [ACER 预计 2030 年前欧盟电网投资持续增长，荷兰或增至近五倍](#item-9) ⭐️ 6.0/10
+10. [亨鑫科技虚拟电厂调度平台入选一等奖拟授奖名单](#item-10) ⭐️ 6.0/10
+
+### 🤖 AI 科技
+
+11. [分析称 AI 正在大幅加速 AI 研究](#item-11) ⭐️ 8.0/10
+12. [Libghostty 1.0 稳定版发布](#item-12) ⭐️ 7.0/10
+13. [Jev 评判模型选择性调用 Opus，以 4 倍低成本达到 Opus 级准确率](#item-13) ⭐️ 7.0/10
+14. [PwnEscape 第二部分：Firecracker 虚拟机逃逸漏洞利用详解](#item-14) ⭐️ 7.0/10
+15. [钠离子电池接近 LFP 成本平价，供应协议达 70 GWh](#item-15) ⭐️ 7.0/10
+16. [谷歌以 170 亿美元 AI 基础设施投资收购 Crusoe 怀俄明州数据中心场地](#item-16) ⭐️ 7.0/10
+17. [ChatGPT 静默将工具调用路由到不同连接器，引发 MCP 安全辩论](#item-17) ⭐️ 7.0/10
+18. [美国联邦航空管理局将于 2028 年前淘汰空中交通管制中的软盘](#item-18) ⭐️ 6.0/10
+19. [UEFI 裸机编程入门指南](#item-19) ⭐️ 6.0/10
+20. [支付盗刷活动瞄准餐厅外卖网站](#item-20) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+21. [AI 投资转向：Anthropic 与 OpenAI 估值下调，数据中心监管收紧](#item-21) ⭐️ 8.0/10
+22. [比亚迪仰望 U9X 极速突破 500km/h，成为全球最快量产车](#item-22) ⭐️ 8.0/10
+23. [马斯克宣布 Cybertruck 停产：销量仅达预期一成](#item-23) ⭐️ 8.0/10
+24. [Waymo 从技术供应商转型为消费者出行品牌](#item-24) ⭐️ 7.0/10
+25. [LVMH 市值蒸发千亿，Gucci 营收下滑 6%，奢侈品巨头扛不住了？](#item-25) ⭐️ 7.0/10
+26. [傅利叶智能为 Meta 定制人形机器人，凸显 80 亿元估值](#item-26) ⭐️ 7.0/10
+27. [Thinking Machines Lab 发布 Inkling 2 Small，中国以外最高分开放权重模型](#item-27) ⭐️ 7.0/10
+28. [万盛股份 2.85 亿溢价并购遭上交所三问](#item-28) ⭐️ 6.0/10
+29. [为何不看好苹果国行 AI：三大理由](#item-29) ⭐️ 6.0/10
+30. [关键矿产争夺战：谁为重建供应链买单？](#item-30) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+31. [澳门三人疑堕假冒抖音客服骗局共失 90 万澳门元](#item-31) ⭐️ 6.0/10
+32. [江津民警上门劝阻“客服退款”诈骗](#item-32) ⭐️ 4.0/10
+33. [爱奇艺会员吐槽追剧遇滚屏广告，客服回应被批吃相难看](#item-33) ⭐️ 4.0/10
+34. [万屿科技 AI 语音客服阻碍用户维权](#item-34) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [国家能源局：2030 年虚拟电厂调节能力目标 5000 万千瓦以上](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVFhScmxjX05lcXl5d0Rja2RjTnViNEwzTFFJdFhhUF82dGtncmtlSE9oNjFyQnNPT0VrVXFaRFAxQUxFMU9ubV9KQzMzQTB5YmgtTlRNT2pwdUpjLUdiUQ?oc=5) ⭐️ 8.0/10
+
+国家能源局在“十五五”时期提出，到 2030 年推动虚拟电厂调节能力达到 5000 万千瓦以上。东方财富等媒体报道称，机构看好相关软硬件需求快速放量。 这是国家级能源政策目标，有望显著推动虚拟电厂、电力需求侧管理和新能源消纳的发展。它预示着软件平台、智能计量和储能等领域存在巨大市场空间，将影响电力行业内的公用事业公司、技术供应商和投资者。 该目标具体指虚拟电厂的调节能力，即聚合屋顶光伏、电池和柔性负荷等分布式能源资源以提供电网服务。5000 万千瓦是“十五五”规划（2026-2030 年）的一部分，但具体实施细节和区域分解尚未公布。
+
+google\_news · 东方财富 · 11月6日 06:51
+
+**背景**: 虚拟电厂是将分布式能源资源（如光伏、电池、电动汽车和可控负荷）聚合协调，像单一电厂一样运行，主要提供电网调节服务。中国一直在推动虚拟电厂发展，以帮助消纳快速增长的新能源（常面临弃风弃光挑战），并改善电力需求侧管理。“十五五”时期（2026-2030 年）是扩大此类灵活性资源规模的关键窗口。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工作的？ -中新网</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E8%83%BD%E6%BA%90%E6%B6%88%E7%BA%B3/68565442">新能源消纳_百度百科</a></li>
+<li><a href="https://worktile.com/kb/p/3723230">电 力 需 求 侧 管 理 指什么 • Worktile社区</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力需求侧管理`, `#新能源消纳`, `#储能`
+
+---
+
+<a id="item-2"></a>
+## [IEA 预计全球可再生能源新增装机 20 多年来首次下降](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZEJ3UElYc3ZvRTlLdWJpU0JZaWZEZm1wRlNKRW5admFVV1BwbEM3b0ZVMTF2OERPMEFLZDgtbEhQelNGM0ljRDIyZw?oc=5) ⭐️ 8.0/10
+
+根据新浪网的报道，国际能源署（IEA）预测 2024 年全球可再生能源新增装机容量将出现下降，这是 20 多年来的首次减少。 这一预测表明可再生能源的快速增长可能放缓，可能影响全球能源转型努力、投资流动以及对清洁能源的政策支持。政策制定者和行业利益相关者需要重新评估激励措施和市场条件，以保持发展势头。 下降归因于政策不确定性、供应链限制和融资成本上升等因素的综合作用，不过 IEA 报告并未具体说明下降幅度。该预测针对 2024 年，与多年来创纪录的新增装机形成对比。
+
+google\_news · 新浪网 · 11月6日 11:01
+
+**背景**: 可再生能源新增装机容量是指在特定时期内新安装的太阳能、风能等可再生能源发电容量。国际能源署是一个政府间组织，提供关于全球能源领域的权威分析和预测。在成本下降和政策支持推动多年快速增长之后，出现下降将标志着该行业轨迹的重大转变。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/renewables-2025">Renewables 2025 - IEA - International Energy Agency</a></li>
+<li><a href="https://www.iea.org/reports/renewable-energy-market-update-2021/renewable-electricity">Renewable electricity - Renewable Energy Market Update 2021 - IEA</a></li>
+
+</ul>
+</details>
+
+**标签**: `#renewable energy`, `#IEA`, `#energy policy`, `#capacity additions`, `#market trend`
+
+---
+
+<a id="item-3"></a>
+## [远景参加首次中加能源部长对话，推动新型电力系统落地加拿大](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmdoSWFrWDhQRmlsX2czNTJkM0trcnNTQnp2eE5QNGNoT0RCRFBQNkZFVDJLREZ0SXFvNEU5ZEFvdUJYMng2OHA3U3RrODVZNWhSVDdrNUdzYU1uOG9DUzlvT0gzOXM5VHdBUWhjWFFFXzZqeTlXalU1Z2JVaFhRMA?oc=5) ⭐️ 7.0/10
+
+远景科技集团参加了首次中加能源部长对话，旨在加速新型电力系统在加拿大的落地。据新华网报道，这是中加两国首次举行部长级能源对话。 此次对话标志着中加在清洁能源和能源转型方面的双边合作得到加强，可能为中国能源技术企业开辟新市场。同时，它也可能加速加拿大采用先进的电网和可再生能源解决方案，对两国的能源政策和行业利益相关者产生影响。 远景是风力涡轮机、储能和能源管理软件领域的全球领导者，其参与凸显了私营企业在国际能源外交中的作用。目前可获得的摘要中尚未详细说明对话的具体成果和协议。
+
+google\_news · 新华网 · 11月6日 08:48
+
+**背景**: “新型电力系统”是中国国家能源局提出的概念，指以风能、太阳能等可再生能源为主的电力系统，这些能源具有波动性，需要先进的电网管理和储能技术。总部位于上海的远景能源提供风力涡轮机和能源管理软件，并与全球汽车制造商建立了战略合作伙伴关系。中加能源部长对话是讨论能源合作和政策协调的新高级别平台。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf">nea.gov.cn/download/xxdlxtfzlpsgk.pdf</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Envision_Energy">Envision Energy - Wikipedia</a></li>
+<li><a href="https://www.envision-group.com/cn/">远景科技集团 Envision Group</a></li>
+
+</ul>
+</details>
+
+**标签**: `#中加能源合作`, `#新型电力系统`, `#能源政策`, `#国际对话`, `#清洁能源`
+
+---
+
+<a id="item-4"></a>
+## [中国电建长三角首个虚拟电厂上线](https://news.google.com/rss/articles/CBMiYkFVX3lxTE42c0lvZHlNd0g0ZjRqNHJ3ZXcyQXdlZTd2WnNNX1BtVkFLQ0VLek1uYlV4WWhIbWpxd3l1N296WDZPdUJJVkNmdnZXU0F1MWx4bTJNdkpBRk1CN04xaVkwYzFR?oc=5) ⭐️ 7.0/10
+
+中国电建长三角地区首个虚拟电厂正式上线，配套自主研发的虚拟电厂及售电智能运营管理系统进入试运行阶段。该项目由江西电建公司旗下智信能源科技有限公司与中电建（南京）工程有限公司联合打造，采用“资源+技术”联合运营模式。 这标志着大型央企在能源数字化转型和新型电力系统建设中迈出实质性一步，展示了虚拟电厂在整合分布式能源资源和支撑电网灵活性方面的作用。该项目为其他地区规模化推广虚拟电厂以及售电公司聚合灵活负荷提供了参考模式。 该系统由中国电建自主研发，涵盖虚拟电厂运营和售电智能管理，旨在破解虚拟电厂规模化难题。项目由江西电建与中电建（南京）工程有限公司联合实施，但具体聚合容量、资源类型和市场参与细节尚未披露。
+
+google\_news · 观点网 · 11月6日 10:08
+
+**背景**: 虚拟电厂并非实体电厂，而是基于云端的聚合平台，通过协调屋顶光伏、储能、电动汽车和可调负荷等分布式资源，提供削峰填谷、调频等电网服务。中国正在推动以新能源为主体的新型电力系统建设，可再生能源占比上升增加了对灵活资源的需求，虚拟电厂被视为在不新建调峰电厂的情况下平衡供需的关键手段。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.powerchina.cn/zxzx/jcdt/art/2026/art_6c38b4f04f4e43d4a92e8cd4f9bae5e6.html">中国电建长三角地区首个虚拟电厂成功落地</a></li>
+<li><a href="https://www.sohu.com/a/1098158840_114984">中国电建长三角地区首个虚拟电厂上线 配套自研系统试运行</a></li>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工作的？ -中新网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#中国电建`, `#长三角`, `#能源数字化`, `#新型电力系统`
+
+---
+
+<a id="item-5"></a>
+## [IEA 警告全球煤炭需求或创新高，LNG 运输恢复成关键](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）警告称，全球煤炭需求可能达到历史新高，而如果 LNG 运输难以恢复，明年可能再次打破纪录。 这预示着潜在的市场变化和供应链风险，可能影响能源安全和气候目标，因为煤炭需求上升和 LNG 运输中断可能阻碍向清洁能源的转型。 IEA 的警告凸显了全球能源市场的相互依赖性，LNG 运输中断可能导致煤炭使用增加，而创纪录的需求主要由中国和印度等严重依赖煤炭的国家推动。
+
+google\_news · 财联社 · 11月6日 09:26
+
+**背景**: 国际能源署（IEA）是 1974 年成立的巴黎政府间组织，提供全球能源领域的政策建议和分析。2023 年全球煤炭需求达到创纪录的 86.87 亿吨，主要由中国和印度推动，2024 年燃煤发电量也创下历史新高。LNG 运输是指通过专用气体运输船运输液化天然气，该供应链的中断可能迫使各国更多地依赖煤炭发电。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/coal-2024/demand">Demand - Coal 2024 - IEA</a></li>
+<li><a href="https://www.iea.org/reports/coal-mid-year-update-2025/demand">Demand - Coal Mid-Year Update 2025 - IEA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/International_Energy_Agency">International Energy Agency - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal demand`, `#IEA`, `#LNG shipping`, `#energy policy`, `#energy security`
+
+---
+
+<a id="item-6"></a>
+## [IEA：未来五年新兴经济体可再生能源新增装机将追平发达经济体](https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3RlT2JlYjZIaFpkU1RhZjBDai1lWlNhbmZrTlZTQ0VMZm9Dcm55a1RYVGItTVNRbGlKOEFFYWhLVnZUY25Ob0pxWWxndlh3UDhmb19ZR245V2ljZnFEMFJ3SUNxODQ4TTdaMlhlWkN2TlIwdm5EaXNGRnJmcm9BWlZFR1MydlRxS1FkUQ?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）在《可再生能源 2026》报告中预测，未来五年，中国以外的新兴和发展中经济体的可再生能源新增装机容量将首次与发达经济体持平。这标志着全球清洁能源部署的重大转变，新兴市场的增长将抵消中国增速的放缓。 这一转变表明，可再生能源增长的地理中心正在从中国和发达经济体向外扩展，可能重塑全球能源投资流动和供应链。它还凸显了新兴市场在清洁能源转型中日益重要的作用，对政策、市场和国际气候目标具有深远影响。 该预测涵盖 2026-2031 年，并指出中国以外新兴市场的加速增长将抵消中国的放缓，而发达经济体的新增装机则保持平稳。报告还提到霍尔木兹危机作为影响能源市场的背景因素。
+
+google\_news · 搜狐网 · 11月6日 05:10
+
+**背景**: 国际能源署（IEA）是一个政府间组织，提供关于全球能源领域的权威分析和预测。其年度《可再生能源》报告跟踪电力、交通和供热领域可再生能源技术的部署情况，被政策制定者和投资者广泛使用。历史上，中国和发达经济体在可再生能源新增装机中占主导地位，但这一预测标志着中国以外的新兴经济体首次有望与发达经济体持平。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/business/energy/emerging-economies-set-match-advanced-nations-renewable-capacity-additions-iea-2026-11-06/">Emerging economies set to match advanced nations&#x27; renewable ...</a></li>
+<li><a href="https://www.iea.org/reports/renewables-2026/renewable-electricity">Renewable electricity - Renewables 2026 - IEA</a></li>
+<li><a href="https://energynews.pro/en/iea-emerging-economies-outside-china-to-match-advanced-economies-in-renewable-additions">IEA: Emerging Economies Outside China to Match Advanced ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#renewable energy`, `#energy policy`, `#emerging economies`, `#capacity additions`
+
+---
+
+<a id="item-7"></a>
+## [欧盟监管机构警告：到 2050 年电网费用可能上涨 50%至 100%](https://news.google.com/rss/articles/CBMi5gNBVV95cUxPSkVEaXpnQ0oyTVNGcHFWNl9TZ1NNVk1WRi1iMXkxVzVIVWhpOWF5QmtrWTNsVElZNVJNOHpKRkhmZlk2QXFrcEFDOWRhZ0NtNGtjQkF2SzVCYUtscHJMcEVxMkhRMTNldnJYVzc0NW83WEx1c1FKWUdWNTNtOTNLZElmOHhPc0JKdnZYUDgwRVFOaW5rWjY3THBzMzhlRWJnVWxTc1liNVZuMlNESjBGeGFYM0licW9nZ1J0dFNoemJDNTBLY2lSM2ZzSGRuSmR1T3VsM0xfY2Etb2JZaGxBMTh2Q2NoV2tmNVg0enRSSDZyT3NJN0ZOSWswU2JaVm51VEVqN0ZrcXBxLWMzY2lOb3dMT2ZmcXRFclhjNDlOSHd6MEp0bWYtV1VsWlJOYnRtVWJqYmc4WWh2SDg4TkRHeURjV3BaZ3ZyMzRZSnY2N1hkcmh4QzByNU1TeFRlTGJub2txa28ycXlFUFlZZGRwS3pQd2ktdmstQUpjM0gyT2g3cE5xSG5JakV3b1JnSXdVSFgwR1JwMnRfWmVfMUJXLTk4b1pGWGFyRkNOSUtoT29oQTRmTG9aVWZQU2VGWml1YzhmQXBXVkFrSFNpV1dLMUhrUWFEcUxNQmdWMExlWktWZnZwckE?oc=5) ⭐️ 7.0/10
+
+据新浪财经报道，欧盟能源监管机构预测，到 2050 年消费者电网费用可能上涨 50%至 100%。这一警告凸显了欧盟大举投资电网基础设施给电力消费者带来的未来成本压力。 这一预测表明，能源转型的电网投资成本将越来越多地转嫁给家庭和工业消费者，可能引发围绕电价可负担性的政治反弹。该问题与欧盟电力市场设计辩论、网络电价改革以及欧盟竞争力议程直接相关。 电网费用由各国监管机构设定，各成员国之间差异很大，费用最高地区的收费是最低地区的两倍以上。欧盟能源监管合作署（ACER）每两年发布一次输配电价方法最佳实践报告，欧盟规则要求电价反映成本，并为高效使用电网提供信号。
+
+google\_news · 新浪财经 · 11月6日 16:44
+
+**背景**: 电网费用（即网络电价）是电费中用于支付输配电网络建设、维护和运营的附加收费。随着欧洲整合更多可再生能源并推动供暖和交通电气化，电网需要巨额投资，而这些成本通过受监管的电价回收。欧盟委员会于 2023 年 11 月通过了《欧盟电网行动计划》，并于 2025 年 12 月提出了《欧洲电网一揽子计划》，以加快电网建设和许可审批。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.acer.europa.eu/electricity/infrastructure/network-tariffs">Network tariffs | www.acer.europa.eu</a></li>
+<li><a href="https://energy.ec.europa.eu/topics/infrastructure/european-grids_en">European grids - European Commission - energy.ec.europa.eu</a></li>
+<li><a href="https://www.cleanenergywire.org/factsheets/power-grid-fees-unfair-and-opaque">Power grid fees - Unfair and opaque? | Clean Energy Wire</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU energy policy`, `#grid fees`, `#electricity costs`, `#energy regulation`, `#consumer impact`
+
+---
+
+<a id="item-8"></a>
+## [欧盟能源监管机构 ACER 发布 EU-Flex 电网灵活性模型初版](https://news.google.com/rss/articles/CBMiWEFVX3lxTFByeWszbERKX0Vob21DQ3BHNUZQYWFtNFFCcU5WTFRfYmlJZzJpejNZbU8tckVtcGtYOGZkSVppb0tSOV9PaG5tbE9GbzVDTjdEVUJSLWRselc?oc=5) ⭐️ 7.0/10
+
+欧盟能源监管机构合作署（ACER）于 2026 年 10 月 21 日宣布发布 EU-Flex 的初步版本，这是一个开源电力市场模型，旨在评估欧洲电力系统的灵活性需求。该模型在 Open Energy Transition（OET）的支持下开发，将用于 2027 年的灵活性需求评估。 此次发布提供了一个标准化的开源工具，用于量化电网灵活性，这对于整合日益增长的可再生能源份额和确保电网稳定至关重要。它将直接影响欧盟成员国的国家灵活性评估和市场设计，有助于塑造灵活性资源的投资信号。 EU-Flex 是在 ACER 于 2025 年 7 月批准国家电力灵活性需求评估方法之后推出的，成员国需在 2026 年 7 月前完成国家评估，并在 2027 年 1 月前设定指示性的非化石灵活性目标。该模型基于国家和欧洲的资源充裕性评估，旨在指导电网运营商和成员国识别清洁和灵活的能源需求。
+
+google\_news · 维度网 · 11月6日 06:15
+
+**背景**: 电网灵活性是指电力系统适应发电和用电变化的能力，能够通过需求响应、储能和灵活发电来平衡供需。ACER 是协调各国能源监管机构的欧盟机构，负责制定支持欧盟脱碳目标的方法。EU-Flex 模型是欧洲范围内标准化灵活性评估的更广泛努力的一部分，欧洲环境署（EEA）和 ACER 的一份报告指出，到 2030 年灵活性需求将翻倍。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.acer.europa.eu/sites/default/files/documents/Other+Documents_annex/ACER-EU-Flex-model-Methodology-2026.pdf">ACER EU-Flex model - Underlying methodology</a></li>
+<li><a href="https://www.acer.europa.eu/flexibility">Flexibility | www.acer.europa.eu</a></li>
+<li><a href="https://virtu.energy/acers-eu-flex-model-sets-framework-for-assessing-flexibility-needs-across-southeast-europe/">ACER’s EU-Flex model sets framework for assessing flexibility ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU energy policy`, `#grid flexibility`, `#energy regulation`, `#power systems`, `#renewable integration`
+
+---
+
+<a id="item-9"></a>
+## [ACER 预计 2030 年前欧盟电网投资持续增长，荷兰或增至近五倍](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsM05YVkVsVnJ6cnB6TXpqU3RyVnRza0pJWF9tX21qYTVXMUcxTnA4MTJzNDBHS1ctOGZSMDZiWVpWUVk4VFFNdzBfdGt5dw?oc=5) ⭐️ 6.0/10
+
+欧盟能源监管合作署（ACER）预计，到 2030 年欧盟电网投资将持续增长，其中荷兰的增幅可能接近五倍。 这一预测表明欧洲将持续推动电网现代化政策，这对于整合可再生能源和实现气候目标至关重要；它将影响整个欧盟的公用事业公司、电网运营商、投资者和监管机构。 ACER 的预测突出表明荷兰是一个突出案例，到 2030 年其电网投资可能增长近五倍，这反映了该国严重的电网拥堵和可再生能源的快速建设。
+
+google\_news · 观点网 · 11月6日 06:26
+
+**背景**: ACER 是成立于 2011 年的欧盟机构，负责协调各国能源监管机构并确保市场一体化。欧洲电网正因太阳能和风电容量的激增而承受压力，尽管年度电网投资在五年内增长了 47%至约 700 亿欧元，但仍未达到净零目标所需水平。荷兰常被认为是欧洲电网拥堵最极端的例子，这促使了投资的加速。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/European_Union_Agency_for_the_Cooperation_of_Energy_Regulators">European Union Agency for the Cooperation of Energy Regulators</a></li>
+<li><a href="https://balticwind.eu/europes-three-fold-solar-and-wind-growth-sparks-urgent-grid-investment-aurora-finds/">Europe ’s three-fold solar and wind growth sparks urgent grid ...</a></li>
+<li><a href="https://voiceofrenewables.com/netherlands-europes-most-extreme-example-grid-congestion/">The Netherlands : Europe ’s Most Extreme Example of Grid ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU energy policy`, `#grid investment`, `#ACER`, `#Netherlands`, `#energy infrastructure`
+
+---
+
+<a id="item-10"></a>
+## [亨鑫科技虚拟电厂调度平台入选一等奖拟授奖名单](https://news.google.com/rss/articles/CBMijAFBVV95cUxPV3hWeTVsbVd6VFpLUXFzYy1ReXJGZUVTd3pmYUZyVE1kV1RLekVVaTgxbEYyMDJJd19aZTVYQVZpak1Cczl3MUN4WGRtajZoYTZzeXdfQjJ3WGVXOFBGdFA3dUFQbnU0YzdOZldiSDFrVVVLbUU1V096cDNBVExXa184SXZqanpGSkhtSA?oc=5) ⭐️ 6.0/10
+
+亨鑫科技（01085.HK）宣布，其参与完成的“面向新型电力系统的多智能体协同虚拟电厂调度平台”已入选一等奖拟授奖名单。 这一认可凸显了多智能体协同技术在虚拟电厂中的应用进展，该技术是提升电网灵活性、促进可再生能源消纳的关键支撑，契合中国新型电力系统建设方向。它也表明，随着波动性新能源规模扩大，AI 驱动的调度方案正获得更多产业和政策关注，有助于实现供需平衡。 该公告为企业获奖提名通知，未披露平台的技术细节、部署规模或性能指标。奖项尚处于“拟授奖”阶段，最终结果有待确认。
+
+google\_news · 搜狐网 · 11月6日 14:16
+
+**背景**: 虚拟电厂（VPP）将屋顶光伏、储能、可调负荷等分布式能源资源聚合起来，协调它们像一座电厂一样运行，主要提供电网调节服务而无需建设实体发电厂。中国提出的“新型电力系统”以最大化消纳新能源、保障电网安全为目标，强调源网荷储互动与多能互补。多智能体系统通过多个自主软件智能体协同求解调度问题，正被越来越多地用于实时协调海量分布式资源。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工 作 的？ -中新网</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552">新型电力系统（电力系统术语）_百度百科</a></li>
+<li><a href="https://news.bjx.com.cn/html/20221116/1269377.shtml">虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#新型电力系统`, `#多智能体`, `#能源政策`, `#电力调度`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [分析称 AI 正在大幅加速 AI 研究](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) ⭐️ 8.0/10
+
+planned-obsolescence.org 上的一篇分析文章认为，AI 正在大幅加速 AI 研究本身，并以基准测试趋势作为证据。该文在 Hacker News 上引发了 151 条评论的讨论，质疑其证据并探讨其他解释。 AI 是否在加速自身进步——通常被称为递归自我改进——是预测 AI 能力与安全性的核心问题。若属实，可能意味着能力提升更快、留给监管的时间更少；若证据不足，则可能导致政策和投资决策过于自信。 批评者指出，分析中的图表汇总了多个精心设计的基准测试，而这些基准可以被高成本地针对性训练，从而可能夸大表面进展。另一些人认为，观察到的提升可能更多来自资本密集的横向扩展和智能体集群，而非模型智能本身的深化。
+
+hackernews · yurivish · 11月6日 20:27 · [社区讨论](https://news.ycombinator.com/item?id=50397994)
+
+**背景**: 递归自我改进（RSI）指 AI 系统迭代设计出能力更强的后继系统，可能引发智能爆炸。神经缩放定律表明，模型性能会随参数、数据和算力的增加而可预测地提升，而基准测试是用于衡量 AI 能力的标准化测试。截至 2026 年，AI 公司越来越多地将 AI 用于编程和研究，但人类工作仍然不可或缺。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Recursive_self-improvement">Recursive self-improvement</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neural_scaling_law">Neural scaling law - Wikipedia</a></li>
+<li><a href="https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/">AI’s recursive self-improvement might not come so quickly ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍持怀疑态度：有人指出基准测试是精心设计的且可被针对性训练；有人质疑提升来自模型智能的扩展还是资本与并行智能体集群；还有人认为 AI 加速的工作未必转化为更快的世界变革。一位评论者还链接了一篇更详尽的替代分析，认为 RSI 可能不会很快到来。
+
+**标签**: `#AI research`, `#recursive self-improvement`, `#benchmarks`, `#scaling laws`, `#AI progress`
+
+---
+
+<a id="item-12"></a>
+## [Libghostty 1.0 稳定版发布](https://mitchellh.com/writing/libghostty-1-0) ⭐️ 7.0/10
+
+Mitchell Hashimoto 宣布 libghostty-vt 1.0 版本发布，这是一个从 Ghostty 核心中提取的可移植、高性能 C 语言终端模拟库。1.0 里程碑意味着该库本身及其 C ABI 现已稳定。 稳定的 API 使下游项目能够放心地嵌入终端模拟功能，而不必担心破坏性变更，社区成员已经在基于 libghostty 构建自己的终端应用就是证明。此次发布加强了 Ghostty 周边的生态系统，并降低了创建新终端工具的门槛。 Libghostty-vt 是一个零依赖库（甚至不依赖 libc），负责处理 VT 序列解析、终端状态管理（光标位置、样式、文本重排、回滚缓冲区）以及渲染器状态管理，并同时提供 C 和 Zig API。C ABI 的稳定性是 1.0 保证的关键部分。
+
+hackernews · mfiguiere · 11月6日 23:30 · [社区讨论](https://news.ycombinator.com/item?id=50399933)
+
+**背景**: Ghostty 是 Mitchell Hashimoto（HashiCorp 联合创始人）自 2021 年起作为个人副业项目创建的终端模拟器，使用 Zig 编写。Libghostty 是从 Ghostty 核心中提取的可嵌入库，允许任何应用集成正确、快速的终端模拟功能。像 Ghostty 这样的终端模拟器为命令行交互提供基于文本的界面，而库版本让开发者无需从头构建即可复用该功能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mitchellh.com/writing/libghostty-1-0">Libghostty 1.0 – Mitchell Hashimoto</a></li>
+<li><a href="https://lib.ghostty.org/vt/">libghostty-vt: libghostty-vt</a></li>
+<li><a href="https://github.com/ghostty-org/ghostling">GitHub - ghostty-org/ghostling: A minimum viable terminal ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍持积极态度，一位开发者表示 libghostty“就是能用”，为他们自己的终端项目节省了大量工作；另一位则称赞在永久 0.x 软件的时代，一个知名项目达到 1.0 实属难得。有人提问为何选择 C 而不是提供类 C 接口的 Zig，反映出对设计决策的好奇。
+
+**标签**: `#terminal-emulator`, `#libghostty`, `#ghostty`, `#open-source`, `#developer-tools`
+
+---
+
+<a id="item-13"></a>
+## [Jev 评判模型选择性调用 Opus，以 4 倍低成本达到 Opus 级准确率](https://hightouch.com/blog/llm-judges-identity-resolution) ⭐️ 7.0/10
+
+Hightouch 的一篇博客文章表明，在身份解析任务中，使用一个名为 Jev 的较小“评判”模型来选择性地将查询升级到 Claude Opus，可以达到与始终使用 Opus 相同的准确率，同时将成本降低约 4 倍。 这提供了一种实用的模型路由模式，可以在不牺牲质量的情况下显著降低 LLM 推理成本，对于构建大规模成本敏感型应用的 AI 从业者来说很有价值。 该结果仅针对身份解析任务，并未声称对所有任务或编码代理都有普遍改进；该方法依赖于较小模型决定何时升级到更强模型的能力。
+
+hackernews · theanomaly · 11月6日 19:48 · [社区讨论](https://news.ycombinator.com/item?id=50397429)
+
+**背景**: LLM 评判模型是用于评估或对其他模型输出做出决策的模型。模型路由是一种成本优化技术，让较便宜的模型处理大多数查询，仅在需要时升级到更昂贵、能力更强的模型。身份解析是判断不同记录是否指向同一个人或实体的任务，通常需要细致的判断。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://hightouch.com/blog/llm-judges-identity-resolution">LLM Judges for Identity Resolution at 4x Lower Cost | Hightouch</a></li>
+<li><a href="https://github.com/danielgshea/jev-as-a-judge">GitHub - danielgshea/jev-as-a-judge: Using Jev as an ...</a></li>
+<li><a href="https://levelop.dev/blog/llm-model-routing-cost-quality-guide">LLM Model Routing : Cut LLM Costs | Levelop</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出该结果针对特定任务（身份解析），而非普遍性声明，并讨论了上下文管理和模型置信度。一些人分享了使用 Jev + Opus 或 Jev + Qwen 等模型组合的类似经验，而另一些人则指出人工标注任务中固有的挑战以及对置信度值的需求。
+
+**标签**: `#LLM orchestration`, `#model routing`, `#cost optimization`, `#LLM judges`, `#identity resolution`
+
+---
+
+<a id="item-14"></a>
+## [PwnEscape 第二部分：Firecracker 虚拟机逃逸漏洞利用详解](https://pwn.ai/blog/firecracker-escape) ⭐️ 7.0/10
+
+Pwn.AI 发布了一篇实战利用分析（PwnEscape 第二部分），展示了恶意客户机如何突破 Firecracker 的 microVM 边界，从虚拟机内部定位正在运行的 VMM 进程，并劫持一个以 root 运行的主机进程。在 Firecracker v1.16.1 上，研究人员重定向了 vCPU 线程从 KVM\_RUN 返回的路径以执行选定调用，使主机以 root 身份向 stderr 写入标记，同时虚拟机保持运行且 SSH 可响应。 Firecracker 是许多无服务器平台和沙箱化 AI 工作负载的底层技术，因此一个已演示的客户机到主机代码执行原语对多租户隔离提出了严峻问题。其影响在很大程度上取决于部署配置，尤其是是否启用了 jailer、权限降级、命名空间和 seccomp。 该利用链通过利用一个主机内存原语来定位 Firecracker 进程和活动 vCPU 线程的保存寄存器，从而将 Linux 网络缺陷转化为客户机到主机的代码执行原语。文章使用的配置没有启用 jailer，因此 Firecracker 的生产级隔离（权限降级、命名空间、seccomp）缺失，若 VMM 被攻陷后需另行评估这些控制措施的效果。
+
+hackernews · SerCe · 11月6日 19:33 · [社区讨论](https://news.ycombinator.com/item?id=50397219)
+
+**背景**: Firecracker 是一种开源虚拟化技术，专为安全的多租户容器和基于函数的服务而构建；它在轻量级 microVM 中运行每个工作负载，每个 microVM 拥有自己的内核和由 KVM 强制的边界。其安全模型在 hypervisor 边界之上叠加了 jailer，后者通过命名空间和 seccomp 降低权限并限制 Firecracker 进程。PwnEscape 是一个此前已披露的 KVM 客户机到主机逃逸漏洞（编号 CVE-2026-99999），允许客户机虚拟机通过 virtio-net 读取其 KVM 主机的内存；本文是后续文章，展示针对 Firecracker 的实际利用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://pwn.ai/blog/firecracker-escape">Firecracker VM Escape: PwnEscape Part 2. | PWN.AI Security ...</a></li>
+<li><a href="https://zeli.app/story/50397219">Firecracker VM Escape Achieves Root Code · Hacker News | Zeli</a></li>
+<li><a href="https://flawfence.com/blog/en/pwnescape-cve-2026-99999-kvm-vm-escape-linux-kernel/">PwnEscape (CVE-2026-99999): patched kernels, Proxmox, Ubuntu ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者讨论了 jailer 和 seccomp 隔离的作用，有人希望文章进一步阐述正确配置 jailer 后评估会如何变化。其他人则主张采用经过形式化验证的微内核 hypervisor（如 Nova），指出该文章是对已披露漏洞的后续分析而非新漏洞，并指出该条目与早前的 Hacker News 提交重复。
+
+**标签**: `#Firecracker`, `#VM Escape`, `#Virtualization Security`, `#Exploit`, `#AI Infrastructure`
+
+---
+
+<a id="item-15"></a>
+## [钠离子电池接近 LFP 成本平价，供应协议达 70 GWh](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/) ⭐️ 7.0/10
+
+根据 Wood Mackenzie 的分析，钠离子电池正接近与 LFP 技术的电芯级成本平价，全球供应协议已超过 70 GWh。该研究覆盖中国、美国、德国和印度，并将钠离子电池认定为固定式储能领域最有前景的锂基化学替代方案。 这一里程碑标志着更便宜、更安全的固定式储能替代方案商业化加速，可能减少对锂的依赖并降低电网级和家庭储能成本。它可能影响电池制造商、公用事业公司以及寻求更经济、热稳定性更好的储能方案的消费者。 根据 Wood Mackenzie 的数据，尽管初始成本较高，钠离子电池在 20 年内的总拥有成本可能比 LFP 低 21%。该分析基于供应协议并覆盖多个地区，但文章是行业媒体报道而非技术突破。
+
+hackernews · doener · 11月6日 23:00 · [社区讨论](https://news.ycombinator.com/item?id=50399657)
+
+**背景**: 钠离子电池使用钠离子作为电荷载体，原理与锂离子电池类似，但用钠代替锂。LFP（磷酸铁锂）是一种广泛使用的锂离子化学体系，以热稳定性和长循环寿命著称，常用于固定式储能。钠比锂更丰富且更便宜，使钠离子电池对成本敏感的应用具有吸引力，尽管其能量密度通常较低。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/">Sodium-ion batteries approach cost parity with LFP, with 70 ...</a></li>
+<li><a href="https://www.indexbox.io/blog/sodium-ion-batteries-approach-commercial-scale-with-over-70-gwh-in-supply-deals/">Sodium-Ion Batteries Near Commercial Scale: 70+ GWh Supply ...</a></li>
+<li><a href="https://www.ess-news.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-says-woodmac/">Sodium-ion batteries approach cost parity with LFP, says ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对钠离子电池在家庭储能和 12V 应用中的安全性和温度耐受性表示热情，有人提到钠离子 12V 电池有 3 年保修。然而，其他人对实际可用性持怀疑态度，有人说“就告诉我什么时候能真正买到”，另一人则拿数据库错误开玩笑。
+
+**标签**: `#sodium-ion batteries`, `#energy storage`, `#LFP`, `#battery costs`, `#clean energy`
+
+---
+
+<a id="item-16"></a>
+## [谷歌以 170 亿美元 AI 基础设施投资收购 Crusoe 怀俄明州数据中心场地](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update) ⭐️ 7.0/10
+
+谷歌已收购 Crusoe 在怀俄明州东南部的数据中心场地，作为 170 亿美元投资的一部分，这标志着 Crusoe 在该项目上的前期开发工作完成。该交易凸显了 AI 基础设施和能源保障型数据中心日益激烈的竞争。 此举标志着 AI 算力领域的大规模资本部署和战略布局，科技巨头正竞相争夺数据中心的土地、电力和水资源。这可能加速能源保障型数据中心成为核心经济基础设施的趋势，影响当地经济和更广泛的 AI 生态系统。 这项 170 亿美元的投资将建设谷歌在怀俄明州的首个数据中心，支持数千个就业岗位并创造可观的劳动收入。据报道，Crusoe 因未能锁定包括谷歌在内的客户而被边缘化，该交易完成了其涵盖选址、政府审批和电力战略的前期开发工作。
+
+hackernews · rexbee · 11月6日 20:09 · [社区讨论](https://news.ycombinator.com/item?id=50397711)
+
+**背景**: 数据中心是容纳 IT 基础设施的物理设施，用于存储、管理和传播数据，对于训练和运行 AI 模型至关重要。随着 AI 工作负载的增长，获取可靠且负担得起的能源已成为关键瓶颈，使得“能源保障型”数据中心极具价值。谷歌的投资是更广泛的全球 AI 基础设施建设的一部分，包括在芬兰的 130 亿欧元承诺。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/">Google ’s data center investment in Wyoming</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/crusoe-announces-wyoming-data-center-190200368.html?fr=sycsrp_catchall">Crusoe Announces Wyoming Data Center Campus Update</a></li>
+<li><a href="https://www.crusoe.ai/data-centers">Crusoe AI Data Centers | Energy-First Acceleration</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出，拥有能源和水资源保障的现有数据中心的价值即将飙升。一些人对过度建设和会计动机表示怀疑，认为公司可能会退出项目，而另一些人则澄清该公司并非老牌的“Transmeta Crusoe”。
+
+**标签**: `#AI infrastructure`, `#data centers`, `#Google`, `#acquisition`, `#energy`
+
+---
+
+<a id="item-17"></a>
+## [ChatGPT 静默将工具调用路由到不同连接器，引发 MCP 安全辩论](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053) ⭐️ 7.0/10
+
+一名研究人员报告称，在启用两个指向同一 MCP 服务器的连接器时，ChatGPT 静默地将后续工具调用通过不同于发起流程的连接器进行路由，并携带了来自第一个连接器小部件的一次性确认码。接收服务器因该确认码属于第一个连接器而拒绝了该调用，同时漏洞赏金计划现在要求提交时进行身份验证。 这一发现凸显了基于 MCP 的代理架构中潜在的信任边界问题，即工具调用可能未正确限定在原始连接器范围内，这可能削弱依赖 MCP 的 AI 应用的安全保证。它影响到构建或审计 ChatGPT 连接器及类似代理系统的开发者和安全团队。 该设置涉及一个 ChatGPT 账户和两个指向同一 MCP 服务器的连接器，其中连接器 A 是自定义的；调用被拒绝是因为一次性代码属于第一个连接器。据称，赏金计划的身份要求是 Bugcrowd 的反垃圾措施，而非制裁合规问题，社区成员指出作为单独工具调用的“确认”不提供真正的范围限定或绑定保证。
+
+hackernews · Aldipower · 11月6日 22:50 · [社区讨论](https://news.ycombinator.com/item?id=50399569)
+
+**背景**: 模型上下文协议（MCP）是一个开放标准，用于将 ChatGPT 等 AI 应用连接到外部数据源和工具，使代理能够通过工具调用执行操作。连接器是 OAuth 客户端，将 ChatGPT 链接到 MCP 服务器，每个工具调用预期应限定在发起它的连接器范围内。像 Bugcrowd 的托管漏洞赏金这样的赏金计划现在通常要求身份验证，以减少低质量提交。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053">Security: Follow-up tool call silently routed to a different ...</a></li>
+<li><a href="https://explainx.ai/blog/chatgpt-connector-silent-routing-same-mcp-server-oauth-client-bug-bounty-id-requirement-2026">ChatGPT Connector Routing Bug: What Was Reported (Nov 2026 ...</a></li>
+<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )? - Model Context Protocol</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者讨论了其重要性：simonw 澄清身份要求是 Bugcrowd 的反垃圾措施，而 kristjansson 认为将“确认”视为单独工具调用不提供真正的范围限定或绑定保证。其他人指出了 LLM 生成的错误报告和回复的讽刺之处，jonstewart 评论道“赏金不会体验欲望”。
+
+**标签**: `#AI security`, `#ChatGPT connectors`, `#MCP`, `#bug bounty`, `#tool calling`
+
+---
+
+<a id="item-18"></a>
+## [美国联邦航空管理局将于 2028 年前淘汰空中交通管制中的软盘](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) ⭐️ 6.0/10
+
+美国联邦航空管理局宣布将在 2028 年前逐步淘汰基于软盘的空中交通管制系统，代之以名为 EIDS 的现代化系统。这些可追溯至 20 世纪 80 年代和 90 年代、使用 MS-DOS 和 3.5 英寸软盘的遗留系统负责处理重要的天气信息和其他关键飞行数据。 这一现代化举措意义重大，因为美国联邦航空管理局老化的基础设施每天要支持多达 45,000 个航班，而 2024 年美国政府问责局的一份报告发现，90%的关键空中交通管制基础设施已到期或逾期需要进行技术更新。此举反映了政府为替换不可持续的遗留系统所做的更广泛努力，尽管许多其他现代化项目仍需数年才能完成。 被替换的系统 IDS-4 实际上是在 20 世纪 90 年代初而非有时所说的 80 年代开发的，它依赖 MS-DOS 和 3.5 英寸软盘。替换系统 EIDS 至少从 2020 年起就在开发中，计划从 2025 年开始推广，而美国联邦航空管理局严格的安全风险管理流程大大减缓了此类现代化工作的进度。
+
+hackernews · ChrisArchitect · 11月6日 04:00 · [社区讨论](https://news.ycombinator.com/item?id=50388001)
+
+**背景**: 软盘于 20 世纪 70 年代问世，最多只能存储 1.44MB 数据，在消费领域早已过时，但由于其不受网络中断影响且经过大量安全测试，仍在关键基础设施中继续使用。美国联邦航空管理局的空中交通管制系统依赖众多遗留系统来监测天气、进行监视和管理通信，其中许多系统已有数十年历史且维护成本高昂。美国政府问责局多次敦促该局加快现代化步伐，并指出一些项目还需 10 至 13 年才能完成。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids">The FAA is finally ditching floppy disks | The Verge</a></li>
+<li><a href="https://www.gao.gov/products/gao-24-107001">Air Traffic Control: FAA Actions Are Urgently Needed to ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Floppy_disk">Floppy disk - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 有美国联邦航空管理局工作经验的评论者强调，该局严格的安全风险管理流程虽然必要，但大大减缓了现代化进程，并指出长期任职的工程师存在抵触情绪。其他人则质疑技术细节，例如数据是否真的能装入 1.44MB，以及为何没有使用软盘仿真器；还有一些人批评政治作秀，并指出 EIDS 至少从 2020 年起就在开发中。少数人还纠正了说法，指出 IDS-4 系统可追溯至 20 世纪 90 年代初而非 80 年代。
+
+**标签**: `#FAA`, `#legacy systems`, `#air traffic control`, `#modernization`, `#government IT`
+
+---
+
+<a id="item-19"></a>
+## [UEFI 裸机编程入门指南](https://kevinboone.me/efitest_index.html) ⭐️ 6.0/10
+
+Kevin Boone 发布了一系列面向初学者的教程，介绍如何编写裸机 UEFI 应用程序，内容涵盖缺乏 C 标准库、EFI 类似 Windows 的编码约定以及链接器陷阱。 该教程填补了低级固件和引导加载程序开发领域的一个知识空白，因为该领域缺乏实用的入门资源。 该指南强调 UEFI 应用程序使用 PE32+ 二进制格式，并且缺失的外部符号可能不会导致链接器错误，但会在运行时崩溃；可以使用 \`nm -D --undefined-only\` 等工具验证二进制文件的有效性。
+
+hackernews · LaSombra · 11月6日 16:50 · [社区讨论](https://news.ycombinator.com/item?id=50394855)
+
+**背景**: UEFI（统一可扩展固件接口）是取代 BIOS 的现代固件接口，负责初始化硬件并引导操作系统。裸机编程是指编写直接在硬件上运行、不依赖底层操作系统的代码，常用于引导加载程序或固件。UEFI 应用程序通常用 C 语言编写，但必须遵循 EFI 自身的约定，由于历史渊源，这些约定类似于 Windows 编程。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.baeldung.com/cs/uefi-bare-metal-program-development">How to Make a Bare-Metal Program With UEFI (No OS Required)</a></li>
+<li><a href="https://krinkinmu.github.io/2020/10/11/efi-getting-started.html">Getting started with EFI | Welcome to the Mike’s homepage!</a></li>
+<li><a href="https://forum.osdev.org/viewtopic.php?t=26823">UEFI Linker error | Forum - OSDev.org</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了更多资源，例如用于 C 标准库支持的 edk2-libc 和作为 UEFI IRC 客户端示例的 uefirc。一位用户建议在构建脚本中使用 \`nm -D --undefined-only\` 来捕获缺失的符号，另一位用户指出 UEFI 的 16 位字符处理和整体环境与 Linux 开发相比显得很陌生。
+
+**标签**: `#UEFI`, `#bare-metal`, `#systems-programming`, `#firmware`, `#bootloader`
+
+---
+
+<a id="item-20"></a>
+## [支付盗刷活动瞄准餐厅外卖网站](https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming) ⭐️ 6.0/10
+
+根据 InfoHawk 的报告，一场支付盗刷活动正在利用餐厅外卖网站窃取客户的支付卡数据。该活动使用注入在线订餐平台的恶意脚本，类似于此前攻破 300 多家餐厅的 Magecart 攻击。 这一活动凸显了小企业及其客户面临的基于网络的支付欺诈风险日益增长，并引发了关于在线广告平台在助长此类骗局中所扮演角色的质疑。餐厅老板和外卖平台用户可能面临经济损失和声誉损害。 该攻击可能涉及将盗刷代码注入被攻破的餐厅网站或第三方订餐平台，在结账时捕获支付信息。防御措施包括监控访问日志中的可疑引用来源，并定期扫描恶意脚本。
+
+hackernews · fiej · 11月6日 19:19 · [社区讨论](https://news.ycombinator.com/item?id=50397017)
+
+**背景**: 网络盗刷通常与 Magecart 组织有关，涉及向电子商务网站注入恶意 JavaScript，在客户输入支付卡信息时窃取数据。餐厅在线订餐平台因处理大量交易且安全措施可能较弱，一直是频繁攻击的目标。Google Ads 也因允许冒充合法企业的诈骗广告、将用户引导至欺诈网站而受到批评。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bleepingcomputer.com/news/security/hackers-steal-50-000-credit-cards-from-300-us-restaurants/">Hackers steal 50,000 credit cards from 300 U.S. restaurants</a></li>
+<li><a href="https://thehackernews.com/2022/07/magecart-hacks-online-food-ordering.html">Magecart Hacks Food Ordering Systems to Steal Payment Data from...</a></li>
+<li><a href="https://alluresecurity.com/blog/google-ads-phishing">Google Ads Scams: How Phishing Hides in Sponsored Results</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者主要指责 Google Ads 助长了骗局，一些人认为谷歌从欺诈广告中获利且很少加以阻止。其他人则惊讶于此类攻击并不更常见，并讨论了日志监控和引用来源检查等潜在防御措施。
+
+**标签**: `#cybersecurity`, `#payment fraud`, `#online advertising`, `#web security`, `#scams`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [AI 投资转向：Anthropic 与 OpenAI 估值下调，数据中心监管收紧](https://www.tmtpost.com/8196982.html) ⭐️ 8.0/10
+
+Anthropic 提交修订版 S-1，估值从 2 万亿美元被压至 1.5 万亿至 1.6 万亿美元；OpenAI 完成 110 亿美元首期交割，投前估值 1.25 万亿美元，总融资额从 300 亿美元削减至约 200 亿美元。与此同时，10 个州 41 项数据中心公投多数通过限制措施，英伟达单日下跌 9.26%，纳指周跌 5.52%。 这标志着 AI 一级市场定价从增长叙事转向基于现金流的估值，影响 AI 初创公司的融资方式和投资者的风险评估。数据中心监管阻力和市场大幅抛售表明基础设施成本上升和政策不确定性可能减缓 AI 扩张。 Anthropic 的 S-1 于 2026 年 10 月 26 日提交，估值下调反映投资者对现金流的审视；OpenAI 总融资额削减约 100 亿美元。麦格理套现 560 亿美元转投电力资产，微软终止与甲骨文逾 30 亿美元的租约，凸显对数据中心承诺的重新评估。
+
+rss · 钛媒体 · 11月7日 00:28
+
+**背景**: S-1 是公司在 IPO 前向美国证券交易委员会提交的注册声明，披露财务和风险信息。AI 公司此前基于增长预期以高估值融资，但投资者现在要求更清晰的盈利路径。数据中心是 AI 训练和推理的关键基础设施，地方公投可能阻止或限制其建设，增加监管风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/0001628280-26-067168-index.html">EDGAR Filing Documents for 0001628280-26-067168 - SEC.gov</a></li>
+<li><a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026">Data center-related ballot measures, 2026 - Ballotpedia</a></li>
+<li><a href="https://www.usatoday.com/story/news/nation/2026/11/04/data-centers-midterm-elections/92611809007/">Data centers were on the ballot in many US cities. They got ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI投资`, `#估值调整`, `#数据中心监管`, `#市场波动`, `#大厂动态`
+
+---
+
+<a id="item-22"></a>
+## [比亚迪仰望 U9X 极速突破 500km/h，成为全球最快量产车](https://www.tmtpost.com/8196742.html) ⭐️ 8.0/10
+
+比亚迪旗下仰望 U9 Xtreme（U9X）在阿布扎比公共道路上跑出 503.17 公里/小时的极速，成为首款正式突破 500 公里/小时大关的量产车，并获吉尼斯世界纪录认证。 这一里程碑彰显了中国车企在电驱技术和高端整车工程上的显著进步，向传统超级跑车制造商发起挑战。它提升了中国在高性能电动车市场的全球竞争力，并预示着超豪华汽车格局的转变。 U9X 是一款全球限量 30 台的全电动超跑，搭载四电机，综合输出功率达 2220 千瓦。该纪录是在阿布扎比公共道路上进行单向测试时创造的，该车是 2023 年上海车展首次亮相的仰望 U9 的衍生版本。
+
+rss · 钛媒体 · 11月6日 11:55
+
+**背景**: 仰望 U9 是比亚迪旗下豪华品牌仰望推出的一款纯电动超级跑车，该品牌旨在与成熟的高端汽车品牌竞争。U9X“Xtreme”版本专为极致性能设计，采用了先进的电驱技术。突破 500 公里/小时大关是一项重大的工程壮举，需要在空气动力学、热管理和动力系统耐久性等方面克服极高速度带来的挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cnevpost.com/2026/11/06/byd-yangwang-u9-xtreme-breaches-500-km-h/">BYD Yangwang U9 Xtreme breaches 500 km/h barrier to set new ...</a></li>
+<li><a href="https://www.carscoops.com/2308849/313-mph-yangwang-u9-extreme-first-to-top-500-kmh/">313 MPH Yangwang U 9 Xtreme Is First Production Car To Break 500...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yangwang_U9">Yangwang U9 - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#Yangwang U9X`, `#electric vehicles`, `#speed record`, `#automotive industry`
+
+---
+
+<a id="item-23"></a>
+## [马斯克宣布 Cybertruck 停产：销量仅达预期一成](http://www.geekpark.net/news/373639) ⭐️ 8.0/10
+
+11 月 6 日，马斯克在 X 上宣布，特斯拉将于明年年中前后逐步收尾得州超级工厂的 Cybertruck 生产，为 Cybercab 扩产腾出产能。行业估算 Cybertruck 三季度交付约 7000 至 8000 辆，折合年销量约 3 万辆，仅为马斯克 2023 年设定的 25 万辆年销量目标的约 12%。 Cybertruck 的停产标志着特斯拉一次重大的产品战略失败，也表明其制造资源正向 Cybercab 自动驾驶出租车倾斜。这同时凸显了美国电动皮卡细分市场需求疲软，高价与实用性不足抑制了消费者接受度。 Cybertruck 首席工程师表示，该车型是新技术的重要载体，其线控转向技术已应用于 Cybercab。美国市场数据显示，Cybertruck 2025 年在美销量为 20237 辆，同比下滑 48%，今年一季度更跌至 3519 辆的历史低点。
+
+rss · 极客公园 · 11月7日 00:48
+
+**背景**: Cybertruck 是特斯拉首款电动皮卡，于 2019 年发布，以独特的不锈钢棱角车身著称。线控转向用电子控制取代方向盘与车轮之间的机械连接，是实现自动驾驶的关键技术之一。Cybercab 是特斯拉计划推出的双座自动驾驶出租车，没有方向盘和踏板，将用于其自动驾驶网约车网络。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E7%89%B9%E6%96%AF%E6%8B%89Cybercab">特斯拉Cybercab - 维基百科，自由的百科全书</a></li>
+<li><a href="https://yrunsolar.com/electric-power-steering/steer-by-wire-%E7%BA%BF%E6%8E%A7%E8%BD%AC%E5%90%91%E6%8A%80%E6%9C%AF/index.html">Steer - by - Wire 线 控 转 向 技 术 – 问鼎娱乐汽车系统</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者观点不一：有人称赞 Cybertruck 在停电期间为住宅供电超过 14 天，指出其电池容量约等于 9 台特斯拉 Powerwall。也有人认为它作为实用卡车是失败的，拖拽能力差、货斗不实用，且定价押注卡车价格持续上涨；还有评论者质疑，在电动车税收抵免到期、美国电动车市场份额下滑的背景下，特斯拉整体前景不明。
+
+**标签**: `#特斯拉`, `#Cybertruck`, `#电动车`, `#OpenAI`, `#大厂动态`
+
+---
+
+<a id="item-24"></a>
+## [Waymo 从技术供应商转型为消费者出行品牌](https://www.tmtpost.com/8195043.html) ⭐️ 7.0/10
+
+Waymo 正从自动驾驶技术供应商转型为直接面向消费者的出行服务品牌，旨在建立用户信任和付费意愿。在用了七八年时间证明自动驾驶技术安全可靠后，该公司现在希望将自己打造为一个面向消费者的网约车品牌。 这一战略转变可能重塑 Robotaxi 行业的竞争格局，因为 Waymo 从技术授权转向与 Uber、Lyft 等网约车平台直接竞争。这标志着自动驾驶商业化进入新阶段，品牌信任和客户体验变得与技术能力同等重要。 据维基百科数据，截至 2026 年 6 月，Waymo 在美国 10 个大都市区运营公共商业 Robotaxi 服务，拥有 3,871 辆自动驾驶出租车。然而，该新闻缺乏具体产品发布或财务数据来支撑这一战略转变，表明转型仍处于早期阶段。
+
+rss · 钛媒体 · 11月6日 10:09
+
+**背景**: Waymo 是 Alphabet Inc. 的子公司，最初是谷歌的自动驾驶汽车项目，长期以来一直是自动驾驶汽车技术的领先开发者。Robotaxi 行业通常由技术供应商向车队运营商或网约车平台提供自动驾驶系统，而非直接服务终端消费者。Waymo 的举措反映了自动驾驶出行领域垂直整合的广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Waymo">Waymo - Wikipedia</a></li>
+<li><a href="https://waymo.com/">Waymo - Self-Driving Cars - Autonomous Vehicles - Ride-Hail</a></li>
+<li><a href="https://robotaxireport.com/map.html">Robotaxi Map — Where Waymo &amp; Tesla Operate | RoboTaxi Report</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Waymo`, `#自动驾驶`, `#出行服务`, `#商业模式`, `#Robotaxi`
+
+---
+
+<a id="item-25"></a>
+## [LVMH 市值蒸发千亿，Gucci 营收下滑 6%，奢侈品巨头扛不住了？](https://www.tmtpost.com/8196410.html) ⭐️ 7.0/10
+
+LVMH 市值蒸发千亿，Gucci 营收下滑 6%，奢侈品巨头业绩集体下降。 LVMH 和开云集团（Gucci 母公司）等奢侈品巨头业绩下滑，表明整个行业正在放缓，影响投资者、员工和整个奢侈品生态。 文章仅提供简要概述，没有详细的财务数据或分析，但标题中的数字表明 LVMH 市值大幅缩水，Gucci 营收显著下降。
+
+rss · 钛媒体 · 11月6日 10:09
+
+**背景**: LVMH 是全球最大的奢侈品集团，拥有路易威登和迪奥等品牌。Gucci 是另一大奢侈品集团开云集团的旗舰品牌。这两家公司是奢侈品行业的风向标，其业绩往往反映更广泛的经济趋势和消费支出模式。
+
+**标签**: `#LVMH`, `#Gucci`, `#luxury industry`, `#market decline`, `#financial performance`
+
+---
+
+<a id="item-26"></a>
+## [傅利叶智能为 Meta 定制人形机器人，凸显 80 亿元估值](https://www.tmtpost.com/8196543.html) ⭐️ 7.0/10
+
+据一篇报道，总部位于上海的傅利叶智能在短短几个月内为 Meta 的内部研究定制了一款人形机器人，这凸显了该公司的工程能力及其披露的约 80 亿元人民币的投前估值。 与 Meta 的合作验证了傅利叶智能为大型科技公司快速交付定制人形硬件的能力，这可能会增强其在竞争激烈的人形机器人市场中的地位，并吸引更多投资。然而，仅凭这笔交易并不能证明该公司的股权故事，因为它仍然依赖其康复业务和有限的人形机器人出货量。 傅利叶智能已经拥有康复机器人业务和有限的人形机器人出货量，其披露的投前估值约为 80 亿元人民币。为 Meta 定制的这款人形机器人是在几个月内建成的，展示了快速的工程交付能力，但该合作并不是商业成功或股权价值的保证。
+
+rss · 钛媒体 · 11月6日 09:57
+
+**背景**: 傅利叶智能成立于 2015 年，总部位于上海，以康复机器人和 GR-1、GR-2 等通用人形机器人而闻名。人形机器人行业竞争激烈，Agility Robotics 和 Humanoid 等公司都以独角兽估值获得了大量融资。Meta 对人形机器人内部研究的兴趣反映了更广泛的科技行业对探索具身 AI 和机器人平台的努力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aiwiki.ai/wiki/fourier_intelligence">Fourier Intelligence | AI Wiki</a></li>
+<li><a href="https://www.fobi.com/robotics/companies/fourier-intelligence">Fourier Intelligence — Rehab + Humanoid · fobi</a></li>
+<li><a href="https://www.humanoidhub.ai/brands/fourier-intelligence">Fourier Intelligence Humanoid Robots</a></li>
+
+</ul>
+</details>
+
+**标签**: `#humanoid robotics`, `#Fourier Intelligence`, `#Meta`, `#robotics startup`, `#valuation`
+
+---
+
+<a id="item-27"></a>
+## [Thinking Machines Lab 发布 Inkling 2 Small，中国以外最高分开放权重模型](http://www.geekpark.net/news/373637) ⭐️ 7.0/10
+
+11 月 5 日，OpenAI 前 CTO Mira Murati 创立的 Thinking Machines Lab（TML）发布了第二代模型 Inkling 2 Small，这是一个 594B 参数的 MoE 模型，第三方评测机构 Artificial Analysis 称其权重放出后将成为「中国以外得分最高的开放权重模型」。同一天，有报道称 TML 正以 400 亿美元的投前估值筹集 50 亿美元新融资。 这标志着美国初创公司正式加入开放权重模型竞争，而该领域此前一直由中国实验室（如 DeepSeek、月之暗面、智谱）主导。该模型在知识工作和长程智能体任务上的强劲表现，加上低廉的定价，可能重塑企业 AI 应用和微调平台的格局。 Inkling 2 Small 是一个 594B 参数的 MoE 模型，每次推理激活 17B 参数，支持 100 万上下文和可调的思考力度，但取消了初代的音频输入。它在 AA-Briefcase（1527 Elo）、JobBench（70.5%）和 Vals 法律指数（73.9%）上得分最高，但在 SWEBench Pro v2 \(Hard\) 和 Terminal-Bench 4.0（13% 对 Sonnet 5.5 的 30%）等编程基准上落后，且平均每个任务消耗约 15 万输出 token。
+
+rss · 极客公园 · 11月6日 12:13
+
+**背景**: 开放权重模型是指训练好的参数被公开发布的 AI 模型，任何人都可以下载并在自己的硬件上运行，但训练代码和数据可能不完全开放。Artificial Analysis 是一家第三方评测机构，从质量、价格和速度等维度评估大语言模型。月之暗面的 Kimi K3 是中国 AI 实验室月之暗面的旗舰模型，TML 披露 Inkling 2 Small 的部分预训练数据采样自 Kimi K3。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://promtable.com/glossary/open-weight-model">Open - weight model — Definition , when to use, and... | Promtable</a></li>
+<li><a href="https://artificialanalysis.ai/models">Comparison of AI Models across Intelligence... | Artificial Analysis</a></li>
+<li><a href="https://www.moonshot.ai/">Moonshot AI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#open-weight models`, `#Thinking Machines Lab`, `#funding`, `#Kimi`
+
+---
+
+<a id="item-28"></a>
+## [万盛股份 2.85 亿溢价并购遭上交所三问](https://www.tmtpost.com/8196758.html) ⭐️ 6.0/10
+
+万盛股份因 2.85 亿元溢价并购收到上交所第三轮问询函，此次问询与 AI 基础设施预期变化相关。监管关注点集中在交易定价的合理性与估值依据上。 该案例表明监管层对涉及 AI 基础设施概念的溢价并购审查趋严，可能影响 AI 供应链的投资情绪与估值实践。这释放出监管正密切关注此类收购是否基于真实业务协同而非概念炒作的信号。 这是上交所对万盛股份发出的第三轮问询，显示监管对交易溢价及公司实现预期收益的能力持续存疑。交易金额为 2.85 亿元，公司需就相关问题提供详细回复。
+
+rss · 钛媒体 · 11月7日 01:21
+
+**背景**: 在中国，上交所对重大资产重组进行审核，并可发出多轮问询函以确保信息披露充分、估值公允。溢价并购（即收购价格显著高于标的净资产）常引发监管关注，尤其是涉及 AI 基础设施等热门概念时。公司通常需在规定期限内回复问询，而多轮问询可能延迟交易完成或暗示更深层次的问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260311A06LXJ00">news.qq.com/rain/a/20260311A06LXJ00</a></li>
+<li><a href="https://flash.jin10.com/detail/20260506190937671800">flash.jin10.com/detail/20260506190937671800</a></li>
+<li><a href="https://wallstreetcn.com/articles/3784410">SemiAnalysis创始人深度解析： AI ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#M&amp;A`, `#regulatory inquiry`, `#AI infrastructure`, `#corporate governance`, `#Shanghai Stock Exchange`
+
+---
+
+<a id="item-29"></a>
+## [为何不看好苹果国行 AI：三大理由](https://www.tmtpost.com/8196145.html) ⭐️ 6.0/10
+
+科技评论账号“互联网怪盗团”发布观点文章，从三个理由出发分析为何不看好苹果国行 AI（Apple Intelligence 中国版）的发展前景，但文章仅给出框架，缺乏深度论证。 Apple Intelligence 入华是观察外国科技巨头如何适应本土监管与竞争环境的重要案例，而知名评论者的质疑可能影响公众预期以及苹果在全球最大智能手机市场的定位。 该文是一篇简短的观点评论而非新闻报道，仅列出三条理由而缺乏论据支撑，读者应将其视为引发讨论的引子而非严谨分析。
+
+rss · 钛媒体 · 11月6日 10:09
+
+**背景**: Apple Intelligence 于 2024 年 WWDC 首次亮相，但要进入中国大陆需要完成监管备案和本土化适配。由于苹果自有云端模型和 OpenAI 的 ChatGPT 无法在中国直接使用，苹果与阿里巴巴合作，在 Siri、写作工具和视觉智能中集成千问模型；国行版于 2026 年 7 月完成备案，预计最快 2026 年 9 月通过系统更新推送。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/">Apple 智能即将登陆中国 - Apple (中国大陆)</a></li>
+<li><a href="https://wenku.baidu.com/view/e4d68a8437d4b14e852458fb770bf78a65293ae5.html">苹果AI终于上市！国行版Apple Intelligence发布时间、功能与支持设备...</a></li>
+<li><a href="https://post.smzdm.com/p/al3p28dp/">等了两年， 国 行 苹 果 AI 终于来了！ 但不是ChatGPT...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#苹果`, `#AI`, `#国行`, `#大厂动态`, `#行业评论`
+
+---
+
+<a id="item-30"></a>
+## [关键矿产争夺战：谁为重建供应链买单？](https://www.tmtpost.com/8196540.html) ⭐️ 6.0/10
+
+文章分析了重建关键矿产供应链的财务负担，认为这笔账单最终将由政府财政、矿业企业和下游产业共同分摊。文章指出，美国正重金收购矿山并在全球签署协议以锁定资源。 这很重要，因为对人工智能、机器人、电池和自动驾驶设备至关重要的关键矿产的全球争夺正在重塑地缘政治和产业政策，其成本将影响全球纳税人、矿企和制造商。 文章是一篇一般性分析，缺乏深入的技术或数据驱动见解，并指出市场高度集中，使供应链容易受到政治胁迫和中断的影响。
+
+rss · 钛媒体 · 11月6日 10:09
+
+**背景**: 稀土、锂和钴等关键矿产是先进技术的重要投入品，但其生产集中在少数国家，尤其是中国。出于国家安全和经济竞争力考虑，美国政府尤其正在运用项目融资和战略伙伴关系等政策工具来多元化供应链。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.state.gov/releases/office-of-the-spokesman/2026/02/2026-critical-minerals-ministerial/">2026 Critical Minerals Ministerial - United States Department ...</a></li>
+<li><a href="https://www.bcg.com/publications/2026/critical-minerals-geopolitics">Critical Minerals Geopolitics: Competition in 2026 | BCG</a></li>
+<li><a href="https://odi.org/en/insights/critical-minerals-geopolitics-in-2026-risks-supply-chains-and-global-power-shifts/">Critical minerals geopolitics in 2026: risks, supply chains ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#critical minerals`, `#supply chain`, `#geopolitics`, `#mining`, `#resource competition`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-31"></a>
+## [澳门三人疑堕假冒抖音客服骗局共失 90 万澳门元](https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ0tZQkFLeThjbERfTEMzRXRrUDc5NVdiaXA4QW1wM0U2bEtnLU5mQnNkZnZaLXFJRFlVYVFoWFcySVhiYTRMWjlROC1iS2lxSW1CMXpOa29kOENuTUJ6UlhlcFB6R2FpdXpyTjdLYXVfSkY0WUNUd3RwUmIzSFZLVjZaWQ?oc=5) ⭐️ 6.0/10
+
+澳门两男一女疑堕假冒抖音客服骗局，共损失 90 万澳门元。司法警察局（PJ）已接获报案并展开调查。 此案凸显了针对抖音等热门社交媒体用户的冒充诈骗威胁日益严重，侵蚀了公众对正规客服渠道的信任。这强调了在澳门及其他地区加强消费者保护措施和公众意识宣传的必要性。 诈骗分子通常通过电话或短信联系受害者，谎称受害者已订阅付费服务，并威胁若不按指示操作将产生财务或信用后果。抖音官方客服已声明不会通知用户此类扣费或续费，警方呼吁公众核实此类来电。
+
+rss · 客服行业动态 · 11月6日 08:37
+
+**背景**: 抖音是 TikTok 的中国版，拥有数亿用户。冒充客服的诈骗是中国和澳门常见的电信诈骗形式，诈骗分子利用受害者对财务损失的恐惧进行操纵。澳门当局报告称电话诈骗造成重大损失，仅 2024 年上半年就损失了 1.1 亿澳门元。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://macaudailytimes.com.mo/two-women-lose-nearly-mop190000-in-fake-douyin-customer-service-scams.html">Two women lose nearly MOP190,000 in fake Douyin customer ...</a></li>
+<li><a href="https://news.futunn.com/en/flash/18605475/douyin-official-customer-service-douyin-will-not-notify-users-of">Douyin official customer service: Douyin will not notify ...</a></li>
+<li><a href="https://www.facebook.com/Canal.Macau/posts/people-in-macau-have-lost-110-million-patacas-to-phone-frauds-in-the-first-half-/855974129985717/">TDM Canal Macau - People in Macau have lost 110 million ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service fraud`, `#impersonation scams`, `#Douyin`, `#consumer protection`, `#telecom fraud`
+
+---
+
+<a id="item-32"></a>
+## [江津民警上门劝阻“客服退款”诈骗](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVWJzWTNxX0pJMzJBNmFUTTFDVlhOa1M1bTlPOF9lMmJfdndZTWRrNkY3LTdRYWZNS3pLWm1Nd0ZwVTUzaFZWX1BhTnlpcWNIanNxZGh5bXF2dW5YT0xmVFBxcEhsYTVm?oc=5) ⭐️ 4.0/10
+
+据央广网报道，江津民警上门劝阻一起“客服退款”诈骗，成功阻止了居民上当受骗。警方提醒公众对此类诈骗保持警惕。 此案凸显了冒充客服退款诈骗的持续威胁，此类诈骗针对普通消费者，可能导致重大经济损失。它强调了警方干预和公众意识在打击电信网络诈骗中的重要性。 报道未提及涉及金额或诈骗分子的具体手法，但此类诈骗通常涉及骗子冒充客服代表，提供虚假退款以获取银行信息。
+
+rss · 客服行业动态 · 11月6日 05:59
+
+**背景**: 客服退款诈骗是电信网络诈骗的一种常见类型，骗子冒充电商平台或公司的客服人员，谎称交易失败或商品缺货，提出退款，进而诱骗受害者提供银行卡号、密码或转账。在中国，警方经常开展上门劝阻作为反诈行动的一部分，以提醒潜在受害者。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Overpayment_scam">Overpayment scam - Wikipedia</a></li>
+<li><a href="https://seon.io/resources/refund-scam/">Refund Scams : What They Are &amp; How to Prevent Them | SEON</a></li>
+<li><a href="https://baby.ifeng.com/c/8wJI8Ygt3Ca">“ 退 款 ”变“吞 款 ”？ 揭秘 退 款 诈 骗 套路，守好您的钱袋子_凤凰网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#fraud`, `#scam prevention`, `#police`, `#local news`
+
+---
+
+<a id="item-33"></a>
+## [爱奇艺会员吐槽追剧遇滚屏广告，客服回应被批吃相难看](https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYVJvN0pLN052Y1BldWNuamVqT3VYRDRsNUp3Unk0SDRNMGE4VmdySGVLNlI5MmcxTTZQbU44Vko4d2E5T1k5M0J1V3NxYmZmdUY4MmJRYVM?oc=5) ⭐️ 4.0/10
+
+爱奇艺 VIP 会员吐槽在追剧时遇到滚屏广告，客服回应称会员特权仅减免部分片头广告，这一回应引发网友进一步批评，称其“吃相难看”。 这一事件凸显了流媒体平台广告变现策略与付费用户对无广告体验的期望之间日益紧张的关系，可能损害爱奇艺的品牌声誉和订阅用户信任。 爱奇艺 VIP 服务协议声称会员可享受无广告内容，但实际上会员特权仅减免部分片头广告，暂停广告、滚屏广告等其他广告形式仍可能出现；爱奇艺此前推出的“基础会员”无法跳过片头广告，也曾遭到批评。
+
+rss · 客服行业动态 · 11月6日 04:40
+
+**背景**: 爱奇艺是中国主要的视频流媒体平台之一，其 VIP 会员承诺提供无广告观看和提前看剧集等权益。然而近年来，该平台即使对付费会员也推出了多种广告形式，如暂停广告、滚屏广告和中插广告，导致用户不满。这一事件是中国流媒体服务在收入增长与用户体验之间艰难平衡的更大趋势的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://tech.ifeng.com/c/8dQnVKRUR2b">会 员 暂停后也播放全 屏 广 告 ，网友吐槽： 爱 奇 艺 回应让人更无奈_凤凰网</a></li>
+<li><a href="https://www.ithome.com/0/800/224.htm">ithome.com/0/800/224.htm</a></li>
+<li><a href="https://post.smzdm.com/p/a4qpmqvw/">「请勿眨眼」辟谣了，暂停 广 告 这道题谁来答_影视 会 员 _什么值得买</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 网友普遍批评爱奇艺客服回应缺乏诚意、吃相难看，许多用户对付费后仍遭遇广告表示不满，认为平台将收入置于用户体验之上。
+
+**标签**: `#customer service`, `#iQIYI`, `#advertising complaints`, `#user experience`, `#public relations`
+
+---
+
+<a id="item-34"></a>
+## [万屿科技 AI 语音客服阻碍用户维权](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TVldSN0dxZ0xUSzVENmt5SmR6U1pMTHZtTVpNSTlfLV9sWTZ3NGhySWlqRm5RaWxsQmpYU3FocVFzUmZLclZ3bXBKSVFwWVp1VDNWa0hET3J2Q0pCeTd5MW92QjA?oc=5) ⭐️ 4.0/10
+
+海南万屿科技的用户反映，该公司的 AI 智能客服热线长期占线或无法接通，导致账号注销、退款等关键问题难以解决。在线客服响应机械，人工服务体验差，专家呼吁优化系统并增加人工坐席。 这一案例凸显了日益严重的消费者权益保护问题：AI 客服系统常常为用户维权设置障碍，导致大量投诉。它强调了在客服行业中改善人机协作和制定监管标准的必要性。 热线号码 00852-4704-8989 经常占线，在线 AI 回复被指机械，人工接入困难。专家建议扩充坐席、提升响应能力，以保障用户权益和平台信任度。
+
+rss · 客服行业动态 · 11月6日 05:30
+
+**背景**: AI 客服利用聊天机器人和语音系统处理用户咨询，但当这些系统无法提供充分支持时，用户解决问题就会遇到障碍。在中国，与 AI 客服相关的消费者投诉激增，2025 年投诉总量超过 200 万件，促使首个关于人工与智能客服协同机制的国家标准于 2026 年 9 月 1 日起实施。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.csdn.net/2600_96788425/article/details/169842222">万屿科技客服服务AI智能热线难接通，海南万屿科技用户维权之路遇阻。-...</a></li>
+<li><a href="https://www.toutiao.com/article/7628184831428248104/">AI客服设沟通壁垒致数万投诉：用户维权有哪些有效方法</a></li>
+<li><a href="https://www.xinhuanet.com/legal/20260820/cb57086992194c39ac39cc5dbf452d37/c.html">莫让AI客服给消费者“添堵” - 新华网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI customer service`, `#user rights`, `#voice AI`, `#customer service industry`, `#consumer protection`
+
+---
