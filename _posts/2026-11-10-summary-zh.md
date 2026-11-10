@@ -1,0 +1,890 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-10 (ZH)"
+date: 2026-11-10
+lang: zh
+---
+
+> 从 134 条内容中筛选出 37 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [IEA 预计未来六年全球可再生能源装机增近 4800 吉瓦，较前六年增 57%](#item-1) ⭐️ 8.0/10
+2. [“十五五”新型电力系统建设全面铺开，特高压建设节奏进一步加快](#item-2) ⭐️ 8.0/10
+3. [IEA 警告全球煤炭需求或创新高，LNG 运输风险隐现](#item-3) ⭐️ 7.0/10
+4. [远景参加首次中加能源部长对话，推动新型电力系统落地加拿大](#item-4) ⭐️ 6.0/10
+5. [路透调查：10 月 OPEC 原油产量上升，恢复至 2 月水平的约 90%](#item-5) ⭐️ 6.0/10
+6. [长三角落地一座看不见的“数字电厂”](#item-6) ⭐️ 6.0/10
+7. [IEA：中东能源转型加速，阿联酋人均太阳能发电量或居全球首位](#item-7) ⭐️ 6.0/10
+8. [伊拉克声称石油日产量达 500 万桶，面临欧佩克配额审查](#item-8) ⭐️ 6.0/10
+9. [越南电网演变：从咸龙发电厂到智能电网](#item-9) ⭐️ 5.0/10
+10. [越南清化省与日本合作开展碳中和及 CCS 研究](#item-10) ⭐️ 5.0/10
+
+### 🤖 AI 科技
+
+11. [Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2](#item-11) ⭐️ 9.0/10
+12. [E-means：仅需十分之一轮次即可超越 k-means](#item-12) ⭐️ 8.0/10
+13. [英飞凌生产出全球首片 300 毫米功率碳化硅晶圆](#item-13) ⭐️ 8.0/10
+14. [Payments Canada 推出实时支付系统 Real-Time Rail](#item-14) ⭐️ 7.0/10
+15. [Expo 推出 Exact：全新跨平台 UI 框架](#item-15) ⭐️ 7.0/10
+16. [半透明彩色碲化镉光伏板瞄准农业光伏](#item-16) ⭐️ 7.0/10
+17. [开发者用 Claude Fable 5.2 一次生成侄子梦想游戏，引发 AI 代码生成讨论](#item-17) ⭐️ 7.0/10
+18. [USPS 开始销售官方 ZIP Code 边界多边形，起价 1 万美元](#item-18) ⭐️ 6.0/10
+19. [博客文章探讨“糟糕的”公钥证书技巧](#item-19) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+20. [特斯拉 Cybertruck 停产，累计销量仅 6.3 万辆](#item-20) ⭐️ 8.0/10
+21. [Anthropic IPO 倒计时：最早 11 月 16 日上市](#item-21) ⭐️ 8.0/10
+22. [玛莎拉蒂将与华为系尊界联合造车，首款车型或为双门 GT](#item-22) ⭐️ 7.0/10
+23. [苹果罕见公布人形机器人进展，宇树 G1 背着跑千问的 Mac mini](#item-23) ⭐️ 7.0/10
+24. [双特异性抗体三期临床成功引发市场热潮](#item-24) ⭐️ 7.0/10
+25. [京东拟百亿收购德国电商公司，加速欧洲扩张](#item-25) ⭐️ 7.0/10
+26. [手机芯片厂商困于 AI 繁荣，手机销量下滑加剧压力](#item-26) ⭐️ 7.0/10
+27. [字节跳动豆包 Seedream 5.5 瞄准完整 AI 作图工作流](#item-27) ⭐️ 6.0/10
+28. [世茂深坑酒店背后的财务困境](#item-28) ⭐️ 6.0/10
+29. [“不赚钱”的 Token 经济：半小时卖出 2 万亿，日均消耗增长 5000 倍](#item-29) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+30. [航司客服倒卖明星航班信息获刑](#item-30) ⭐️ 6.0/10
+31. [董宇辉自营品牌就蛋糕 9 个月保质期争议作出回应](#item-31) ⭐️ 5.0/10
+32. [多位比亚迪唐车主投诉前后轮毂装反，客服建议到 4S 店检查](#item-32) ⭐️ 5.0/10
+33. [零食有鸣门店被曝买烟优先结账](#item-33) ⭐️ 4.0/10
+34. [双 11 带动电商招聘热潮 客服与仓储职位需求激增](#item-34) ⭐️ 4.0/10
+35. [兰州地铁自动售票机拒收 1 元纸币，客服称因机器设置原因](#item-35) ⭐️ 4.0/10
+36. [开云集团推出全新数字化客户服务平台](#item-36) ⭐️ 4.0/10
+37. [问鼎国际国际站上线多语言智能客服，升级跨境交易服务](#item-37) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [IEA 预计未来六年全球可再生能源装机增近 4800 吉瓦，较前六年增 57%](https://news.google.com/rss/articles/CBMidEFVX3lxTE1oZVBoNzJKemp2a2ZZWFB1TlY4M2JZZjIyQTFqUXVhM2FPT3Y1REJPaVpVclc5TVNTVEo0aDJTN1ZrTFVRSDY1YUF6Q1pfbk9nakpXSTNYdVZtdUF3c3ZCZjVDdl9Ea05jd3RzYUZrcXowbXZB?oc=5) ⭐️ 8.0/10
+
+国际能源署（IEA）预测，未来六年全球可再生能源装机容量将增长近 4800 吉瓦，较前六年增长 57%。这一预测由金融界报道，表明全球可再生能源部署步伐正在加快。 这一预测对能源政策专业人士而言是一个非常重要的数据点，因为它标志着全球能源转型加速，将为政策、投资和监管决策提供依据。预期的增长可能重塑能源市场、降低成本并支持气候目标，影响全球政府、公用事业和投资者。 该预测涵盖未来六年，较前六年增长 57%，但作为一份摘要报告，并未详细列出各国细分数据或具体技术的预测。增长可能主要由太阳能和风能驱动，这两者近年来在新增装机中占主导地位，但政策和经济因素可能影响实际结果。
+
+google\_news · 金融界 · 11月9日 14:51
+
+**背景**: 国际能源署（IEA）是一个政府间组织，提供关于全球能源趋势的权威分析和预测。可再生能源装机容量是指太阳能、风能和水能等来源可产生的最大发电量，以吉瓦（GW）计量。近年来，可再生能源新增装机屡创新高，其中太阳能占新增装机的大部分，这得益于成本下降和支持性政策。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/">IEA - International Energy Agency</a></li>
+<li><a href="https://baike.baidu.com/item/2026%E5%B9%B4%E5%8F%AF%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E8%A3%85%E6%9C%BA%E5%AE%B9%E9%87%8F%E7%BB%9F%E8%AE%A1/67601653">2026年可再生能源装机容量统计_百度百科</a></li>
+<li><a href="https://www.nea.gov.cn/20250407/1048c27496e54df69240d281d9c6cbb9/c.html">全球可再生能源装机容量增长创历史新高---国家能源局</a></li>
+
+</ul>
+</details>
+
+**标签**: `#可再生能源`, `#IEA`, `#能源政策`, `#装机容量`, `#全球能源转型`
+
+---
+
+<a id="item-2"></a>
+## [“十五五”新型电力系统建设全面铺开，特高压建设节奏进一步加快](https://news.google.com/rss/articles/CBMieEFVX3lxTFA5azg1NE1Nb3RpcGZkV2kyS21tQXVNQnJQU1ZURUREaG1SLUlLTUloQ1l6b0FDNXFFZ3hmWUszXzNoRkVDQVpBaGREUVpfeFZKN2NibEJvQTIwakZXV0tNQ0NDbnNXb2cydG5nWFY4UFBmdHdyUlJPdw?oc=5) ⭐️ 8.0/10
+
+“十五五”期间（2026—2030 年），中国新型电力系统建设全面铺开，特高压建设节奏进一步加快。国家发展改革委、国家能源局于 2026 年 8 月 3 日发布《新型电力系统建设“十五五”规划》，明确提出到 2030 年初步建成新型电力系统的战略目标。 这释放了重大基础设施投资优先方向和电网规划信号，直接影响电力行业相关方、设备供应商和区域能源规划。特高压建设加快对于消纳大规模新能源、实现碳达峰碳中和目标至关重要。 规划提出到 2030 年非化石能源发电量占比达到 50%，同时大幅提升电力系统互补互济和安全韧性水平。以±800 千伏直流输电为代表的特高压技术，相较 500 千伏超高压线路可将输电损耗降低 50%以上、输电距离提升 2—3 倍，并减少约 30%的土地占用。
+
+google\_news · 新浪财经 · 11月9日 13:24
+
+**背景**: 中国新型电力系统概念于 2021 年首次提出，核心是构建以新能源为主体的清洁低碳、安全高效的电力系统，支撑碳达峰碳中和目标。特高压输电是电网领域的核心技术之一，中国在该领域形成了自主知识产权和产业优势，自“十二五”起便被列入国家五年规划。五年规划是中国指导能源和基础设施优先方向的国家发展蓝图，“十五五”规划覆盖 2026—2030 年。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/t20260803_1406883.html">【关于印发《新型电力系统建设“十五五”规划》的通知 (发改能源〔2026...</a></li>
+<li><a href="https://www.gov.cn/zhengce/202608/content_7077423.htm">新型电力系统建设迎来“十五五”发展路线图_政策解读_中国政府网</a></li>
+<li><a href="https://baike.baidu.com/item/%E7%89%B9%E9%AB%98%E5%8E%8B%E8%BE%93%E7%94%B5%E5%B7%A5%E7%A8%8B/59475054">特高压输电工程 - 百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#UHV transmission`, `#power grid`, `#15th Five-Year Plan`, `#China energy`
+
+---
+
+<a id="item-3"></a>
+## [IEA 警告全球煤炭需求或创新高，LNG 运输风险隐现](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）警告称，全球煤炭需求可能创下历史新高，如果 LNG 运输中断持续，明年可能再破纪录。这一预测来自 IEA 于 2025 年 12 月 17 日发布的最新年度煤炭市场报告《Coal 2025》。 该预测表明，尽管脱碳努力持续推进，煤炭仍是全球能源结构的关键组成部分，而 LNG 物流风险可能进一步推动对煤炭的依赖。这对能源政策分析师、投资者以及平衡能源安全与气候目标的国家具有重大影响。 IEA 的《Coal 2025》报告提供了到 2030 年按煤炭等级和地区划分的需求、供应和贸易预测，并强调集中的航运路线和地缘政治紧张局势可能迅速影响全球能源流动。该警告特别将潜在的煤炭需求纪录与 LNG 运输的恢复联系起来，而 LNG 运输已受到霍尔木兹海峡交通放缓等因素的干扰。
+
+google\_news · 财联社 · 11月9日 08:03
+
+**背景**: 国际能源署（IEA）是一个政府间组织，提供关于全球能源市场的权威分析和预测。其年度煤炭报告是跟踪煤炭需求、供应和贸易趋势的关键参考。LNG（液化天然气）运输是全球能源供应链中的重要环节，而地缘政治紧张或路线瓶颈造成的中断可能迫使各国在发电中用煤炭替代天然气，从而推高煤炭需求。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/coal-2025">Coal 2025 - IEA - International Energy Agency</a></li>
+<li><a href="https://nzero.com/blog/lng-supply-chains-face-new-risks-as-hormuz-traffic-slows/">LNG Supply Chains Face New Risks as Hormuz Traffic Slows</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal demand`, `#IEA`, `#LNG shipping`, `#energy policy`, `#global energy markets`
+
+---
+
+<a id="item-4"></a>
+## [远景参加首次中加能源部长对话，推动新型电力系统落地加拿大](https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TGJkS2FNazMyTWRKLUNnRWtuUjNYRmJ1cG1STXAwbkE2a2Z5M3NnaHMtUXRHWGltZ08yNTZNMW03MXFmeXFFMlFSeElwQ1Z5SE9uc1JvQTJkYVZjWEd0TDJENmdzZXpuaFdJSUdadkRSUlJqb3U1d2FtTHZqbXc?oc=5) ⭐️ 6.0/10
+
+2026 年 11 月 3 日，远景科技集团参加了首次中加能源部长对话，该对话由中国国家能源局局长王宏志与加拿大自然资源部部长蒂姆·霍奇森共同主持，旨在加速其新型电力系统在加拿大的落地。 这是继 2026 年 1 月中加领导人联合声明后，中加清洁能源合作的具体落地步骤，也标志着远景在全球化能源转型竞争中向北美电力市场扩张。 此次对话聚焦能源安全、能源转型和商业合作，为 2026 年 APEC 会议做准备，但公告中未披露远景在加拿大部署的具体项目时间表、投资金额和监管审批细节。
+
+google\_news · China Daily · 11月9日 09:10
+
+**背景**: 远景科技集团成立于 2007 年，总部位于中国黄浦，是全球领先的智能风电和储能企业，同时开发包括面向 AI 数据中心的 800V 直流系统在内的综合绿色能源系统。首次中加能源部长对话旨在落实两国领导人 2026 年 1 月达成的共识，其中包括支持清洁能源交流与合作。中国电力系统正经历向非化石能源的重大转型，2026 年上半年煤电发电量占比首次降至 50%以下。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.canada.ca/en/natural-resources-canada/news/2026/11/joint-readout-of-the-first-canada-china-ministerial-dialogue-on-energy.html">Joint Readout of the First Canada-China Ministerial Dialogue ...</a></li>
+<li><a href="https://www.pm.gc.ca/en/news/statements/2026/01/16/joint-statement-canada-china-leaders-meeting">Joint statement of the Canada-China Leaders&#x27; Meeting</a></li>
+<li><a href="https://www.terra.do/climate-companies/envision-group-2/">terra.do/climate- companies / envision - group -2</a></li>
+
+</ul>
+</details>
+
+**标签**: `#China-Canada energy cooperation`, `#new power system`, `#Envision`, `#energy policy`, `#international expansion`
+
+---
+
+<a id="item-5"></a>
+## [路透调查：10 月 OPEC 原油产量上升，恢复至 2 月水平的约 90%](https://news.google.com/rss/articles/CBMieEFVX3lxTE1pLVpnOS1hREpDUkRVOTFVYXdmWGpjekF0MFppZ1NOWVl4RDVwWk1NSFhtVldMbTBwMVh3UE5tcDNLVXIxZFc5U25lSWZ0am9OTlFPM0NwelVkY3dlYjNldGwwbW9SclZ5SlRFcER3OE9Vb0lUakFDZQ?oc=5) ⭐️ 6.0/10
+
+路透调查显示，10 月 OPEC 原油产量出现上升，已恢复至 2 月产量水平的约 90%。另据维度网报道，OPEC 十月原油日产量回升至 2287 万桶。 OPEC 产量的回升为能源政策制定者和市场参与者提供了及时的供给侧数据，有助于评估产量协议与实际供应之间的平衡。这可能影响市场对油价的预期以及 OPEC+下一阶段配额谈判的走向。 这项基于调查的估计显示产量约为 2 月水平的 90%，但由于供应中断，一些海湾产油国的实际产量仍低于其配额。路透月度调查是估计值而非 OPEC 官方数据，解读时需注意这一局限。
+
+google\_news · TradingView · 11月9日 17:54
+
+**背景**: OPEC 即石油输出国组织，于 1960 年由伊朗、伊拉克、科威特、沙特阿拉伯和委内瑞拉五国成立，旨在协调石油政策。近年来，OPEC 及其盟友（OPEC+）通过产量配额和自愿减产来管理供应。2026 年，OPEC+一直在逐步退出 2023 年达成的每日 165 万桶减产计划，但由于供应中断和产能限制，实际产量往往低于计划配额。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.paj.gr.jp/statis/faq/76">OPEC ・ OPEC プラスとは | 石 油 連盟</a></li>
+<li><a href="https://www.cls.cn/detail/2521751">OPEC+原则上将维持12月产量目标 重心转向明年配额谈判</a></li>
+<li><a href="https://news.qq.com/rain/a/20260907A0DVYL00">OPEC+维持10月产量配额不变，焦点转向2027年产能上限</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OPEC`, `#原油产量`, `#能源政策`, `#石油市场`, `#供给动态`
+
+---
+
+<a id="item-6"></a>
+## [长三角落地一座看不见的“数字电厂”](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYbkpBZEZZUzEzS1FPQjZnazFlN2U0eGZuS09ZV1lGM2ViQk9DZUVBdndnUkRUdTZkLVZycHQ3dHdzcGViRGw4STZlMVpPa1hKSGc?oc=5) ⭐️ 6.0/10
+
+据 gdshe.org 报道，一座“数字电厂”（即聚合分布式需求侧资源的虚拟电厂）在长三角地区成功落地。该项目展示了中国最具经济活力区域之一在需求侧能源聚合和电力市场改革方面的进展。 这一部署表明虚拟电厂正从试点项目走向中国电力系统的实际应用，有助于平衡供需、整合可再生能源并支持电力市场改革。这对能源政策专业人士以及参与需求响应和分布式能源的企业尤为重要。 该报道未提供聚合容量、参与用户数量或所采用的市场机制等技术细节，且来源网站知名度较低。“数字电厂”一词常与虚拟电厂互换使用，后者依赖软件和通信来协调分散的负荷，而非自身发电。
+
+google\_news · https://www.gdshe.org/ · 11月9日 09:26
+
+**背景**: 虚拟电厂（VPP）并非实体发电厂，而是一种聚合和协调分布式能源资源（如可调节负荷、屋顶光伏和电池储能）的系统，为电网提供削峰填谷、调频等服务。该概念最早出现于 1997 年，随着可再生能源渗透率上升、对灵活需求侧资源的需求增加而受到关注。在中国，虚拟电厂被视为电力市场改革的重要工具，能够实现需求响应并促进负荷聚合商等新型市场主体参与。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1969772016790922882">一张图看懂虚拟电厂：5分钟掌握核心概念与运行机制 - 知乎</a></li>
+<li><a href="https://news.bjx.com.cn/html/20240322/1367661.shtml">电 改九年观察 | 构建以市场化为主导的 电 力 需 求 响 应 模式-北极星售 电 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#需求响应`, `#长三角`, `#电力市场`, `#能源数字化`
+
+---
+
+<a id="item-7"></a>
+## [IEA：中东能源转型加速，阿联酋人均太阳能发电量或居全球首位](https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwVjBWbXNmNW9xTjFqTDc2VUk1dmliQjEzOUUzWTJUZjctTVFSWU9nSjJtem1GTUpkelZFVUo1c1lHU1VFVThJVw?oc=5) ⭐️ 6.0/10
+
+国际能源署（IEA）报告称，中东地区的能源转型正在加速，阿联酋的人均太阳能发电量可能达到全球最高水平。 这标志着长期以来以石油和天然气为主的中东地区正在发生重大转变，表明太阳能可能成为该地区未来电力结构的重要支柱，并影响全球能源市场。 IEA 的结论基于人均太阳能发电量指标，突显了阿联酋相对于其人口规模快速部署太阳能发电的能力，但报告摘要未提供具体数据或项目细节。
+
+google\_news · 财联社 · 11月9日 04:14
+
+**背景**: 国际能源署（IEA）是 1974 年成立的、总部位于巴黎的政府间组织，负责提供全球能源领域的政策建议、分析和数据。人均太阳能发电量是指一个国家的太阳能发电量除以其人口，反映该国采用太阳能的密集程度。阿联酋一直在大力投资可再生能源项目，包括大型太阳能园区，作为其经济多元化战略的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/International_Energy_Agency">International Energy Agency - Wikipedia</a></li>
+<li><a href="https://ourworldindata.org/grapher/electricity-mix?frequency=annual&amp;metric=per_capita&amp;source=solar">Electricity generation from solar per person | Electricity ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#Middle East`, `#UAE`, `#solar energy`, `#energy transition`
+
+---
+
+<a id="item-8"></a>
+## [伊拉克声称石油日产量达 500 万桶，面临欧佩克配额审查](https://news.google.com/rss/articles/CBMivwJBVV95cUxPVGpOZVpPUTE0ZU1sMzR2Z056SURjZmk0TFJwYUJTb1VuQ3BiTkZNRFV1VXY0YTNYODhsR3dic1R4Q2E2ZHVaN1ROclRIVE1MeDRPUVRlQVg4aXh4ZWxjZE9GTTZrTTJtYXhLZVV5QXlnamZKZzViR3g0cVZidmZOeFVPbFJTZEtIMDJ4WThfbUdRVV9EMFAzam5CdDdVeXFLM2VIMU1tMVdnU2VqczE2b1pOX1BwVUJVSmgtR0RGaGxrZXFOaFV0YjFFdTlKS016emdaZUhva1FnTkNJRzRWVGhJNG95UXNTZDhUTkIxeHdaY0RkeVNlb0ZYNHc4dHBNUldKUnNlZmNfaTllSUc5U3JINUFWQ2V0LUpzQ2xMVmJ1WVVCRnEwR21nTDl4a3FWNkNCQVJpX3ZwUnBNcnRn?oc=5) ⭐️ 6.0/10
+
+伊拉克石油部长巴西姆·穆罕默德·胡达伊尔宣布，伊拉克石油日产量已超过 500 万桶，这一数字可能使巴格达争取更高欧佩克产量配额的努力复杂化。该声明引发欧佩克审查，因为它表明伊拉克可能超出了商定的产量上限。 如果伊拉克确实超配额生产，可能削弱欧佩克+管理全球石油供应和稳定价格的效力。此次审查的结果将影响伊拉克在欧佩克内的谈判地位，并可能影响该组织未来的产量决策，对全球能源市场产生连锁反应。 伊拉克是欧佩克第二大产油国，一直以伊朗冲突带来的经济压力和国际石油巨头的新投资为由，争取更高的配额。500 万桶/日的声明高于 2025 年底报告的约 440 万桶/日的产能，引发了对该数字准确性的质疑。
+
+google\_news · IDNFinancials · 11月9日 06:20
+
+**背景**: 欧佩克（石油输出国组织）协调成员国的产量政策以影响全球油价。成员国被分配产量配额，但遵守情况往往不完美，历史合规率平均为 70-80%。伊拉克经常超出配额，并寻求特殊安排，包括对过去超产进行补偿。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html">Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota ...</a></li>
+<li><a href="https://english.aawsat.com/business/5338615-iraq-oil-output-exceeds-5-million-bpd">Iraq Oil Output Exceeds 5 million bpd - english.aawsat.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OPEC">OPEC - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#欧佩克`, `#伊拉克石油`, `#产量配额`, `#能源政策`, `#原油市场`
+
+---
+
+<a id="item-9"></a>
+## [越南电网演变：从咸龙发电厂到智能电网](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGx5QWU0QVVGVUpybVVUdmN4VW1lUDBHRGhRUVA0Z3dsS0NTaW1Oa0V3WWtaaFowdWhRWFRBdlVlbVFxaWJBSUlkUEZaZ3R6WmtwSEZLODRrVkhhUFZSMzlDR2FWbGtmS3pBeDJPMkl2Ymc2VnpZRFpla3lEeXBCYmpQZ2lPNkVxMTNDdHVwbGJRQ2s?oc=5) ⭐️ 5.0/10
+
+Vietnam.vn 的一篇回顾性文章梳理了越南电网从咸龙发电厂（于 4 月 4 日正式投运）到当前智能电网举措的发展历程。文章强调了该发电厂的历史意义以及向数字化、自动化电力网络转型的过程。 这一叙述凸显了越南电力基础设施如何从战后重建的象征演变为集成数字传感器和自动化控制的现代系统，这对于管理不断增加的可再生能源容量和满足日益增长的需求至关重要。它为正在进行的能源政策讨论（包括修订后的第八个电力发展规划 PDP8）提供了背景。 咸龙发电厂位于马江畔，于 4 月 4 日正式投运，因点燃了一代人的信念和愿望而被铭记。文中提到的智能电网汇集了 SCADA、电子电表、双向通信等技术，以提高效率和可靠性。
+
+google\_news · Vietnam.vn · 11月9日 03:07
+
+**背景**: 咸龙发电厂是越南的一座历史性设施，常与咸龙桥（龙颚桥）联系在一起，该桥在越南战争期间是重要目标。智能电网是现代化的电力网络，利用数字通信、传感器和自动化控制来监控和管理从所有发电源输送的电力。越南一直在积极发展智能电网技术，EVN 正在实施 SCADA 系统和电子电表以增强电网管理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.vietnam.vn/en/nha-may-dien-ham-rong-tiep-noi-hao-khi-thap-sang-niem-tin">Ham Rong Power Plant – continuing the glorious spirit ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Smart_grid">Smart grid - Wikipedia</a></li>
+<li><a href="https://vietnamenergy.vn/speed--up-of-smart-power-grid-development-11299.html">Speed -up of smart power grid development | Tạp chí Năng lượng...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Vietnam`, `#smart grid`, `#energy history`, `#power infrastructure`, `#energy policy`
+
+---
+
+<a id="item-10"></a>
+## [越南清化省与日本合作开展碳中和及 CCS 研究](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSS1WeW9Zd2lOYS1OaW9YUl9KU2k5Z3NXVll6UHJuUmF4amc4MlNOd0ZVOTlITkZCVm1ZTnJReTFHZ21ZXzZTR1UtMnd0RVc1ZGdGaXpfeVdfcmZyQVVtMm5mc05KcUFCaFlBaFdwTHUzZ2VjM2JfUkNpdXNTaE5MTk1nWXp2S2tfQ0ZNdFN1OWRZOUliTkFNaEJ6bVlQUWkxYVEtZmpjNUcwZkFyWC1B?oc=5) ⭐️ 5.0/10
+
+据 Vietnam.vn 报道，越南清化省正与日本合作开展碳中和及碳捕集与封存（CCS）技术的研究。 这一合作表明越南正日益与国际伙伴在脱碳技术方面开展合作，有助于该国实现 2050 年净零排放目标，并吸引日本对清洁能源基础设施的投资。 该公告尚属初步阶段，未提及资金、项目规模或时间表等具体细节；CCS 是一个包含捕集、运输和封存三个阶段的流程，成本高昂且能耗大，在东南亚地区的部署仍然有限。
+
+google\_news · Vietnam.vn · 11月9日 05:07
+
+**背景**: 碳中和（即净零排放）是指将释放到大气中的二氧化碳量与移除的量相平衡，这是《巴黎协定》的核心目标。碳捕集与封存（CCS）是一系列技术，旨在从工业源或发电厂捕集二氧化碳，并将其封存在地下深层地质构造中，以防止其进入大气。日本一直积极向亚洲国家输出其 CCS 专业知识，而越南已承诺到 2050 年实现净零排放。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Carbon_capture_and_storage">Carbon capture and storage - Wikipedia</a></li>
+<li><a href="https://www.britannica.com/technology/carbon-capture-and-storage">Carbon capture and storage (CCS) | Definition, Process ... Carbon capture and storage - Wikipedia Carbon capture and storage (CCS): How it works and why it matters Understanding Carbon Capture and Storage to Lower CO2 Emissions Carbon Capture and Storage (CCS): Complete Guide Carbon Capture and Storage (CCS) - IMO</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Net-zero_emissions">Net-zero emissions - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#carbon neutrality`, `#CCS`, `#Vietnam`, `#Japan`, `#energy policy`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) ⭐️ 9.0/10
+
+Anthropic 发布了 Claude Fable 5.2 和 Claude Mythos 5.2，这是同一款新大型语言模型的两种配置。Fable 5.2 面向普通用户开放，并在高风险领域增加了额外防护；Mythos 5.2 则是同一模型，仅通过验证程序提供给经过审核的组织，用于网络安全和生命科学研究。 此次发布加剧了前沿模型厂商之间的竞争，用户将 Fable 5.2 与 Opus 5.5、Sonnet 5.5 进行比较，并猜测 OpenAI 的下一步动作。据报道，1,000 个 Fable 5.2 智能体组成的团队完成了费马大定理的形式化，这标志着自主数学推理能力的一个重要里程碑。 Fable 5.2 要求 30 天的数据保留期，除非获得 Anthropic 明确授权，否则不适用于零数据保留政策。据报道，费马大定理的形式化仅用 30 小时完成，人工干预极少，仅从最小提示出发，并以一系列中间定理陈述作为指导。
+
+hackernews · lairv · 11月9日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=50429068)
+
+**背景**: Anthropic 有时会以两种形式发布模型：一种面向普通用户，并针对生物、网络安全等两用领域的滥用风险设置防护措施；另一种则限制性地提供给经过审核的组织。LLM 基准测试是用于比较模型能力的标准化测试，但其方法论——例如如何匹配努力程度以及纳入哪些基准——会显著影响结论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Introducing Claude Fable 5 . 2 and Claude Mythos 5 . 2 \ Anthropic</a></li>
+<li><a href="https://platform.claude.com/docs/en/models/mythos-5-2/overview">Claude Mythos 5.2 - Claude Platform Docs</a></li>
+<li><a href="https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf">Claude Fable 5.2 &amp; Claude Mythos 5.2 System Card</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者称赞 Anthropic 改善了模型层级之间的平衡，有人表示 Opus 5.5 已经足够好，减少了对 Fable 的错失恐惧；但也有人指出，Fable 5.2 需要更具雄心的提示才能与 Opus 5.5 拉开明显差距。一些用户质疑基准测试方法，询问为何将 Fable xHigh 与 Carbon Med 对比，以及为何在网络安全基准比较中遗漏了 Carbon。还有人推测，Anthropic 发布 5.2 而非 5.5 是为了保留更强的模型，以应对 OpenAI 可能发布的 Astra。
+
+**标签**: `#Anthropic`, `#LLM release`, `#benchmarks`, `#model comparison`, `#AI research`
+
+---
+
+<a id="item-12"></a>
+## [E-means：仅需十分之一轮次即可超越 k-means](https://e-means.github.io/) ⭐️ 8.0/10
+
+E-means 是一种新的聚类方法，它采用带有小批量更新的指数移动平均优化过程，在仅需十分之一轮次的情况下就超越了 Lloyd 的 k-means 算法。该方法在 arXiv 论文中详细描述，并已被从业者采用，在 IVF 索引上实现了高达 146 倍的 GPU 加速，在数据库中实现了 2.5 倍的批量构建加速。 聚类是数据分析、检索和量化中的基础操作，而 k-means 几十年来一直是标准。一种能在远少轮次内收敛的方法可以显著降低计算成本，并在大规模系统中实现更快的重建索引，影响所有从事向量数据库、推荐系统或数据整理工作的人。 该算法将质心保持在其分配点的凸包内，这对稳定性很重要，论文还建立了衰减率和批量大小与性能之间的缩放定律。然而，社区测试表明它并非普遍更好：在球面网格松弛任务中，它并未超越 Lloyd 算法；在增量聚类中，整体插入时间仅略有改善，因为聚类只占 CPU 时间的一小部分。
+
+hackernews · porridgeraisin · 11月9日 18:45 · [社区讨论](https://news.ycombinator.com/item?id=50429734)
+
+**背景**: K-means 聚类通过迭代地将点分配给最近的质心并更新质心，将数据划分为 k 个组，通常使用 Lloyd 算法。一个“轮次”（epoch）指的是对数据集的一次完整遍历，减少轮次直接减少了计算量。E-means 借鉴了深度学习优化中的思想，如指数移动平均和小批量更新，以加速收敛。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2611.09501">e-means: outperforming k-means (in one-tenth the epochs)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/K-means_clustering">k-means clustering - Wikipedia</a></li>
+<li><a href="https://deepai.org/machine-learning-glossary-and-terms/epoch">Epoch Definition | DeepAI</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区成员报告了混合的结果：一人在 IVF 索引上实现了 146 倍的 GPU 加速，另一人看到批量构建快了 2.5 倍，但一位爱好者发现它在球面网格松弛任务上更差。其他人指出了与期望最大化和模拟退火的理论联系，并希望它能被添加到 scipy 中以获得更广泛的可用性。
+
+**标签**: `#clustering`, `#k-means`, `#machine-learning`, `#algorithms`, `#performance`
+
+---
+
+<a id="item-13"></a>
+## [英飞凌生产出全球首片 300 毫米功率碳化硅晶圆](https://www.infineon.com/press-release/2026/infpr202611-028) ⭐️ 8.0/10
+
+英飞凌于 2026 年 11 月 9 日宣布，已成功在 300 毫米碳化硅（SiC）晶圆上制造出首批功能型功率器件，这是业界首个制造里程碑。 将 SiC 功率器件从 200 毫米迁移到 300 毫米晶圆可大幅增加单片可用面积，从而降低单颗芯片成本，并实现用于电动汽车、可再生能源和工业功率转换的宽禁带半导体的更高产量生产。 英飞凌指出，300 毫米 SiC 工艺主要复用现有的 300 毫米硅设备，但 SiC 特有的步骤（如生长更大尺寸的晶锭）仍具挑战性；此次公告涉及的是功能型功率器件，尚未进入全面商业化量产。
+
+hackernews · sshah03 · 11月9日 18:25 · [社区讨论](https://news.ycombinator.com/item?id=50429430)
+
+**背景**: 碳化硅是一种宽禁带半导体，禁带宽度超过 2 电子伏特，使功率器件能够在比硅更高的电压、频率和温度下工作。这些特性使 SiC 成为电动汽车和电网应用中高效功率转换的理想材料。历史上，SiC 晶圆以 150 毫米和 200 毫米直径生产，而硅多年来一直使用 300 毫米以降低单颗芯片成本。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_carbide">Silicon carbide - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wide-bandgap_semiconductor">Wide-bandgap semiconductor</a></li>
+<li><a href="https://semiconductorinsight.com/report/300mm-silicon-wafers-market/">300mm Silicon Wafers Market 2026 - semiconductorinsight.com</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对于向 300 毫米的过渡耗时如此之久表示惊讶，因为许多 300 毫米设备复用于硅，并质疑 Wolfspeed 是否已经达到 300 毫米。其他人指出，尽管英飞凌在林茨附近拥有 AI 人才，却缺乏 LLM-on-chip 方面的工作，还有人呼吁在欧洲重启 DRAM 生产。
+
+**标签**: `#silicon carbide`, `#power semiconductors`, `#Infineon`, `#300mm wafer`, `#wide-bandgap`
+
+---
+
+<a id="item-14"></a>
+## [Payments Canada 推出实时支付系统 Real-Time Rail](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) ⭐️ 7.0/10
+
+Payments Canada 宣布推出实时支付系统 Real-Time Rail（RTR），这是一个支持全天候即时、数据丰富支付的国家级实时支付系统。首批活跃参与者包括 Wealthsimple、Questbank、Peoples Trust Company、Paramount Commerce、KOHO、DoBusiness.com、Digital Commerce Bank 和美国银行，但加拿大主要银行并未出现在名单中。 这是加拿大金融基础设施的一个重要里程碑，可与美国的 FedNow 或印度的 UPI 相媲美，因为它现代化了该国的支付轨道，并可能刺激金融科技和商业领域的创新。它还可能使加拿大对寻求高效支付系统的初创企业和企业更具吸引力。 RTR 预计将于 2026 年第四季度上线，支持不可撤销、数据丰富的信用转账，可在数秒内完成清算和结算。首批参与者名单中缺少加拿大主要银行，这可能限制其即时采用并引发对该系统覆盖范围的疑问。
+
+hackernews · ocd · 11月9日 16:00 · [社区讨论](https://news.ycombinator.com/item?id=50427362)
+
+**背景**: 实时支付系统允许资金在银行账户之间即时转账，全天候可用，并立即确认和结算。加拿大目前依赖 Interac e-Transfer 进行快速支付，但这是一个专有系统；RTR 旨在提供任何银行或金融科技公司都可以构建的国家公共基础设施。类似系统包括美国的 FedNow 和印度的 UPI。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.payments.ca/systems-services/payment-systems/real-time-rail-payment-system">Real - Time Rail payment system | Payments Canada</a></li>
+<li><a href="https://www.finder.com/ca/banking/your-guide-to-real-time-rail-payments-in-canada">Real - Time Rail Payments : RTR Explained | Finder Canada</a></li>
+<li><a href="https://en.wikipedia.org/wiki/FedNow">FedNow - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍对 RTR 持积极态度，一位加拿大人指出它将 Interac 专有的 e-Transfer 转变为公共产品，并赞扬了与 Interac 的合作。其他人则质疑主要银行的缺席，并将其与美国 FedNow 进行比较，后者因银行支持有限和收费而受到批评。一位初创企业创始人还强调加拿大新推出的 6% 企业税率是在那里注册公司的激励因素。
+
+**标签**: `#payments`, `#fintech`, `#real-time-payments`, `#Canada`, `#financial-infrastructure`
+
+---
+
+<a id="item-15"></a>
+## [Expo 推出 Exact：全新跨平台 UI 框架](https://github.com/expo/exact) ⭐️ 7.0/10
+
+Expo 推出了 Exact，这是一个新的跨平台 UI 框架，使用声明式契约来针对多个原生平台和 Web。该项目目前仍在开发中，尚未发布，但它旨在通过声明式 DSL 统一原生和 Web 开发。 Exact 通过提供跨平台构建应用的统一方法，可能显著影响 UI 开发领域，有望简化开发并提高代码复用率。如果成功，它可能成为 React Native 和 Flutter 等现有框架的有力替代方案。 Exact 仍处于早期开发阶段，尚未发布，关于它如何转换到不同原生工具包的细节很少。该框架包括契约语法和宿主实现（例如 Web 胶水文件），表明其采用模块化架构。
+
+hackernews · vmg12 · 11月9日 22:59 · [社区讨论](https://news.ycombinator.com/item?id=50433541)
+
+**背景**: Expo 是一个开源平台，用于使用 React Native 构建适用于 Android、iOS 和 Web 的通用原生应用。声明式 UI 框架允许开发者描述用户界面应该显示什么，而不是如何实现，通常使用领域特定语言（DSL）。Exact 旨在结合这些概念，以简化跨平台开发。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/expo/expo">GitHub - expo / expo : An open-source framework for making universal...</a></li>
+<li><a href="https://expo.dev/">Expo : Agentic Mobile Infrastructure for building application software</a></li>
+<li><a href="https://github.com/topics/declarative-ui">declarative-ui · GitHub Topics · GitHub</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的讨论显示出浓厚兴趣，有人将其与 QML/Qt 比较，并就 DSL 设计展开辩论。一些评论者质疑 DSL 中是否需要复杂的数学表达式，并建议提供正式的语言规范，而其他人则对其潜力感到兴奋，并希望了解更多实现细节。
+
+**标签**: `#cross-platform`, `#UI framework`, `#Expo`, `#declarative UI`, `#native development`
+
+---
+
+<a id="item-16"></a>
+## [半透明彩色碲化镉光伏板瞄准农业光伏](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/) ⭐️ 7.0/10
+
+研究人员报告了专为农业光伏设计的半透明彩色碲化镉（CdTe）光伏板，成果发表在《Cell Reports Physical Science》上。这些面板旨在让光线透过以供作物生长，同时仍能发电，从而实现农田的双重利用。 农业光伏有望在同一块土地上结合粮食和能源生产，而彩色半透明面板可能使太阳能装置在视觉和农艺上与农业更兼容。如果经济上可行，这可能为农民开辟新的收入来源，并在不取代农业的情况下扩大太阳能部署。 CdTe 是一种薄膜光伏技术，效率通常低于硅，但可以制成半透明和带颜色的形式；其代价是滤光着色会降低发电量，并可能根据所种植物影响作物产量。该研究详细介绍了面板性能和作物响应，但实际经济性和长期耐久性仍是未解问题。
+
+hackernews · speckx · 11月9日 14:31 · [社区讨论](https://news.ycombinator.com/item?id=50426175)
+
+**背景**: 农业光伏（又称双用太阳能）是指在同一块土地上同时进行太阳能发电和农业生产，面板可放置在作物之间、架高在作物上方或安装在温室上。由于面板会消耗光线，作物产量和能源生产之间存在权衡，不过一些耐阴作物可能受益。碲化镉是一种薄膜光伏材料，可以沉积在玻璃上并制成半透明，这与标准的不透明硅面板不同。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Agrivoltaics">Agrivoltaics</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cadmium_telluride_photovoltaics">Cadmium telluride photovoltaics - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Building-integrated_photovoltaics">Building-integrated photovoltaics - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: HN 评论者意见分歧：一位切花种植者表示，其美国农业部联系人因过去与太阳能公司打交道的经历以及缺乏可靠的公开数据而对农业光伏持怀疑态度；其他人则认为美国农田充足，“叠层”利用会带来更多问题。一些人反驳说，对个体农场主而言，增加电力收入可能是合理的，即使这不是全球最优的土地利用方式；还有人指出美国很大一部分玉米用于生产乙醇，因此粮食与太阳能之间的权衡往往被夸大。
+
+**标签**: `#agrivoltaics`, `#cadmium-telluride`, `#solar-photovoltaics`, `#dual-use-land`, `#renewable-energy`
+
+---
+
+<a id="item-17"></a>
+## [开发者用 Claude Fable 5.2 一次生成侄子梦想游戏，引发 AI 代码生成讨论](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) ⭐️ 7.0/10
+
+一篇开发者博客文章描述了使用 Claude Fable 5.2 通过单次提示生成一个完整游戏，作者称之为“一次生成”了他侄子的梦想游戏。该文章及其在 Hacker News 上的 160 条评论探讨了 LLM 代码生成的实用价值和局限性。 这一亲身实践表明，LLM 现在可以通过单次提示生成可玩的游戏，降低了业余游戏开发的门槛。同时，它也凸显了关于这种“一次成功”是反映模型真实能力还是复杂提示与框架工程的持续争论。 社区成员指出，“一次生成”往往依赖于框架和内部提示，这些机制会消耗额外 token 来测试和优化输出，然后才作为单次响应呈现。其他人分享了比较 Fable 5.2 与 Opus 5.5 的例子，观察到 Fable 在某些方面更好，但 Opus 5.5 可能感觉更有趣，并提醒新鲜感会消退，生成的游戏仍存在 bug。
+
+hackernews · lexandstuff · 11月9日 23:08 · [社区讨论](https://news.ycombinator.com/item?id=50433659)
+
+**背景**: Claude Fable 5.2 是 Anthropic 最近发布的大型语言模型，定位为在编程、金融和科学领域树立新标杆。“一次生成”代码生成是指通过单次自然语言提示生成可运行程序，无需迭代调试。基于 LLM 的代码生成越来越多地用于快速原型开发，包括简单的游戏开发，尽管可靠性和质量参差不齐。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://platform.claude.com/docs/en/models/fable-5-2/overview">Claude Fable 5.2 - Claude Platform Docs</a></li>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Introducing Claude Fable 5.2 and Claude Mythos 5.2</a></li>
+<li><a href="https://arxiv.org/html/2406.12513">Can We Trust Large Language Models Generated Code ?</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为，一次生成对于低投入的玩具项目令人印象深刻，但警告不要过分强调首次尝试的成功，因为很大程度上取决于框架和提示。一些人分享了个人经历：有人用 Fable 5.1 的额度构建了一个 WhatsApp 贴纸制作器，但对成本和结果不满意，后来更喜欢用更小预算构建的 Rust 替代品；另一个人指出，虽然新鲜感会消退，但制作小型合作游戏仍然有趣且可玩，尽管有 bug。
+
+**标签**: `#LLM`, `#code-generation`, `#game-development`, `#AI-tools`, `#developer-experience`
+
+---
+
+<a id="item-18"></a>
+## [USPS 开始销售官方 ZIP Code 边界多边形，起价 1 万美元](https://postalpro.usps.com/zcb) ⭐️ 6.0/10
+
+美国邮政局（USPS）现通过其 PostalPro 服务提供官方的 ZIP Code 边界多边形数据，根据 2026 年 9 月 18 日的材料，年度许可价格分别为 1 万美元、3.3 万美元和 15 万美元。这标志着该机构首次将权威的 ZIP Code 边界多边形作为商业产品出售。 这一进展之所以重要，是因为 ZIP Code 边界长期以来一直使用免费的普查局 ZCTA 文件进行近似，而官方产品可以提高物流、保险、房地产和导航行业的准确性。然而，高昂的成本和对联邦数据透明度的担忧可能会限制其采用，尤其是对小型组织和开放数据倡导者而言。 定价层级为每年 1 万美元、3.3 万美元和 15 万美元，且这些多边形基于 USPS 的承运路线而非普查统计区构建，因此反映了实际的邮件投递路线。一个关键警告是，ZIP Code 是投递路线标签而非真正的地理多边形，因此边界表示可能无法完美捕捉新开发区域或没有投递路线的地区。
+
+hackernews · munro · 11月9日 19:58 · [社区讨论](https://news.ycombinator.com/item?id=50431058)
+
+**背景**: ZIP Code 并非真正的地理边界，而是邮政投递路线的标签，这就是美国人口普查局创建 ZIP Code 制表区（ZCTA）作为免费近似多边形表示用于统计目的的原因。USPS 最近在其“Beyond the Mail”倡议下扩展了地理空间数据产品的销售，向商业客户提供地址和位置数据。这一新产品为 ZCTA 和供应商构建的边界文件提供了官方替代方案，但成本高昂。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://postalpro.usps.com/zcb">USPS® ZIP Code Boundaries | PostalPro</a></li>
+<li><a href="https://runtimewire.com/article/usps-zip-code-boundary-polygons-license-price">USPS sells official ZIP Code boundary polygons at $10,000 to ...</a></li>
+<li><a href="https://www.zip-codes.com/zip-code-map-boundary-data.asp">ZIP Code Boundary Data — Carrier-Route Built, Not ZCTA | 8 ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论对高昂的定价表示不满，许多人认为联邦数据应该免费以促进透明度和问责制。一些人指出，免费的普查局 ZCTA 形状文件对于许多用途来说已经足够接近，而另一些人则强调了投递路线与地理多边形之间的概念不匹配。还有关于该数据是否应通过 FOIA 获取的讨论，以及与其他出售数据的机构的比较。
+
+**标签**: `#geospatial-data`, `#open-data`, `#USPS`, `#data-licensing`, `#GIS`
+
+---
+
+<a id="item-19"></a>
+## [博客文章探讨“糟糕的”公钥证书技巧](https://maurycyz.com/projects/badcert/) ⭐️ 6.0/10
+
+Maurycyz 的一篇题为“Horrible public key tricks”的博客文章展示了公钥证书的非传统技巧，在 Hacker News 上引发了关于 TLS 安全和攻击者模型的讨论。 文章强调了证书处理中的边缘情况，这些情况可能破坏 TLS 安全假设，提醒从业者不应将未经身份验证的 TLS 会话视为安全。 这些技巧可能利用了私钥很少与公钥进行一致性检查的事实，以及证书验证可能以微妙方式被绕过；然而，该文章并非重大突破，而是聚焦于小众场景。
+
+hackernews · Curiositry · 11月10日 00:07 · [社区讨论](https://news.ycombinator.com/item?id=50434264)
+
+**背景**: TLS 证书将公钥绑定到身份，是安全 HTTPS 的基础。公钥基础设施依赖证书颁发机构来担保身份，但配置错误或忽视的检查可能导致漏洞。攻击者经常使用中间人技术拦截流量，因此正确的证书验证至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Downgrade_attack">Downgrade attack - Wikipedia</a></li>
+<li><a href="https://github.com/tls-attacker/TLS-Attacker">GitHub - tls-attacker/TLS-Attacker: TLS-Attacker is a Java ... TLS-Attacker: A Dynamic Framework for Analyzing TLS ... Your Guide to SSL &amp; TLS Certificate Attacks tls-attacker/TLS-Attacker | DeepWiki GitHub Pages - tlspuffin Downgrade attack - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者讨论了攻击者模型，tptacek 强调所有严肃的攻击者都是中间人攻击者，未经身份验证的 TLS 并不安全。其他人分享了阅读技巧，并指出了文章标题的拼写错误。
+
+**标签**: `#cryptography`, `#TLS`, `#security`, `#public keys`, `#certificates`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-20"></a>
+## [特斯拉 Cybertruck 停产，累计销量仅 6.3 万辆](https://www.ifanr.com/1688639?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 8.0/10
+
+特斯拉已正式宣布停产 Cybertruck，这款车型量产不到四年，累计销量仅 6.3 万辆，而此前曾宣称预订量超过百万。CEO 埃隆·马斯克周五表示，特斯拉将从明年年中开始逐步停止 Cybertruck 的生产。 停产标志着特斯拉旗舰产品的重大挫折，并凸显了电动汽车行业中炒作与实际市场需求之间的差距。这预示着市场动态的转变，并引发了对特斯拉在转向机器人和自动驾驶技术之际产品战略的质疑。 尽管此前宣称预订量超过百万，Cybertruck 总销量仅为 6.3 万辆，特斯拉曾试图通过降价来提振销量，包括在 2026 年 2 月将全轮驱动版价格从 79,990 美元降至 59,990 美元。此次停产紧随 Model S 和 Model X 的取消，特斯拉正将工厂空间重新分配给 Optimus 机器人生产线。
+
+rss · 爱范儿 · 11月10日 00:45
+
+**背景**: Cybertruck 是特斯拉的不锈钢车身电动皮卡，在德克萨斯州超级工厂生产，提供三个版本。它于 2019 年发布，凭借未来主义设计和承诺的规格引发了大量预订兴趣。然而，生产延迟和有争议的设计导致销量低于预期。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html">Tesla Is Ending Production of Its Cybertruck and Refocusing on the...</a></li>
+<li><a href="https://www.businessinsider.com/tesla-wind-down-cybertruck-production-elon-musk-cybercab-texas-2026-11">Elon Musk Says Tesla Will Wind Down Cybertruck Production</a></li>
+<li><a href="https://www.cybertruckwiki.com/docs/Production/sales.html">Sales - - Cybertruck Wiki</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Tesla`, `#Cybertruck`, `#electric vehicles`, `#production halt`, `#automotive industry`
+
+---
+
+<a id="item-21"></a>
+## [Anthropic IPO 倒计时：最早 11 月 16 日上市](https://www.tmtpost.com/8199231.html) ⭐️ 8.0/10
+
+据报道，Anthropic 正赶在感恩节窗口冲刺首次公开募股（IPO），最早可能于 11 月 16 日上市。此举被视为对 AI 板块定价的一次关键考验。 作为领先的前沿 AI 实验室之一，Anthropic 的 IPO 将成为资本市场的重大里程碑，并为整个人工智能板块提供估值基准。上市成功可能提振市场对 AI 估值的信心，而反响平淡则可能引发对 AI 初创企业高估值的广泛反思。 该报道内容简短，未提供估值、财务数据或官方确认等细节。此前的市场评论将 Anthropic 的 IPO 视为对其潜在 2 万亿美元估值的试金石，并认为第三、第四季度财报将是验证这一估值的关键。
+
+rss · 钛媒体 · 11月10日 03:15
+
+**背景**: Anthropic 是一家 AI 安全与研究公司，由前 OpenAI 员工于 2021 年创立，以开发 Claude 系列大语言模型而闻名。IPO（首次公开募股）是私营公司首次向公众发行股票的过程，需要获得美国证券交易委员会（SEC）和交易所的批准，通常涉及承销商和路演。在生成式 AI 快速增长的推动下，AI 板块估值飙升，但盈利能力和算力成本仍是投资者关注的主要问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://pepperstone.com/en/insights/market-analysis/equities/anthropic-s-ipo-looms-can-a-2-trillion-valuation-survive-the-profitability-test">Anthropic&#x27;s IPO and the $2trn valuation test | Pepperstone</a></li>
+<li><a href="https://www.investopedia.com/terms/i/ipo.asp">What Is an IPO? How an Initial Public Offering Works Initial Public Offerings (IPOs) | Definition, Process, &amp; How ... Initial Public Offering (IPO) | Definition + Process The IPO Process: How Companies Go Public (2026 Guide) Beginner&#x27;s Guide to Initial Public Offerings (IPOs) IPO Timeline Guide: Essential Stages of Going Public</a></li>
+<li><a href="https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/">If Anthropic Succeeds, a Nation of Benevolent AI Geniuses... | WIRED</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Anthropic`, `#IPO`, `#AI industry`, `#capital markets`, `#big tech`
+
+---
+
+<a id="item-22"></a>
+## [玛莎拉蒂将与华为系尊界联合造车，首款车型或为双门 GT](https://www.ifanr.com/1688586?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+玛莎拉蒂将与华为和江淮共同打造的豪华电动车品牌尊界合作造车，首款车型或为双门 GT，并计划于明年正式量产。据报道，合作中玛莎拉蒂负责产品定义、营销和零售等环节，华为提供技术赋能，生产则由尊界工厂承担。 这标志着全球汽车产业格局的一次显著逆转：一家历史悠久的意大利豪华品牌转而借助中国电动车企业的电动化和智能化技术，而非相反。这表明华为、江淮等中国企业正成为西方老牌车企的技术供应商，可能重塑豪华车的开发方式及其在中国市场的本土化路径。 该项目内部代号为“Maserati Design”，据报道已完成外观设计，量产目标定在 2027 年第四季度，而新闻称明年量产。合作将针对国内和海外销售使用不同品牌；尊界首款车型 S800 是基于华为途灵平台打造的旗舰豪华电动车，采用 800V 高压碳化硅技术。
+
+rss · 爱范儿 · 11月9日 14:56
+
+**背景**: 尊界是鸿蒙智行模式下推出的豪华智能电动汽车品牌，由江淮负责产品开发与制造，华为负责销售与服务；品牌于 2024 年 7 月定名，首款车型 S800 于 2025 年 5 月上市。玛莎拉蒂是 Stellantis 旗下历史悠久的意大利豪华汽车品牌，与许多西方品牌一样，它正寻求电动化和软件方面的专业能力以在中国这一全球最大电动车市场竞争。据报道的这笔交易反映出中国企业向外国品牌供应核心智能电动车技术的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%B0%8A%E7%95%8CS800">尊界S800 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%B0%8A%E7%95%8C/64657273">尊界（中国华为与江淮合作推出的豪华智能电动汽车品牌）_百度百科</a></li>
+<li><a href="https://cnevpost.com/2026/11/09/maserati-partner-with-maextro-localized-production-china/">Maserati reportedly to partner with Maextro on localized production in...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Maserati`, `#Zunjie`, `#joint venture`, `#automotive industry`, `#China EV`
+
+---
+
+<a id="item-23"></a>
+## [苹果罕见公布人形机器人进展，宇树 G1 背着跑千问的 Mac mini](https://www.ifanr.com/1688485?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+苹果罕见地公开了其人形机器人研发进展，同时展示了一个宇树 G1 机器人背着一台运行阿里千问模型的 Mac mini，展示具身智能的新玩法。 苹果罕见公开表态，标志着其正式加入人形机器人竞赛；而宇树硬件与千问 AI 模型的结合，凸显了中国机器人技术与 AI 生态的融合趋势，可能加速具身智能的发展并影响各大科技公司。 宇树 G1 是一款紧凑型人形机器人，身高约 132 厘米、体重约 35 公斤，拥有 23 至 43 个关节，小跑速度超过 2 米/秒；运行千问的 Mac mini 提供板载 AI 推理能力，但关于模型规模和任务表现的具体细节仍然有限。
+
+rss · 爱范儿 · 11月9日 07:56
+
+**背景**: 具身智能是指智能体通过物理身体与真实环境交互来学习和行动，这一概念可追溯到图灵 1950 年的论文。宇树是中国领先的机器人公司，其 G1 人形机器人广泛用于研究，而千问是阿里的大语言模型系列。苹果长期有传闻在探索机器人领域，但很少公开分享细节。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.unitree.com/operate/g1/">Unitree G1 宇树人形机器人</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD">具身智能 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.aliyun.com/product/tongyi">千问大模型_AI大模型_一站式大模型推理和部署服务-阿里云</a></li>
+
+</ul>
+</details>
+
+**标签**: `#人形机器人`, `#苹果`, `#宇树科技`, `#具身智能`, `#大厂动态`
+
+---
+
+<a id="item-24"></a>
+## [双特异性抗体三期临床成功引发市场热潮](https://www.tmtpost.com/8199299.html) ⭐️ 7.0/10
+
+一款双特异性抗体在三期临床试验中取得成功，推动相关公司市值增长近百亿美元。 这一成功凸显了双特异性抗体领域日益增长的势头，该领域正成为肿瘤药物开发的重要方向，并吸引了大量投资者信心。 该新闻报道较为简短，未披露具体药物、公司或试验数据，但市值增长的幅度凸显了市场对双特异性抗体的高预期。
+
+rss · 钛媒体 · 11月10日 03:37
+
+**背景**: 双特异性抗体是经过工程化设计的分子，能够同时结合两种不同的抗原，提供诸如将 T 细胞重定向至肿瘤细胞等新机制。近年来，全球仅有少数几款双特异性抗体获批，约 15 款处于三期临床试验阶段，这既反映了其发展前景，也体现了研发挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://bydrug.pharmcube.com/news/detail/106169dff353534f81a64e63b8f1ccfc">bydrug.pharmcube.com/news/detail/106169dff353534f81a64e63b8f1ccfc</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1913520948080017816">【决策观察】双抗赛道火热：从靶点竞争到工艺决胜，纯化技术或成竞争...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#双特异性抗体`, `#临床试验`, `#生物医药`, `#市值变动`, `#新药研发`
+
+---
+
+<a id="item-25"></a>
+## [京东拟百亿收购德国电商公司，加速欧洲扩张](https://www.tmtpost.com/8199017.html) ⭐️ 7.0/10
+
+据报道，京东计划以百亿级资金收购一家德国电商公司，以加速欧洲市场扩张并完善海外物流布局。多方消息称收购目标为 MediaMarkt 和 Saturn 的母公司 Ceconomy，交易估值约 25 亿美元（约合人民币 168 亿元）。 这是中国电商平台规模最大的海外投资之一，将使京东迅速获得 Ceconomy 在欧洲广泛的电子产品零售网络和供应链资源。此举也标志着中国平台加速进军欧洲零售与物流市场，可能重塑跨境电商竞争格局。 该交易需获得欧盟监管批准；报道称京东已调整补救方案以回应监管关切，有望为获批铺平道路。Ceconomy 的主要股东包括创立 MediaMarkt 的 Kellerhals 家族控股公司以及 Franz Haniel &amp; Cie. GmbH。
+
+rss · 钛媒体 · 11月10日 02:53
+
+**背景**: Ceconomy AG 是一家德国消费电子产品零售商，旗下拥有 MediaMarkt 和 Saturn 连锁品牌，在欧洲拥有庞大的门店网络。京东自 2021 年起加速欧洲布局，建设物流基础设施并推进自营电商，目前在欧洲已布局约 30 个海外仓，覆盖英国、德国、法国、荷兰等国家。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.guancha.cn/CaiJing/2026_10_08_903519.shtml">京 东 168亿 收 购 德 国 零售巨头，有望获欧盟通过</a></li>
+<li><a href="https://www.pai.com.cn/p/01k1f13jaqvr1mh54fqhzsedgv">京 东 正式向 德 国 零售巨头Ceconomy发出 收 购 要约 - 电 商 派</a></li>
+<li><a href="https://aiqicha.baidu.com/details/ugknowledge?id=9c207846c312665d2b8d1e0d3de90779">京东欧洲海外仓 - 爱企查</a></li>
+
+</ul>
+</details>
+
+**标签**: `#京东`, `#跨境电商`, `#海外扩张`, `#并购`, `#物流布局`
+
+---
+
+<a id="item-26"></a>
+## [手机芯片厂商困于 AI 繁荣，手机销量下滑加剧压力](https://www.tmtpost.com/8198787.html) ⭐️ 7.0/10
+
+手机芯片厂商正面临手机销量下滑与 AI 基础设施扩张推高供应链成本的双重压力，而端侧 AI 尚未带动换机需求。为此，它们正加速转向数据中心寻求增长。 这凸显了半导体行业的结构性矛盾：AI 基础设施支出繁荣与消费电子需求疲软的分化。它标志着战略转向，可能重塑高通、联发科等芯片厂商的竞争格局。 尽管芯片涨价，仍无法弥补手机销量下滑带来的订单流失。端侧 AI 功能尚未证明足以驱动大规模换机周期，而 AI 基础设施需求推高了供应链成本。
+
+rss · 钛媒体 · 11月10日 02:43
+
+**背景**: 手机芯片厂商传统上依赖手机销售获取收入。AI 热潮导致数据中心基础设施大规模投资，推高了先进芯片和存储器的成本。端侧 AI（在手机上本地运行 AI 模型）曾被期望刺激换机，但尚未实现。例如，高通已宣布计划到 2029 财年从数据中心获得 150 亿美元年收入。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chaincatcher.com/article/2302665">谷歌悄悄买入高通：手机芯片巨头盯上数据中心，目标年入超 150 亿美元</a></li>
+<li><a href="https://www.toutiao.com/article/7704936799570838026/">高通2026财报：手机主业承压，汽车、AI数据中心撑起第二增长曲线</a></li>
+
+</ul>
+</details>
+
+**标签**: `#手机芯片`, `#AI基础设施`, `#半导体行业`, `#数据中心`, `#端侧AI`
+
+---
+
+<a id="item-27"></a>
+## [字节跳动豆包 Seedream 5.5 瞄准完整 AI 作图工作流](https://www.ifanr.com/1688447?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+字节跳动豆包团队发布升级版图像生成模型 Seedream 5.5，重点提升多轮编辑稳定性、画面质感和文字渲染能力，并将陆续接入豆包及豆包工作，把图片生成与设计、网页、营销物料和团队协作流程连接起来。 此次发布表明字节跳动正将 AI 图像生成嵌入端到端生产力工作流，而非仅提供独立工具，这可能会影响使用豆包生态的设计师、营销人员和团队，并加剧各大 AI 平台之间的竞争。 Seedream 5.5 新增原生 RGBA 透明背景支持和图层拆分功能，爱范儿实测强调改图 100 轮后画面依然清晰；不过该报道缺乏基准数据或技术细节。
+
+rss · 爱范儿 · 11月9日 12:01
+
+**背景**: Seedream 是字节跳动的文本生成图像模型系列，此前的 Seedream 3.0 和 4.0 以高分辨率、双语图像生成和精准文字渲染著称。豆包是字节跳动的 AI 助手应用，豆包工作是其整合多种工具的生产力套件。多轮编辑指通过连续提示反复修改图像而不降低质量的能力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1099289216_122066678">豆包Seedream5.5发布，实现AI作图多轮编辑稳定性提升</a></li>
+<li><a href="https://news.huaren.us/topic/6ef0b322a9fc1179a474">实测 Seedream5.5，豆包想把 AI 作图接进整条工作流 · 华人快讯</a></li>
+<li><a href="https://seed.bytedance.com/zh/seedream4_0">Seedream 4.0</a></li>
+
+</ul>
+</details>
+
+**标签**: `#字节跳动`, `#豆包`, `#Seedream`, `#AI 图像生成`, `#产品实测`
+
+---
+
+<a id="item-28"></a>
+## [世茂深坑酒店背后的财务困境](https://www.tmtpost.com/8199209.html) ⭐️ 6.0/10
+
+文章讨论了世茂集团旗下的深坑酒店所面临的财务困难，该酒店与世茂的千亿债务紧密相连。这座名为上海佘山世茂洲际酒店的深坑酒店已成为公司财务困境的象征。 这一案例反映了中国房地产行业更广泛的债务危机，即使是标志性项目也受到企业财务困境的影响。它凸显了世茂等公司在管理巨额债务方面面临的挑战以及对酒店业的潜在影响。 深坑酒店建在一个废弃的采石坑内，是一家五星级酒店，被《国家地理》评为“世界十大建筑奇迹”之一。截至 2022 年底，世茂的总负债达到 5367 亿元，公司一直面临清盘呈请和资产出售。
+
+rss · 钛媒体 · 11月10日 03:07
+
+**背景**: 世茂集团是中国一家大型房地产开发商，自 2022 年以来一直陷入债务危机。上海佘山世茂洲际酒店，又称世茂深坑酒店，是一家建在上海松江区一个废弃采石坑内、深入地下 88 米的豪华酒店。它是全球首个建于石坑内的五星级酒店，被视为建筑奇迹。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E4%BD%98%E5%B1%B1%E4%B8%96%E8%8C%82%E6%B4%B2%E9%99%85%E9%85%92%E5%BA%97">上海佘山世茂洲际酒店 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.sohu.com/a/1068946389_122568613">市值蒸发 99%！千亿房企世茂被申请清盘，总负债高达 5367 亿</a></li>
+<li><a href="https://www.toutiao.com/article/7591028556764676643/">世茂集团成功化债545亿，用核心资产换10年喘息 - 今日头条</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Shimao`, `#debt`, `#hotel industry`, `#real estate`, `#corporate finance`
+
+---
+
+<a id="item-29"></a>
+## [“不赚钱”的 Token 经济：半小时卖出 2 万亿，日均消耗增长 5000 倍](https://www.tmtpost.com/8198866.html) ⭐️ 6.0/10
+
+文章讨论了“不赚钱”的 Token 经济的兴起，强调大规模 Token 销售——半小时内售出 2 万亿 Token——以及日均 Token 消耗增长 5000 倍，同时大型科技公司竞相争夺新生态系统中的入口、分发和结算控制权。 这很重要，因为它标志着 AI 经济中价值捕获方式的转变：即使 Token 本身不赚钱，控制基础设施和分发渠道也可能决定哪些公司主导下一个计算平台，从而影响整个科技行业的开发者、企业和投资者。 文章仅为预告，缺乏实质性数据，但其中提到的数字——30 分钟售出 2 万亿 Token、日均消耗增长 5000 倍——表明 AI 推理需求爆发式增长，可能由智能体和企业级工作负载驱动；然而，由于基础设施成本高昂，Token 销售的盈利能力仍存疑。
+
+rss · 钛媒体 · 11月10日 02:56
+
+**背景**: 在 AI 领域，Token 是大型语言模型处理的基本文本单位（词、子词或字符）；“Token 经济”指的是将这些 Token 作为计量服务进行买卖的市场。随着 AI 模型能力增强，Token 消耗激增，一些估计预测年消耗量将达到千万亿级别。大型科技公司正大举投资基础设施以捕捉这一增长需求，往往优先考虑市场份额而非短期盈利。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blogs.nvidia.com/blog/ai-tokens-explained/">What Are AI Tokens ? The Language and Currency... | NVIDIA Blog</a></li>
+<li><a href="https://www.finops.org/insights/token-economics-the-atomic-unit-of-ai-value/">Token Economics: The Atomic Unit of AI Value</a></li>
+<li><a href="https://semianalysis.com/tokenomics-model/">Tokenomics Model: AI Token Economics &amp; Hardware... | SemiAnalysis</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Token经济`, `#大厂动态`, `#生态系统`, `#商业模式`, `#行业趋势`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-30"></a>
+## [航司客服倒卖明星航班信息获刑](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QZ0xYcEwtTWs2a1p1Q1JlWWk2cEZXdUVRLVlPVGdyaDJSWWlOemVqMzBhdWNfNE1BVzNvYXMtZ2lLN0t3RThQVWhpdDFfSU1fZjk3c3hUUloyWGdUblNLdUhBdFdaM0pR?oc=5) ⭐️ 6.0/10
+
+据中国新闻网报道，一名航空公司客服人员因非法出售明星航班信息以赚取外快而被判处有期徒刑。此案凸显了航空业内内部人员数据窃取的法律后果。 此案凸显了客服岗位中内部威胁的风险，因为这些员工可以接触敏感个人数据。它提醒企业必须加强数据安全和合规措施，尤其是在中国《个人信息保护法》框架下。 该客服利用职务之便获取并出售明星航班信息，违反了数据隐私法律。判决反映了中国对个人信息保护的更严格执法，严重违法行为可判处监禁。
+
+rss · 客服行业动态 · 11月9日 10:49
+
+**背景**: 在中国，《个人信息保护法》对处理个人数据制定了严格规定，严重违规可处以最高 5000 万元人民币或年收入 5%的罚款。内部威胁，即员工滥用授权访问，在各行业日益受到关注。此案是打击数据泄露和保护个人隐私的更广泛努力的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://msadvisory.com/china-data-privacy-laws/">China&#x27;s Updated Data Privacy Laws: 2026 Guide - MSA</a></li>
+<li><a href="https://www.syteca.com/en/blog/real-life-examples-insider-threat-caused-breaches">7 Real-Life Data Breaches Caused by Insider Threats | Syteca</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#data privacy`, `#insider threat`, `#legal compliance`, `#aviation industry`
+
+---
+
+<a id="item-31"></a>
+## [董宇辉自营品牌就蛋糕 9 个月保质期争议作出回应](https://news.google.com/rss/articles/CBMic0FVX3lxTE03TUVXMmU0Y0VvZzh2QkF5Wk1uQ0hlUUhwRmt5WnV2M0VZOERDcmFYYkN1TXhzQ0dKcWtUdE9QQ0NXSER3NFJCVUpPXzNlUmJoQm1RRmNuR2RnS09ZeEZvRVhYOU9Mb05DVXU0VkowMjBWTEk?oc=5) ⭐️ 5.0/10
+
+董宇辉自营品牌“禾与春时”的首款产品千层蛋糕因标注 9 个月保质期而引发争议，网友质疑产品是否添加了大量防腐剂。11 月 9 日，该品牌旗舰店客服回应称，9 个月保质期是指在未拆封、-18℃以下冷冻储存条件下的期限，产品采用速冻锁鲜技术保鲜。 这一事件凸显了高知名度网红品牌在食品安全和透明度方面面临的严格公众审视，也强调了有效危机沟通对维护消费者信任的重要性。同时，它反映了消费者对食品添加剂的普遍担忧，以及就现代食品保鲜技术进行清晰标识和科普的必要性。 蛋糕的长保质期是通过速冻技术（可能使用液氮）而非防腐剂实现的，这是线上销售冷冻蛋糕的常见做法。客服明确表示 9 个月期限基于特定储存条件，但争议也反映出消费者对冷冻技术可能存在认知不足。
+
+rss · 客服行业动态 · 11月10日 02:38
+
+**背景**: 董宇辉是知名主播，曾在东方甄选走红，后通过其工作室“与辉同行”推出自营品牌“禾与春时”。自营品牌能让主播把控品质并获取更多价值，但也首当其冲地承受消费者的质疑，尤其是在食品安全方面。在中国，公众对食品添加剂高度敏感，常被“科技与狠活”等网络热词点燃，该词批评滥用添加剂的行为。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.jiemian.com/article/15308777.html">董宇辉自有品牌首款蛋糕9个月保质期引争议，客服回应：是速冻锁鲜的冷...</a></li>
+<li><a href="https://www.sohu.com/a/1099032142_313745">董宇辉自有品牌回应“首款蛋糕9个月保质期”_直播间_冷冻_产品</a></li>
+<li><a href="https://www.msn.cn/zh-cn/money/%E9%80%9A%E7%94%A8/%E8%91%A3%E5%AE%87%E8%BE%89%E8%87%AA%E6%9C%89%E5%93%81%E7%89%8C-%E9%A6%96%E6%AC%BE%E8%9B%8B%E7%B3%959%E4%B8%AA%E6%9C%88%E4%BF%9D%E8%B4%A8%E6%9C%9F-%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91-%E5%8A%A0%E4%BA%86%E5%A4%9A%E5%B0%91%E9%98%B2%E8%85%90%E5%89%82/ar-AA2h5Rjd">董宇辉自有品牌“首款蛋糕9个月保质期”网友质疑：加了多少防腐剂?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#crisis communication`, `#food safety`, `#brand reputation`, `#e-commerce`
+
+---
+
+<a id="item-32"></a>
+## [多位比亚迪唐车主投诉前后轮毂装反，客服建议到 4S 店检查](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16MTN5S3k5SUNNbUp5UUlDVjRndEV0NmY3NnN1UHhwS1RQN05BdnlrNG5uamJBVENEVUg2TDhfb0ZCcEpDdW9CcS1qUjNVQWRnUFZaTzZ2X2s0ZmNPMGJQZQ?oc=5) ⭐️ 5.0/10
+
+多位比亚迪唐车主投诉车辆前后轮毂装反，比亚迪客服确认已收到相关反馈，并建议车主前往附近的 4S 店进行检查。 这一事件凸显了比亚迪在制造或交付前检查环节可能存在的质量控制问题，可能影响消费者信任，并在竞争激烈的新能源汽车市场中对比亚迪的品牌声誉造成影响。 受影响的车型为比亚迪唐，问题涉及车轮被安装到错误的位置（前轮与后轮颠倒）。比亚迪的回应是让车主前往授权的 4S 店处理，但目前尚未宣布召回或发布正式的技术公告。
+
+rss · 客服行业动态 · 11月10日 03:08
+
+**背景**: 在中国，4S 店是集整车销售、零配件、售后服务及信息反馈于一体的授权汽车销售服务店。汽车前后轮往往有不同的规格设计（如前后配轮胎），装反可能影响操控性、轮胎磨损及行车安全。比亚迪是中国领先的新能源汽车制造商，唐是其旗下热门 SUV 车型之一。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%B1%BD%E8%BD%A6%E7%BB%8F%E9%94%80%E5%95%86">汽车经销商 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/4s%E5%BA%97/102844">4s店 - 百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#BYD`, `#quality complaint`, `#automotive`, `#after-sales`
+
+---
+
+<a id="item-33"></a>
+## [零食有鸣门店被曝买烟优先结账](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0temE2T3c5Q1ByeFZabU0yVVhkVW5QX1plUUtnU2x2cjBzTHc3WXY5V1lRMVhpcG96Qm1nVDlsZjFjOElWeFFVMlZvSEROUGJ0SU5LOU9tc1VRNG1KVHVxcy13?oc=5) ⭐️ 4.0/10
+
+近日，有网友爆料称零食有鸣某门店让购买香烟的顾客优先结账，对此零食有鸣客服回应称并非统一规定，会核实跟进处理。 这一事件凸显了连锁零售企业在服务标准执行上可能存在的不一致，可能影响顾客体验和品牌声誉，在竞争激烈的零食零售行业中尤其值得关注。 涉事门店据称贴出提示或告知顾客购买香烟可优先结账，但公司强调这并非全公司统一规定；具体门店和发生时间未在报道中披露。
+
+rss · 客服行业动态 · 11月10日 00:44
+
+**背景**: 零食有鸣是一家成立于 2019 年、总部位于四川成都的中国零食零售连锁品牌，主打折扣零食量贩模式。在中国，香烟销售受到严格管制，零售店需取得烟草专卖零售许可证并遵守相关规定。连锁零售企业的客服政策通常由总部统一制定，但个别门店有时会出现执行偏差，从而引发投诉。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E9%9B%B6%E9%A3%9F%E6%9C%89%E9%B8%A3/61777121">零食有鸣 - 百度百科</a></li>
+<li><a href="https://ailegal.baidu.com/legalarticle/qadetail?id=d4e16414534bd4250713">便利店卖香烟合法吗 - ailegal.baidu.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#retail`, `#service standards`, `#complaint handling`, `#China`
+
+---
+
+<a id="item-34"></a>
+## [双 11 带动电商招聘热潮 客服与仓储职位需求激增](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MQ1MtLXc3UTE0cnFMeGV1LVlkcjNwVi1DN2psbDRsVFltSnozdUlUQkRlMy1TRExTV3dDdXFxSXUxQlpqcDlrQmotNTRzQWhQd2hXRkltMnJLaU0xMmJJeNIBZkFVX3lxTFBVUEVzSHZMM2NHR25oYXJxRHRpT3dZZTNhbTN3Z0JYcTRIZnpVVU01bHdHMHY3aDZ0bmlzZC00WFF4c2V4VERORzRMa0JsMHliaE1zVGlnU1ZaaVFzMl9hOTA5Tjk3Zw?oc=5) ⭐️ 4.0/10
+
+一家人力银行报告称，双 11 购物节导致电商职位空缺急剧增加，尤其是客服和仓储岗位。 这一激增凸显了大型网购活动带来的季节性劳动力需求，影响着客服和物流领域的求职者及人力资源机构。 该报告基于一家人力银行的数据，聚焦台湾就业市场，但摘要中未提供具体数字和时间范围。
+
+rss · 客服行业动态 · 11月9日 12:28
+
+**背景**: 双 11，又称光棍节，是中国及其他华语地区每年 11 月 11 日举行的大型网购节，销售额巨大，需要临时增加客服和物流人员。台湾的人力银行，如 104 和 1111，是连接求职者和雇主的在线平台，经常发布招聘趋势报告。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Singles&#x27;_Day">Singles&#x27; Day - Wikipedia</a></li>
+<li><a href="https://www.104.com.tw/">104人力銀行－不只找工作、幫你找方向的求職徵才平台</a></li>
+<li><a href="https://www.1111.com.tw/">1111人力銀行-找工作、找人才，最用心服務的求職徵才網站！</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer-service`, `#e-commerce`, `#hiring-trends`, `#double-11`, `#labor-market`
+
+---
+
+<a id="item-35"></a>
+## [兰州地铁自动售票机拒收 1 元纸币，客服称因机器设置原因](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBb0l3M21mQmxMVzdVcXc2ajhyelJMYUloYnJ3NXFWSHRKQ0NTYVRfNTBaRzY0N0NWZTFqSGdoaFFKc3huLXNneFFmZEV6NlR3dU1CdmJCelpQdw?oc=5) ⭐️ 4.0/10
+
+兰州地铁客服针对自动购票机不接收 1 元纸币的投诉作出回应，解释称由于机器设置原因无法收取 1 元纸币。客服强调不存在歧视，并指出每个车站都设有人工窗口可使用 1 元纸币。 这一事件凸显了公共交通在自动化过程中，依赖现金（尤其是小面额纸币）的乘客所面临的支付障碍，并强调了服务提供方清晰沟通的重要性。它也反映了城市在推进自动售票的同时，如何兼顾多样化支付习惯的普遍挑战。 自动售票机的纸币识别模块通常只配置接受特定面额的纸币，1 元纸币因面额小、流通磨损较快等原因未被纳入。作为替代方案，乘客可在任何车站的人工窗口使用 1 元纸币购票。
+
+rss · 客服行业动态 · 11月9日 04:20
+
+**背景**: 1 元纸币是中国的法定货币，但在自动售票机中的使用常受到限制，因为许多机器只设置接受较大面额纸币或硬币。纸币识别器通过传感器和软件设置来验证货币，可根据运营需要启用或禁用某些面额。在中国快速城市化的交通系统中，现金支付与移动支付、银行卡支付并存，运营方需在效率与无障碍服务之间取得平衡。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Renminbi">Renminbi - Wikipedia</a></li>
+<li><a href="https://manualzz.com/doc/7708766/ipro-operation-and-maintenance-manual">JCM iPRO 100, iPRO 101, iPRO 102 Banknote Acceptor ... | Manualzz</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#public transit`, `#accessibility`, `#complaint handling`, `#China`
+
+---
+
+<a id="item-36"></a>
+## [开云集团推出全新数字化客户服务平台](https://news.google.com/rss/articles/CBMid0FVX3lxTE5SSzQ1TmJyVUh2Q2NPM0ZiLXNjbmw0R1ZEVE93dFZYald5WlFMUlNmWVFpSGtIUHZrSTJYZzJVWjlvRFBWRUpQTzllWVVfdU5xSzRHQ3FOQkxQRXRIM0RTMERzNmdEVHBxWnhPaUQ4YUtOWk5nR1Rj?oc=5) ⭐️ 4.0/10
+
+开云集团今日正式发布全新数字化客户服务平台，旨在提升用户体验，并获得了官方权威认证。 此次发布反映了奢侈品零售行业持续的数字化转型，品牌正投资技术以改善客户服务和全渠道体验，可能为同行奢侈品集团树立标杆。 公告未提供具体技术细节，但开云集团此前曾打造统一的客户关系管理平台以集中旗下奢侈品牌客户数据，暗示新平台可能整合类似功能。
+
+rss · 客服行业动态 · 11月9日 19:19
+
+**背景**: 开云集团是一家全球奢侈品集团，旗下拥有古驰、圣罗兰和葆蝶家等品牌。近年来，奢侈品零售商一直在投资数字工具，以融合实体和在线购物体验，包括为销售人员提供客户洞察的客户关系管理平台。此类平台旨在提供个性化服务并简化跨渠道的客户互动。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.kering.com/en/news/announces-new-developments-in-its-digital-strategy/">Kering announces new developments in its digital strategy</a></li>
+<li><a href="https://www.numendo.com/en/projects/kering-rollout-of-a-unified-clienteling-platform-worldwide/">Kering: rollout of a unified clienteling platform worldwide</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#digital transformation`, `#luxury retail`, `#platform launch`, `#corporate announcement`
+
+---
+
+<a id="item-37"></a>
+## [问鼎国际国际站上线多语言智能客服，升级跨境交易服务](https://news.google.com/rss/articles/CBMid0FVX3lxTFBXQXk3Y3Fpd2lSZXEzbVBzbl8tZnJweUZwejd1X3REdFdhczBpX0QyS0JNQTJWdGNaZ0pHZ2pDYXJLMHVkQl9qc2FrSTFBSHBLQVZKUkpRWXlvYWt2ZXNpS3ltejQzN25ZLWktVlhKbGh1bHVPcS1R?oc=5) ⭐️ 4.0/10
+
+问鼎国际国际站今日正式上线多语言智能客服系统，旨在升级跨境交易服务支持。该消息由 DoNews 报道，并将该服务定位为面向全球用户的官方保障。 此次上线反映了跨境电商平台采用 AI 驱动的多语言支持以降低语言障碍、提升客户体验的广泛趋势。它可能帮助问鼎国际通过提供多语言实时支持来吸引和留住国际买家。 该公告未提供太多技术细节，例如支持哪些语言、底层 AI 模型或与现有交易流程的集成方式。作为一次推广性质的产品发布，它缺乏性能指标或独立验证的详细信息。
+
+rss · 客服行业动态 · 11月9日 19:19
+
+**背景**: 跨境电商平台越来越多地使用 AI 翻译和智能客服来处理多语言咨询和纠纷。问鼎国际是一家业务多元的中国企业集团，其国际站旨在促进全球采购和交易。多语言 AI 客服正成为平台高效扩展全球客户支持的标准功能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bytrack.com/en/blog/customerService/AI-Translation-Boosts-Cross-Border-E-Commerce-Experience">AI Translation Boosts Cross-Border E-Commerce Experience</a></li>
+<li><a href="http://www.enter-wending.com.cn/">问鼎国际-问鼎官网入口</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#AI`, `#cross-border e-commerce`, `#multilingual support`, `#product launch`
+
+---
