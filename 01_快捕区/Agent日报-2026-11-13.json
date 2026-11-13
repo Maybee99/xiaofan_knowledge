@@ -1,0 +1,1182 @@
+{
+  "meta": {
+    "date": "2026-11-13",
+    "title": "Horizon 每日速递",
+    "generated_at": "2026-11-13T02:30:47Z",
+    "total_fetched": 80,
+    "total_selected": 35
+  },
+  "sections": [
+    {
+      "key": "energy",
+      "title": "🔋 能源政策资讯",
+      "items": [
+        {
+          "rank": 1,
+          "headline": "清华大学发布《中国碳中和技术路线展望》",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZaldHcFR3dHo5amtJdTdaZ2x0X0dVSXRZanUzY0pqWWVNbFpDYlpGazh1bE5TYmY0WTQ4TmpkdEpJMVdIY01iMHNQV0dmemRCbjJDd2lDNjdYV29HNE93VEZmQ1JYMms2YlBDcUNfQ0Q?oc=5",
+          "tldr": "清华大学发布了《中国碳中和技术路线展望》，预测零碳电力与终端电气化将共同贡献超过70%的减排量。",
+          "summary": "清华大学发布了《中国碳中和技术路线展望》，预测零碳电力与终端电气化将共同贡献超过70%的减排量。 该路线图为中国能源政策和产业投资提供了权威的量化指导，强调电力部门脱碳和终端电气化是实现碳中和的主要路径。 报告可能详细阐述了技术路径、时间表和政策建议，但摘要中未披露具体假设和行业细分。",
+          "source_type": "google_news",
+          "source_name": "中国科技网",
+          "published": "11月12日 03:16",
+          "score": 7.0,
+          "tags": [
+            "carbon neutrality",
+            "energy policy",
+            "technology roadmap",
+            "electrification",
+            "China"
+          ],
+          "background": "中国计划在2060年前实现碳中和。零碳电力指来自可再生能源、核能和碳捕集的电力，终端电气化指在交通、供暖和工业领域用电力替代化石燃料。清华大学的路线图是对国际能源署2021年中国能源部门路线图等现有分析的补充。",
+          "references": [
+            {
+              "title": "An energy sector roadmap to carbon neutrality in China",
+              "url": "https://www.iea.org/reports/an-energy-sector-roadmap-to-carbon-neutrality-in-china"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "IEA警告全球煤炭需求或创新高，LNG运输恢复成明年关键",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5",
+          "tldr": "国际能源署（IEA）警告，今年全球煤炭需求将创下新纪录，达到约88.5亿吨；如果LNG运输中断持续并减缓煤炭替代进程，明年可能再破纪录。",
+          "summary": "国际能源署（IEA）警告，今年全球煤炭需求将创下新纪录，达到约88.5亿吨；如果LNG运输中断持续并减缓煤炭替代进程，明年可能再破纪录。 这一预测表明煤炭需求下降可能比预期更慢，使全球气候目标和能源转型规划更加复杂。政策制定者和行业参与者需要在设计能源安全和脱碳战略时，考虑煤炭依赖的持续时间延长，尤其是在亚洲地区。 IEA的《煤炭2025》报告提供了到2030年的预测，并指出LNG运输中断（例如由咽喉要道紧张局势引起的中断）可能推迟主要市场的煤改气进程。今年约88.5亿吨的创纪录需求数字，明年的结果在很大程度上取决于LNG物流正常化的速度。",
+          "source_type": "google_news",
+          "source_name": "财联社",
+          "published": "11月12日 15:12",
+          "score": 7.0,
+          "tags": [
+            "coal demand",
+            "IEA",
+            "LNG shipping",
+            "energy policy",
+            "global energy"
+          ],
+          "background": "IEA是一个政府间组织，每年发布关于煤炭、石油、天然气和可再生能源的市场报告，其煤炭报告是全球煤炭需求、供应和贸易的重要参考。LNG（液化天然气）通常被用作比煤炭更清洁的发电替代品，因此LNG运输中断可能使天然气更昂贵或不可得，促使各国继续燃烧煤炭。近期围绕海上咽喉要道（如霍尔木兹海峡）的地缘政治紧张局势，凸显了能源物流如何影响燃料选择。",
+          "references": [
+            {
+              "title": "Coal 2025 - IEA",
+              "url": "https://www.iea.org/reports/coal-2025"
+            },
+            {
+              "title": "Global coal demand is set to reach around 8.85 billion tonnes this year...",
+              "url": "https://www.linkedin.com/posts/international-energy-agency_global-coal-demand-is-set-to-reach-around-activity-7408115550922448896--DDk"
+            },
+            {
+              "title": "Energy markets under chokepoint stress: The 2026 Hormuz shock",
+              "url": "https://cepr.org/voxeu/columns/energy-markets-under-chokepoint-stress-2026-hormuz-shock"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "沙特阿拉伯10月石油产量增长26%至战前水平",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWlR0c09vLTd0UGh0R3Q1VjhPblFUVndLSl82elFuTkQ2ZFJ6VWxkcG1PN20wNnh4WnlGRnJNbHM3dlhPMmdiWnVaMEpMdjFNZDRDZGtJS1pMNHVEQVJ2YlRZeGVYSk13N3V3THNBRmdmSnlVMXpLUmZDTmItQ1UyMlBvRzZIWjFFMzE0YktzazlTSHRuU2JEdU9YNV9RM3RhR3g1czBvZzJuS0pnbEttaUZENnpzNDY2T3JqS3hxcFJfdENZWGdoOWxJb2hpcnZrNDU3WUgyS1p5TkxuYmRLNHlrUmRYYVVBTFQtbUpOVDhicUxfRS1ZMkUza2RrU05zUktlSWRYY1VpempabmE3dE85QmJWUFRLSEdVSld3VUFiZGlMUnZoaVBacnkyS0ZxSmptYQ?oc=5",
+          "tldr": "沙特阿拉伯10月原油产量增长26%，达到约每日1056万桶，为2月底美国和以色列对伊朗开战以来的最高水平。",
+          "summary": "沙特阿拉伯10月原油产量增长26%，达到约每日1056万桶，为2月底美国和以色列对伊朗开战以来的最高水平。这一反弹推动欧佩克总产量首次回升至战前水平附近，尽管该地区针对航运和能源基础设施的袭击有所升级。 产量恢复为波斯湾和全球石油市场增加了大量供应，对原油价格构成下行压力，并使OPEC+管理市场的努力更加复杂。这表明沙特阿拉伯尽管面临地区安全风险，仍能维持出口，从而影响全球石油进口国、炼油商和能源消费者。 沙特阿拉伯向欧佩克报告日产量约为1060万桶，这一增长帮助该组织总产量升至战前水平附近。尽管霍尔木兹海峡地区的袭击有所增加，但额外的供应一直在打压油价。",
+          "source_type": "google_news",
+          "source_name": "IDNFinancials",
+          "published": "11月12日 11:00",
+          "score": 7.0,
+          "tags": [
+            "沙特阿拉伯",
+            "石油产量",
+            "OPEC+",
+            "能源供给",
+            "油价"
+          ],
+          "background": "OPEC+是由石油生产国组成的集团，通过协调产量水平（通常通过商定的减产或增产）来影响全球油价。沙特阿拉伯是该集团最大的生产国，其产量决策被视为市场走向的信号而受到密切关注。“战前水平”指的是2月底美国、以色列和伊朗冲突开始、扰乱地区能源供应之前的产量水平。",
+          "references": [
+            {
+              "title": "沙特阿拉伯10月份石油产量增长26%至战前水平 | IDNFinancials",
+              "url": "https://www.idnfinancials.com/cn/news/71605/%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF10%E6%9C%88%E4%BB%BD%E7%9F%B3%E6%B2%B9%E4%BA%A7%E9%87%8F%E5%A2%9E%E9%95%BF26%E8%87%B3%E6%88%98%E5%89%8D%E6%B0%B4%E5%B9%B3"
+            },
+            {
+              "title": "沙特石油产量回升至接近战前水平 - FT中文网",
+              "url": "https://www.ftchinese.com/story/001111346"
+            },
+            {
+              "title": "沙特原油产量回升至战前水平附近_新浪财经_新浪网",
+              "url": "https://finance.sina.com.cn/world/2026-11-12/doc-iniynyaw8373161.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "欧洲或放弃2035禁燃令，中国电动车市占率达34%",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjN5bHlzVjFQbURKRzFvdzZJNTVoRFowUUlOeHpnUGQ0R3A1ZG5hc3UzM0R4SkZvZ1JHNWlwWlZkWEVzN1dqSXZoV1VrcEN2X09FQlhQWkIyd0pWZ1lOMG9SSUdHXzRwNFhPNFVZdTBzWjFqN0U2RGdKSXhLejItY2NIbGZBeVB3SldMYg?oc=5",
+          "tldr": "欧盟委员会提议将2035年新车零排放目标改为尾气二氧化碳减排90%，实质上放弃了全面禁售燃油车，同时中国品牌电动车在欧洲的市场份额已达到34%。",
+          "summary": "欧盟委员会提议将2035年新车零排放目标改为尾气二氧化碳减排90%，实质上放弃了全面禁售燃油车，同时中国品牌电动车在欧洲的市场份额已达到34%。 这一政策转向可能放缓欧洲的电动车转型，为燃油车和混合动力车争取更长的生存空间，并重塑车企和充电基础设施的投资决策。这也表明，已占据欧洲三分之一市场的中国电动车企可能面临较小的监管压力，但会遭遇更多政治审视。 其法律机制是针对新注册车辆的制造商车队排放标准，而非彻底禁令；2025年12月的提案将允许混合动力车、合成燃料车和部分燃油车在2035年后继续销售，但需对剩余排放进行补偿。34%这一数字指的是中国品牌在欧洲纯电动车市场中的份额，该份额在补贴和政策支持下快速增长。",
+          "source_type": "google_news",
+          "source_name": "Sohu",
+          "published": "11月12日 01:30",
+          "score": 7.0,
+          "tags": [
+            "EU energy policy",
+            "carbon neutrality",
+            "combustion engine ban",
+            "China EV market",
+            "energy transition"
+          ],
+          "background": "欧盟的2035年目标通常被称为禁燃令，但法律上是一项车队二氧化碳排放标准，要求新车到该日期实现尾气零排放。2025年12月，在汽车行业的压力下，欧盟委员会提议将目标放宽至减排90%，使混合动力车和合成燃料车得以保留。与此同时，比亚迪等中国电动车品牌凭借更低的成本和消费者对平价电动车型的强劲需求，在欧洲大举扩张。",
+          "references": [
+            {
+              "title": "EU drops 2035 combustion engine ban as global EV shift faces ...",
+              "url": "https://www.reuters.com/business/autos-transportation/eu-relent-combustion-engines-ban-after-auto-industry-pressure-2025-12-16/"
+            },
+            {
+              "title": "EU 2035 New-Car CO₂ Standard — Current Law and Proposed ...",
+              "url": "https://energy-solutions.co/policy-intelligence/permitting-and-red-tape/eu-combustion-engine-ban-2035"
+            },
+            {
+              "title": "Chinese EV sales surge to new high in Europe putting... | The Guardian",
+              "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "新型电力系统的“能源大动脉”，特高压建设节奏进一步加快",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93U19RZDBjUTE3enNBLW9GUXhhQVlyeTIxUnJzUE9SSC0yNHFYcXJFcWFNa1JSY05HWUtaRW1fc1ZkQi11UW96TQ?oc=5",
+          "tldr": "财联社发布前瞻报道，指出特高压（UHV）输电工程建设节奏将进一步加快，并将其定位为新型电力系统的“能源大动脉”。",
+          "summary": "财联社发布前瞻报道，指出特高压（UHV）输电工程建设节奏将进一步加快，并将其定位为新型电力系统的“能源大动脉”。 这释放出政策与投资持续支持特高压的信号，特高压是支撑大规模新能源消纳和跨区域输电的关键，对实现中国碳中和目标至关重要，并影响电网设备供应商、电力企业和能源规划者。 该报道是来自财经媒体的简要市场前瞻，未提供具体项目时间表、投资金额或技术细节；特高压通常指交流1000千伏和直流±800千伏及以上电压等级，可实现远距离、大容量、低损耗输电。",
+          "source_type": "google_news",
+          "source_name": "财联社",
+          "published": "11月12日 22:00",
+          "score": 6.0,
+          "tags": [
+            "特高压",
+            "新型电力系统",
+            "电网建设",
+            "能源政策",
+            "电力基础设施"
+          ],
+          "background": "特高压输电指交流1000千伏和直流±800千伏及以上电压等级，中国自2009年起采用该技术实现远距离、大容量、低损耗输电。它是中国新型电力系统的核心组成部分，旨在在维持电网稳定的同时消纳高比例间歇性新能源。新型电力系统以波动性新能源替代传统可控火电，需要特高压等增强型输电基础设施来平衡跨区域供需。",
+          "references": [
+            {
+              "title": "中国特高压输电 - 维基百科，自由的百科全书",
+              "url": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E7%89%B9%E9%AB%98%E5%8E%8B%E8%BE%93%E7%94%B5"
+            },
+            {
+              "title": "nea.gov.cn/download/xxdlxtfzlpsgk.pdf",
+              "url": "https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf"
+            },
+            {
+              "title": "Carbon Neutrality: Contribution, Key Techniques, and Challenges",
+              "url": "https://jsuese.scu.edu.cn/rc-pub/front/front-article/download/47407157/lowqualitypdf/%E2%80%9C%E5%8F%8C%E7%A2%B3%E2%80%9D%E7%9B%AE%E6%A0%87%E4%B8%8B%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%BA%E4%B8%BB%E4%BD%93%E7%9A%84%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%B4%A1%E7%8C%AE%E3%80%81%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%8C%91%E6%88%98.pdf"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "headline": "全省生态文明建设表彰暨碳达峰碳中和工作推进大会召开",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MaEoxU2piZXVsb2VDMGRuSWFWOTBhNE9NTzc0RjBiY1BlekxJX3BpandjbGZiRHp6Q0tNZUladVdCMUl1eFdjMkpn?oc=5",
+          "tldr": "中国某省召开生态文明建设先进表彰暨碳达峰碳中和工作推进大会，表彰先进并推进碳达峰碳中和工作。",
+          "summary": "中国某省召开生态文明建设先进表彰暨碳达峰碳中和工作推进大会，表彰先进并推进碳达峰碳中和工作。省长尹弘讲话，陈永奇主持。 此次会议表明该省政府持续重视生态文明建设和双碳目标，为地方能源与气候治理强化政策方向。它影响到参与减排和绿色发展的政府部门、企业及相关方。 会议将生态文明建设先进表彰与碳达峰碳中和工作推进相结合。但并未宣布新目标或重大政策转变，属于常规行政活动。",
+          "source_type": "google_news",
+          "source_name": "凤凰网",
+          "published": "11月13日 00:05",
+          "score": 6.0,
+          "tags": [
+            "carbon neutrality",
+            "energy policy",
+            "ecological civilization",
+            "China",
+            "provincial government"
+          ],
+          "background": "中国于2020年宣布“双碳”目标：二氧化碳排放力争于2030年前达到峰值，努力争取2060年前实现碳中和。这些目标通过“1+N”政策体系落实，各省和地方政府负责执行具体措施。“生态文明”是习近平生态文明思想的核心概念，强调可持续发展和环境保护。",
+          "references": [
+            {
+              "title": "Critical climate issues toward carbon neutrality targets - PMC",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11197784/"
+            },
+            {
+              "title": "Frontiers | Achieving carbon neutrality in China : Legal and policy ...",
+              "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.1043404/full"
+            },
+            {
+              "title": "Ecological civilization - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ecological_civilization"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "headline": "北京大学举办2026中美气候合作研讨会",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fRTFiUUpuS05RRXZyX0prRUNNU01zSkNMZWZQMXpWZnVrYTFXUmZieUpLWTBvQXBaTVowYld2UGtwRkk0aHc1dThvNDBvMXhKQXVYbnlxYno?oc=5",
+          "tldr": "北京大学碳中和研究院举办了2026中美气候合作研讨会，汇集学者探讨双边气候政策与学术合作。",
+          "summary": "北京大学碳中和研究院举办了2026中美气候合作研讨会，汇集学者探讨双边气候政策与学术合作。北京大学新闻网报道了此次活动，凸显了两国在气候问题上持续的学术对话。 此次研讨会表明，尽管地缘政治紧张，中美气候交流的学术和二轨渠道仍然活跃，这具有重要意义，因为全球两大排放国之间的合作被广泛视为实现全球气候目标的关键。它有助于保持政策对话和碳中和联合研究的势头。 此次研讨会是一次机构性学术活动，未宣布具有约束力的成果或新的政策承诺，因此其影响主要在于维持对话和研究人员之间的联系。现有摘要未披露参会人员、具体议题或任何具体研究合作细节。",
+          "source_type": "google_news",
+          "source_name": "北京大学新闻网",
+          "published": "11月12日 14:33",
+          "score": 6.0,
+          "tags": [
+            "US-China climate cooperation",
+            "carbon neutrality",
+            "energy policy",
+            "academic seminar",
+            "climate diplomacy"
+          ],
+          "background": "碳中和是指在排放碳与从大气中吸收碳之间实现平衡，中国承诺在2060年前实现该目标，美国则承诺在2050年前实现。中美气候合作已有数十年历史，包括在2015年《巴黎协定》之前的共同努力，而当正式政府谈判面临政治阻力时，学术机构往往成为稳定的对话渠道。",
+          "references": [
+            {
+              "title": "碳中和 - 维基百科，自由的百科全书",
+              "url": "https://zh.wikipedia.org/zh-cn/%E7%A2%B3%E4%B8%AD%E5%92%8C"
+            },
+            {
+              "title": "Four Lessons From 30 Years of U.S.-China Climate Cooperation",
+              "url": "https://asiasociety.org/policy-institute/four-lessons-30-years-us-china-climate-cooperation"
+            },
+            {
+              "title": "U.S.-China Climate Cooperation Timeline | Asia Society",
+              "url": "https://asiasociety.org/policy-institute/us-china-climate-cooperation-timeline"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "headline": "中国电机工程学会年会聚焦AI赋能新型电力系统",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GQlNPYjZmQnlEVGVXanlhVTNacUwtaGdyM191Y2FGMUlvX0pQWVlVNU9LZzc3M3N1UGttS0txSzdGaDNlMGJBdVRWT3U5VUI3RHVYWjBtSGVtYXdaNXlVTTRZeFdNWDFmQndrcU1jUVZfY2dBT3gyQ2VJcHRPQQ?oc=5",
+          "tldr": "中国电机工程学会年会召开，会议重点讨论了人工智能如何赋能新型电力系统建设，凸显了AI融合作为中国电力行业战略方向的重要性。",
+          "summary": "中国电机工程学会年会召开，会议重点讨论了人工智能如何赋能新型电力系统建设，凸显了AI融合作为中国电力行业战略方向的重要性。 此次会议表明AI正成为中国电网现代化的核心技术，可能加速向以可再生能源为主的能源系统转型，并影响政策与投资决策。会议成果或将影响电力企业如何采用AI进行电网管理、预测和稳定性控制。 尽管会议强调了AI的潜力，但并未公布具体的技术突破或政策公告，重点仍停留在战略对话层面，而非具体的实施细节。此次年会恰逢中国电机工程学会成立90周年和《中国电机工程学报》创刊60周年，凸显了该学会在电力工程领域的长期作用。",
+          "source_type": "google_news",
+          "source_name": "国际科技创新中心",
+          "published": "11月12日 10:25",
+          "score": 6.0,
+          "tags": [
+            "AI",
+            "power systems",
+            "energy policy",
+            "conference",
+            "China"
+          ],
+          "background": "中国的“新型电力系统”是2021年提出的战略举措，旨在支撑碳达峰、碳中和目标，构建以新能源为主体的清洁低碳、安全高效的电力系统。中国电机工程学会是中国电气工程领域的权威专业组织，其年会为行业、学术界和政策制定者提供了重要的交流平台。",
+          "references": [
+            {
+              "title": "新型电力系统（电力系统术语）_百度百科",
+              "url": "https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552"
+            },
+            {
+              "title": "新型电力系统建设 十五五 规划",
+              "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/P020260803594268920789.pdf"
+            },
+            {
+              "title": "SCADA) 和远 程 测量单元 (remote terminal unit RTU)",
+              "url": "https://csee.org.cn/pic/u/cms/www/202508/01095848ey59.pdf"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "headline": "中国“十五五”转向碳排放双控，释放绿色投资潜力",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wVjZXM0s3NW1ldTJLRnlQaDFOWVFydFVJTGFla29VRWRuU012OGRTMnVpYUh1Mlplekxad1BtOFJ4Rk50eFFTdEtMeFNpWGtDNXYwaUo0b0hyLWxKY0xnRA?oc=5",
+          "tldr": "文章讨论了中国如何在“十五五”期间（2026-2030年）成功实施碳排放双控政策，以释放绿色投资潜力。",
+          "summary": "文章讨论了中国如何在“十五五”期间（2026-2030年）成功实施碳排放双控政策，以释放绿色投资潜力。文章强调，从能耗双控向碳排放总量和强度双控的转变是一项关键政策变化。 这一政策转变意义重大，因为它将中国的气候目标与经济激励相结合，可能引导数万亿元资金投向绿色技术和可再生能源。它影响高耗能行业、投资者和地方政府，这些主体必须适应新的碳绩效指标。 双控制度将包括地方碳考核和行业碳管控，具体目标包括到2030年单位GDP二氧化碳排放比2025年降低17%，非化石能源消费占比达到25%。政策框架正通过《加快构建碳排放双控制度体系工作方案》等文件逐步推出。",
+          "source_type": "google_news",
+          "source_name": "证券之星",
+          "published": "11月12日 22:59",
+          "score": 6.0,
+          "tags": [
+            "碳排放双控",
+            "十五五规划",
+            "绿色投资",
+            "能源政策",
+            "中国"
+          ],
+          "background": "中国此前采用能耗双控（总量和强度）来管理能源使用，但这并不直接控制碳排放。2024年宣布的新碳排放双控制度旨在直接限制碳排放总量和强度，支持中国在2030年前实现碳达峰、2060年前实现碳中和的目标。“十五五”时期（2026-2030年）是实现碳达峰的关键期。",
+          "references": [
+            {
+              "title": "国务院办公厅关于印发《加快构建碳排放双控制度体系工作方案》的通知",
+              "url": "https://www.mee.gov.cn/zcwj/gwywj/202408/t20240806_1083433.shtml"
+            },
+            {
+              "title": "十五五碳排放双控制度 - 百度百科",
+              "url": "https://baike.baidu.com/item/%E5%8D%81%E4%BA%94%E4%BA%94%E7%A2%B3%E6%8E%92%E6%94%BE%E5%8F%8C%E6%8E%A7%E5%88%B6%E5%BA%A6/68315103"
+            },
+            {
+              "title": "国务院关于印发《“十五五”碳达峰行动方案》的通知 “十五五”碳达峰行动...",
+              "url": "https://www.gov.cn/gongbao/2026/issue_12866/202607/content_7075909.html"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "headline": "上海试点“碳博士”智慧微电网，将小区能源聚合为虚拟电厂",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFVsR0R6VDVFR0g3QjRtNGg4ME9iSmNIQUZnMmlVVUVfYXd3NTJjY01fV1V0M3FYSGw3LTlpTDl4UmFpbHVkTFlGTkRoeVRsd3p6QjJVTnJISnB3bExXRFJ6UUw3d2Y2ZnVEdU9Hc2ZqTnNsV05ITEhuVU50RjdnYm5SMA?oc=5",
+          "tldr": "上海启动了一项试点项目，利用名为“碳博士”的智慧微电网系统，将住宅小区的分布式能源资源聚合为虚拟电厂。",
+          "summary": "上海启动了一项试点项目，利用名为“碳博士”的智慧微电网系统，将住宅小区的分布式能源资源聚合为虚拟电厂。该举措旨在将家庭层面的能源纳入电网调度，实现需求侧管理，并可能缓解高峰负荷压力。 该试点展示了利用住宅灵活性推动城市能源转型的务实一步，可能减少对化石燃料调峰机组的依赖并支持可再生能源消纳。若规模化推广，此类虚拟电厂模式可赋能社区参与电力市场，助力碳减排目标。 “碳博士”系统可能结合了物联网传感器、能源管理软件和通信网络，以协调住宅负荷和分布式发电。然而，报道未详细说明具体技术规格、试点规模以及参与市场的监管框架。",
+          "source_type": "google_news",
+          "source_name": "劳动观察",
+          "published": "11月12日 12:24",
+          "score": 6.0,
+          "tags": [
+            "虚拟电厂",
+            "智慧微电网",
+            "需求侧管理",
+            "上海试点",
+            "分布式能源"
+          ],
+          "background": "虚拟电厂（VPP）并非实体电厂，而是通过软件协调分布式能源资源（DER），如太阳能板、电池和柔性负荷，使其像单一电厂一样运行。智慧微电网是可独立运行或与主网连接的局部电网，整合可再生能源发电和储能。需求侧管理（DSM）涉及调整用电模式以平衡供需，通常通过激励或自动化实现。",
+          "references": [
+            {
+              "title": "关于虚拟电厂，看这篇就够了！ - 知乎",
+              "url": "https://zhuanlan.zhihu.com/p/621994565"
+            },
+            {
+              "title": "虚拟电厂（智慧能源管理系统）_百度百科",
+              "url": "https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E7%94%B5%E5%8E%82/3593296"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ai-tech",
+      "title": "🤖 AI 科技",
+      "items": [
+        {
+          "rank": 11,
+          "headline": "英伟达CEO黄仁勋因婚外情指控辞职",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+          "tldr": "英伟达于2026年11月12日宣布，黄仁勋已立即辞去总裁、首席执行官及董事会成员职务，此前有报道称其涉及婚外情。",
+          "summary": "英伟达于2026年11月12日宣布，黄仁勋已立即辞去总裁、首席执行官及董事会成员职务，此前有报道称其涉及婚外情。首席财务官科莱特·克雷斯已接任临时首席执行官。 黄仁勋的离职震动了整个人工智能行业，因为英伟达的GPU是全球人工智能经济的支柱，而他的远见推动了公司的主导地位。此次领导层变动引发了对英伟达战略、市场稳定性和地缘政治定位的质疑。 辞职立即生效，首席财务官科莱特·克雷斯担任临时首席执行官。董事会的决定是在婚外情报道之后做出的，但一些人推测出口管制违规等潜在问题可能也是因素。",
+          "source_type": "hackernews",
+          "source_name": "lldb",
+          "published": "11月12日 13:52",
+          "score": 10.0,
+          "tags": [
+            "NVIDIA",
+            "Jensen Huang",
+            "CEO transition",
+            "AI industry",
+            "corporate governance"
+          ],
+          "background": "黄仁勋于1993年联合创立英伟达并一直担任首席执行官，带领公司从图形芯片制造商发展成为全球最有价值的半导体公司以及人工智能基础设施的关键供应商。英伟达的GPU对于训练和运行大型人工智能模型至关重要，使该公司成为当前人工智能热潮的核心。",
+          "discussion": "评论者就辞职背后的原因展开辩论，一些人强调CEO形象的重要性，另一些人则质疑时机和潜在的地缘政治动机。各种理论包括围绕开放人工智能模型的权力斗争和出口管制违规，许多人认为婚外情指控可能掩盖了更深层次的问题。",
+          "references": [
+            {
+              "title": "NVIDIA Announces CEO Transition | NVIDIA Newsroom",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+            },
+            {
+              "title": "Nvidia CEO Jensen Huang resigns: Live updates",
+              "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+            },
+            {
+              "title": "Jensen Huang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50467087"
+        },
+        {
+          "rank": 12,
+          "headline": "Rust 1.100 稳定 never 类型、自定义分配器和 Cargo 冷却期",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "tldr": "Rust 1.100.0 于 2026 年 11 月 12 日发布，稳定了 never 类型（!）、自定义分配器、Cargo 依赖冷却期（最小发布年龄）以及未使用依赖警告。",
+          "summary": "Rust 1.100.0 于 2026 年 11 月 12 日发布，稳定了 never 类型（!）、自定义分配器、Cargo 依赖冷却期（最小发布年龄）以及未使用依赖警告。该版本还包含多个未在博客中提及的 API 稳定化，例如 bool::toggle()、Box::map() 和 str::trim_prefix()。 这一里程碑版本带来了期待已久的功能，提升了类型系统表达力、内存管理灵活性和供应链安全，影响所有 Rust 开发者，并可能促进 Rust 在系统编程和安全敏感领域的采用。 依赖冷却期是可选功能，仅适用于注册表依赖，不适用于 cargo install、Git 或本地路径依赖；未使用依赖警告由 cargo::unused_dependencies lint 控制，默认启用。never 类型的稳定化还统一了各版本的类型推断回退为 !，并使 std::convert::Infallible 成为 ! 的别名。",
+          "source_type": "hackernews",
+          "source_name": "mbStavola",
+          "published": "11月12日 18:39",
+          "score": 8.0,
+          "tags": [
+            "Rust",
+            "programming languages",
+            "release",
+            "compiler",
+            "Cargo"
+          ],
+          "background": "never 类型（!）表示永远不会产生值的计算，例如 panic 或无限循环，其稳定化允许它在更多上下文中作为完整类型使用。自定义分配器让开发者通过实现 GlobalAlloc trait 来定义自己的内存分配策略，适用于特殊性能或嵌入式环境。Cargo 依赖冷却期（RFC 3923）让项目忽略比配置阈值更新发布的 crate 版本，从而缓解新发布的恶意版本带来的供应链攻击。",
+          "discussion": "Hacker News 上的讨论非常积极，用户称赞 never 类型、自定义分配器和依赖冷却期的稳定化，并指出未提及的额外 API 稳定化如 bool::toggle() 和 Box::map()。一些用户对编译时间和磁盘占用表示担忧，而其他人则感谢维护者实现了这些长期功能。",
+          "references": [
+            {
+              "title": "Announcing Rust 1.100.0 | Rust Blog",
+              "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+            },
+            {
+              "title": "Why a Type With No Values Matters — What Took Rust 's never Type ...",
+              "url": "https://braindetox.kr/en/posts/rust_never_type_stabilization.html"
+            },
+            {
+              "title": "Rust 1.100: Cargo Dependency Cooldowns Are Here... | byteiota",
+              "url": "https://byteiota.com/rust-1100-cargo-cooldowns/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50472038"
+        },
+        {
+          "rank": 13,
+          "headline": "谷歌在Antigravity中推出Gemini 4 Hydrogen和Orchestrator",
+          "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+          "tldr": "谷歌发布了Gemini 4 Hydrogen，这是一个面向智能体工作流的快速且经济高效的模型，并在Google Antigravity中引入了Orchestrator功能，该功能可将Hydrogen与…",
+          "summary": "谷歌发布了Gemini 4 Hydrogen，这是一个面向智能体工作流的快速且经济高效的模型，并在Google Antigravity中引入了Orchestrator功能，该功能可将Hydrogen与Gemini 4 Carbon等更强大的模型动态配对，以处理长周期任务。 此次发布为开发者提供了日常编码和智能体任务的更高效选择，通过编排有可能在保持质量的同时降低成本和延迟，并标志着谷歌在AI工具中推动多模型流水线的方向。 Orchestrator面向Google AI Ultra订阅者开放，在Terminal-Bench 4.1上达到了接近Carbon的任务成功率，同时平均配额使用量低24%；Hydrogen定位为快速执行模型，而Carbon和Argon仍用于深度推理。",
+          "source_type": "hackernews",
+          "source_name": "jonbaer",
+          "published": "11月12日 18:52",
+          "score": 8.0,
+          "tags": [
+            "Gemini",
+            "Google",
+            "LLM releases",
+            "model orchestration",
+            "AI tooling"
+          ],
+          "background": "Google Antigravity是一个以智能体为先的开发平台，开发者可以在其中运行多个AI智能体。Gemini 4 Carbon和Argon是谷歌用于复杂推理的前沿模型，而Hydrogen是新的轻量级模型，针对速度进行了优化。Orchestrator是一项功能，可自动在这些模型之间路由任务，以平衡质量、成本和延迟。",
+          "discussion": "HN评论者将Orchestrator与Anthropic的顾问模式和GitHub的HydraFusion流水线进行了比较，质疑跨模型缓存的工作方式，并批评了令人困惑的命名方案（Hydrogen、Carbon、Argon）。一些人欢迎更快的类Flash模型，但担心将模型选择委托给一个过于乐观的AI，而另一些人则赞赏不必手动切换模型。",
+          "references": [
+            {
+              "title": "Gemini 4 Hydrogen and Orchestrator | Google Antigravity Blog",
+              "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+            },
+            {
+              "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+            },
+            {
+              "title": "Google Antigravity Rolls Out Orchestrator for Dynamic Model ...",
+              "url": "https://www.unite.ai/google-antigravity-rolls-out-orchestrator-for-dynamic-model-handoffs/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50472260"
+        },
+        {
+          "rank": 14,
+          "headline": "Edge0发布145B参数模型，本地运行仅需29GB内存",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "tldr": "Edge0发布了Edge0-145B，这是一个1450亿参数的混合专家模型，通过共享专家矩阵技术将峰值内存占用控制在约29GB，使其能在高端消费级笔记本电脑上运行。",
+          "summary": "Edge0发布了Edge0-145B，这是一个1450亿参数的混合专家模型，通过共享专家矩阵技术将峰值内存占用控制在约29GB，使其能在高端消费级笔记本电脑上运行。该模型以NVFP4量化格式分发，并设计为使用Edge0自家的推理引擎运行。 这是本地AI领域的一个重要效率里程碑，它将前沿级别的模型能力带到了消费级硬件上，而无需数据中心。这可能为需要隐私或离线操作的开发者和研究人员普及强大AI的访问，尽管当前的硬件和软件锁定可能限制其立即采用。 该模型在Hugging Face上采用非标准的文件布局，分散在多个文件中，且NVFP4量化目前仅支持配备CUDA 13的NVIDIA Blackwell GPU，这意味着它尚不能在其它硬件或像llama.cpp这样的流行推理引擎上使用。共享专家矩阵方法在保持专家数量不变的同时减少了权重的存储和移动。",
+          "source_type": "hackernews",
+          "source_name": "sroussey",
+          "published": "11月12日 23:06",
+          "score": 8.0,
+          "tags": [
+            "local-llm",
+            "model-efficiency",
+            "mixture-of-experts",
+            "quantization",
+            "on-device-ai"
+          ],
+          "background": "像Edge0-145B这样的混合专家（MoE）模型对每个输入只激活一部分参数，使其能够拥有比稠密模型更多的参数，同时保持推理成本可控。量化通过降低模型权重的精度（例如降至4位）来减少内存占用，但不同的量化格式可能针对特定硬件。共享专家矩阵是一种技术，其中专家分组共享大型权重矩阵，从而减少总内存占用。",
+          "discussion": "评论者对内存效率和Blender工具使用示例印象深刻，但一些人对代理生成输出的实际质量持怀疑态度，指出此类设计往往很混乱且需要大量清理。其他人指出NVFP4/CUDA锁定和非标准文件布局是更广泛采用的障碍，一位评论者澄清该模型是开放权重，而非开源。",
+          "references": [
+            {
+              "title": "Edge 0 / Edge 0 - 145 B -NVFP4 · Hugging Face",
+              "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+            },
+            {
+              "title": "Mixture of Experts Explained",
+              "url": "https://huggingface.co/blog/moe"
+            },
+            {
+              "title": "Edge Insights #31 — Two Axes of MoE Quantization : How Nota AI Is...",
+              "url": "https://www.linkedin.com/pulse/edge-insights-31-two-axes-moe-quantization-how-nota-ai-solving-cwdcc"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50475713"
+        },
+        {
+          "rank": 15,
+          "headline": "微软365遭遇持续数小时的全球性服务中断",
+          "url": "https://status.cloud.microsoft/",
+          "tldr": "2026年11月13日，微软365发生大范围服务降级，导致全球数千家组织的电子邮件及其他服务中断数小时，Downdetector上近13万用户报告问题。",
+          "summary": "2026年11月13日，微软365发生大范围服务降级，导致全球数千家组织的电子邮件及其他服务中断数小时，Downdetector上近13万用户报告问题。微软将原因确定为DNS异常，并通过对部分受影响基础设施验证替代健康检查方法开始恢复服务。 此次中断凸显了依赖单一云提供商提供关键业务服务的可靠性风险，影响了数千家组织，并引发了对微软在大力投资AI背景下优先事项的讨论。它强调了企业IT中稳健的事件响应和冗余的必要性。 此次中断特定于微软365，Azure基础设施基本未受影响，Teams聊天和会议仍可使用，而电子邮件中断超过8小时。微软的状态页面本身也出现问题，但可通过RSS获取更新，恢复过程包括自动重启无响应服务器的流程。",
+          "source_type": "hackernews",
+          "source_name": "dkpk",
+          "published": "11月12日 18:20",
+          "score": 8.0,
+          "tags": [
+            "Microsoft 365",
+            "outage",
+            "cloud reliability",
+            "AI investment",
+            "enterprise IT"
+          ],
+          "background": "微软365是一套基于云的生产力服务，包括Outlook、Teams、OneDrive和SharePoint，被全球组织广泛使用。Downdetector是一个众包平台，通过跟踪用户报告问题的激增来检测中断，通常早于官方监控工具。DNS（域名系统）异常可能破坏服务发现和路由，导致广泛的可访问性问题。",
+          "discussion": "评论者对长时间中断表示不满，一些人指责微软将重点放在AI上而忽视了核心服务，并指出GitHub和Azure也不可靠。其他人分享了实际影响，例如超过1.5万名员工的电子邮件中断超过8小时，并称赞微软在状态页面出现问题的情况下仍通过RSS提供更新。",
+          "references": [
+            {
+              "title": "Microsoft begins restoring services amid global outage affecting...",
+              "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+            },
+            {
+              "title": "Microsoft 365 , Outlook, Teams, OneDrive, and... | Windows Central",
+              "url": "https://www.windowscentral.com/microsoft/azure/microsoft-365-outlook-teams-onedrive-and-copilot-are-all-down-right-now"
+            },
+            {
+              "title": "Faster outage detection for businesses | Downdetector Explorer | US",
+              "url": "https://downdetector.com/for-business/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50471731"
+        },
+        {
+          "rank": 16,
+          "headline": "开发者自建应用绕过刺绣机订阅限制",
+          "url": "https://github.com/simpsoka/zigzag",
+          "tldr": "一位开发者创建了一款名为 Zigzag 的免费开源应用，用于控制一台原本需要订阅才能使用的 300 美元刺绣机，并借助 LLM 逆向工程了机器的通信协议。",
+          "summary": "一位开发者创建了一款名为 Zigzag 的免费开源应用，用于控制一台原本需要订阅才能使用的 300 美元刺绣机，并借助 LLM 逆向工程了机器的通信协议。 该项目展示了 LLM 如何赋能用户绕过限制性订阅做法并复活老旧硬件，可能激励其他行业的类似尝试。 Zigzag 可在 Mac 和 Windows 上运行，能将 SVG 图形转换为机器刺绣文件，支持可视化编辑针迹，并通过 MCP 支持 AI 代理；但用户仍需仔细处理针迹位置、大小和分层。",
+          "source_type": "hackernews",
+          "source_name": "simpsoka",
+          "published": "11月12日 17:02",
+          "score": 7.0,
+          "tags": [
+            "LLM",
+            "reverse-engineering",
+            "subscription",
+            "hardware",
+            "DIY"
+          ],
+          "background": "许多硬件制造商通过专有订阅或墨盒锁定设备，导致旧机器在支持结束后无法使用。利用 LLM 进行逆向工程已成为理解专有协议并创建替代软件的一种方式，例如 Ghidra MCP 和 LLM 驱动的协议分析等项目。",
+          "discussion": "评论者称赞该项目是 LLM 赋能用户解决自身问题的典范，分享了类似 Brother PE-150 的逆向工程努力，并对 AI 在复活老旧硬件和绕过订阅锁定方面的潜力表示乐观。",
+          "references": [
+            {
+              "title": "GitHub - simpsoka/zigzag: Free, open-source embroidery ...",
+              "url": "https://github.com/simpsoka/zigzag"
+            },
+            {
+              "title": "Using LLMs as a reverse engineering sidekick",
+              "url": "https://blog.talosintelligence.com/using-llm-as-a-reverse-engineering-sidekick/"
+            },
+            {
+              "title": "Awesome‑LLM‑Reverse‑Engineering - GitHub",
+              "url": "https://github.com/ram-elgov/awesome-llm-reverse-engineering"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50470488"
+        },
+        {
+          "rank": 17,
+          "headline": "苹果 Foundation Models 框架为小开发者提供免费私有云计算访问",
+          "url": "https://developer.apple.com/foundation-models-framework/",
+          "tldr": "苹果的 Foundation Models 框架现在允许开发者通过原生 Swift API 将设备端和私有云计算 AI 模型集成到应用中，并且对于加入 App Store 小企业计划且首次下载量少于 …",
+          "summary": "苹果的 Foundation Models 框架现在允许开发者通过原生 Swift API 将设备端和私有云计算 AI 模型集成到应用中，并且对于加入 App Store 小企业计划且首次下载量少于 200 万的小开发者，提供免费的私有云计算访问。 这降低了 iOS 开发者添加 AI 功能的门槛，无需云 API 成本，可能加速整个 App Store 生态系统的 AI 集成，并对第三方大语言模型提供商构成挑战。 该框架支持设备端模型和私有云计算，还集成了 Claude 和 Gemini 等第三方云；免费的私有云计算访问仅限符合条件的小开发者，并且需要 Apple Intelligence 可用。",
+          "source_type": "hackernews",
+          "source_name": "kermatt",
+          "published": "11月12日 21:13",
+          "score": 7.0,
+          "tags": [
+            "Apple",
+            "Foundation Models",
+            "On-device AI",
+            "Private Cloud Compute",
+            "iOS Development"
+          ],
+          "background": "私有云计算是苹果设计的云 AI 处理系统，旨在保护用户数据隐私，从不存储请求或允许访问。Foundation Models 框架于 2025 年推出，提供统一的 Swift API，用于访问苹果的设备端和云模型以及第三方大语言模型。",
+          "discussion": "开发者分享了在苹果芯片上使用本地模型的积极体验，并指出 Claude 已有的 App Attest 支持，同时一些人质疑 HN 帖子的时机，并提到 PCC 访问的权限挑战。",
+          "references": [
+            {
+              "title": "Foundation Models framework - Apple Developer",
+              "url": "https://developer.apple.com/foundation-models-framework/"
+            },
+            {
+              "title": "Apple Private Cloud Compute : What It Means for Your... | Beebom",
+              "url": "https://beebom.com/apple-private-cloud-compute-processed-ai-data-safe-privacy/"
+            },
+            {
+              "title": "Apple Foundation Models Framework : Swift Guide | Lushbinary",
+              "url": "https://lushbinary.com/blog/apple-foundation-models-framework-swift-guide/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50474361"
+        },
+        {
+          "rank": 18,
+          "headline": "研究员将22年前的Postgres类型混淆漏洞转化为RCE（CVE-2026-6460）",
+          "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+          "tldr": "安全研究员Mehmet Ince发布了一篇详细分析文章，展示了如何将一个存在22年之久的PostgreSQL类型混淆原语串联利用，最终实现远程代码执行，该漏洞被追踪为CVE-2026-6460。",
+          "summary": "安全研究员Mehmet Ince发布了一篇详细分析文章，展示了如何将一个存在22年之久的PostgreSQL类型混淆原语串联利用，最终实现远程代码执行，该漏洞被追踪为CVE-2026-6460。该漏洞已在PostgreSQL 18.7、17.12、16.16、15.20和14.25中修复，问题涉及执行ALTER ... SET DATA TYPE后出现陈旧值，并作为包含52个新CVE的版本更新的一部分被修补。 此案例凸显了广泛部署的数据库中长期存在的底层设计缺陷如何被升级为严重安全问题，影响运行未修补PostgreSQL实例的组织。它也加剧了关于漏洞分类的持续争论，因为该利用需要已认证的数据库账户，一些人认为这属于权限提升而非真正的RCE。 该利用依赖于PostgreSQL内部的Datum表示，其中值可能是指针也可能不是，并结合单独存储的小整数类型ID；修复引入了复合属性版本控制，以防止数据字典条目和PL/pgSQL变量中出现陈旧值。该漏洞的CVSS v3.1评分为8.8，影响所列补丁版本之前的所有受支持分支。",
+          "source_type": "hackernews",
+          "source_name": "ozirus",
+          "published": "11月12日 18:22",
+          "score": 7.0,
+          "tags": [
+            "postgresql",
+            "vulnerability",
+            "exploit-development",
+            "database-security",
+            "CVE"
+          ],
+          "background": "PostgreSQL使用一种称为Datum的通用内部数据类型来表示值，根据类型不同可以按值或按指针传递，并有一个单独的类型标识符指示如何解释它。类型混淆发生在系统错误解释Datum的类型时，可能将非指针数据当作指针处理，反之亦然，从而导致内存损坏。CVE-2026-6460是在一次大型PostgreSQL安全更新中修复的多个类型混淆问题之一，该文章解释了如何利用此类原语实现代码执行。",
+          "discussion": "评论者大多对RCE标签提出异议，认为该利用需要已认证的数据库账户，更应描述为权限提升，主要与多租户数据库相关。其他人则赞扬该文章详细展示了数据库内部机制和研究者的思路，同时一位评论者批评底层的Datum设计是严重的代码异味。",
+          "references": [
+            {
+              "title": "PostgreSQL : CVE - 2026 - 6460 : PostgreSQL type confusion after...",
+              "url": "https://www.postgresql.org/support/security/CVE-2026-6460/"
+            },
+            {
+              "title": "Part 3/6 | How I Ended Up Turning a 22-Year-Old PostgreSQL ...",
+              "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+            },
+            {
+              "title": "PostgreSQL Sees New Releases For 52 Security... - Phoronix",
+              "url": "https://www.phoronix.com/news/PostgreSQL-52-CVEs"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50471761"
+        },
+        {
+          "rank": 19,
+          "headline": "smolmaxxing 让 16B 大模型在初代 iPad Air 和小米电视盒子上运行",
+          "url": "https://github.com/hyperionaidev/smolmaxxing/",
+          "tldr": "一个名为 smolmaxxing 的开源项目成功在可用内存不足 1GB 的设备上运行了高达 16B 参数的大语言模型，具体设备包括初代 iPad Air 和小米电视盒子。",
+          "summary": "一个名为 smolmaxxing 的开源项目成功在可用内存不足 1GB 的设备上运行了高达 16B 参数的大语言模型，具体设备包括初代 iPad Air 和小米电视盒子。该项目提供了自定义内核、Hugging Face 上的修改版模型以及可复现的结果，供他人继续推进。 这表明在内存受限的旧硬件上实现有意义的 LLM 推理是可行的，有望在硬件稀缺或不切实际的嵌入式和工业控制场景中实现独立的 AI 应用。这也反映了为边缘设备优化小模型的增长趋势，减少对云端推理的依赖。 该项目使用自定义内核、更智能的内存使用和权重流式传输，将大模型塞入极小的内存预算中；一个无头模式脚本会强制停止重型应用并阻止屏保运行以释放资源。据称在给定硬件上速度尚可，但摘要中未提供具体的每秒 token 数。",
+          "source_type": "hackernews",
+          "source_name": "mrashad74",
+          "published": "11月12日 15:23",
+          "score": 7.0,
+          "tags": [
+            "on-device-ai",
+            "llm-inference",
+            "edge-computing",
+            "legacy-hardware",
+            "open-source"
+          ],
+          "background": "LLM 推理通常需要将数十亿参数加载到内存中，而在低内存设备上运行大模型通常依赖量化（降低数值精度）和权重流式传输（按需加载模型部分）等技术。像 smolmaxxing 这样的项目将这些技术推向极致，运行在从未为 AI 设计的硬件上，其精神类似于 demoscene 或“它能跑 DOOM 吗？”的挑战。",
+          "discussion": "评论者争论现代 AI 代理现在是否能轻松一次性生成这样的推理引擎，有人则认为最难的部分是获取硬件并给代理 SSH 访问权限。其他人分享了在旧 Maxwell/Pascal GPU 上的实践经验，对在当前硬件稀缺的情况下从旧硬件中榨取性能表示兴奋，并建议用于 HVAC 或工业控制的独立单元，寿命可达 30 年。",
+          "references": [
+            {
+              "title": "GitHub - hyperionaidev/smolmaxxing: maxxing the ability to ...",
+              "url": "https://github.com/hyperionaidev/smolmaxxing"
+            },
+            {
+              "title": "smolmaxxing — The biggest model on the smallest hardware ...",
+              "url": "https://hyperion-ai.com/products/smolmaxxing"
+            },
+            {
+              "title": "Mastering LLM Techniques : Inference Optimization",
+              "url": "https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50468888"
+        },
+        {
+          "rank": 20,
+          "headline": "AI加剧苹果应用审核延迟，合成器开发者苦不堪言",
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "tldr": "一篇报道指出，AI正在加剧苹果App Store的审核流程问题，导致合成器和音频应用开发者面临严重延迟和困扰。",
+          "summary": "一篇报道指出，AI正在加剧苹果App Store的审核流程问题，导致合成器和音频应用开发者面临严重延迟和困扰。开发者在Hacker News上分享了个案，称等待审核长达数周，一次拒绝就耗时20天。 这一问题影响了iOS音乐应用生态系统，开发者依赖及时的审核来发布更新和新产品。它引发了对苹果守门人模式的担忧，以及AI驱动的审核对细分开发者社区造成的意外后果。 开发者报告称，流程中最长的部分就是进入审核阶段，而审核员通常只花几分钟处理更新。苹果审核流程缺乏透明度是一个反复出现的抱怨，一些人呼吁苹果仅将守门人安全模型应用于iOS而非App Store。",
+          "source_type": "hackernews",
+          "source_name": "anigbrowl",
+          "published": "11月12日 21:09",
+          "score": 7.0,
+          "tags": [
+            "Apple App Store",
+            "AI",
+            "Developer Experience",
+            "App Review",
+            "Mobile Development"
+          ],
+          "background": "苹果的App Store审核流程是所有iOS应用必须经过的守门环节，受详细指南约束。AUv3（Audio Unit v3）是苹果的iOS插件格式，允许合成器和效果器在GarageBand或AUM等宿主应用内运行，类似于桌面端的VST。这些细分音乐应用的开发者依赖频繁更新，因此审核延迟尤其具有破坏性。",
+          "discussion": "评论者主要归咎于苹果而非AI，有人指出App Store审核“在AI之前就很糟糕”。其他人批评缺乏透明度，并建议使用Android自定义ROM或基于网络的音乐应用等替代方案，还有一些人对不可避免的延迟表示沮丧。",
+          "references": [
+            {
+              "title": "App Review Guidelines - Apple Developer",
+              "url": "https://developer.apple.com/app-store/review/guidelines/"
+            },
+            {
+              "title": "What Are AUv3 Apps? iOS Audio Unit Plugins Explained",
+              "url": "https://violetrecording.com/what-are-auv3-apps/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50474311"
+        }
+      ]
+    },
+    {
+      "key": "big-tech",
+      "title": "🏢 大厂要闻",
+      "items": [
+        {
+          "rank": 21,
+          "headline": "阿里巴巴旗下平头哥芯片部门申请香港IPO，但云依赖使损益表模糊",
+          "url": "https://www.tmtpost.com/8203405.html",
+          "tldr": "阿里巴巴的半导体子公司平头哥已秘密申请在香港进行首次公开募股（IPO），计划在集团内部孵化八年后独立上市。",
+          "summary": "阿里巴巴的半导体子公司平头哥已秘密申请在香港进行首次公开募股（IPO），计划在集团内部孵化八年后独立上市。该部门拥有实际的芯片产品并在中国AI加速器市场占有一席之地，但其大部分需求来自阿里云，导致其作为独立芯片公司的损益表不够清晰。 此次分拆是中国最大科技巨头之一在资本市场和半导体行业的一项重大事件，可能使平头哥获得独立的融资渠道和单独的估值。然而，由于依赖阿里云而缺乏清晰的损益表，这引发了投资者对治理和估值的担忧，影响市场对中国本土芯片雄心的评估。 随着阿里巴巴加大对中国本土半导体的投入，平头哥的资本基础已增长两倍以上，而保密申请仍需监管批准。关键问题在于，如果没有独立的损益表，投资者难以将平头哥的真实盈利能力与和阿里云之间的集团内部交易区分开来。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月12日 11:46",
+          "score": 8.0,
+          "tags": [
+            "Alibaba",
+            "T-Head",
+            "semiconductor",
+            "Hong Kong IPO",
+            "China tech"
+          ],
+          "background": "平头哥是阿里巴巴内部的芯片设计部门，成立于2018年，开发AI加速器和嵌入式处理器。损益表（P&L）是汇总公司在一定时期内收入、成本和费用的财务报告，投资者用它来评估盈利能力。香港IPO将使平头哥能够独立融资，但其与阿里云的紧密联系意味着其财务与母公司的云业务交织在一起。",
+          "references": [
+            {
+              "title": "Alibaba's AI Chip Unit T-Head Files Confidentially for Hong ...",
+              "url": "https://cn.ibtimes.com/alibaba-t-head-confidential-hong-kong-ipo-filing-1812716"
+            },
+            {
+              "title": "Alibaba Plans Separate Listing for AI Chip Business T-Head",
+              "url": "https://www.analyticsinsight.net/news/alibaba-plans-separate-listing-for-ai-chip-business-t-head"
+            },
+            {
+              "title": "Alibaba chip unit T-Head triples capital amid AI hardware bet",
+              "url": "https://www.scmp.com/tech/big-tech/article/3358032/alibaba-chip-unit-t-head-triples-capital-amid-ai-hardware-bet"
+            }
+          ]
+        },
+        {
+          "rank": 22,
+          "headline": "豆包工作接入Kimi、GLM、DeepSeek，实现多模型自由",
+          "url": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "11月12日，豆包工作宣布接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等多款第三方模型，支持用户按需选型完成任务。",
+          "summary": "11月12日，豆包工作宣布接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等多款第三方模型，支持用户按需选型完成任务。平台同步标注各模型额度消耗倍率，并推出限时优惠，帮助用户透明化成本管理。 此举标志着中国AI生态向模型互操作性转变，豆包这样的主流平台向竞品模型开放。它为企业提供了更多灵活性和成本透明度，有望加速AI在专业工作流中的落地。 Kimi K3.1 Pro主打百万字级超长上下文，GLM 5.3侧重中文理解与生成，DeepSeek V4.1 Flash以高响应速度和高性价比定位轻量任务。平台在模型选择页面标注各模型额度消耗倍率，并对指定时段及豆包2.1 Lite、DeepSeek V4.1 Flash等高频模型推出限时折扣。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月12日 04:50",
+          "score": 7.0,
+          "tags": [
+            "AI",
+            "大模型",
+            "豆包",
+            "Kimi",
+            "DeepSeek"
+          ],
+          "background": "豆包工作是字节跳动旗下的企业级AI助手平台，此前主要提供自研的豆包系列模型。Kimi K3.1 Pro是月之暗面推出的3万亿参数、支持100万上下文的模型，GLM 5.3是智谱AI的最新旗舰模型，DeepSeek V4.1 Flash是DeepSeek的轻量级MoE模型。此次接入反映了平台聚合多模型以满足企业多样化需求的趋势。",
+          "references": [
+            {
+              "title": "Kimi K3.1 Pro - Kimi API 开放平台",
+              "url": "https://platform.kimi.com/docs/guide/kimi-k3-1-pro-quickstart"
+            },
+            {
+              "title": "GLM-5.3 - 智谱AI开放文档",
+              "url": "https://docs.bigmodel.cn/cn/guide/models/text/glm-5.3"
+            },
+            {
+              "title": "DeepSeek | Introducing DeepSeek-V4.1-Flash: smarter, faster ...",
+              "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/"
+            }
+          ]
+        },
+        {
+          "rank": 23,
+          "headline": "Momenta的隐秘芯片战略与IPO前布局",
+          "url": "https://www.tmtpost.com/8203647.html",
+          "tldr": "三年前，Momenta秘密招募了OPPO解散的哲库芯片团队，成立了一家不挂自己名字的芯片公司，如今在港股IPO前夕紧急调整公开口径。",
+          "summary": "三年前，Momenta秘密招募了OPPO解散的哲库芯片团队，成立了一家不挂自己名字的芯片公司，如今在港股IPO前夕紧急调整公开口径。该公司同时推行算法与硬件捆绑销售的双重策略，却在公开层面与芯片制造保持距离。 这揭示了领先的自动驾驶独角兽在重大IPO前如何管理公众形象和公司治理，可能为AI硬件公司如何构建隐秘的垂直整合树立先例。这也凸显了中国自动驾驶行业的竞争压力，掌控算法和芯片被视为关键优势。 这家芯片公司成立时并未挂Momenta的名字，团队来自OPPO旗下哲库部门，该部门因经济不确定性于2023年解散。Momenta的IPO文件显示其采用高利润率的授权模式，公司于2026年6月通过港交所上市聆讯，计划融资约10亿美元。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月13日 00:30",
+          "score": 7.0,
+          "tags": [
+            "Momenta",
+            "autonomous driving",
+            "chip strategy",
+            "IPO",
+            "corporate governance"
+          ],
+          "background": "Momenta是一家成立于2016年的中国自动驾驶公司，以其量产与可扩展Robotaxi并行的双轨战略而闻名。OPPO的哲库是一个芯片设计部门，因全球智能手机需求疲软于2023年关闭，释放了大量芯片工程师。Momenta成立芯片公司的举动反映了自动驾驶企业寻求控制关键硬件组件以提升性能并降低成本的更广泛趋势。",
+          "references": [
+            {
+              "title": "Momenta - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Momenta"
+            },
+            {
+              "title": "Smartphone giant Oppo 's closure of chip design unit Zeku triggers...",
+              "url": "https://finance.yahoo.com/news/smartphone-giant-oppos-move-disband-093000430.html"
+            },
+            {
+              "title": "Momenta IPO: How a Self-Driving Supplier Hit 71% Margins",
+              "url": "https://hellochinatech.com/p/momenta-self-driving-ipo"
+            }
+          ]
+        },
+        {
+          "rank": 24,
+          "headline": "中国员工自掏腰包购买AI工具，雇主报销寥寥",
+          "url": "https://www.tmtpost.com/8203536.html",
+          "tldr": "TMTPost的一篇文章指出，中国办公室和专业工作者越来越多地自费购买生成式AI订阅和API服务以保持生产力，而雇主很少报销这些费用。",
+          "summary": "TMTPost的一篇文章指出，中国办公室和专业工作者越来越多地自费购买生成式AI订阅和API服务以保持生产力，而雇主很少报销这些费用。这一趋势正在形成一种隐藏的经济负担，token成本被形容为工作上的“第二份房租”。 这一趋势凸显了企业AI应用中的缺口：尽管生成式AI已成为数百万员工的日常基础设施，但公司并未将报销政策正式化，而是将成本转嫁给员工。这引发了关于成本负担、生产力以及AI在职场中实际经济影响的重要问题，并可能促使大型科技公司重新考虑其AI工具配备和费用政策。 文章指出，token成本正在上升且越来越难以预测，给依赖AI工作的员工增加了财务不确定性。虽然未提供具体数字，但这一现象涵盖订阅和API支出，影响了中国科技行业中的办公室和专业用户。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月12日 13:42",
+          "score": 7.0,
+          "tags": [
+            "AI adoption",
+            "China tech",
+            "employee expenses",
+            "generative AI",
+            "workplace trends"
+          ],
+          "background": "生成式AI工具如ChatGPT、Claude以及国内模型（如DeepSeek、智谱）通常通过订阅或按使用量付费的API访问，费用按token（文本单位）计算。在中国，员工常用这些工具提升生产力，但AI费用的报销流程尚未标准化，且发票税务要求可能使报销复杂化。本文探讨了由此产生的个人经济负担。",
+          "references": [
+            {
+              "title": "AI API Invoice Reimbursement in China: A Practical Guide",
+              "url": "https://www.xyc.ai/news/en/2026-06-09-ai-api-invoice-reimbursement-guide/"
+            },
+            {
+              "title": "How Much Do AI APIs Cost? A 2026 Pricing Guide - G2",
+              "url": "https://www.g2.com/articles/ai-api-pricing"
+            }
+          ]
+        },
+        {
+          "rank": 25,
+          "headline": "百度发布文心5.5 Flash Preview，编程与3D建模能力突出",
+          "url": "https://www.tmtpost.com/8202831.html",
+          "tldr": "2026年11月11日，百度发布文心5.5 Flash Preview，这是其Base模型的首个后训练版本，总参数280B，激活参数14B，支持1M上下文窗口。",
+          "summary": "2026年11月11日，百度发布文心5.5 Flash Preview，这是其Base模型的首个后训练版本，总参数280B，激活参数14B，支持1M上下文窗口。该模型已上线百度智能云千帆平台，官方称其在编程、3D建模、知识工作和内容创作方面表现出色。 此次发布巩固了百度在国内大模型竞争中的地位，尤其在编程和3D内容生成方面，其开源权重计划有望吸引开发者加入文心生态。模型强调智能体工具使用和游戏开发等真实任务，标志着向实用化、端到端AI能力的转变。 该模型针对Blender和CAD等工具进行了专项训练，以提升3D建模与设计能力，百度计划在11月25日前开源模型权重。作为预览版，它可能仍存在局限，实际表现还需通过更广泛的社区测试来验证。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月12日 13:23",
+          "score": 7.0,
+          "tags": [
+            "百度",
+            "文心大模型",
+            "大模型发布",
+            "AI编程",
+            "国产大模型"
+          ],
+          "background": "文心（ERNIE）是百度的旗舰大语言模型系列，其中“Flash”版本通常代表更高效、低延迟的变体。“后训练”模型指在初始预训练后经过额外微调和对齐的模型，通常能提升指令遵循和任务表现。千帆平台是百度用于部署和管理AI模型的云服务。",
+          "references": [
+            {
+              "title": "Introducing ERNIE 5.5 Flash Preview · ERNIE",
+              "url": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/"
+            },
+            {
+              "title": "百度文心发布 ERNIE 5.5 Flash Preview 模型，11 月 25 日前开源权重",
+              "url": "https://www.ithome.com/1/025/451.htm"
+            },
+            {
+              "title": "百度发布文心全新开源模型 编程、3D 建模、知识工作、内容创作等全面...",
+              "url": "https://www.news.cn/tech/20261111/183aa161e70b4942b622e10b5e3da605/c.html"
+            }
+          ]
+        },
+        {
+          "rank": 26,
+          "headline": "早报：英伟达CEO持股、腾讯AI转型、豆包接入第三方模型、微信测试短剧入口",
+          "url": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "一份每日新闻汇总报道称，接近腾讯的人士否认了裁员50%的传闻，同时管理层提出了两条AI转型路线；豆包工作接入了包括Kimi、GLM和DeepSeek在内的第三方模型；微信“看一看”正在测试短剧入口；C…",
+          "summary": "一份每日新闻汇总报道称，接近腾讯的人士否认了裁员50%的传闻，同时管理层提出了两条AI转型路线；豆包工作接入了包括Kimi、GLM和DeepSeek在内的第三方模型；微信“看一看”正在测试短剧入口；Claude的网站访问量在10月增长了近24%，增幅超过ChatGPT和Gemini。 这些事件反映了重大趋势：腾讯的AI战略与劳动力担忧、字节跳动的豆包采用多模型方法以在企业AI领域竞争、微信进军蓬勃发展的短剧市场，以及Claude在AI聊天机器人竞赛中日益增长的吸引力。 豆包工作的第三方模型服务首批支持Kimi 3.1 Pro、GLM 5.3和DeepSeek V4.1 Flash；Claude 10月网站访问量达到12.53亿次，创历史新高，而ChatGPT的访问量约为60亿次，为一年来最高。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月13日 00:00",
+          "score": 6.0,
+          "tags": [
+            "大厂要闻",
+            "腾讯",
+            "英伟达",
+            "AI转型",
+            "微信"
+          ],
+          "background": "豆包是字节跳动的AI助手，豆包工作是其企业级产品；接入第三方模型使其能够提供更广泛的AI能力。微信“看一看”是一个内容发现功能，而短剧在中国是一种快速增长的格式。Claude是Anthropic开发的AI聊天机器人，网站访问量是衡量AI行业用户采用情况的关键指标。",
+          "references": [
+            {
+              "title": "豆 包 工作开放企业 第 三 方 模 型 调用能力，首批 接 入 Kimi、GLM...",
+              "url": "https://news.10jqka.com.cn/20261029/c681238191.shtml"
+            },
+            {
+              "title": "助力 Anthropic IPO：Claude 10 月网站访问量 12.53 亿次创历史新高，...",
+              "url": "https://www.ithome.com/1/026/041.htm"
+            }
+          ]
+        },
+        {
+          "rank": 27,
+          "headline": "26.99万元起！腾势N8上市，内饰最美的比亚迪来了",
+          "url": "https://www.ifanr.com/1689232?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "比亚迪旗下高端品牌腾势的新车型N8已上市，起售价为26.99万元。",
+          "summary": "比亚迪旗下高端品牌腾势的新车型N8已上市，起售价为26.99万元。文章称其内饰是比亚迪迄今最美的设计。 此次上市丰富了腾势在高端纯电SUV领域的产品矩阵，巩固了比亚迪进军高利润市场的战略。它可能吸引那些寻求国产品牌豪华内饰和先进功能的消费者。 腾势N8采用大五座布局，后扩展容积达2150升，车身采用2000MPa级超高强钢，全系标配9个安全气囊。它还支持长续航闪充和易三方技术。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月12日 13:39",
+          "score": 6.0,
+          "tags": [
+            "Denza",
+            "BYD",
+            "electric vehicles",
+            "car launch",
+            "auto industry"
+          ],
+          "background": "腾势是比亚迪与梅赛德斯-奔驰合资成立的高端电动汽车品牌，目前主要由比亚迪主导。腾势N8是一款中型豪华SUV，参与中国日益增长的高端电动汽车市场竞争，蔚来、理想等品牌是主要竞争者。",
+          "references": [
+            {
+              "title": "【图】售26.99万起 首搭30... | 汽车之家",
+              "url": "https://www.autohome.com.cn/news/202611/1318332.html"
+            },
+            {
+              "title": "比 亚 迪 全新 腾 势 N8上市发布会 | BYD’s All-New Denza... - YouTube",
+              "url": "https://www.youtube.com/watch?v=4A5vqAeFPxc"
+            },
+            {
+              "title": "搅局者来了！ 长续航闪充易三方，大五座纯电豪华SUV... | 哔哩哔哩",
+              "url": "https://www.bilibili.com/video/BV1NHNu6mEzh/"
+            }
+          ]
+        },
+        {
+          "rank": 28,
+          "headline": "iPhone Siri AI 体验：更好的 Siri，但还不是真正的 AI Agent",
+          "url": "https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "一篇关于 iPhone 上全新 Siri AI 体验的实测文章认为，它是一个更好的 Siri，但还不是一个合格的 Agent，并附上了开通指南。",
+          "summary": "一篇关于 iPhone 上全新 Siri AI 体验的实测文章认为，它是一个更好的 Siri，但还不是一个合格的 Agent，并附上了开通指南。 这篇评测指出苹果的 AI 进展是渐进式的而非突破性的，这对于期待 Siri 成为真正 AI Agent 的用户以及苹果在 AI 助手市场的竞争地位都有影响。 文章提供了开通新 Siri AI 功能的指南，但评测带有主观色彩，缺乏基准数据或深入的技术分析。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月12日 10:47",
+          "score": 6.0,
+          "tags": [
+            "Apple",
+            "Siri",
+            "AI",
+            "iPhone",
+            "product review"
+          ],
+          "background": "Apple Intelligence 是苹果内置于 iOS 的个人智能系统，Siri AI 是其升级后的语音助手。AI Agent 是指能够自主追求目标、决定步骤并调用工具完成任务的软件，这比响应式助手的要求更高。",
+          "references": [
+            {
+              "title": "Apple Intelligence and Siri - Apple",
+              "url": "https://www.apple.com/apple-intelligence/"
+            },
+            {
+              "title": "AI Agent Definition Explained | Miquido",
+              "url": "https://www.miquido.com/ai-glossary/ai-agent-definition/"
+            },
+            {
+              "title": "Get started with Apple Intelligence on your iPhone",
+              "url": "https://support.apple.com/guide/iphone/get-started-with-apple-intelligence-iphc28624b81/ios"
+            }
+          ]
+        },
+        {
+          "rank": 29,
+          "headline": "iFixit 拆解揭示触屏 MacBook Pro 发光苹果 LOGO 的秘密",
+          "url": "https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "iFixit 发布了苹果首款触屏 MacBook Pro 的拆解报告，揭示了重新回归的发光苹果 LOGO 的工作原理，并在拆解过程中 OLED 面板碎裂后给出了 5/10 的可修复性评分。",
+          "summary": "iFixit 发布了苹果首款触屏 MacBook Pro 的拆解报告，揭示了重新回归的发光苹果 LOGO 的工作原理，并在拆解过程中 OLED 面板碎裂后给出了 5/10 的可修复性评分。 这次拆解证实苹果改变了方向，推出了触屏 MacBook Pro 并重新引入了发光 LOGO，标志着可能影响未来 MacBook 机型并波及消费者和维修人员的重大设计转变。 配备 PROLED XDR 显示屏的 MacBook Pro 采用串联 OLED 面板，刷新率达 120 Hz，峰值亮度为 2,000 尼特，并搭载 M5 Pro 或 M5 Max 芯片；发光 LOGO 在 Mac 唤醒时点亮，并根据屏幕亮度和环境光自动调节亮度。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月12日 04:00",
+          "score": 6.0,
+          "tags": [
+            "Apple",
+            "MacBook Pro",
+            "touchscreen",
+            "hardware",
+            "rumor"
+          ],
+          "background": "苹果的发光 LOGO 曾是旧款 MacBook 的标志性特征，但在近年机型中消失。新款 MacBook Pro 配备 PROLED XDR，是苹果首款触屏笔记本电脑，iFixit 的拆解探究了苹果如何实现 LOGO 的回归。iFixit 以拆解设备评估可修复性而闻名，其 5/10 的评分表明该设备的维修难度中等。",
+          "references": [
+            {
+              "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up ...",
+              "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/"
+            },
+            {
+              "title": "We Tore Down the MacBook PROLED XDR and Found the ... - iFixit",
+              "url": "https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple"
+            },
+            {
+              "title": "Apple's New Touchscreen MacBook Pro Is Hard to Fix",
+              "url": "https://www.androidheadlines.com/2026/11/touchscreen-macbook-pro-ifixit-teardown-repair.html"
+            }
+          ]
+        },
+        {
+          "rank": 30,
+          "headline": "联想 Googlebook 15 评测：安卓硬件就绪，软件未达",
+          "url": "https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "爱范儿发布了联想 Googlebook 15 的评测，这款起售价 1099 美元的新安卓笔记本，结论是硬件表现出色，但安卓系统尚未为桌面体验做好准备。",
+          "summary": "爱范儿发布了联想 Googlebook 15 的评测，这款起售价 1099 美元的新安卓笔记本，结论是硬件表现出色，但安卓系统尚未为桌面体验做好准备。 这篇评测凸显了安卓作为桌面操作系统的现状，并引发了对谷歌新 Googlebook 产品线能否在 PC 市场挑战 Windows 和 ChromeOS 的疑问。 联想 Googlebook 15 在工业设计、屏幕素质、键盘手感和日常使用方面表现出色，但安卓软件缺乏合适的桌面功能和应用程序兼容性。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月12日 02:34",
+          "score": 6.0,
+          "tags": [
+            "联想",
+            "安卓电脑",
+            "Chromebook",
+            "产品评测",
+            "谷歌"
+          ],
+          "background": "谷歌在今年 I/O 大会上宣布了 Googlebook 安卓笔记本产品线，旨在将安卓引入 PC 形态。Android 16 包含桌面模式，连接显示器时可将手机变为电脑，但应用兼容性和桌面优化仍是挑战。",
+          "references": [
+            {
+              "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有",
+              "url": "https://www.ifanr.com/1689128"
+            },
+            {
+              "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有_Android_屏幕_...",
+              "url": "https://www.sohu.com/a/1100465117_413981"
+            },
+            {
+              "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有 | 梭哈 AI",
+              "url": "https://www.163264.com/20687"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "customer-service",
+      "title": "🎧 客服行业动态",
+      "items": [
+        {
+          "rank": 31,
+          "headline": "客服智能体临近上岗，企业仍需跨越多重门槛",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxQk1vNGF2WndMZkQtSEdPWGJkNkxqN1VEQ2dsUVZVLUJaWF90UzM4XzdkV2k0Sk5XZ3VQTHo3RVlLRXBhUTF5YmRTS3BIUlprVTVqVzQwak5xUjNlLXpr?oc=5",
+          "tldr": "甲子光年的文章探讨了企业在部署客服智能体之前必须克服的挑战，强调了技术准备与实际落地之间的差距。",
+          "summary": "甲子光年的文章探讨了企业在部署客服智能体之前必须克服的挑战，强调了技术准备与实际落地之间的差距。文章指出，尽管技术已接近上岗，但企业仍面临重大障碍。 这很重要，因为客服是一个高流量、成本敏感的职能，AI智能体可以显著缩短解决时间并提高效率，但采用障碍可能会延迟许多企业的价值实现。随着AI智能体的成熟，了解这些障碍对于旨在保持竞争力的企业至关重要。 文章可能讨论了具体挑战，如与现有系统的集成、数据隐私、部署成本以及人机协作的需求。它还可能引用了行业框架，如客服智能体的L1-L5成熟度模型。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月12日 05:40",
+          "score": 6.0,
+          "tags": [
+            "customer service",
+            "AI agents",
+            "enterprise adoption",
+            "implementation challenges",
+            "industry analysis"
+          ],
+          "background": "AI智能体是能够执行传统上由人类完成的任务（如回答客户查询）的自主软件程序。在客服领域，它们被视为处理常规咨询、释放人工客服处理复杂问题的一种方式。然而，部署它们需要在技术、流程和治理方面进行周密规划。",
+          "references": [
+            {
+              "title": "A Guide to AI Customer Support Bot Deployment Challenges",
+              "url": "https://bluetweak.com/blog/ai-customer-support-bot-deployment-challenges/"
+            },
+            {
+              "title": "Ai Agent Deployment Challenges And Solutions - AgntWork",
+              "url": "https://agntwork.com/ai-agent-deployment-challenges-and-solutions/"
+            },
+            {
+              "title": "客服智能体技术分级落地指南：从L1到L5的预算规划与场景实践_智能化 ...",
+              "url": "https://blog.csdn.net/yuntongliangda/article/details/148070708"
+            }
+          ]
+        },
+        {
+          "rank": 32,
+          "headline": "慧与科技CEO安东尼奥·内里分享从呼叫中心到高管的职场晋升心得",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SZDQzMHdVaXpRLTZXM3pkbGVnX0xkNUhfWC1CN1c0RldoMjAzN3JEcDZaY3Y4N3ZVZERyVk92cXQ1THlCVFZmN3dZNGw?oc=5",
+          "tldr": "慧与科技（HPE）首席执行官安东尼奥·内里在近期采访中分享了自己从呼叫中心职员成长为该公司最高管理者的职业历程，并提供了职场晋升的建议。",
+          "summary": "慧与科技（HPE）首席执行官安东尼奥·内里在近期采访中分享了自己从呼叫中心职员成长为该公司最高管理者的职业历程，并提供了职场晋升的建议。 他的故事为客服从业者提供了鼓舞人心的榜样，表明即使从初级支持岗位起步，职业晋升也是可能的，并凸显了多元经历在领导力发展中的价值。 内里于1995年在惠普开始职业生涯，曾担任包括呼叫中心支持在内的多个职位，后于2018年升任CEO；他强调持续学习和把握机遇的重要性。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月12日 11:23",
+          "score": 6.0,
+          "tags": [
+            "career development",
+            "customer service",
+            "leadership",
+            "call center",
+            "HPE"
+          ],
+          "background": "慧与科技（HPE）是一家企业技术公司，于2015年惠普拆分后成立。安东尼奥·内里1967年出生于阿根廷，1995年加入惠普，并于2018年2月成为HPE的CEO，带领公司专注于混合IT、智能边缘和人工智能解决方案。",
+          "references": [
+            {
+              "title": "Antonio Neri (businessman) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Antonio_Neri_%28businessman%29"
+            },
+            {
+              "title": "Antonio Neri: biography and career | CEO.wiki Antonio Neri – President & Chief Executive Officer | HPE Antonio Neri - President & CEO, Hewlett Packard Enterprise ... Antonio Neri (empresario) - Wikipedia, la enciclopedia libre Antonio Neri – President & Chief Executive Officer | HPE EUROPE Antonio Neri | Carnegie",
+              "url": "https://ceo.wiki/wiki/Antonio_Neri"
+            }
+          ]
+        },
+        {
+          "rank": 33,
+          "headline": "客服机器人已读乱回，人机界限模糊引热议",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTk9QSDRzczh5V2Qxai1kbWNJY1BqM0Vaa051NTJBZV9tTzh4STdka1NlWFlYRXRWOE1PNmtfOC10VjM5LVB3dHlrTnRIUnplSXRGUzVUc0JrTXFfMWlsa3lSek0wZWgwQVJLZ0VVcWMtQXdtd3E2ZWRyY3AyVTRZby0tTml2RFZjTE9HSQ?oc=5",
+          "tldr": "搜狐的一篇文章聚焦于客服聊天机器人给出无关或荒谬回复的现象，让用户难以分辨自己是在与真人还是AI交互。",
+          "summary": "搜狐的一篇文章聚焦于客服聊天机器人给出无关或荒谬回复的现象，让用户难以分辨自己是在与真人还是AI交互。文章对自动客服的可靠性以及人机界限的模糊提出了质疑。 这一点很重要，因为糟糕的AI客服会侵蚀信任并可能导致客户流失，影响那些日益依赖自动化来削减成本的各行各业的企业。这也凸显了在AI部署中加强防护措施和透明度的迫切需求。 这类荒谬回复通常源于AI幻觉，即大语言模型生成流畅但事实错误或无依据的回答。企业可以通过检索增强生成、人工监督以及明确披露AI使用情况等技术来缓解这一问题。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月12日 03:25",
+          "score": 6.0,
+          "tags": [
+            "customer service",
+            "AI chatbots",
+            "human-AI interaction",
+            "service quality",
+            "industry trends"
+          ],
+          "background": "由大语言模型驱动的AI聊天机器人被广泛应用于客服领域以高效处理咨询。然而，这些模型可能产生“幻觉”，给出自信但错误的答案，令用户沮丧并损害品牌信任。因此，许多公司正在尝试人机混合模式以及更好的AI故障检测方法。",
+          "references": [
+            {
+              "title": "7 Ways to Prevent AI Hallucinations in Customer Service",
+              "url": "https://www.bolddesk.com/blogs/ai-hallucinations-in-customer-service"
+            },
+            {
+              "title": "Chatbots : 5 Ways to Know If You're Chatting with a Human or Robot",
+              "url": "https://www.convinceandconvert.com/ai/chatbot-experience-human-or-robot/"
+            },
+            {
+              "title": "LLM Hallucinations in Conversational AI for Customer Service ...",
+              "url": "https://www.tandfonline.com/doi/full/10.1080/10447318.2025.2580540"
+            }
+          ]
+        },
+        {
+          "rank": 34,
+          "headline": "京沪高铁故障排除9小时后仍延误，客服回应",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd3lfcm1WLWdDVUZpTVp0WVpuRG50ekRzVU5TTUtxRTg2QzlQR3hBcW90Z1RieExmUDJjLTdSNjcxUG1BMzVVZmZqYVpZZzVzY1JYclNVazkzaHN4bG5qcXg0Vkg4UVh5bW9YMDYxNV9hUmx6eFJzTmxjOTdwWU42TEtSTEptWktNTm8wOUxjZw?oc=5",
+          "tldr": "2026年11月12日，京沪高铁山东境内两站间发生信号设备故障，导致多趟列车临时停车、晚点超过80分钟。",
+          "summary": "2026年11月12日，京沪高铁山东境内两站间发生信号设备故障，导致多趟列车临时停车、晚点超过80分钟。故障排除约9小时后，仍有列车延误，12306客服回应称，后续延误是由于运行图调整和列车周转所致。 该事件凸显了中国最繁忙的高铁线路的脆弱性以及重大中断后服务恢复的挑战。它影响了数千名乘客，并为交通运输领域的危机沟通和运营韧性提供了案例。 故障发生在枣庄至曲阜东区间，导致G4、G744等多趟列车晚点。即使修复后，由于列车位置错乱和运行图需要调整，延误仍在持续，客服承认了这一情况但未给出完全恢复的具体时间。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月12日 22:22",
+          "score": 5.0,
+          "tags": [
+            "customer service",
+            "high-speed rail",
+            "service recovery",
+            "transportation",
+            "crisis communication"
+          ],
+          "background": "京沪高铁是世界上最繁忙、最重要的铁路线路之一，连接北京和上海。信号系统故障可能导致大范围列车停运，恢复不仅需要修复故障，还需要重新调整列车顺序和运行图，这会造成连锁延误。",
+          "references": [
+            {
+              "title": "京沪高铁线路故障致多趟列车晚点，部分车次延误超80分钟，12306：故障...",
+              "url": "https://news.qq.com/rain/a/20261112A075M500"
+            },
+            {
+              "title": "京沪高铁一区间突发设备故障，沿线部分列车晚点或滞留，多个火车站大...",
+              "url": "https://feng.ifeng.com/c/8xzdJ1yOQEM"
+            },
+            {
+              "title": "12306回应“京沪高铁多趟列车晚点”：线路故障所致，目前已修复并恢复正...",
+              "url": "https://feng.ifeng.com/c/8xziN4ta9u1"
+            }
+          ]
+        },
+        {
+          "rank": 35,
+          "headline": "外籍乘客高铁车厢门口吸烟引争议，12306客服回应",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzcy1rWS1yNEh2SmR3V3ZCOXRpdnIyanFHam1TUVhEVVdLNzJWWU9ieGdTMmRETzVLTEFyYW5RUnVrb3M4WU1wNmtqTjJKM2l6T0NRWTF0OElPbWVNTXpvVw?oc=5",
+          "tldr": "两名外籍乘客被曝在高铁车厢门口吸烟，引发网络争议，12306客服对此事作出回应。",
+          "summary": "两名外籍乘客被曝在高铁车厢门口吸烟，引发网络争议，12306客服对此事作出回应。 该事件凸显了中国高铁禁烟规定在执行中面临的持续挑战，也考验了12306处理涉及外籍乘客投诉的方式。 中国所有高铁列车内严禁吸烟，包括厕所和车厢门口；12306是全国铁路客服热线和在线购票平台。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月12日 04:52",
+          "score": 4.0,
+          "tags": [
+            "customer service",
+            "railway",
+            "complaint handling",
+            "public behavior",
+            "12306"
+          ],
+          "background": "出于健康和安全考虑，中国高铁列车实行严格的禁烟政策，覆盖车厢连接处、厕所等所有区域。12306是统一的铁路客服号码和平台，乘客可通过其报告问题、寻求帮助。涉及外籍乘客的事件常引发公众对规则执行和公平对待的关注。",
+          "references": [
+            {
+              "title": "12306 CHINA RAILWAY",
+              "url": "https://www.12306.cn/en/faq.html"
+            },
+            {
+              "title": "4 Important Facts about Smoking on Chinese Trains",
+              "url": "https://www.chinahighlights.com/china-trains/smoking-on-chinese-train.htm"
+            },
+            {
+              "title": "Can I Smoke on Chinese Trains? - Not on High Speed Trains",
+              "url": "https://www.travelchinaguide.com/china-trains/smoking.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
