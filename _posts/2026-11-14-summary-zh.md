@@ -1,0 +1,843 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-14 (ZH)"
+date: 2026-11-14
+lang: zh
+---
+
+> 从 70 条内容中筛选出 35 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [我国牵头的虚拟电厂一次调频国际标准正式立项](#item-1) ⭐️ 8.0/10
+2. [IRENA 报告：电网、储能与水电助力新型电力系统建设](#item-2) ⭐️ 7.0/10
+3. [IEA 警告：LNG 运输中断持续，全球煤炭需求或再创新高](#item-3) ⭐️ 7.0/10
+4. [IEA 月报下调石油需求预测并上调生物燃料供应预期](#item-4) ⭐️ 7.0/10
+5. [传华为数字能源将出售给比亚迪，双方均未回应](#item-5) ⭐️ 7.0/10
+6. [IEA：波斯湾出口回升 全球石油供应第四季度将首现过剩](#item-6) ⭐️ 7.0/10
+7. [江西“十五五”能源规划：新增 18GW 风光生物质，虚拟电厂调节能力达 3GW](#item-7) ⭐️ 7.0/10
+8. [IEA：与特朗普达成柴油协议后，俄罗斯 10 月原油产量与燃料出口双双反弹](#item-8) ⭐️ 7.0/10
+9. [IEA：高油价将抑制 2027 年运输燃料需求增长](#item-9) ⭐️ 7.0/10
+10. [天津港零碳港口建设再进阶](#item-10) ⭐️ 6.0/10
+
+### 🤖 AI 科技
+
+11. [美国联邦航空管理局因电信故障发布全国停飞令](#item-11) ⭐️ 8.0/10
+12. [颗粒酶 K 独立于炎症驱动小鼠组织衰老](#item-12) ⭐️ 7.0/10
+13. [爱好者用 ETTUS B210 和双 GPU 搭建的航空波段监听器实时捕捉地面停飞](#item-13) ⭐️ 6.0/10
+14. [不占用字符单元格的终端边框](#item-14) ⭐️ 6.0/10
+15. [M-VAVE FM-1 Workbench：开放固件口袋合成器激发社区创造力](#item-15) ⭐️ 6.0/10
+16. [博主对 JEPA 世界模型 LeWM 进行 600 次实验](#item-16) ⭐️ 6.0/10
+17. [1960 年《科学》论文预测 2026 年 11 月 13 日为世界末日引发热议](#item-17) ⭐️ 6.0/10
+18. [3Com 兴衰回顾引发怀旧讨论](#item-18) ⭐️ 4.0/10
+
+### 🏢 大厂要闻
+
+19. [中国互联网巨头分拆 AI 业务以寻求更高估值](#item-19) ⭐️ 8.0/10
+20. [Anthropic 拟 IPO 以应对 5180 亿美元算力债务](#item-20) ⭐️ 8.0/10
+21. [余承东公布华为问界新合作模式，新 M8 起售价 37.98 万元上市](#item-21) ⭐️ 7.0/10
+22. [李飞飞世界模型正式开放，一句话生成重庆山城](#item-22) ⭐️ 7.0/10
+23. [外卖大战一年后，大厂亲自下场开店](#item-23) ⭐️ 7.0/10
+24. [英伟达治理动荡、微软 365 中断、Anthropic IPO 超额认购](#item-24) ⭐️ 7.0/10
+25. [远景 700Ah+储能电芯获大单，行业转向交付竞争](#item-25) ⭐️ 7.0/10
+26. [苹果手表新增 AI 录音功能，挤压 AI 录音硬件创业者](#item-26) ⭐️ 7.0/10
+27. [百度世界 2026：李彦宏称智能组织是 AI 时代新厂房](#item-27) ⭐️ 7.0/10
+28. [iPhone 20 爆料：2027 年或采用一体成型玻璃设计](#item-28) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+29. [离职员工利用未撤销客服权限，通过“仅退款”窃取 42 万元服饰获刑 5 年](#item-29) ⭐️ 7.0/10
+30. [74 岁老人修空调插线板被收 9500 元](#item-30) ⭐️ 6.0/10
+31. [男子银行卡莫名被扣 4 个月，名下多出两份未购买的保险](#item-31) ⭐️ 6.0/10
+32. [理想客服称提车后降价为正常市场行为](#item-32) ⭐️ 5.0/10
+33. [怪兽充电宝商户无法提现，称遭客服辱骂](#item-33) ⭐️ 4.0/10
+34. [快手电商推广智能客服，助力大促后售后服务](#item-34) ⭐️ 4.0/10
+35. [Minimal AI 推出电商客服智能体](#item-35) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [我国牵头的虚拟电厂一次调频国际标准正式立项](https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2X2puLXBoSjFLbU9nZ3dDUjBXaTA5eVRnN1o4aHFNQmNBTzVRT0FnSnE1YzAzS1RZUHRNa21xb254ajFfU1RKS3pwTWk2aUk?oc=5) ⭐️ 8.0/10
+
+据新浪网报道，我国牵头提出的虚拟电厂一次调频国际标准已正式获批立项。该标准旨在为虚拟电厂参与电网快速频率响应设定全球统一的技术要求。 这标志着虚拟电厂电网服务全球标准化迈出重要一步，可能增强中国在制定能源灵活性国际规则中的影响力。它有望加速虚拟电厂在全球的推广，并促进可再生能源的跨境整合与电网稳定解决方案的应用。 该标准聚焦一次调频，要求对频率偏差做出快速有功功率响应，通常在数秒内完成。虚拟电厂通过聚合分布式能源资源来提供这一服务，但响应时间、精度和通信协议等技术要求需要在国际层面进行统一。
+
+google\_news · 新浪网 · 11月13日 06:05
+
+**背景**: 一次调频是发电机组对电网频率变化做出的自动、分散式响应，有助于维持电网稳定。虚拟电厂是基于云平台的分布式能源资源（如光伏、电池和柔性负荷）的聚合体，可以像单一电厂一样运行。随着可再生能源渗透率提高，虚拟电厂日益被视为提供快速频率支持的关键，而国际标准对于确保互操作性和市场准入至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.csdn.net/qq_43737705/article/details/127727183">虚拟同步电机（VSG)一次调频 - CSDN博客</a></li>
+<li><a href="https://iea.blob.core.windows.net/assets/76236e62-114e-4e80-b8a1-dcb2720690a2/3.FeixiangGong_-V34-_0912.pdf">PowerPoint 演示文稿</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#国际标准`, `#一次调频`, `#能源政策`, `#电网稳定`
+
+---
+
+<a id="item-2"></a>
+## [IRENA 报告：电网、储能与水电助力新型电力系统建设](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazdJZ2s3RWlxUGp1VDVJc002NFlJazBKcXFEQUdLeHVhVGpONjFuMUtpaE40REF4dGp2NzJpMkYwNEJhcG9MaUdNRVpzRmVKZGpmX1BRN3FkMHBpZnJDc2dqekR6NmNxZ1NYbEFVN01vRGxiNExoR2RabElWMWVjaUZjZWx4dXp4TnpnRmM1cVoxSzZvTVNWNDh0b09wVEJuaEpvR0l3WTFkZ3dYTUZoWEN1Y09DMkpnRm9tcUFGdTJTRE9Cb0VHVQ?oc=5) ⭐️ 7.0/10
+
+IRENA 发布了一份解决方案导向的报告，详细阐述了电网、储能和水电如何助力构建新型电力系统以实现可再生能源并网。该报告为规划能源转型路径提供了政策和技术指导。 该报告意义重大，因为它来自领先国际机构的权威指导，涉及波动性可再生能源的并网，这对于旨在实现气候目标的国家至关重要。它对能源政策专业人士、电网运营商和参与能源转型规划的利益相关者具有重要价值。 报告强调了电网扩展、储能和水电灵活性在平衡供需方面的互补作用。它可能包含案例研究以及支持可再生能源并网的政策框架建议。
+
+google\_news · IRENA – International Renewable Energy Agency · 11月13日 09:22
+
+**背景**: 新型电力系统是指以太阳能、风能等可再生能源为主体的电力系统，取代传统的化石燃料发电。与传统依赖可控火电机组的电力系统不同，新型电力系统必须应对可再生能源的波动性和间歇性，需要增强电网灵活性、储能和可调度水电。国际可再生能源署（IRENA）是一个关键的政府间组织，支持各国进行能源转型，并发布关于可再生能源技术和政策的权威报告。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.irena.org/Data">Statistics Data - IRENA</a></li>
+<li><a href="https://news.qq.com/rain/a/20250918A03J4300">IRENA首份储能报告完整版发布 力挺“光伏+储能”主导能源转型</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#renewable energy`, `#grid integration`, `#energy storage`, `#hydropower`
+
+---
+
+<a id="item-3"></a>
+## [IEA 警告：LNG 运输中断持续，全球煤炭需求或再创新高](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）警告，今年全球煤炭需求将创下历史新高，达到约 88.5 亿吨，并且如果 LNG 运输中断持续，明年可能再次打破纪录。IEA 的《煤炭 2025》报告指出，国际煤炭贸易承压，由于中国进口下降，全球煤炭贸易出现自 2020 年以来的首次下滑。 这一预测凸显了能源安全与气候目标之间的紧张关系，因为 LNG 运输中断迫使各国更多地依赖煤炭，可能削弱脱碳努力。这一发展对能源政策专业人士、投资者和气候谈判代表具有重要意义，因为它影响全球能源市场和排放轨迹。 IEA 的《煤炭 2025》报告提供了到 2030 年按等级划分的煤炭需求、供应和贸易预测，并指出冶金煤出口商的前景更为强劲。报告还表明，在天然气供应中断的情况下，今年全球煤炭需求有望创下历史新高，IEA 将 2026 年煤炭需求预测上调 1.2%至 89.4 亿吨，理由是霍尔木兹海峡 LNG 中断推高了天然气价格，促使中国、印度、日本和韩国将发电转向煤炭。
+
+google\_news · 财联社 · 11月13日 10:11
+
+**背景**: IEA 是一个政府间组织，提供关于全球能源市场的权威分析和预测。LNG（液化天然气）是冷却至-161°C 的天然气，通过专用船舶运输；运输中断（如冲突或咽喉要道阻塞引起的中断）会严重限制供应并推高价格。当 LNG 供应中断时，各国通常转向煤炭发电，因为煤炭更易获得且更便宜，从而导致煤炭需求增加。霍尔木兹海峡是全球能源贸易的关键海上咽喉要道，任何中断都可能对能源市场产生深远影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/coal-2025">Coal 2025 - IEA</a></li>
+<li><a href="https://www.iea.org/reports/coal-2025/executive-summary">Executive summary - Coal 2025 - IEA</a></li>
+<li><a href="https://menatrademonitor.com/article/coal-demand-forecast-raised-8-94-billion-tonnes-hormuz-lng-disruption">Coal demand forecast raised to 8.94 billion tonnes on Hormuz LNG ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal demand`, `#IEA`, `#LNG shipping`, `#energy security`, `#energy policy`
+
+---
+
+<a id="item-4"></a>
+## [IEA 月报下调石油需求预测并上调生物燃料供应预期](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WVmN2STg3b2dObXNFVzdkaWNlV3BvS1NkcWl1UG1XcHVGT2s3TEFQY0hac2p3WTkyT1NfNDVDRk94cGRmNlVrblFuQ1BNbEVhSXdr?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）在最新月度报告中下调了 2026 年和 2027 年全球石油需求预测，同时上调了生物燃料供应预期。具体而言，IEA 将 2026 年全球石油需求预测下调至每日 10229 万桶，较上月预测有所降低。 这一修正表明全球石油市场供应压力加剧，可能对油价构成压力，并影响产油国的生产政策。同时，这也反映了生物燃料在能源转型中日益重要的作用，影响化石燃料和可再生能源领域的投资决策。 报告强调了双重调整：需求增长预期减弱与生物燃料供应预期上调，这可能加速对传统石油产品的替代。然而，该摘要缺乏对区域细分数据或这些变化背后具体政策驱动因素的深入分析。
+
+google\_news · 华尔街见闻 · 11月13日 10:53
+
+**背景**: 国际能源署（IEA）是一个政府间组织，提供全球能源领域的权威数据和分析，其月度石油报告是市场的重要基准。生物燃料（如生物柴油和可持续航空燃料 SAF）是与化石燃料竞争的可再生替代品，其供应前景影响石油市场平衡。需求下修与生物燃料供应上调共同预示未来油市可能趋于宽松。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/2104659935615250707">IEA月报：下修未来两年石油需求、上调生物燃料供应，油市供给压力加剧</a></li>
+<li><a href="https://www.sohu.com/a/1037111191_121123885">原油大跌冲击生物燃料市场，短期承压但长期逻辑未改</a></li>
+<li><a href="https://www.iea.org/reports">Reports - Analysis - IEA</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#石油需求`, `#生物燃料`, `#能源市场`, `#能源政策`
+
+---
+
+<a id="item-5"></a>
+## [传华为数字能源将出售给比亚迪，双方均未回应](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2NFeXlhaUwyZWRnS3J0R1lCUFEtc190MnBkVWQwcTdoVlNsRHpOdFdUWlpISkVJLXhneTN2SDdmeThva2UxM0JwRVlGamNzWFpUTExCQW5IZk5PYlF4dlo3ZW84Y1hBY244cGhUMWluNmdMRmFJRUVqdVpfLVAzaFlSYV83SEF1ZjJV?oc=5) ⭐️ 7.0/10
+
+中国媒体报道称，有传言华为计划将其数字能源业务出售给比亚迪，但双方均未作出官方回应。这一未经证实的消息在搜狐、新浪和 Moomoo 等平台传播，引发市场对储能与数字能源领域潜在重大整合的关注。 若消息属实，该交易将把华为涵盖清洁发电、ICT 能源基础设施和交通电动化的数字能源业务与比亚迪的电池及电动车优势结合，显著改变中国快速增长的储能市场的竞争格局。仅凭传言本身已值得关注，因为两家企业都是中国新能源产业政策中的核心参与者。 华为数字能源技术有限公司成立于 2021 年 6 月，注册资本 30 亿元人民币，由华为全资控股，拥有约 1 万名员工，业务遍及 170 多个国家；其法定代表人于 2025 年 1 月由胡厚崑变更为王辉。华为和比亚迪均未证实该传言，因此所传交易条款、估值及监管审批路径均不明朗。
+
+google\_news · Sohu · 11月13日 15:09
+
+**背景**: 华为数字能源是华为旗下专注于数字能源产品与解决方案的业务集团，业务涵盖清洁发电、ICT 能源基础设施、交通电动化和综合智慧能源。比亚迪是中国最大的新能源汽车制造商和主要电池生产商，因而成为储能与电力电子资产的天然战略买家。中国一直大力推动新型储能作为战略性新兴产业，该行业经历了快速产能扩张和激烈价格竞争，促使大型企业之间进行整合。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://digitalpower.huawei.com/cn/about">华为数字能源技术有限公司-绿色清洁能源-使命-愿景-华为数字能源</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BA%E6%95%B0%E5%AD%97%E8%83%BD%E6%BA%90/68631621">华为数字能源（数字能源公司）_百度百科</a></li>
+<li><a href="https://www.nea.gov.cn/20260730/0a1e9823b7a14e8ba16e82c34b3bea2b/202607300a1e9823b7a14e8ba16e82c34b3bea2b_270e42e93bb1a647609c851527f42364ee.pdf">中国新型储能发展报告</a></li>
+
+</ul>
+</details>
+
+**标签**: `#华为数字能源`, `#比亚迪`, `#能源政策`, `#企业并购`, `#储能`
+
+---
+
+<a id="item-6"></a>
+## [IEA：波斯湾出口回升 全球石油供应第四季度将首现过剩](https://news.google.com/rss/articles/CBMitAJBVV95cUxQYzdwYzNEOWJZYTd2NDNZdllEY2NvdGRJdGpfQ091ekV0UmQ2Umo0VzRTSmwyQlUxRkJ3d01RX0NZa0JQY2JXYXdxTExJLVdTUVJfWHg1QnFZTWxSUFQwZ1VyY2F0bHNOYmZmT3ZEcXc5bWhsQ1NkM3kyenVyc0xkaUdVWlEzdVNYb2FOWlFjQ19Pb2dKT1FnaFFnNjFyTUJJTExsREtlRWJWVjJJek43WHhEYzZGRFp4WDlRbFhpX0JrczJsal9lczdDSDJXY3ZWWU80ZzFYS1JWSmM3dG9GVTFhendxYUl2eDhSWXo5ak1oSXM3ajNyNzVJdm15dVV0SkhWbklQTEtVWkN5ZDFxaWxRZGc5SnFueWFuaURWTHdUY1RCRE5DTFRqTmRVOWtGQ2tXag?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）报告称，波斯湾石油出口回升将导致第四季度全球石油供应首次出现过剩，标志着市场平衡的转变。这一预测来自 IEA 的月度石油市场报告，该报告跟踪供应、需求和库存。 这一预测标志着石油市场可能迎来转折点，可能影响 OPEC+的产量决策、价格前景和能源安全规划。供应过剩通常会对原油价格构成下行压力，影响生产国、消费国和能源进口经济体。 IEA 的月度石油市场报告提供关于全球石油供应、需求、库存、价格和炼油活动的详细统计和分析。预计的过剩主要由波斯湾出口回升推动，但具体规模和时机取决于产量水平和需求趋势。
+
+google\_news · 亚洲电视新闻 · 11月14日 01:30
+
+**背景**: 国际能源署（IEA）是一个政府间组织，提供关于全球能源领域的权威数据和分析，包括广受关注的月度石油市场报告。当全球石油产量超过需求时，就会出现供应过剩，导致库存增加，通常还会压低价格。波斯湾是关键的石油生产区，其出口水平对全球市场平衡有重大影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/oil-market-report-september-2026">Oil Market Report - September 2026 - IEA</a></li>
+<li><a href="https://www.iea.org/commentaries/as-oil-market-surplus-keeps-rising-something-s-got-to-give">As oil market surplus keeps rising, something’s got to give</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#oil supply`, `#energy markets`, `#Persian Gulf`, `#energy policy`
+
+---
+
+<a id="item-7"></a>
+## [江西“十五五”能源规划：新增 18GW 风光生物质，虚拟电厂调节能力达 3GW](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzdhZ1JCU0NVSVdEN2NUeUhid2I0RFN1Wlc3RXYtQWl4dkZMRzN3ZlBqZDBuZUc4VUdWalNlSFFyNHk0bEVLTVQzaUV1cXAwb20yUFZLZHZMbnRGUzd0NThvdG1SZFRoMWFPM3lKUmJwUi13LTE3NGlWd2had3BJbDRkZ0FPd0Y4?oc=5) ⭐️ 7.0/10
+
+江西省发布“十五五”能源体系规划，目标新增风电、光伏及生物质装机 18GW，并实现虚拟电厂调节能力 3GW。 该规划为江西的可再生能源开发商和虚拟电厂聚合商指明了具体的投资方向与市场机会，也体现了省级规划如何将国家双碳目标转化为可执行的目标。 18GW 是风电、光伏和生物质的合计新增规模，未单独列出各技术占比；3GW 虚拟电厂目标指的是聚合分布式资源形成的灵活调节能力，而非实际发电装机。
+
+google\_news · Sohu · 11月13日 07:53
+
+**背景**: 中国“十五五”规划（2026-2030 年）设定了国家能源与碳目标，各省通过地方规划加以落实。虚拟电厂通过聚合屋顶光伏、储能、电动汽车充电桩和可控负荷等分布式资源，在不新建电厂的情况下为电网提供灵活性。生物质发电通常利用农林废弃物，在中国是可再生能源中规模较小但持续增长的部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+<li><a href="https://www.qianzhan.com/analyst/detail/220/260511-49a5fc85.html">2026年中国生物质发电状况：生物质资源利用的主要方式，近年来装机容...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#可再生能源`, `#虚拟电厂`, `#十五五规划`, `#江西`
+
+---
+
+<a id="item-8"></a>
+## [IEA：与特朗普达成柴油协议后，俄罗斯 10 月原油产量与燃料出口双双反弹](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjFoOFlZcTh6elM4VWFBS1lCZG5xZW9WcjJCWXRPd0YzQUFKYzdJSGExQWw2TnhyTFJ1SkY5eE9RdDdfUFFoQ3FWWkM4V2dXcTl4Z2U3Tlg1anM0MkpqNTNRcnNwNTRYMkk4aHJodV85czVXNXo2SloxMWtJY2dvTTdkRkdQMzI2dHlaMWtfTTUyRG1lalJwRFJpYlhYTndN?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）报告称，俄罗斯 10 月原油产量较 9 月增加 21 万桶/日，达到 873 万桶/日，燃料出口也在与特朗普政府达成柴油协议后出现反弹。该协议允许俄罗斯在 10 月和 11 月出口 80 万吨柴油，后续还将允许出口 100 万吨。 这标志着制裁动态和能源市场供应的转变，因为美国在持续制裁的背景下放松了对俄罗斯燃料的限制，可能削弱西方对俄罗斯的压力并影响全球柴油价格。能源交易商、政策制定者和炼油商将密切关注进一步放松或国会反对的迹象。 据报道，特朗普与普京达成的柴油协议被一些人批评为与现行美国制裁法律相矛盾，因为尽管 OFAC 已授权某些交易，但国会的进口禁令仍然有效。俄罗斯原油产量仍低于战前水平，且 10 月份其 60%的海运石油由受制裁的“影子”油轮运输。
+
+google\_news · 富途牛牛 · 11月13日 09:12
+
+**背景**: 国际能源署（IEA）是一个政府间组织，每月发布石油市场报告，跟踪全球供需情况。特朗普政府与俄罗斯达成的柴油协议（据报道于 2026 年 10 月达成）允许俄罗斯在因乌克兰战争而实施的制裁下向全球市场出口一定数量的柴油。对俄罗斯能源的制裁一直是西方盟友向莫斯科施压的关键工具，但临时放松可能会改变贸易流动和市场平衡。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/business/energy/russian-fuel-exports-oil-output-rebounded-october-after-deal-with-trump-iea-says-2026-11-13/">Russian fuel exports, oil output rebounded in October after ...</a></li>
+<li><a href="https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html">Trump -Putin diesel deal contradicts Russia sanctions law, critics say</a></li>
+<li><a href="https://energyandcleanair.org/october-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/">October 2026 — Monthly analysis of Russian fossil fuel ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Russia oil`, `#IEA`, `#diesel exports`, `#sanctions`, `#energy policy`
+
+---
+
+<a id="item-9"></a>
+## [IEA：高油价将抑制 2027 年运输燃料需求增长](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGw0cVpuSTlqY1hlZWxNYVhHaFdYV0p6SndBTHlyclNmRVRHT2tneDNEZlA3NHVNWTk0WWV6NUhoSm1fR2sxUlExcTVXMnJTV0ViSXlPR0VUX3d2V2V1VmItNFppN19yM2tUd2IyZzl6ZVFkc3FUckZJakFXa3lQZE1JbkQxTGJzejFvbWE4Rm02ZFFKalY5MWROdnk1eUJZcldtUnJ4RXpFRm1sdVE?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）月度石油报告预测，高油价将加速电气化和燃油效率提升，导致 2027 年运输燃料需求仅小幅增长。 这一预测标志着石油需求的结构性转变，高油价可能加速向电动汽车和更高效运输方式的转型，对能源政策和化石燃料投资具有深远影响。 报告指出，价格驱动的效率提升和电气化可能永久性降低石油需求轨迹，但具体幅度取决于政策支持和基础设施发展。
+
+google\_news · 富途牛牛 · 11月13日 09:12
+
+**背景**: 国际能源署（IEA）每月发布《石油市场报告》，分析全球石油供需趋势。运输燃料（主要是汽油和柴油）占全球石油消费的很大份额。高油价会促使消费者购买更省油的汽车并转向电动汽车，从而减少需求增长。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/oil-market-report-september-2026">Oil Market Report - September 2026 - IEA</a></li>
+<li><a href="https://www.spglobal.com/en/research-insights/special-reports/look-forward/decarbonizing-road-transportation-when-will-we-get-there">Decarbonizing road transportation: When will we get there?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#oil demand`, `#electrification`, `#fuel efficiency`, `#energy policy`
+
+---
+
+<a id="item-10"></a>
+## [天津港零碳港口建设再进阶](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUd2MWxleXlKNlNuaHM1TTVIcXhNQ2RvZldtbXRZQ3NnT3FaS2JvVjE1Q2NWeHNRV2tLNUYzZzVicFpYb1RXVk5jak9uSURLcXJTajQxN1RHend1VEZ6NEVSWnZ6SXZya25pZDhBZ3NNZC1GSFdxcHBKYmJYT0MzY0J3?oc=5) ⭐️ 6.0/10
+
+《天津日报》报道，天津港零碳港口建设取得新进展，凸显这座中国重要港口持续推进绿色能源转型的努力。 这一进展具有重要意义，因为大型港口是中国能源转型和绿色航运政策的关键节点，天津港的进步可为其他寻求减排的港口提供示范。 天津港一直在部署风电、岸电和氢能重卡，可再生能源项目每年发电约 3.5 亿千瓦时，满足港口约 70%的运营用电需求。
+
+google\_news · 天津日报 · 11月13日 21:00
+
+**背景**: 零碳港口旨在通过可再生能源、电气化和智能电网管理实现碳中和。中国一直在推动港口脱碳，作为其更广泛的绿色航运和能源转型政策的一部分，潍坊港于 2024 年成为首个获得认证的零碳港口。天津港作为中国北方最大的港口，一直在发展智能和绿色能源基础设施，包括风力发电机和源网荷储一体化系统。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.offshore-energy.biz/port-of-tianjin-making-headway-on-clean-power-supply">Port of Tianjin making headway on clean power supply</a></li>
+<li><a href="https://www.goldwind.com/en/eco/industry01/">Tianjin Zero-carbon Port | Cases of Goldwind&#x27;s Industrial ...</a></li>
+<li><a href="http://en.sasac.gov.cn/2024/10/22/c_18031.htm?mc_cid=3679415a47&amp;mc_eid=d64f86f5c3">Weifang Becomes China&#x27;s First Zero - Carbon Port</a></li>
+
+</ul>
+</details>
+
+**标签**: `#zero-carbon port`, `#energy transition`, `#green shipping`, `#China energy policy`, `#decarbonization`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [美国联邦航空管理局因电信故障发布全国停飞令](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) ⭐️ 8.0/10
+
+美国联邦航空管理局于 2026 年 11 月 13 日（周五）发布全国停飞令，以“特殊情况及安全原因”为由暂停美国所有离港航班。该停飞令随后被解除，有报道称此次中断与 L3Harris Technologies 公司负责空中交通管制员所用无线电频率的电信网络故障有关。 全国性停飞是极为罕见的航空安全事件，会令全国空中交通陷入停滞，造成大面积延误、航班取消和经济损失。此事还引发了对关键空中交通管制基础设施韧性以及用 AI 系统对其进行现代化改造所伴随风险的严重质疑。 据报道，故障影响了承载管制员与飞行员通信所用关键无线电频率的电信网络，但目前尚不清楚雷达信号是否也受到影响。官员表示问题可能无法在一小时内解决，flysfo.com 等航班查询网站因过载而无法访问，洛杉矶国际机场和肯尼迪国际机场的离港航班出现延误或取消。
+
+hackernews · zulln · 11月13日 21:05 · [社区讨论](https://news.ycombinator.com/item?id=50489641)
+
+**背景**: 美国联邦航空管理局是负责监管民用航空并运营空中交通管制系统的美国机构。停飞令是禁止飞机起飞的一种指令，通常在恶劣天气、安全事件或系统故障时使用。L3Harris Technologies 是一家大型国防与航空航天承包商，为 FAA 提供通信和监视系统，而此次事件发生之际，该机构正在推广一款名为 SMART 的基于 AI 的空中交通管制工具。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">FAA orders nationwide ground stop for all departing flights for...</a></li>
+<li><a href="https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa">Live updates on FAA ground stop : No timeline for resolution as... | CNN</a></li>
+<li><a href="https://nypost.com/2026/11/13/us-news/planes-halted-across-us-as-faa-issues-nationwide-ground-stop-over-extraordinary-circumstances/">Planes halted across US as FAA issues nationwide ground stop over...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出官方信息极为稀少，许多消息仅来自 Duffy 部长在社交媒体上的发帖。一些人将此次故障与几天前宣布的 FAA 空中交通管制 AI 系统（SMART）在全国范围内仓促推广联系起来，另一些人则强调故障可能持续较长时间，并分享了主要机场航班停滞的实时观察。
+
+**标签**: `#FAA`, `#air-traffic-control`, `#aviation-safety`, `#infrastructure-outage`, `#AI-in-critical-systems`
+
+---
+
+<a id="item-12"></a>
+## [颗粒酶 K 独立于炎症驱动小鼠组织衰老](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
+
+研究人员发现，颗粒酶 K（GzmK）是小鼠机体衰老的组织特异性驱动因子；即使免疫衰老表型持续存在，GzmK 缺失仍能显著减轻器官衰老。这项发表于《Immunity》的研究有效解耦了免疫衰老与组织衰老，表明 GzmK 通过独立于全身性炎症的机制促进器官损伤。 这一发现挑战了“年龄相关器官衰退主要由全身性炎症驱动”的主流观点，提示 GzmK 等组织特异性因子可能是关键治疗靶点。若该机制在人类中同样成立，阻断 GzmK 或可在不广泛抑制免疫系统的情况下保护器官免受年龄相关损伤。 该研究在小鼠中进行，而已知颗粒酶 K 水平在小鼠和人类中均随年龄显著升高，使其成为具有转化潜力的靶点。不过，这项工作仍处于临床前阶段，尚不清楚相同组织特异性衰老机制是否在人类中发挥作用。
+
+hackernews · gumby · 11月13日 19:25 · [社区讨论](https://news.ycombinator.com/item?id=50488470)
+
+**背景**: 颗粒酶 K 是由人类 5 号染色体上 GZMK 基因编码的丝氨酸蛋白酶，由免疫细胞产生，其水平随年龄增长而升高。衰老研究长期关注“炎性衰老”（慢性低度炎症）以及衰老相关分泌表型（SASP）——衰老细胞分泌炎症细胞因子和蛋白酶，损伤周围组织。本研究将这一炎症成分与 GzmK 驱动的直接组织衰老区分开来。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GZMK">GZMK - Wikipedia</a></li>
+<li><a href="https://www.news-medical.net/news/20261112/Blocking-Granzyme-K-protein-may-protect-organs-from-age-related-damage.aspx">Blocking Granzyme K protein may protect organs from age-related...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Senescence-associated_secretory_phenotype">Senescence-associated secretory phenotype - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者强调了论文摘要中的细微之处，指出 GzmK 缺失解耦了免疫衰老与组织衰老，并附上了《Immunity》原始论文链接。有人提到付费墙问题，并调侃终于有了不老的小鼠，还有评论者强调这些发现仅来自小鼠。
+
+**标签**: `#aging-research`, `#immunology`, `#biology`, `#science`, `#granzyme-k`
+
+---
+
+<a id="item-13"></a>
+## [爱好者用 ETTUS B210 和双 GPU 搭建的航空波段监听器实时捕捉地面停飞](https://orcasairband.com/) ⭐️ 6.0/10
+
+开发者 mmaunder 上线了 orcasairband.com，这是一个实时航空波段监听系统，使用 ETTUS B210 软件定义无线电和两块 NVIDIA 4090 GPU，对全部民用航空 VHF 频率进行实时信道化、解调和转录。该系统恰好捕捉到了影响加拿大维多利亚和奥卡斯岛的地面停飞期间的实时通信，包括一名飞行员确认当时没有航班起飞前往温哥华降落。 该项目表明，价格亲民的 SDR 硬件配合消费级 GPU，可以让爱好者实现实时宽带无线电监听与转录，有望在航空中断期间提升态势感知能力。同时，它也引发了关于自动转录公开航空波段通信所涉及的隐私和监管问题的讨论。 B210 覆盖 70 MHz 至 6 GHz，带宽最高 56 MHz；系统使用 CUDA 实现的多相信道化器将整个航空波段拆分为多个信道，进行解调、传输检测，并在转录前丢弃空闲数据。转录文本为原始未编辑内容，部分传输信号微弱或含混不清，社区成员也指出了这一点。
+
+hackernews · mmaunder · 11月13日 22:04 · [社区讨论](https://news.ycombinator.com/item?id=50490593)
+
+**背景**: 航空波段是指民用航空中飞行员与空中交通管制之间语音通信所使用的 VHF 频率（118–137 MHz）。像 ETTUS B210 这样的软件定义无线电（SDR）设备让计算机能够以软件方式接收和处理无线电信号，而 GPU 可以加速同时监听多个信道所需的大量数字信号处理。地面停飞是一种航空安全措施，通常因天气、通信故障或其他紧急情况而暂停某机场或地区的航班起飞或降落。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ettus.com/all-products/ub210-kit/">USRP B 210 USB Software Defined Radio (SDR) - Ettus Research</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Airband">Airband - Wikipedia</a></li>
+<li><a href="https://nasstatus.faa.gov/">The Federal Aviation Administration&#x27;s National Airspace System...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 讨论总体积极且技术性强：创作者解释了基于 CUDA 的信道化器，并分享了地面停飞期间的原始转录，其他人则指出了具体对话，例如一名飞行员确认没有航班起飞前往温哥华。一些评论者对许多传输听起来含混不清感到惊讶，并对专业飞行员能够理解这些内容表示钦佩；还有一位用户将其与之前一个利用公共 KiwiSDR 接收器解码船舶 DSC 信号的爱好者项目相提并论。
+
+**标签**: `#SDR`, `#GPU`, `#aviation`, `#real-time monitoring`, `#hobbyist project`
+
+---
+
+<a id="item-14"></a>
+## [不占用字符单元格的终端边框](https://www.joshka.net/cell-borders/) ⭐️ 6.0/10
+
+Joshka 发表了一篇文章，探讨在终端用户界面中绘制边框而不消耗额外字符单元格的技术，引发了关于终端模拟器能力和 TUI 设计的讨论。 这项工作可能实现更节省空间的 TUI 布局，使使用 Ratatui 等库的开发者受益，并可能影响终端模拟器协议的设计。 文章讨论了边框放置（内部、外部、边框上）以及填充以纳入内边距，社区建议采用 overstrike 模式（DECSET 20）作为替代方案。
+
+hackernews · vinhnx · 11月13日 23:06 · [社区讨论](https://news.ycombinator.com/item?id=50491423)
+
+**背景**: 终端用户界面（TUI）是在终端模拟器中渲染的基于文本的界面，每个字符占据一个固定大小的单元格。传统上绘制边框会消耗单元格，减少内容空间。Ratatui 是一个用于构建 TUI 的 Rust 库，而像 mintty 这样的终端模拟器支持各种控制模式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ratatui.rs/">Ratatui | Ratatui</a></li>
+<li><a href="https://github.com/ratatui/ratatui">GitHub - ratatui/ratatui: A Rust crate for cooking up ...</a></li>
+<li><a href="https://mintty.github.io/">Mintty — Cygwin Terminal emulator</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对此方法进行了辩论：一些人建议采用 overstrike 模式作为更好的替代方案，另一些人质疑为何不构建更雄心勃勃的终端 UI 框架，还有人认为这重新发明了 GUI 显示。作者强调更关心能力而非具体实现。
+
+**标签**: `#terminal`, `#TUI`, `#Ratatui`, `#terminal-emulators`, `#rendering`
+
+---
+
+<a id="item-15"></a>
+## [M-VAVE FM-1 Workbench：开放固件口袋合成器激发社区创造力](https://open.m-vave.com/fm1-workbench) ⭐️ 6.0/10
+
+FM-1 Workbench 是 M-VAVE 推出的一款便携式、兼容 DX7 的 FM 合成器，拥有开放固件生态系统，用户可通过基于浏览器的工具安装社区创建的固件。其不断增长的生成式和 Groovebox 风格固件库在 Hacker News 上引发了爱好者的热烈讨论。 这款设备体现了音乐硬件领域开放固件的更广泛趋势，制造商拥抱社区创新以扩展产品功能，Akai 和 Behringer 也在探索类似方法。它降低了音乐创作和实验的门槛，尤其适合对生成音乐和嵌入式系统感兴趣的人。 FM-1 兼容 DX7，支持 USB MIDI 和 USB 音频；固件传输需要桌面版 Chrome 或 Edge 浏览器、Web MIDI 支持、USB 数据线以及 MIDI/SysEx 权限。一些用户指出硬件缺点，如缺少 DIN MIDI 端口（改用 1/8 英寸插孔）、内置电池以及风扇。
+
+hackernews · simonebrunozzi · 11月13日 19:14 · [社区讨论](https://news.ycombinator.com/item?id=50488325)
+
+**背景**: FM-1 是一款口袋大小的 FM 合成器，灵感来自经典的 Yamaha DX7，后者以频率调制合成闻名。开放固件生态系统允许第三方开发者创建替代固件，从而大幅改变设备功能，通常通过 GitHub 等平台分享。生成音乐（艺术家定义系统自主创作音乐）是此类固件的热门应用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://open.m-vave.com/fm1-workbench">FM1 Workbench</a></li>
+<li><a href="https://github.com/thegiantsnail/fm1-workbench-public">GitHub - thegiantsnail/fm1-workbench-public: Tools for the M ...</a></li>
+<li><a href="https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/">Will Open Firmware Become the Next Big Trend in Electronic ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者热情高涨，分享了喜爱的生成式固件如 NACHTFART 和 DUB-1，并赞扬制造商对开放固件的拥抱是后 LLM 音乐技术领域的一大亮点。一些人对硬件限制表示担忧，如缺少 DIN MIDI 端口、内置电池和风扇，而其他人则寻求关于音乐理论入门的建议。
+
+**标签**: `#music-tech`, `#open-source-hardware`, `#firmware`, `#generative-music`, `#embedded-systems`
+
+---
+
+<a id="item-16"></a>
+## [博主对 JEPA 世界模型 LeWM 进行 600 次实验](https://haddyalchaer.com/jepa) ⭐️ 6.0/10
+
+一位博主发布了一篇详细文章，描述了在 LeWM 上进行的 600 次实验。LeWM 是一个 JEPA 世界模型，以 Push-T 机器人推动任务为基准，作者探索了分层规划和目标条件控制。 这篇文章提供了关于使用 JEPA 世界模型的罕见实践记录，而 JEPA 是 Yann LeCun 自监督世界模型愿景的核心。同时，它也引发了关于这类实践者文章在既有规划和概念之外能贡献多少新知的讨论。 实验聚焦于 Push-T 模拟任务，即机器人将 T 形块推到目标位置。作者通过混合不同演示的起始帧和目标帧构建了更难的测试；评论者指出，该工作很大程度上重复了分层规划、子目标和动作分块等已知概念，而非呈现新颖结果。
+
+hackernews · halcdev · 11月13日 17:55 · [社区讨论](https://news.ycombinator.com/item?id=50487185)
+
+**背景**: JEPA（联合嵌入预测架构）是 Yann LeCun 提出的一种自监督方法，通过预测抽象潜在表示而非重建像素或 token 来学习。LeWM 是近期的一个 JEPA 世界模型，其主要基准是 Push-T。这类模型常被与模型预测控制（MPC）相比较，后者利用系统动力学模型在规划时域内进行规划。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.turingpost.com/p/jepa">JEPA: Joint Embedding Predictive Architecture Explained</a></li>
+<li><a href="https://arxiv.org/abs/2603.19312">[2603.19312] LeWorldModel: Stable End-to-End Joint-Embedding ... Flow-JEPA: Robust Latent Dynamics for JEPA World Models via ... After 600 experiments, here&#x27;s what I discovered about JEPA ... GitHub - AbdelStark/awesome-jepa: Curated resources for JEPA ... JEPA-Style World Models Introducing the V-JEPA 2 world model and new benchmarks for ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Joint_Embedding_Predictive_Architecture">Joint Embedding Predictive Architecture</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者意见不一：有人质疑为何更难的测试如此依赖演示帧，而非任意起始-目标对；还有人指出 JEPA 与使用学习到的黑箱动力学模型的模型预测控制非常相似。其他人赞赏这种动手学习，但建议将文章重新定位为个人学习历程，而非发现新见解；一位读者还抱怨主题的可读性差。
+
+**标签**: `#JEPA`, `#world models`, `#reinforcement learning`, `#model predictive control`, `#representation learning`
+
+---
+
+<a id="item-17"></a>
+## [1960 年《科学》论文预测 2026 年 11 月 13 日为世界末日引发热议](https://www.science.org/doi/10.1126/science.132.3436.1291) ⭐️ 6.0/10
+
+海因茨·冯·福斯特及其同事在 1960 年《科学》杂志上发表论文，基于双曲增长外推预测人类人口将在公元 2026 年 11 月 13 日星期五趋于无穷大。随着该日期临近，这篇论文在 Hacker News 上重新引发关注，获得 313 条评论，讨论简单化预测的失败及其与现代 AI 风险叙事的相似之处。 这一失败的预测警示人们：仅凭过去趋势外推而不考虑反馈循环、技术变革或行为转变，会导致错误结论——这一教训直接适用于当前关于 AI 风险和其他生存性威胁的辩论。它凸显了自信的数学预测如何在假设早已失效后仍长期影响公众焦虑和政策讨论。 冯·福斯特团队对 1958 年可获得的历史人口数据拟合了一条双曲线，观察到人口翻倍所需时间不断缩短，这在数学上产生了一个奇点。该预测失败的原因是出生率下降和绿色革命扩大了粮食供应，使曲线弯曲；目前世界人口约为 83 亿，而非无穷大。
+
+hackernews · voxleone · 11月13日 12:10 · [社区讨论](https://news.ycombinator.com/item?id=50482379)
+
+**背景**: 20 世纪中叶，对人口过剩的担忧广泛存在，保罗·埃利希的《人口爆炸》和电影《绿色食品》等作品推波助澜。海因茨·冯·福斯特是奥地利裔美国物理学家和控制论学家，他与帕特里夏·M·莫拉和劳伦斯·W·阿米奥特于 1960 年在《科学》上发表了这篇耸人听闻的“末日”论文。该论文的双曲增长模型假设人口增长率与人口规模成正比，从而导致数学奇点。这类外推模型往往失败，因为它们忽略了人口转变和农业创新等动态反馈。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Heinz_von_Foerster">Heinz von Foerster - Wikipedia</a></li>
+<li><a href="https://www.science.org/doi/10.1126/science.132.3436.1291">Doomsday: Friday, 13 November, A.D. 2026 | Science</a></li>
+<li><a href="https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960">Will the world end next month? Science said so, in 1960</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为该论文是幼稚外推的典型反面教材，有人指出多数工业化国家现在担心人口下降而非过剩，并以此类比对其超级智能和太空数据中心的怀疑。其他人提及 1970 年代的人口过剩恐惧和《绿色食品》《让房间！让房间！》等反乌托邦小说，还有人用模拟美国联邦航空管理局的停飞通告来调侃末日日期。一条元评论认为，这个故事的热门程度更多反映了我们当前的焦虑，而非 1960 年代的心态。
+
+**标签**: `#doomsday`, `#population`, `#prediction`, `#AI risk`, `#history`
+
+---
+
+<a id="item-18"></a>
+## [3Com 兴衰回顾引发怀旧讨论](https://dfarq.homeip.net/what-happened-to-3com/) ⭐️ 4.0/10
+
+一篇回顾网络先驱 3Com 历史的博客文章引发了讨论，共有 16 条评论分享了关于该公司产品和文化的个人轶事。评论者重点提到了 3C50x 以太网卡的终身保修、Bob Metcalfe 的口述历史以及公司的战略失误。 尽管主要是历史回顾，但讨论提供了关于 3Com 对高质量硬件的专注以及后来的多元化失败如何导致其衰落的见解，为当今科技公司提供了警示。它还凸显了由 3Com 创始人 Bob Metcalfe 共同发明的以太网的持久影响，以太网仍然是主导的有线网络标准。 一位前 3Com 员工回忆，一位斯坦福毕业生的分析显示 3C50x PC 以太网卡几乎从不故障，因此公司推出了受欢迎的终身保修，而成本几乎为零。另一位评论者指出 3Com 从未在网络卡之外进行多元化，但有人反驳说它曾拥有 Palm、US Robotics 以及华为合资企业的股份。
+
+hackernews · gvieri · 11月13日 23:48 · [社区讨论](https://news.ycombinator.com/item?id=50491830)
+
+**背景**: 3Com 由共同发明以太网的 Robert Metcalfe 于 1979 年创立，并在 1980 年代和 1990 年代成为领先的网络设备公司。以太网是一系列有线网络标准（IEEE 802.3），在局域网中占据主导地位。3Com 于 2000 年分拆了 Palm 部门，最终于 2010 年被惠普收购。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ethernet">Ethernet - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Palm_%28PDA%29">Palm (PDA) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了怀旧的轶事，例如一位前员工关于终身保修的故事，以及一位在 1987 年黑色星期一购买股票的投资者。关于 3Com 是否因缺乏多元化而失败存在争论，一些人指出它拥有 Palm 和其他企业，而另一些人则认为如果管理更好，Palm 本可以成为 iPhone。
+
+**标签**: `#3Com`, `#networking`, `#tech history`, `#Ethernet`, `#Palm`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-19"></a>
+## [中国互联网巨头分拆 AI 业务以寻求更高估值](https://www.tmtpost.com/8204635.html) ⭐️ 8.0/10
+
+阿里巴巴、百度和快手正将旗下 AI 芯片和模型业务分拆为独立上市实体，以获取母公司股价未能反映的更高估值。例如，快手计划将其视频生成业务可灵 AI 以 200 亿美元估值分拆并在香港 IPO，尽管该业务仅占集团收入的不到 1%。 这一趋势反映了更广泛的资本市场重组，中国科技巨头在 AI 成本不断上升的背景下寻求将 AI 资产变现。它影响投资者、竞争对手和行业观察者，因为它凸显了私募 AI 估值与公开市场定价之间的脱节，可能重塑 AI 投资的融资和估值方式。 分拆使母公司能够保留控制权和成本负担，同时为 AI 业务获得公开市场定价。可灵 AI 以 150 亿美元投前估值从阿里巴巴、腾讯和百度等投资者处融资 28 亿美元，并计划于 2027 年在香港 IPO。
+
+rss · 钛媒体 · 11月13日 10:52
+
+**背景**: 分拆是指将子公司的股份分离出来公开交易，同时母公司保留多数股权。在中国，AI 业务在私募市场往往能获得高估值，但由于复杂的集团结构和投资者的怀疑，母公司的股价可能无法反映这一价值。这促使阿里巴巴、百度和快手等公司为其 AI 资产寻求独立上市。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://chinabizinsider.com/kuaishous-ai-spinoff-raises-questions-as-unit-nears-two-thirds-of-parents-value/">Kuaishou Spins Off Kling AI at $20B Valuation</a></li>
+<li><a href="https://startupfortune.com/kuaishous-kling-ai-is-spinning-out-at-a-20-billion-valuation-and-the-revenue-numbers-make-that-hard-to-argue-with/">Kuaishou&#x27;s Kling AI is spinning out at a $20 billion ...</a></li>
+<li><a href="https://business20channel.tv/kling-ai-raises-28b-at-15b-valuation-led-by-alibaba-tencent-05-07-2026">Kling AI Raises $2.8B at $15B Valuation With Backing From Alibaba ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI spin-offs`, `#China big tech`, `#valuation`, `#capital markets`, `#Alibaba/Baidu/Kuaishou`
+
+---
+
+<a id="item-20"></a>
+## [Anthropic 拟 IPO 以应对 5180 亿美元算力债务](https://www.tmtpost.com/8203967.html) ⭐️ 8.0/10
+
+据报道，Anthropic 正计划进行可能是有史以来规模最大的 IPO，以应对其 5180 亿美元的未来算力租赁义务，该信息来自路透社披露的上市文件草案。文件显示，该公司营收约 46 亿美元，运营亏损 80 亿美元，2025 年净亏损达 420 亿美元。 这是 AI 行业的标志性事件：一家头部 AI 实验室实际上正利用公开市场为巨额刚性算力承诺融资，这可能重塑 AI 基础设施的融资与估值方式。若 IPO 表现不及预期，还可能动摇 OpenAI 等同行约 1.4 万亿美元估值的基础。 5180 亿美元代表至少十年的云算力承诺，部分通过特殊目的载体（SPV）结构安排，并由博通硬件残值担保和华尔街私募信贷兜底。据报道，Anthropic 的 IPO 估值在路演期间已缩水 6000 亿美元，公司必须在公开市场证明其约 1.5 万亿美元的估值。
+
+rss · 钛媒体 · 11月13日 09:56
+
+**背景**: 像 Anthropic 这样的 AI 公司依赖大规模云算力租赁来训练和运行大语言模型，但这些合同是刚性义务，会作为长期负债出现在资产负债表上。算力租赁已成为 AI 公司避免在快速折旧硬件上投入巨额资本开支的常见模式，但如果收入增长滞后，就会带来重大财务风险。Anthropic 的 IPO 被视为整个 AI 基础设施投资周期的风向标，受到密切关注。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mubeitech.com/deep/mb-20261003-9d5658">营收46亿亏80亿却签下5180亿刚性账单：Anthropic财务泄露背后的AI债务...</a></li>
+<li><a href="https://news.qq.com/rain/a/20260929A02Z2400">Anthropic的5180亿美元云算力账单：AI基础设施进入“重资产竞赛”</a></li>
+<li><a href="https://www.qbitai.com/2026/11/509381.html">Anthropic启动IPO路演，估值已缩水6000亿美元 – 量子位</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Anthropic`, `#IPO`, `#算力租赁`, `#AI基础设施`, `#大厂动态`
+
+---
+
+<a id="item-21"></a>
+## [余承东公布华为问界新合作模式，新 M8 起售价 37.98 万元上市](https://www.ifanr.com/1689432?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+华为余承东公布了华为与赛力斯在问界品牌上的新合作模式，并同步上市了全新问界 M8，起售价为 37.98 万元。新 M8 的升级主打“实用主义”。 新合作模式重新定义了华为与赛力斯的分工，可能成为中国新能源汽车行业跨界合作的新标杆。新 M8 以有竞争力的价格填补了 M7 与 M9 之间的空白，可能重塑高端 SUV 市场格局。 新车型起售价 37.98 万元，升级侧重于实用功能而非激进变革。据报道，新合作模式让赛力斯在某些领域主导，而华为继续提供核心技术和产品定义。
+
+rss · 爱范儿 · 11月13日 18:19
+
+**背景**: 问界（AITO）是中国汽车公司赛力斯与华为于 2021 年 12 月共同推出的高端新能源汽车品牌，华为提供智能汽车技术和销售渠道支持。问界 M8 是一款全尺寸豪华 SUV，提供增程式（EREV）和纯电（EV）两种动力，定位介于 M7 和 M9 之间。初代 M8 于 2025 年 4 月上市，过去 19 个月累计交付超过 19 万辆。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ifanr.com/1689432">余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/9123214541/21fc934cd07201psms">华为赛力斯新合作模式，会成新能源行业新标杆吗？_新浪财经</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AITO_M8">AITO M8</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Huawei`, `#AITO`, `#electric vehicles`, `#new car launch`, `#cooperation model`
+
+---
+
+<a id="item-22"></a>
+## [李飞飞世界模型正式开放，一句话生成重庆山城](https://www.ifanr.com/1689379?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+李飞飞团队的世界模型正式对外开放，用户可以通过一句话生成可交互的 3D 场景；演示中，作者用一句话生成了重庆山城场景。 这标志着世界模型竞争的重要一步，世界模型旨在让 AI 更深入地理解物理空间，可能影响游戏、机器人、虚拟现实等领域。 该模型基于李飞飞创立的 World Labs 的空间智能技术，能够从单张图像生成符合物理几何规则的可交互三维世界，并支持视角变换与场景探索。
+
+rss · 爱范儿 · 11月13日 10:04
+
+**背景**: 世界模型是学习物理世界底层动态的 AI 系统，能够模拟和预测环境如何演变。斯坦福大学教授、计算机视觉先驱李飞飞一直倡导将空间智能作为 AI 的下一个前沿，认为大语言模型缺乏对物理现实的根基。她的公司 World Labs 于 2024 年 12 月首次公布了核心技术，能够从图像生成可交互的 3D 场景。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E6%99%BA%E8%83%BD/65168904">空间智能（人工智能领域的三维空间感知与交互技术）_百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1971520036251342641">李飞飞最新长文：AI的下一个十年——构建真正具备空间智能的机器</a></li>
+
+</ul>
+</details>
+
+**标签**: `#世界模型`, `#李飞飞`, `#空间智能`, `#生成式AI`, `#大厂动态`
+
+---
+
+<a id="item-23"></a>
+## [外卖大战一年后，大厂亲自下场开店](https://www.tmtpost.com/8204490.html) ⭐️ 7.0/10
+
+经过一年的激烈竞争，中国外卖市场的主要科技公司，包括淘宝、京东和美团，已开始推出自营厨房，标志着从纯平台模式向直接运营的转变。 这一战略转变可能重塑外卖和本地生活服务格局，因为平台寻求控制质量、减少对第三方商家的依赖，并在从一家独大走向多强竞争的市场中获取更多价值。 自营厨房，也称为暗厨房或云厨房，允许平台将空间出租给精选餐厅合作伙伴或直接运营，可能提高利润率和质量控制，但需要大量运营投资并面临监管审查。
+
+rss · 钛媒体 · 11月14日 01:49
+
+**背景**: 中国外卖市场长期由美团和饿了么（阿里巴巴）主导，但京东在 2025 年以零佣金策略进入加剧了竞争。自营厨房是平台控制厨房基础设施的设施，要么直接运营，要么出租给精选餐厅，这与平台仅连接消费者和餐厅的传统市场模式形成对比。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://foodshot.ai/zh-CN/blog/waimai-chufang-zhinan">什么是暗 厨 房 ？ 创业者完整指南 | FoodShot AI</a></li>
+<li><a href="https://www.toutiao.com/article/7498199256445239860/">京东、美团与饿了么：中国本地生活服务的竞争图谱与未来演进</a></li>
+<li><a href="https://www.sohu.com/a/1076128163_122854057">美团43%、淘宝闪购42%、京东外卖15%：外卖市场从“一家独大”走向“双强...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#外卖`, `#大厂`, `#自营厨房`, `#本地生活`, `#竞争格局`
+
+---
+
+<a id="item-24"></a>
+## [英伟达治理动荡、微软 365 中断、Anthropic IPO 超额认购](https://www.tmtpost.com/8204969.html) ⭐️ 7.0/10
+
+英伟达黄仁勋辞任引发治理与出口审查重估，股价盘中跌破 4 万亿美元市值后修复；微软 365 全球中断暴露云集中化风险。Anthropic IPO 获约六倍超额认购，并与 SpaceX 签署每月 12.5 亿美元的算力合同；OpenAI 融资 150 亿美元但亏损扩大。 这些事件凸显了 AI 基础设施日益增长的风险：云集中化可能导致大范围中断，出口管制正在重塑供应链，而大量资本涌入 AI 算力（如 Anthropic 的 IPO 和 SpaceX 交易）表明竞争加剧和系统性依赖加深。 Anthropic 的 IPO 获得了约六倍的超额认购，计划以每股 70 至 78 美元的价格出售 8.25 亿股；SpaceX 与 Anthropic 的算力合同价值每月 12.5 亿美元，SpaceX 还与 Reflection AI 签署了价值 63 亿美元的算力协议。英伟达股价在最初下跌后回升，但出口审查重估可能影响未来对华 GPU 销售。
+
+rss · 钛媒体 · 11月14日 00:51
+
+**背景**: 出口管制是美国限制向特定国家（尤其是中国）出售 GPU 等先进技术的法规，旨在保护国家安全。云集中化风险是指依赖少数大型云服务提供商的风险，一次中断就可能影响全球众多服务。IPO（首次公开募股）是私人公司向公众发行股份的过程，超额认购表明投资者需求超过可认购的股份数量。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed">Anthropic’s IPO Is About Six Times Oversubscribed</a></li>
+<li><a href="https://www.stork.ai/blog/anthropics-ai-just-boarded-a-spacex-rocket">Anthropic and SpaceX Announce Landmark AI Compute ... | Stork. AI</a></li>
+<li><a href="https://eliteai.tools/blog/nvidia-chip-export-controls-news-2026">NVIDIA Export Controls 2026</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#AI infrastructure`, `#export controls`, `#cloud outage`, `#Anthropic IPO`
+
+---
+
+<a id="item-25"></a>
+## [远景 700Ah+储能电芯获大单，行业转向交付竞争](https://www.tmtpost.com/8204020.html) ⭐️ 7.0/10
+
+11 月 9 日，远景科技集团与德国储能开发商 ju:niz Energy 签署第三个合作项目，为巴伐利亚州 Smareg13 项目提供 442MWh 的 700Ah+储能电芯。此前，远景宜昌超级工厂于今年 7 月投产，首批量产 700Ah+电芯下线后即发运德国，一期产能中超过一半已被海外订单锁定。 这标志着大电芯从技术验证阶段转向规模化交付竞争，远景正将自己定位为海外市场的主流供应商。这表明行业竞争焦点正从电芯参数转向实际交付能力和供应链可靠性。 700Ah+电芯在远景宜昌超级工厂生产，公司表示产线良率和批量交付能力已经过验证。不过，现有内容未披露具体订单金额、除 ju:niz Energy 外的客户细节以及交付时间表。
+
+rss · 钛媒体 · 11月13日 10:42
+
+**背景**: 大容量储能电芯（500Ah 及以上）已成为电池制造商降低系统成本、提升能量密度的关键竞争领域。在经历了一段时间的电芯容量参数竞争后，行业现在进入以实际交付和规模化部署为主要差异化因素的阶段。远景作为全球绿色科技企业，一直在拓展海外储能业务，其宜昌工厂是下一代电芯的主要生产基地。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://36kr.com/p/4067620595390087">700Ah+再获大订单，大电芯转向交付竞争-36氪</a></li>
+<li><a href="https://www.sohu.com/a/1101094158_618917">700Ah+大电芯渐成海外主流？远景再获德国442MWh储能订单</a></li>
+<li><a href="https://news.bjx.com.cn/html/20261112/1519986.shtml">远景再获德国442MWh储能订单，700Ah+大电芯渐成海外主流</a></li>
+
+</ul>
+</details>
+
+**标签**: `#储能电芯`, `#大电芯`, `#远景能源`, `#新能源`, `#电池技术`
+
+---
+
+<a id="item-26"></a>
+## [苹果手表新增 AI 录音功能，挤压 AI 录音硬件创业者](http://www.geekpark.net/news/373946) ⭐️ 7.0/10
+
+11 月 4 日，苹果推送 watchOS 27.3 首个开发者测试版，为 Apple Watch 带来两项新 AI 功能：Live Rewind 可回顾过去 15 秒的对话文字，Siri Recap 则记录全天对话并生成摘要。两项功能目前仅支持英文，且明确暂不在中国提供。 苹果将全天候 AI 录音与摘要能力直接内置到 Apple Watch，无需额外硬件，这标志着巨头正式进入 AI 录音硬件赛道，对 Plaud 及 OPPO、讯飞等国内玩家构成竞争压力。这一平台级动作表明，专用 AI 录音硬件的窗口期可能正在快速关闭。 Apple Watch 将音频加密后传给配对的 iPhone 进行转写，再通过苹果私有云计算生成摘要；苹果称音频不录制、不存储，也不识别说话人。Siri Recap 摘要可设置为最长 7 天后自动删除，且功能需搭配 Apple Watch Series 12 或 Ultra 4 以及支持 Apple Intelligence 的 iPhone 使用。
+
+rss · 极客公园 · 11月13日 04:57
+
+**背景**: AI 录音硬件（如 Plaud 贴在 iPhone 背面的磁吸录音卡）于 2023 年兴起，用于捕捉和转写对话。这类设备正从会议转写转向为 AI Agent 提供全天候个人上下文，但面临智能手机和智能手表无需额外硬件即可提供类似功能的竞争。苹果私有云计算是一种专为隐私保护 AI 处理而设计的云端智能系统。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://support.apple.com/en-us/148354">About Audio Intelligence features on Apple Watch Series 12 ...</a></li>
+<li><a href="https://www.ithome.com/1/001/127.htm">苹果详解 Apple Watch 的 Siri Recap：全天谈话划重点、AI 摘要 7 天...</a></li>
+<li><a href="https://security.apple.com/blog/private-cloud-compute/">Private Cloud Compute: A new frontier for AI privacy in the ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple Watch`, `#AI 录音硬件`, `#Siri`, `#可穿戴设备`, `#大厂竞争`
+
+---
+
+<a id="item-27"></a>
+## [百度世界 2026：李彦宏称智能组织是 AI 时代新厂房](http://www.geekpark.net/news/373937) ⭐️ 7.0/10
+
+在 11 月 12 日举行的百度世界 2026 大会上，百度创始人李彦宏提出“智能组织是 AI 时代的新厂房”这一核心命题，指出企业只更换了 AI“电机”却未重构组织“厂房”。同时，百度发布大模型交易平台“词元所”和文心 5.5 Flash Preview 模型，后者支持最长 100 万 Token 上下文。 “智能组织”框架将 AI 讨论从模型能力转向组织重构，直指企业普遍面临的“个人提效但整体利润未增长”的悖论。词元所则表明百度正推动自身成为中立的大模型 Token 交易市场，可能改变企业获取和付费使用 AI 能力的方式。 词元所上线一个月已入驻供应资源超 100 个，日均调用次数突破 5000 万，日均调用 Token 超 7000 亿。百度还在千帆平台上线文心闪电模型和文心一镜微表情大模型，可通过 API 接入；并披露数字人团队人均产出提升 125.3%、南方电网故障研判效率提升 12 倍等内部实践案例。
+
+rss · 极客公园 · 11月13日 03:43
+
+**背景**: 百度世界是百度年度旗舰技术大会，李彦宏曾在此提出“AI 是新电能”（2016 年）和 AIGC 将成为新内容生产方式（2022 年）等前瞻判断。大模型“Token”是模型处理和生成文本的基本单位，Token 消耗量已成为衡量 AI 使用规模的常见指标。“智能组织”概念建立在 AI 智能体（可自主执行多步骤任务的软件）兴起之上，百度自 2024 年起便主张智能体是 AI 应用的最主流形态。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.yicai.com/brief/103437721.html">百 度 推出 大 模 型 交 易 平 台 词 元 所 ，李彦宏： 模 型 调用需求迎来 大 爆发</a></li>
+<li><a href="https://www.ithome.com/1/025/903.htm">ithome.com/1/025/903.htm</a></li>
+<li><a href="https://benchlm.ai/models/ernie-5-5-flash-preview">ERNIE 5 . 5 Flash Preview Benchmarks &amp; Context (November 2026)</a></li>
+
+</ul>
+</details>
+
+**标签**: `#百度`, `#李彦宏`, `#大模型`, `#智能体`, `#AI商业化`
+
+---
+
+<a id="item-28"></a>
+## [iPhone 20 爆料：2027 年或采用一体成型玻璃设计](https://www.ifanr.com/1689409?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+一份爆料汇总指出，预计于 2027 年 iPhone 诞生 20 周年时推出的 iPhone 20 将采用一体成型玻璃设计，并可能跳过 iPhone 19 的命名。报道称苹果正在研究一整块包裹设备的玻璃，摒弃近年机型使用的铝合金机身。 这一爆料预示着苹果旗舰产品的长期设计方向，可能为智能手机的外观和材质设定新标准。若属实，将影响整个行业，并激发期待重大改版的消费者的兴趣。 据泄露信息，一体成型玻璃设计可能包括四曲面玻璃，边缘弯曲但显示屏本身保持平面。然而，这些均为未经证实的传闻，苹果尚未就 iPhone 20 的设计或命名发布任何官方消息。
+
+rss · 爱范儿 · 11月13日 15:44
+
+**背景**: iPhone 20 预计将纪念 iPhone 诞生 20 周年，类似于 2017 年 iPhone X 以重大改版庆祝 10 周年。苹果常利用周年机型引入显著的设计变革，传闻称 iPhone 20 将以玻璃为核心设计延续这一传统。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.macrumors.com/guide/20th-anniversary-iphone/">Apple&#x27;s 20th Anniversary iPhone: What We Know So Far</a></li>
+<li><a href="https://appleinsider.com/articles/26/09/04/apple-still-on-track-for-a-revolutionary-iphone-20-in-2027">Apple still on track for a revolutionary iPhone 20 in 2027</a></li>
+<li><a href="https://www.indiatoday.in/technology/news/story/apple-to-launch-20th-anniversary-iphone-with-curved-display-this-is-what-latest-leak-says-2776569-2025-08-25">Apple to launch 20 th anniversary iPhone with curved... - India Today</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#iPhone 20`, `#rumors`, `#design`, `#big tech`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-29"></a>
+## [离职员工利用未撤销客服权限，通过“仅退款”窃取 42 万元服饰获刑 5 年](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kekNHeGgtZmJ0U1pNS2JJc0xMamFBS20tYmlUWUpmQzU0VG9IZEQ5bU5ULVNnZWdHazlPS1lERzJsN2xRdEdpUg?oc=5) ⭐️ 7.0/10
+
+一名网店离职员工利用离职后未被取消的客服权限，通过“仅退款”方式骗取货值 42 万元的服饰，最终被判处有期徒刑 5 年。 此案暴露了离职流程中的重大安全漏洞——未及时撤销权限，可能导致重大财务损失和犯罪行为，为电商企业敲响警钟，必须加强权限管理和欺诈防范。 该员工利用“仅退款”机制（即退款不退货）多次骗取商品，造成损失达 42 万元，法院最终判处其 5 年有期徒刑。
+
+rss · 客服行业动态 · 11月13日 03:36
+
+**背景**: “仅退款”是拼多多于 2021 年率先推出的售后机制，后被淘宝、京东、抖音等主要电商平台采纳，允许消费者在特定条件下不退货即可获得退款。该机制旨在保护消费者权益和提升售后体验，但也被部分恶意分子滥用。同时，完善的权限管理和员工离职时及时撤销权限是电商运营的基本安全实践。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E2%80%9C%E4%BB%85%E9%80%80%E6%AC%BE%E2%80%9D%E6%A8%A1%E5%BC%8F/63848444">“仅退款”模式_百度百科 2026年仅退款新规：六平台售后规则与商家应对 - 电商资讯 - 做生意, ... 仅退款正式退场！五大电商平台集体改规则，白嫖党彻底凉了？ 监管新规落地！严禁平台强制仅退款不退货，商家可拒无依据恶意退款 - ... “仅退款”没有原罪，规则重构是关键 - 36氪</a></li>
+<li><a href="https://www.sohu.com/a/1091770805_122678844">2026年电商客服外包如何保障数据安全？从账号权限、客户隐私到风险审...</a></li>
+<li><a href="http://jingshiseo.com/article/5931.html">被攻击是否因 未 及时 撤 销 离 职 人 员 权 限 -精石建站</a></li>
+
+</ul>
+</details>
+
+**标签**: `#客服安全`, `#权限管理`, `#内部欺诈`, `#电商风险`, `#法律案例`
+
+---
+
+<a id="item-30"></a>
+## [74 岁老人修空调插线板被收 9500 元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XU1FTdW1oU3pKblN1dWs5ZDdkNUNDRFozZktrUXdYY21nY3dOWWt6eW9oNDBKSGt3NUtnajBfeV9LWjE2bnJ1amhuNkFVQ3p3b0YtLW84LWpOMG00Z2xJ?oc=5) ⭐️ 6.0/10
+
+一名 74 岁老人在维修空调和插线板时，被工人以一环套一环的欺诈手段收取了 9500 元费用。该事件由华商网报道，引发了对家电维修行业乱收费问题的关注。 这一事件凸显了售后服务中严重的消费者权益保护问题，老年人等弱势群体常常成为不良维修工人的目标。它强调了在客户服务行业中加强监管、价格透明和道德标准的必要性。 维修过程中涉及一系列不必要的服务和零件，费用一步步攀升，最终高达 9500 元，远超市场价。此类案件通常涉及假冒零件、虚高人工费和故意复杂化以迷惑消费者。
+
+rss · 客服行业动态 · 11月13日 23:42
+
+**背景**: 家电维修欺诈在中国是常见的消费者投诉问题，不良技术人员利用消费者缺乏技术知识来行骗。《消费者权益保护法》和 2022 年《明码标价和禁止价格欺诈规定》要求维修服务明码标价，避免欺诈行为。消费者可拨打 12315 热线维权，并保留收据、录音等证据。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/967981452_122511297">遇到维修师傅乱收费该怎么维权？行业专家教你4步合规处理+3大证据留存...</a></li>
+<li><a href="https://ailegal.baidu.com/legalarticle/qadetail?id=732995e33e87e4260430">12315投诉家电维修乱收费 - ailegal.baidu.com</a></li>
+<li><a href="https://ailegal.baidu.com/legalarticle/qadetail?id=2a94b3174a0686250606">家电维修乱收费怎么处罚 - ailegal.baidu.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#consumer protection`, `#after-sales service`, `#fraud`, `#customer service ethics`, `#elderly abuse`
+
+---
+
+<a id="item-31"></a>
+## [男子银行卡莫名被扣 4 个月，名下多出两份未购买的保险](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MaVVRY3lTN1c0ak9UXzVCOUhVSlJyVktjX2NlcTBxLUJ0bnRJcUxxOEFPMmpJVnBuNXJQR19GY1drRFFzTHJqUThSUWVVWkRVVF82eDVDM09sZw?oc=5) ⭐️ 6.0/10
+
+一名男子发现自己的银行卡连续四个月被扣款，用于支付两份他从未购买过的保险，而联系客服后，对方无法提供任何签字保单。 此案凸显了保险和银行领域在客户验证和防欺诈方面的严重漏洞，引发了人们对未经授权扣款如何发生以及消费者维权困难的担忧。 客服无法出示签字保单，而这是证明客户同意的法律要求；根据中国保险法，电子保单具有法律效力，但必须可验证，缺乏此类证据则扣款缺乏法律依据。
+
+rss · 客服行业动态 · 11月13日 09:13
+
+**背景**: 在中国，保险公司只有在获得客户明确授权的情况下才能从银行卡扣款，通常通过签署协议或电子签名实现。消费者在网上购买保险时常常不知不觉地授权了定期扣款，而不良代理人可能利用这一点。受害者可以通过 12378 热线向国家金融监督管理总局等监管机构求助。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wenku.baidu.com/noteview/9b5f5085e13a580216fc700abb68a98271feac16.html">保险公司自动划扣保费的法律依据与操作机制解析</a></li>
+<li><a href="https://www.toutiao.com/w/1869106824784905/">银行卡被莫名扣保险费用的，保险公司是怎么做到的？这是不是有骗保的...</a></li>
+<li><a href="https://baoxianzhinan.91dbb.com/873.html">电子 保 单 到底靠不靠谱？ | 大白读 保</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#insurance fraud`, `#unauthorized charges`, `#consumer protection`, `#service failure`
+
+---
+
+<a id="item-32"></a>
+## [理想客服称提车后降价为正常市场行为](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnNuSm5vUjF6aC1scm1pcmRwTDJTbmhZX21jTWJnOGltUHNNczlIZ25TaWl6TVc5ZW5NNS1rMk5QeW9pQ1VxdGFHZ0plNFhtbVgxUjREYmczYUl0UEVjZEhDeWVTaXNrdk0tdGd6cnlaMUtZc3FwNDRVS05Sd2o2eG85QUVVcWpi?oc=5) ⭐️ 5.0/10
+
+理想汽车客服针对客户投诉“刚提车就降价”一事作出回应，称价格调整是“正常市场行为”。搜狐和汽车之家对此进行了报道，凸显了车企定价灵活性与消费者预期之间的持续矛盾。 这一事件凸显了中国电动汽车行业面临的更广泛挑战：频繁的价格调整已成为常态，使刚购车的消费者感到吃亏。在竞争激烈的市场中，车企如何处理此类投诉将影响品牌忠诚度和消费者信任。 客服声明未提供补偿或价格保护措施，而是将价格变化归因于市场行为。这与理想汽车 2023 年推出的价格保护政策形成对比，该政策是在激烈价格战期间为安抚消费者而推出的。
+
+rss · 客服行业动态 · 11月13日 02:59
+
+**背景**: 近年来，中国电动汽车市场竞争激烈，车企频繁调整价格以保持竞争力。作为高端电动汽车领域的主要参与者，理想汽车此前曾在价格战期间推出价格保护政策以回应消费者关切。2026 年 2 月，中国市场监管部门还发布了汽车行业价格行为合规指南，以遏制不正当价格行为并促进市场稳定。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cnevpost.com/2023/03/14/li-auto-price-protection-amid-china-auto-price-war/">Li Auto rolls out price protection policy amid China auto ...</a></li>
+<li><a href="https://english.samr.gov.cn/News/PressReleases/art/2026/art_df2d1ca1e60544cfba44579a1e785739.html">China issues new auto pricing guide to curb unfair practices</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#price drop`, `#complaint handling`, `#automotive industry`, `#Li Auto`
+
+---
+
+<a id="item-33"></a>
+## [怪兽充电宝商户无法提现，称遭客服辱骂](https://news.google.com/rss/articles/CBMijAFBVV95cUxOajVMZDBMRnFrOV9KVFBocXBYb1AxX2hPeFh0NllJVzdZODAtNkt6WEhJam9qZkwxal9HenJoRTZWcEJyZEJyZWkxVWZlcFlxdTNzMEFCekxXSjZUMkZiZ2dBcEdUbUthZFFTS051dHNHanJsSXdxNXdIemhUdUotN1VKanMtd2RrZkJsVA?oc=5) ⭐️ 4.0/10
+
+使用怪兽充电宝共享充电宝服务的商户反映无法提现分成收入，一名商户在质问客服后称收到辱骂短信。怪兽充电宝客服表示，此事仍在核实处理中。 该事件凸显了共享充电宝头部企业可能存在的资金流动性和服务质量问题，可能削弱商户信任，并引发监管对行业分成模式的关注。 商户提现问题和涉嫌辱骂短信是具体投诉，但公司尚未确认细节；事件仍在调查中，受影响商户数量不明。
+
+rss · 客服行业动态 · 11月13日 11:33
+
+**背景**: 共享充电宝通过商户场所租赁，运营商会与商户分成租金收入。近年来，行业面临涨价和盈利压力，导致运营商与商户在收入结算方面关系紧张。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cj.sina.com.cn/articles/view/3167104922/bcc62f9a02701nujg?froms=ggmp">cj.sina.com.cn/articles/view/3167104922/bcc62f9a02701nujg?froms...</a></li>
+<li><a href="https://news.cctv.cn/2021/07/05/ARTIjeRJ497dzzNHlKetWXBC210705.shtml">“有一种贫穷叫作 充 电 宝 致穷”丨 共 享 充 电 宝 又涨价了，你还会用吗</a></li>
+<li><a href="https://m.pedaily.cn/news/500767">4块一小时，也养不活 共 享 充 电 宝 |投资界</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#shared power bank`, `#complaint handling`, `#service quality`, `#China`
+
+---
+
+<a id="item-34"></a>
+## [快手电商推广智能客服，助力大促后售后服务](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yOUJUZ2czZ1dxUnZXZ0dFeThaTnZtQTRlSzV2cThlMWFJeG1XN1BCWGxuRmtJaEdtOThRNURNelhTSVdwS1VrX2xJRUk?oc=5) ⭐️ 4.0/10
+
+快手电商在大促进入尾声之际，重点推介其智能客服工具，帮助商家提升售后用户体验。 随着大促结束，售后服务对于客户留存至关重要；智能客服能帮助商家高效处理增加的咨询量并维持满意度。 该推广文章未提供技术细节或性能指标，但强调了电商领域日益采用 AI 聊天机器人来实现 7×24 小时支持和自动查询解决。
+
+rss · 客服行业动态 · 11月13日 10:28
+
+**背景**: AI 客服系统利用自然语言处理和机器学习来自动回复常见的客户咨询，减少对人工客服的需求。在电商领域，这些系统在咨询量激增的销售高峰期尤其有价值。快手是中国主要的短视频和电商平台，常在购物节期间推广其商家工具。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.betteryeah.com/blog/ecommerce-ai-customer-service-agent-complete-guide-2025">电商售后客服智能体选型指南2025：AI客服系统对比评测与实施攻略</a></li>
+<li><a href="https://cloud.baidu.com/article/4673639">电商AI智能客服系统架构图：从设计到落地的全流程解析</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI customer service`, `#e-commerce`, `#Kuaishou`, `#after-sales service`, `#customer experience`
+
+---
+
+<a id="item-35"></a>
+## [Minimal AI 推出电商客服智能体](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3JWTmhOclM5TU9fTDgtQjNOOWp1Wko5elM2MnBIVE5jTEN3MG55dlNhZjg4Uk9INlRwYnhiMFpiVG9yZ1p3bUN3ZWJDanJzNjZPVnYwR0stb24tN1lYU0hzcjliSG1QN2ZUR3p5c2tHTkt5UjJDcC1ueHZaWXF0YTE4SGRYQ0RCc2RFUExRVnc3c2NEV1FOMGM5cDFxb243QV9nZEllZWNlbXcxRkZ5NG9n?oc=5) ⭐️ 4.0/10
+
+Minimal AI 作为一款面向电商的 AI 客服智能体正式推出，提供订单自动化和自然语言训练功能。该产品由供应商 quasa.io 推广，旨在自动化客户支持任务。 此次发布反映了 AI 智能体在电商客服领域应用的增长趋势，可能帮助在线零售商缩短响应时间并降低运营成本。然而，作为一家不太知名的供应商，其影响力将取决于市场采纳情况和可靠性验证。 Minimal AI 通过 Awtomic 等服务与 Shopify 等平台集成，自动化处理捆绑包和定期订单的订阅支持。该产品强调自然语言训练，使企业无需大量编码即可自定义 AI 的响应。
+
+rss · 客服行业动态 · 11月13日 17:16
+
+**背景**: AI 客服智能体利用自然语言处理（NLP）来理解和回应客户咨询，通常与 Zendesk 或 Gorgias 等客服平台集成。Minimal AI 是该领域的新进入者，旨在为电商企业提供 AI 优先的支持自动化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://gominimal.ai/integrations/awtomic">Awtomic Integration for AI Customer Support | Minimal AI</a></li>
+<li><a href="https://www.linkedin.com/posts/niek-hogenboom_minimal-ai-is-launching-today-im-incredibly-activity-7282693261750636544-FOoh">Minimal AI is launching today I’m incredibly excited to share what...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#AI agents`, `#e-commerce`, `#automation`, `#vendor promotion`
+
+---
