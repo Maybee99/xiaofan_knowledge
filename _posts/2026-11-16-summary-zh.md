@@ -1,0 +1,749 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-16 (ZH)"
+date: 2026-11-16
+lang: zh
+---
+
+> 从 58 条内容中筛选出 31 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [IEA 警告全球煤炭需求或创新高，LNG 运输风险隐现](#item-1) ⭐️ 7.0/10
+2. [国管局召开“十五五”公共机构节能降碳工作方案实施暨碳达峰碳中和考核评价座谈会](#item-2) ⭐️ 7.0/10
+3. [海南允许虚拟电厂分时参与现货与辅助服务市场交易](#item-3) ⭐️ 7.0/10
+4. [日本首相高市早苗提议建立“亚洲版 IEA”，以收费模式助东南亚储油](#item-4) ⭐️ 7.0/10
+5. [比亚迪否认收购华为数字能源业务](#item-5) ⭐️ 6.0/10
+6. [威海虚拟电厂推动算力与电力双向互动](#item-6) ⭐️ 5.0/10
+7. [AHDL：面向智能电网非平稳 IoT 负荷预测的自适应混合深度学习框架](#item-7) ⭐️ 5.0/10
+8. [IndexBox 预测电能表市场至 2035 年因智能电网升级而扩张](#item-8) ⭐️ 5.0/10
+9. [比亚迪辟谣收购数字能源公司，特斯拉 Cybercab 开放个人订购](#item-9) ⭐️ 4.0/10
+
+### 🤖 AI 科技
+
+10. [旧 Bitly 链接被劫持，用户被重定向至恶意网站](#item-10) ⭐️ 7.0/10
+11. [MacBook Pro OLED PWM 频闪引发健康与人体工学争议](#item-11) ⭐️ 7.0/10
+12. [史蒂夫·布兰克分析英伟达未来：定制芯片威胁 CUDA 护城河](#item-12) ⭐️ 6.0/10
+13. [互联网档案馆保存《沙龙》杂志 30 年新闻内容](#item-13) ⭐️ 6.0/10
+14. [Protomaps 让自托管地图瓦片变得廉价而简单](#item-14) ⭐️ 6.0/10
+15. [研究发现乌鸦决策速度是人类的两倍](#item-15) ⭐️ 6.0/10
+16. [Ductus 网页工具可根据用户样本生成自定义手写字体](#item-16) ⭐️ 6.0/10
+17. [基于种子生成地形的 WebGL 飞行模拟器](#item-17) ⭐️ 5.0/10
+
+### 🏢 大厂要闻
+
+18. [SpaceX 用「筷子」机械臂首次成功夹住超重型助推器，创历史](#item-18) ⭐️ 9.0/10
+19. [周报：英伟达 CEO 辞职、阿里分拆平头哥、Anthropic 启动 IPO 路演](#item-19) ⭐️ 9.0/10
+20. [黄仁勋或重返英伟达任 CEO；苹果智能眼镜；OpenAI 撤销机器人团队](#item-20) ⭐️ 8.0/10
+21. [早报：英伟达 CEO 继任传闻、苹果智能眼镜爆料、微软大宕机](#item-21) ⭐️ 7.0/10
+22. [边缘 AI 日报：英伟达 CEO 辞任、OpenAI 机器人重组、苹果 Siri、Meta 罚款](#item-22) ⭐️ 7.0/10
+23. [国产芯片行业掀起融资热潮](#item-23) ⭐️ 7.0/10
+24. [汽车激光雷达厂商禾赛进军机器人关节执行器业务](#item-24) ⭐️ 6.0/10
+25. [AI 眼镜风口被 35 元华强北山寨货截胡](#item-25) ⭐️ 6.0/10
+26. [脑机接口“元年”叙事：一半真实进展，一半仍在等待](#item-26) ⭐️ 6.0/10
+27. [每日汇总：APEC 深圳倡议、特斯拉 Cybercab 限制、51 个创新药进医保](#item-27) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+28. [澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位](#item-28) ⭐️ 7.0/10
+29. [小伙购买降价 RTX 5080 显卡，被假客服诱导开启屏幕共享，损失五千余元](#item-29) ⭐️ 6.0/10
+30. [北京奔驰计划 2026 年新增 10 个服务网点，覆盖空白市场](#item-30) ⭐️ 5.0/10
+31. [天津日报报道 3741 人客服团队守护温暖“不掉线”](#item-31) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [IEA 警告全球煤炭需求或创新高，LNG 运输风险隐现](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）警告称，全球煤炭需求可能创下历史新高，并且如果 LNG 运输中断持续，明年需求可能再次打破纪录。 这一预测表明，尽管全球在推动脱碳，煤炭仍被持续依赖，对能源安全、气候政策和市场动态具有重大影响。分析师和政策制定者需要为潜在的供应链中断以及煤炭和 LNG 市场的价格波动做好准备。 IEA 的警告取决于 LNG 运输的恢复情况，而地缘政治紧张和航线中断（尤其是霍尔木兹海峡等关键咽喉要道）已对 LNG 运输造成阻碍。报告强调了全球能源流动对集中航线的敏感性，并突出了煤炭作为备用燃料的风险。
+
+google\_news · 财联社 · 11月15日 18:20
+
+**背景**: 国际能源署（IEA）是一个政府间组织，提供关于全球能源市场的权威分析和预测。LNG（液化天然气）是发电中煤炭的关键替代品，但其运输依赖专用船舶和脆弱的航线。当 LNG 运输中断时，各国可能转向煤炭以满足能源需求，从而推高煤炭消费和排放。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/">IEA - International Energy Agency</a></li>
+<li><a href="https://nzero.com/blog/lng-supply-chains-face-new-risks-as-hormuz-traffic-slows/">LNG Supply Chains Face New Risks as Hormuz Traffic Slows</a></li>
+<li><a href="https://research.mobiusriskgroup.com/p/es-127-the-iea-s-peak-demand-fallacy">ES #127: The IEA &#x27;s Peak Demand Fallacy | Mobius Market Research</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal demand`, `#IEA`, `#LNG shipping`, `#energy policy`, `#global energy markets`
+
+---
+
+<a id="item-2"></a>
+## [国管局召开“十五五”公共机构节能降碳工作方案实施暨碳达峰碳中和考核评价座谈会](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CQUFVMzF6aTV0WllQY0xUdXNlQjctQU9tQ0JMMjR4VS1zZXVaMm5lVF9MRWZOaElabkdudE5CSW1Idi1kc1QxSlpvTnJmdHBJak15SzFHRUN4SUJxOVE?oc=5) ⭐️ 7.0/10
+
+国管局召开《“十五五”公共机构节能降碳工作方案》实施暨碳达峰碳中和考核评价座谈会，会议重点讨论了该工作方案的落实推进以及与碳达峰碳中和考核评价体系的衔接。 这标志着为公共机构（包括政府机关、学校和医院等大量公共部门能源用户）设定节能降碳目标的方案进入实施阶段。同时，将公共机构的表现与国家碳达峰碳中和考核评价体系挂钩，可能影响公共机构的考核与问责方式。 座谈会由国管局组织召开，国管局与国家发展改革委于 2026 年联合印发了《“十五五”公共机构节能降碳工作方案》。该方案强调以碳达峰碳中和为牵引，旨在提升公共机构节能降碳工作水平。
+
+google\_news · 碳道 · 11月16日 00:11
+
+**背景**: 中国的公共机构包括政府机关、学校、医院等由公共财政支持的机构，其能源消费在全国总量中占有相当比重。“十五五”规划（2026—2030 年）是中国最新的国家发展蓝图，该领域专项方案对公共机构在此期间节能降碳提出要求。碳达峰碳中和考核评价体系由中央层面建立，为评估中国 2030 年前碳达峰、2060 年前碳中和目标的进展提供框架。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cpnn.com.cn/news/xwtt/202608/t20260803_1906133.html">十五五” 公共机构节能降碳工作方案》正式印发--中国能源新闻网</a></li>
+<li><a href="https://epaper.gmw.cn/gmrb/html/content/202608/03/content_21051.html">“十五五”公共机构节能降碳工作方案-光明日报-光明网</a></li>
+<li><a href="https://m.163.com/dy/article/KSDFDM4K0514DPVJ.html">m.163.com/dy/article/KSDFDM4K0514DPVJ.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#公共机构节能`, `#碳达峰碳中和`, `#十五五规划`, `#考核评价`
+
+---
+
+<a id="item-3"></a>
+## [海南允许虚拟电厂分时参与现货与辅助服务市场交易](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BWlB2bllwNWhvd3oxc2k2aXZodjJyOExvQTk3TWthYjFabDR1UjdVOG1UX3dfZWo5ZlNfZzZxcnpjWGRlYkt2T3lWNDYyY0k?oc=5) ⭐️ 7.0/10
+
+海南省发布了新规，允许虚拟电厂（VPP）分时参与电力现货市场和辅助服务市场交易。该政策由海南电力交易中心发布，明确了虚拟电厂交易单元可以参与这些市场，标志着中国省级电力市场改革迈出了重要一步。 该政策通过开辟传统需求响应之外的新收入来源，直接影响了虚拟电厂运营商和聚合商的商业模式。它也标志着中国能源行业将分布式能源资源纳入正式市场机制的更广泛趋势，可能会影响其他省份效仿。 规则明确虚拟电厂分时参与现货市场，即其交易单元可以根据不同时段调整报价。然而，该政策是区域性的，关于市场参与的细节，如竞价机制和结算规则，在现有内容中尚未完全明确。
+
+google\_news · https://www.gessey.com/ · 11月15日 13:50
+
+**背景**: 虚拟电厂是一个数字聚合平台，协调太阳能、储能、电动汽车和可控负荷等分布式能源资源，使其像一个单一电厂一样运作。在中国，虚拟电厂主要被用于需求响应，但近期的改革旨在将其纳入现货和辅助服务市场。海南的新政策是山西和广东等省份日益增长的趋势的一部分，这些省份正在将虚拟电厂的市场参与正式化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjx.com.cn/html/20261113/1520092.shtml">海南虚拟电厂参与电能量市场交易细则发布！虚拟电厂交易单元分时参与...</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎 一张图看懂虚拟电厂：5 分钟掌握核心概念与运行机制 什么是虚拟电厂 以及相应的工作原理 - CSDN博客 虚拟电厂（智慧能源管理系统）_百度百科 虚拟电厂是什么_定义与核心能力详解_智慧能源平台</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/684005600">电力专栏|3分钟读懂电力辅助服务是什么？ - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力市场`, `#辅助服务`, `#海南`
+
+---
+
+<a id="item-4"></a>
+## [日本首相高市早苗提议建立“亚洲版 IEA”，以收费模式助东南亚储油](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HWFgtdzh2NDBjcFhlV3NwRGdYYzZqZnlMZVQ0eGgxUzhHMmhfYm5UMjJiOGdYZjluYVZaYVhpNXVMQ2g1cEUxY3ZMNzFjRWg0?oc=5) ⭐️ 7.0/10
+
+日本首相高市早苗提议建立一个亚洲版的国际能源署（IEA），其中包括一项收费机制，以帮助东南亚国家储存石油。该倡议旨在加强能源供应链，并改善石油危机期间的协调。 该提议可能通过建立跨境合作和石油储存的新制度框架，显著影响亚洲的能源安全架构。它可能影响东南亚国家应对石油冲击的韧性，并重塑区域能源治理。 该提议包括一个收费系统，但具体的资金细节和成员资格标准尚未披露。该倡议是高市早苗首相领导下日本更广泛能源政策的一部分，该政策还侧重于核能和脱碳技术。
+
+google\_news · VanPeople · 11月15日 13:46
+
+**背景**: 国际能源署（IEA）成立于 1974 年石油危机之后，旨在帮助工业化国家协调应对石油供应中断。它通过集体行动促进能源安全，包括战略石油储备。日本严重依赖石油进口，长期以来一直积极参与能源安全倡议，现在寻求将合作扩展到东南亚。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/">IEA - International Energy Agency</a></li>
+<li><a href="https://energy.ec.europa.eu/topics/international-cooperation/international-organisations-and-initiatives/international-energy-agency_en">International Energy Agency</a></li>
+<li><a href="https://www.japantimes.co.jp/environment/2026/01/04/energy/takaichi-energy-policy/">With a focus on nuclear power, Takaichi’s energy policy takes ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#Asia`, `#oil storage`, `#IEA`, `#energy security`
+
+---
+
+<a id="item-5"></a>
+## [比亚迪否认收购华为数字能源业务](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KT29Nc2ZNVDRSWWtPRkZudjZLSldLOERWVGlOOE1tZ3kwd241Y1V4Qi0ycm5jaFR0M3pzQV94Sl9iRFBud3cwbGV3ZEVkY3hMNGMw?oc=5) ⭐️ 6.0/10
+
+比亚迪官方否认了网络上流传的将收购华为数字能源业务的传闻，称相关消息属于虚假信息。这一否认由包括电子工程专辑 EE Times China 和东方财富在内的多家中国媒体报道。 如果传闻属实，这将是中国数字能源领域的一次重大整合，结合华为在智能光伏和数据中心能源方面的优势与比亚迪在电动汽车和电池方面的专长。比亚迪的否认减少了直接的市场不确定性，但也凸显了市场对华为数字能源资产的持续战略兴趣。 华为数字能源聚焦三大核心领域：新型电力系统、电动出行和 AI 数据中心。此前也有传闻将宁德时代与收购华为数字能源业务联系起来，表明该业务已引起多家行业参与者的兴趣。
+
+google\_news · 电子工程专辑EE Times China · 11月15日 02:08
+
+**背景**: 华为数字能源技术有限公司成立于 2021 年 6 月，注册资本 30 亿元人民币，提供智能光伏、数据中心能源和电动出行等领域的产品和解决方案。2026 年 3 月，华为数字能源宣布将聚焦新型电力系统、电动出行和 AI 数据中心。该业务一直是收购传闻的对象，包括据称与宁德时代的一笔交易，但据报道该交易已告吹。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.mp.oeeee.com/a/BAAFRD0000202603261545735.html">算力尽头 是 电力！ 华 为 数 字 能 源 宣布未来将聚焦三大核心领域</a></li>
+<li><a href="https://m.guancha.cn/ChanJing/2021_06_08_593596.shtml">大公司早报｜ 华 为 30亿成立 数 字 能 源 公司 字 节教育称不裁员-观察者网</a></li>
+<li><a href="https://h5.ifeng.com/c/vivoArticle/v002EVNNFDNuSQslBYK5lMkZhSdx8OX02zIvoo7tDGjpTSI__?vivoBusiness=hiboardnews">宁德时代并 购 华 为 数 字 能 源 告吹了！ 最开心的竟然是他</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Huawei`, `#BYD`, `#digital energy`, `#mergers and acquisitions`, `#energy policy`
+
+---
+
+<a id="item-6"></a>
+## [威海虚拟电厂推动算力与电力双向互动](https://news.google.com/rss/articles/CBMibkFVX3lxTE5xWG9aaGs4Q2t2eWRVUGwtbHVoNFE1WFJzRUhLcjkwaTFQWDRQRTgzT3BfRzhDaHl5Q2tpNFk2MGUzaVlBWDJjMVBjRllMbDZ5MjNnSUJBWVFUMHFndmVNbDFZdXAzak5Vb3U4d1Rn?oc=5) ⭐️ 5.0/10
+
+威海新闻网报道了当地一项虚拟电厂举措，旨在实现算力与电力的双向互动，以优化营商环境。报道强调将算力负荷纳入电网调度，以支持本地企业。 该举措反映了中国能源政策的一个更广泛趋势，即虚拟电厂聚合数据中心等柔性负荷，以平衡可再生能源和电网需求，可能降低企业成本并增强电网稳定性。如果成功，它可为其他地区将算力基础设施与电力系统融合提供范本。 文章未提供详细技术细节，但该概念涉及利用算力任务的时间与空间灵活性，根据电网信号调整电力消耗。此类需求响应机制通常需要先进的通信和控制系统来协调分布式资源。
+
+google\_news · 威海新闻网 · 11月16日 01:24
+
+**背景**: 虚拟电厂（VPP）是一种通过先进信息通信技术聚合储能、可控负荷、电动汽车等分布式能源资源，参与电力市场和电网运行的系统，无需建设实体电厂即可平衡供需。算力与电力的融合常被称为“算电协同”，利用数据中心工作负载的灵活性来帮助平衡电网，尤其在可再生能源渗透率不断提高的背景下。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+<li><a href="https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E7%94%B5%E5%8E%82/3593296">虚拟电厂（智慧能源管理系统）_百度百科</a></li>
+<li><a href="https://www.toutiao.com/article/7641492486514377266/">算电协同行业研究报告：算力负荷与电力供应双向互动优化配置分析</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#算力`, `#电力`, `#威海`
+
+---
+
+<a id="item-7"></a>
+## [AHDL：面向智能电网非平稳 IoT 负荷预测的自适应混合深度学习框架](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xakFUaExqaUNHMFFHbV9wRnZaRkRkQjZFOVBmel9HZnp5RjlsVWhIaDJwZmUyMHVSckdEcXRVcHFWdjNLX2JOREx3eVZWSElXWkJZMWdjYkp3bEhWYVAzREtMTkV0LXJSaERibHNR?oc=5) ⭐️ 5.0/10
+
+一项发表于《International Transactions on Electrical Energy Systems》的研究提出了 AHDL 框架，该自适应混合深度学习框架结合注意力融合与 ADWIN 漂移适应机制，旨在提升智能电网需求响应场景下非平稳 IoT 负荷预测的准确性。 在智能电网需求响应中，IoT 数据流往往具有非平稳性并存在概念漂移，准确的负荷预测至关重要；AHDL 的漂移感知设计有助于电网运营者在工况变化时保持预测精度，从而支撑更可靠的需求侧管理。 该框架将注意力机制用于融合多源异构 IoT 输入，并引入 ADWIN 这一自适应窗口算法来检测分布漂移并触发模型更新；不过作为学术研究，其验证范围与实际部署约束尚未完全明确。
+
+google\_news · 生物通 · 11月16日 00:03
+
+**背景**: 智能电网需求响应依赖 IoT 传感器预测电力负荷，但传感器数据常因天气、用电模式或设备变化而随时间偏移，这种现象称为概念漂移。ADWIN（自适应窗口）是一种经典的流式算法，通过自适应窗口监控错误率来检测此类漂移。深度学习中的注意力机制帮助模型权衡最相关的输入特征，而混合框架则结合多种模型类型以提升鲁棒性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ebiotrade.com/newsf/2026-11/20261116000536887.htm">自适应混合深度学习框架AHDL：面向智能电网需求响应操作中非平稳IoT负...</a></li>
+<li><a href="https://cjournal.hep.com.cn/1000-1220/CN/10.20009/j.cnki.21-1106/TP.2024-0435">融合多头交互注意力表征的电力负荷预测方法</a></li>
+<li><a href="https://www.researchgate.net/publication/391227488_rengongzhinengfunengzhinengdianwang">(PDF) 人工 智 能 赋 能 智 能 电 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#智能电网`, `#需求响应`, `#负荷预测`, `#深度学习`, `#IoT`
+
+---
+
+<a id="item-8"></a>
+## [IndexBox 预测电能表市场至 2035 年因智能电网升级而扩张](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzNkZVVmMmM1QTk5ZHdEMGxxS3VuZ1lsWkxJWXZKS3lsUUhDQi14ZmdvdEo5TG11eVJRbkpBa3pXVDZqdVJVY01McEotbVJHdkM2MDZBcjhWMlZLdG02Z1JLLVoxQUhRWGtSMjVnRXZVQUZmdDhEZzkyRERUeVpjZ3FmTHpjT2xCR1Vid1RMdGZMc1N2b3pQWVVia19nMHBVemc2TXYtTjl1MjNKMHpYSkR3MXBONWEzMFNONjBRLXljTldhT0RDSVA1VlZxVEh1bWJ4emp3?oc=5) ⭐️ 5.0/10
+
+IndexBox 发布市场展望，预测全球电能表市场将在 2035 年前持续扩张，主要驱动力来自智能电网升级以及推动先进计量基础设施（AMI）的法规。 这一展望表明智能电表和 AMI 系统的需求将持续旺盛，这些系统对于电网现代化、可再生能源整合以及实现公用事业与用户之间的双向通信至关重要。公用事业公司、电表制造商和能源政策制定者需要据此规划投资。 该报告是 IndexBox（一个基于人工智能的市场情报平台）发布的高层次市场摘要，在现有摘录中未提供具体的数值预测、区域细分或详细的政策引用。
+
+google\_news · IndexBox · 11月15日 15:41
+
+**背景**: 先进计量基础设施（AMI）是由智能电表、通信网络和数据管理系统组成的集成系统，可实现公用事业公司与用户之间的双向通信。智能电表是智能电网的末端设备，现代智能电表支持除基本计量之外的功能，如实时数据采集、远程控制以及与分布式能源的整合。相关法规和标准（如 OIML IR46 建议）正推动公用事业公司升级到功能更强大的电表，预计这将推动市场增长。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ibm.com/cn-zh/think/topics/advanced-metering-infrastructure">什么是高级计量基础设施 (AMI)？ - IBM</a></li>
+<li><a href="https://baike.baidu.com/item/AMI/13006214">AMI（由智能电表与通信网络构成的电力计量系统）_百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/336822554">带你读懂“新一代智能电能表” - 知乎 IR46智能电能表：国际标准深度解析 - CSDN博客 智能电表_百度百科 【国网南网智能电表通信协议揭秘】：一文掌握698协议核心解析与实战指... 智能电表：未来能源管理的核心驱动力_智能物联电能表推出的背景-CSDN... 智能电能表：新国标 (2020版) VS 旧国标 (2013版)_计量_电表_招标</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电能表`, `#智能电网`, `#先进计量基础设施`, `#能源政策`, `#市场展望`
+
+---
+
+<a id="item-9"></a>
+## [比亚迪辟谣收购数字能源公司，特斯拉 Cybercab 开放个人订购](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nOWwybjBrMEliZl9XeWdTOE5vRXN6YTAyYlFsQzBxTTZ5LXgzc0NxZ1h3a1pQRHhpN0VvN1U1Znk2RldBOUFwMG9GV2w2eVVrN2M3bmJtYXo?oc=5) ⭐️ 4.0/10
+
+比亚迪公开辟谣称其并未收购某数字能源公司，同时特斯拉已开始接受 Cybercab 机器人出租车的个人订购。该消息来自界面新闻的汽车早报。 比亚迪的辟谣有助于消除市场对其无关收购的猜测，维护投资者信心；而特斯拉向个人开放 Cybercab 订购则标志着自动驾驶出租车商业化进程的推进，可能加速专用机器人出租车的普及。 Cybercab 是一款双座纯电动机器人出租车，没有方向盘和踏板，采用纯视觉自动驾驶系统；特斯拉于 2024 年 10 月发布该车，目标运营成本低于每英里 0.30 美元。比亚迪的辟谣未具体说明传闻中涉及哪家数字能源公司。
+
+google\_news · Jiemian.com · 11月16日 00:41
+
+**背景**: 特斯拉 Cybercab 是一款专为自动驾驶设计的车辆，用于其 Robotaxi 网约车服务，没有传统驾驶控制装置。比亚迪是中国主要汽车制造商，在电池和储能领域有广泛布局，因此收购传闻对部分观察者而言具有一定可信度。此类企业传闻常在中国社交媒体上流传并可能影响股价，促使公司发布澄清。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Tesla_Cybercab">Tesla Cybercab</a></li>
+<li><a href="https://eletric-vehicles.com/nio/nio-sues-three-individuals-over-byd-acquisition-rumor/">Nio Sues Three Individuals Over BYD Acquisition Rumor</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新能源汽车`, `#比亚迪`, `#特斯拉`, `#企业辟谣`, `#行业早报`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-10"></a>
+## [旧 Bitly 链接被劫持，用户被重定向至恶意网站](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) ⭐️ 7.0/10
+
+攻击者通过重新注册休眠的短链接来劫持旧的 Bitly 链接，从而将用户重定向到恶意网站。汉堡王的一条推文示例凸显了这一问题：一个存档链接被认领并重定向到冒犯性内容，促使 Bitly 禁用了被劫持的链接。 这揭示了一个真实且未被充分重视的攻击向量：随着链接的生命周期超过其原始上下文，URL 缩短服务可能成为永久性负担，影响品牌、用户以及存档网络内容的完整性。它强调了需要更好的链接所有权和存档实践。 此次劫持利用了 Bitly 允许在短链接过期或删除后重新注册自定义后缀的机制，攻击者可以认领这些后缀来重定向流量。Bitly 随后禁用了被劫持的链接，但该事件引发了对 URL 缩短服务长期安全性的质疑。
+
+hackernews · hspeiser · 11月15日 22:11 · [社区讨论](https://news.ycombinator.com/item?id=50511395)
+
+**背景**: 像 Bitly 这样的 URL 缩短服务将长网址转换为简短易管理的链接，便于分享。随着时间推移，如果原始账户被删除或缩短服务更改政策，这些链接可能成为孤儿链接；如果短链接后缀被他人重新注册，原始链接的目标地址就可能被悄然更改。这对于存档的社交媒体帖子尤其成问题，因为旧链接仍可能被用户点击。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://nypost.com/2026/11/15/lifestyle/corporate-social-media-hacked-in-bizarre-bitly-link-hijacking-scheme/">Corporate social media hacked in bizarre Bitly link-hijacking ...</a></li>
+<li><a href="https://techbytes.app/posts/old-bitly-links-are-being-hijacked/">Old Bitly Links Are Being Hijacked: Comments | Tech Bytes</a></li>
+<li><a href="https://www.startuphub.ai/ai-news/artificial-intelligence/2026/hijacked-bitly-links-turn-old-tweets-into-traps">Hijacked Bitly links turn old tweets into traps - startuphub.ai</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了对 URL 缩短服务风险的强烈担忧，一些人呼吁采用内部解决方案，另一些人则惊讶于缩短服务竟设有信任与安全团队。讨论还涉及了废弃域名所有权和需要更好的存档实践等相关问题。
+
+**标签**: `#security`, `#url-shorteners`, `#link-hijacking`, `#web-infrastructure`, `#trust-and-safety`
+
+---
+
+<a id="item-11"></a>
+## [MacBook Pro OLED PWM 频闪引发健康与人体工学争议](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) ⭐️ 7.0/10
+
+MacAnorak 上发表的一篇分析文章探讨了 MacBook Pro 的 OLED 显示屏如何使用 PWM 调光，这可能会给部分用户带来频闪敏感问题。该文章引发了 233 条评论的社区辩论，讨论实际 PWM 频率、显示人体工学以及频闪相关的健康影响。 这很重要，因为频闪敏感可能会给部分用户带来头痛、眼疲劳和不适，而苹果在旗舰笔记本上选择低 PWM 频率可能会影响许多长时间面对屏幕的专业人士。这也凸显了一个更广泛的行业趋势：OLED 在功耗和对比度上的优势伴随着人体工学上的取舍，而这些取舍并不总是被公开。 社区成员对报道的 240Hz PWM 频率提出异议，一位评论者认为串联 OLED 可能以 480Hz 反相脉冲产生等效 960Hz，其他人则指出研究表明人类可以感知到频率超过显示器刷新率两倍的频闪。讨论还扩展到其他相关敏感性问题，如白色 LED 的低显色指数（CRI）和 LCD 的运动模糊。
+
+hackernews · MacAnorak · 11月15日 13:15 · [社区讨论](https://news.ycombinator.com/item?id=50506719)
+
+**背景**: PWM（脉冲宽度调制）调光是一种通过快速开关像素来控制显示亮度的常见方法。与带有背光的 LCD 不同，OLED 像素自身发光，因此调光是通过脉冲驱动像素本身来实现的。这种脉冲可能会对敏感人群造成可见的频闪，尤其是在较低频率下，这是显示技术中已知的人体工学问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://circadianshield.com/guides/oled-pwm-flicker-eye-strain/">OLED PWM Dimming and Eye Strain: Why OLED Screens Flicker</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/15980316.2021.1950854?scroll=top&amp;needAccess=true">Full article: Assessment of the effect on the human body of the flicker ...</a></li>
+<li><a href="https://www.androidcentral.com/phones/what-is-pwm-display-flicker-tips-and-tricks">What is PWM dimming, and what are the alternatives? | Android Central</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为频闪敏感是一个真实且研究不足的问题，一些人分享了脑震荡后屏幕敏感的个人经历，另一些人呼吁进行更多研究以了解受影响人群的数量。关于确切的 PWM 频率存在分歧，一位评论者认为串联 OLED 设计产生的是等效 960Hz 而非 240Hz，还有几位对苹果发布如此低 PWM 频率的显示屏表示惊讶。
+
+**标签**: `#OLED`, `#PWM flicker`, `#display ergonomics`, `#MacBook Pro`, `#hardware`
+
+---
+
+<a id="item-12"></a>
+## [史蒂夫·布兰克分析英伟达未来：定制芯片威胁 CUDA 护城河](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) ⭐️ 6.0/10
+
+史蒂夫·布兰克发表了一篇战略分析文章，指出英伟达面临的最大威胁来自其自身客户——谷歌、亚马逊、微软和 Meta 等超大规模云厂商。这些公司正越来越多地借助博通设计定制 AI 芯片，以减少对英伟达 GPU 的依赖，并削弱 CUDA 的相关性。 如果主要 GPU 买家成功转向定制 ASIC，英伟达可能面临利润率压缩和竞争护城河收窄，这将重塑整个 AI 芯片行业，并利好 AMD、谷歌 TPU 和亚马逊 AI 芯片等竞争对手。 分析指出，AI 工作负载的问题空间正在趋于稳定，这使得超大规模云厂商能够与博通合作开发定制芯片，并利用 AI 智能体构建自己的抽象层和调试工具，从而加速 CUDA 相关性的下降。
+
+hackernews · zdw · 11月15日 23:55 · [社区讨论](https://news.ycombinator.com/item?id=50512235)
+
+**背景**: 英伟达凭借其 GPU 和 CUDA 软件平台主导 AI 芯片市场，CUDA 让开发者能为其硬件编写并行代码。谷歌、亚马逊、微软和 Meta 等超大规模云厂商一直在投资定制 AI 芯片——如 ASIC 和 TPU——以针对其特定工作负载优化性能和成本。博通提供定制芯片设计服务，帮助这些公司打造自己的处理器，减少对英伟达的依赖。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developer.nvidia.com/cuda">CUDA Platform for Accelerated Computing | NVIDIA Developer</a></li>
+<li><a href="https://isti.studio/blog/custom-ai-silicon-why-amazon-google-and-microsoft-are-building-their-own-chips-a">Custom AI Silicon : Why Hyperscalers Are... — Istiack Mohammad</a></li>
+<li><a href="https://themodelpress.com/explainers/broadcom-ai-chips">Broadcom AI chips explained: XPUs for Google, Meta, OpenAI</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认同客户变竞争对手的动态和 CUDA 护城河的侵蚀是主要威胁。一些人预测英伟达利润率将崩溃，另一些人则认为其衰落将有利于整个行业，让 AMD、OpenAI、谷歌和亚马逊得以蓬勃发展。还有人讨论了英伟达作为 AI 热潮“银行”的角色，并对 CEO 之间的比较展开辩论。
+
+**标签**: `#Nvidia`, `#AI chips`, `#CUDA`, `#semiconductors`, `#industry strategy`
+
+---
+
+<a id="item-13"></a>
+## [互联网档案馆保存《沙龙》杂志 30 年新闻内容](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/) ⭐️ 6.0/10
+
+互联网档案馆宣布正在保存《沙龙》（Salon）杂志 30 年的新闻内容，确保其档案能够长期访问。《沙龙》是一家创办于 1995 年的在线杂志，此次保存行动紧随 Hacker News 上关于该杂志关闭的讨论，凸显了网络保存的紧迫性。 这项保存工作保护了大量重要的数字新闻内容，否则这些内容可能随着在线出版物的关闭或所有权变更而丢失。它还凸显了互联网档案馆作为网络历史记录关键后备力量的角色，影响着研究人员、记者和公众。 互联网档案馆的 Vault 服务将数据存储在至少两个数据中心，每个数据中心有多个副本，为保存的馆藏提供强大的冗余保障。然而，社区成员指出了实际挑战，例如下载整个网站快照的困难，以及在批量存档尝试中遭遇临时 IP 封禁。
+
+hackernews · CharlesW · 11月15日 23:00 · [社区讨论](https://news.ycombinator.com/item?id=50511806)
+
+**背景**: 网络存档是指收集和保存万维网上的材料，以确保其以档案格式保持可访问的过程。互联网档案馆是一家非营利数字图书馆，一直是该领域的领导者，提供 Wayback Machine 和 Vault 等服务。随着数字存储成本的下降，大规模保存网络内容变得越来越可行。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Web_archiving">Web archiving - Wikipedia</a></li>
+<li><a href="https://archive.org/details/vault-overview">Overview of the Vault Digital Preservation Service - Archive.org</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者赞扬互联网档案馆不论个人喜好保存内容，有人指出它甚至保存了自己不喜欢的东西。其他人反思了《沙龙》自身糟糕的保存记录，例如关闭 TableTalk 论坛时未提供帮助，并讨论了廉价存档对创建近乎精确历史记录的更广泛影响。
+
+**标签**: `#digital-archiving`, `#internet-archive`, `#salon`, `#web-preservation`, `#data-retention`
+
+---
+
+<a id="item-14"></a>
+## [Protomaps 让自托管地图瓦片变得廉价而简单](https://bruceroettgers.eu/blog/protomaps/) ⭐️ 6.0/10
+
+一篇博客文章解释了开源地图项目 Protomaps 如何让自托管地图瓦片变得廉价且简单，社区评论分享了低至每月 2 美元的实际部署成本。 这很重要，因为它降低了开发者拥有自己地图基础设施的门槛，提高了隐私和访问控制，同时减少了对公共瓦片提供商的依赖。 Protomaps 使用 PMTiles 格式，将地图瓦片存储在 S3 或 Cloudflare R2 等通用存储上的单个归档文件中，并通过 HTTP 范围请求提供服务，无需自定义瓦片服务器。
+
+hackernews · bcye · 11月15日 19:26 · [社区讨论](https://news.ycombinator.com/item?id=50509837)
+
+**背景**: Protomaps 是一个开源项目，将地图数据打包成单个 PMTiles 文件，可以托管在任何静态存储上。PMTiles 读取器使用 HTTP 范围请求仅获取所需的瓦片，从而实现无服务器地图应用。这种方法与传统需要专用基础设施的瓦片服务器形成对比。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://protomaps.com/">Protomaps - The open source map in a file</a></li>
+<li><a href="https://github.com/protomaps/PMTiles">GitHub - protomaps/PMTiles: Pyramids of map tiles in a single ...</a></li>
+<li><a href="https://openfreemap.org/">OpenFreeMap</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了在 Cloudflare R2 上自托管 Protomaps 的积极经验，每月成本约 2 美元，并提到了 OpenFreeMap 和 CoMaps 等类似项目。一些人指出了局限性，例如高分辨率卫星影像在更高缩放级别下变得昂贵。
+
+**标签**: `#maps`, `#self-hosting`, `#protomaps`, `#geospatial`, `#openstreetmap`
+
+---
+
+<a id="item-15"></a>
+## [研究发现乌鸦决策速度是人类的两倍](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html) ⭐️ 6.0/10
+
+《纽约时报》一篇科学文章报道了图宾根大学的研究，显示乌鸦做出视觉感知决策的速度约为灵长类动物（包括人类）的两倍。这项发表在《科学》上的研究挑战了贬义词“鸟脑”，证明鸟类在没有分层大脑皮层的情况下也能实现快速、灵活的认知。 这些发现表明智能可以通过完全不同的大脑结构进化而来，这是趋同进化的一个惊人例子，可能为生物启发计算和 AI 设计提供灵感。它还重新定义了科学家对快速、灵活决策所需神经基础的认识。 研究测量了乌鸦在感知决策任务中对视觉刺激的反应速度，发现它们大约比灵长类快两倍。与哺乳动物不同，鸟类没有分层的大脑皮层，而是依赖独立进化的关联性鸟类皮层，具有不同的神经元设计和连接方式。
+
+hackernews · gumby · 11月15日 17:53 · [社区讨论](https://news.ycombinator.com/item?id=50509023)
+
+**背景**: “鸟脑”一词长期被用来贬低鸟类智力，但数十年研究表明，乌鸦和渡鸦等鸦科动物非常聪明。趋同进化描述的是亲缘关系较远的物种独立进化出相似特征的现象，乌鸦是经典例子：它们的大脑连接方式与哺乳动物截然不同，却支持相当的认知能力。这对神经科学以及构建受生物计算启发的人工系统具有启示意义。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261111005850.htm">Crows can make decisions twice as fast as humans, scientists ...</a></li>
+<li><a href="https://www.science.org/doi/10.1126/science.1098410">The Mentality of Crows: Convergent Evolution of Intelligence ...</a></li>
+<li><a href="https://www.thetransmitter.org/behavior/crows-have-brains-in-the-fast-lane/">Crows have brains ‘in the fast lane’ | The Transmitter ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的评论者强调，智能至少独立进化了三次——哺乳动物、鸦科动物和章鱼——其中鸦科动物使用不同的神经元设计和大脑结构。一些人质疑标题的逻辑，指出“鸟脑”暗示的是愚蠢而非缓慢，另一些人推测较小的大脑因连接距离更短而能更快处理信息，并指出鸟类的磁感应和复杂的生物钟是智力被低估的进一步证据。
+
+**标签**: `#animal cognition`, `#convergent evolution`, `#neuroscience`, `#biologically inspired AI`, `#decision-making`
+
+---
+
+<a id="item-16"></a>
+## [Ductus 网页工具可根据用户样本生成自定义手写字体](https://ductus.sorenblank.com/) ⭐️ 6.0/10
+
+一个名为 Ductus 的新网页工具（网址为 ductus.sorenblank.com）允许用户直接在浏览器中绘制样本字符，从而创建自定义手写字体。该工具因其有趣且实用的执行方式在 Hacker News 上引起了关注。 该工具使字体创建民主化，任何拥有浏览器的人都能使用，无需专业软件或设计技能。它反映了 AI 辅助个性化工具日益增长的趋势，使用户能够根据自己的笔迹生成独特的数字资产。 该工具目前不支持带重音符号的字符和上下文连笔字形，这意味着它无法完全复现手写的自然变化。用户必须逐个绘制字符，输出的字体更像是手写印刷体，而非连笔草书。
+
+hackernews · coinfused · 11月15日 19:42 · [社区讨论](https://news.ycombinator.com/item?id=50509972)
+
+**背景**: 手写字体通常由专业设计师手动绘制每个字形，或使用专门软件将扫描的手写样本转换为字体文件。传统服务通常要求用户提交大量样本，包括多字符组合，以捕捉草书的连笔特性。近期 AI 的进步使得更自动化的方法成为可能，例如从少量样本甚至手写照片生成字体。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.mixfont.com/handwriting-to-font">Handwriting to Font — Create Fonts from Handwriting — Mixfont</a></li>
+<li><a href="https://cursivefontgenerator.me/ai-handwriting-generator">AI Handwriting Generator – Write New Text in Your Style</a></li>
+<li><a href="https://www.scriptbyai.com/draw-your-font-claude-code-skill/">Generate Real Fonts From Your Handwriting - draw-your- font</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者称赞该工具的执行力和易用性，有人指出在手机上尝试很有趣。然而，几位用户指出了局限性：缺少重音字符使得它无法用于许多语言中的姓名，而且该工具无法捕捉自然手写的上下文变形。一位用户建议添加包含自定义字母的方式，另一位则表示希望看到连笔草书的支持。
+
+**标签**: `#handwriting`, `#font-generation`, `#web-tool`, `#AI`, `#personalization`
+
+---
+
+<a id="item-17"></a>
+## [基于种子生成地形的 WebGL 飞行模拟器](https://baron.by.dai.studio/) ⭐️ 5.0/10
+
+一个基于浏览器的 WebGL 飞行模拟器在 Hacker News 上分享，该模拟器使用程序化种子生成地形，获得了普遍积极但温和的讨论，共有 11 条评论。 这个演示展示了 WebGL 在无需插件的情况下在浏览器中渲染交互式 3D 图形的能力，并突出了游戏开发中程序化生成的增长趋势。对于图形和游戏开发社区来说，这是一个有趣的例子，但并非技术突破。 该模拟器使用种子来程序化生成地形，可能采用了 Perlin 噪声等噪声函数来实现无限且一致的地形。社区反馈要求提供源代码、配平控制和可跳过的对话框，指出了改进空间。
+
+hackernews · ranger\_danger · 11月15日 20:20 · [社区讨论](https://news.ycombinator.com/item?id=50510296)
+
+**背景**: WebGL 是一个 JavaScript API，用于在任何兼容的网络浏览器中渲染交互式 2D 和 3D 图形，无需插件，紧密遵循 OpenGL ES 2.0。程序化地形生成通常使用带有种子的 Perlin 噪声等噪声函数来创建确定性但多样的景观。飞行模拟器旨在为训练或娱乐重现飞机飞行和环境。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/WebGL">WebGL - Wikipedia</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL: 2D and 3D graphics for the web - Web APIs | MDN</a></li>
+<li><a href="https://imadrahmoune.com/terrain-generation/">Procedural terrain generation</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍称赞该模拟器有趣且出奇地真实，一位狂热的飞行模拟器玩家称其“相当棒”。其他人要求提供源代码、配平控制和可跳过的对话框，而一位评论者指出它类似于编码代理根据提示可以产生的结果。
+
+**标签**: `#WebGL`, `#flight-simulator`, `#procedural-generation`, `#gamedev`, `#browser-graphics`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-18"></a>
+## [SpaceX 用「筷子」机械臂首次成功夹住超重型助推器，创历史](https://www.ifanr.com/1689501?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 9.0/10
+
+2024 年 10 月 13 日，SpaceX 在星舰第五次试飞中，使用发射塔的「筷子」机械臂成功在半空中夹住了超重型助推器，这是人类首次以这种方式回收火箭助推器。 这一成就代表了可重复使用火箭技术的重大范式转变，通过取消着陆腿并实现助推器的快速复用，有望降低发射成本和周转时间。 此次捕获由「Mechazilla」发射塔完成，该塔使用两个大型机械臂在助推器下降时将其抓住；该助推器没有着陆腿，完全依靠发射塔进行回收。
+
+rss · 爱范儿 · 11月15日 02:47
+
+**背景**: SpaceX 的星舰是一个完全可重复使用的两级火箭系统，超重型助推器是其第一级。与使用着陆腿着陆的猎鹰 9 号不同，超重型助推器设计为被发射塔捕获，以减轻重量并实现更快复用。昵称为 Mechazilla 的发射和捕获塔上的「筷子」机械臂是实现快速复用的关键创新。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/SpaceX_reusable_launch_system_development_program">SpaceX reusable launch system development program - Wikipedia</a></li>
+<li><a href="https://www.youtube.com/watch?v=vik9WMr2dRM">SpaceX&#x27;s Historic &#x27;Chopsticks&#x27; Catch - Starship Booster ...</a></li>
+<li><a href="https://gtwebs.com/space/mechazilla-spacex-booster-catch-chopstick-arms/">How SpaceX Catches Boosters With Mechazilla Chopstick Arms</a></li>
+
+</ul>
+</details>
+
+**标签**: `#SpaceX`, `#Starship`, `#reusable rockets`, `#space exploration`, `#Elon Musk`
+
+---
+
+<a id="item-19"></a>
+## [周报：英伟达 CEO 辞职、阿里分拆平头哥、Anthropic 启动 IPO 路演](https://www.tmtpost.com/8205592.html) ⭐️ 9.0/10
+
+11 月 9 日至 14 日当周，英伟达 CEO 黄仁勋辞任，CFO 克雷斯出任临时 CEO；阿里巴巴拟分拆半导体公司平头哥在港股独立上市；Anthropic 启动 IPO 路演，估值较峰值近腰斩。此外，DeepSeek 发布全家桶应用 API，谷歌发布 Gemini 4 Hydrogen，微软为全球服务中断十小时致歉，美国人工智能建设遭遇电力瓶颈。 黄仁勋离开英伟达标志着这家 AI 芯片领导者一个时代的结束，在激烈竞争下可能影响其战略方向。阿里分拆平头哥有望释放价值并加速中国半导体自主化，而 Anthropic 估值缩水则预示 AI 初创企业热潮降温，可能影响整个行业的投资者情绪。 Anthropic 的 IPO 预计最高募资 640 亿美元，估值约 1.3 万亿美元，低于此前 2 万亿美元的估计，股票将于 2026 年 11 月 19 日起在纳斯达克交易。平头哥成立于 2018 年，由阿里收购的中天微和达摩院芯片团队整合而成，已开发出真武 M890 等 AI 芯片，并拥有包括 V900 和 J900 在内的路线图。
+
+rss · 钛媒体 · 11月15日 06:19
+
+**背景**: 英伟达是 AI 训练和推理所用 GPU 的主导设计者，黄仁勋作为其公众面孔已超过三十年。平头哥半导体是阿里巴巴的芯片设计部门，专注于 AI 处理器和嵌入式 CPU，其分拆反映了中国科技巨头寻求半导体资产独立上市的趋势。Anthropic 是一家以 Claude 模型闻名的 AI 安全与研究公司，其 IPO 是最受期待的科技上市之一，估值下降反映了市场对 AI 估值的普遍谨慎。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic_IPO">Anthropic IPO</a></li>
+<li><a href="https://m.yicai.com/news/100029138.html">刚刚，阿里成立 半 导 体 公司，为何名叫“ 平 头 哥 ”</a></li>
+<li><a href="https://post.smzdm.com/p/aww7v75m/">真武M890只是开胃菜！ 阿里 平 头 哥 首曝路线图：V900+J900...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#Alibaba`, `#Anthropic`, `#IPO`, `#AI`
+
+---
+
+<a id="item-20"></a>
+## [黄仁勋或重返英伟达任 CEO；苹果智能眼镜；OpenAI 撤销机器人团队](http://www.geekpark.net/news/373994) ⭐️ 8.0/10
+
+据英国《金融时报》报道，黄仁勋正考虑重返英伟达担任首席执行官，其在硅谷的盟友正组建“作战室”向董事会施压，并计划争取白宫支持。另据彭博社 Mark Gurman 爆料，苹果计划在 2027 年 6 月的 WWDC 上发布首款 AI 智能眼镜（代号 N50），并于年底前上市；同时 OpenAI 已确认撤销独立机器人研究团队，将研究人员重新分配到核心部门。 英伟达作为 AI 芯片的主导供应商，若 CEO 发生变动，可能重塑 AI 硬件行业格局，并影响无数依赖其 GPU 的公司。苹果智能眼镜将标志着其进入目前由 Meta Ray-Ban 眼镜主导的 AI 可穿戴市场，而 OpenAI 的重组则表明其战略转向通用模型而非专门的机器人团队。 黄仁勋并不持有英伟达的控股股份，因此无法推翻董事会的任何决定，且董事会正在进行独立调查。苹果智能眼镜不会显示 AR 画面，而是以 Siri AI 为核心，通过摄像头感知环境，并需搭配较新款 iPhone 使用；原型机运行精简版 visionOS 28，搭载基于 Apple Watch 芯片开发的处理器。OpenAI 的机器人研究人员转入首席研究官 Mark Chen 领导的核心研究部门，应用和硬件人员则加入总裁 Greg Brockman 负责的 Applied 部门。
+
+rss · 极客公园 · 11月16日 00:47
+
+**背景**: 英伟达是全球领先的 AI 训练和推理 GPU 设计公司，黄仁勋是其联合创始人兼长期 CEO。苹果一直有传闻在开发智能眼镜，以与 Meta 的 Ray-Ban 智能眼镜竞争，后者已推动 AI 可穿戴设备普及。以 ChatGPT 闻名的 OpenAI 此前一直在投资机器人研究，但现在正优先发展可跨领域应用的通用 AI 模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/">NVIDIA Corporation - NVIDIA Announces CEO Transition</a></li>
+<li><a href="https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html">Apple Smart Glasses: Release date, features, design and price ...</a></li>
+<li><a href="https://tech.yahoo.com/ai/articles/exclusive-openai-disbands-stand-alone-170530559.html">Exclusive: OpenAI disbands its stand-alone robotics team as ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#NVIDIA`, `#Apple`, `#OpenAI`, `#黄仁勋`, `#智能眼镜`
+
+---
+
+<a id="item-21"></a>
+## [早报：英伟达 CEO 继任传闻、苹果智能眼镜爆料、微软大宕机](https://www.ifanr.com/1689521?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+一份每日新闻汇总报道称，英伟达董事会据传正在讨论 CEO 黄仁勋的去留问题，分析师们猜测可能的继任者；苹果据传将于明年 6 月发布智能眼镜；微软全球服务故障持续超过 30 小时后恢复。汇总还提到华为高管称其大折叠手机已成为数千万用户的主力机，以及苹果新款 HomeView 智能屏在首批评测中出现语音和账户切换问题。 鉴于黄仁勋作为 AI 计算热潮的代表人物，英伟达 CEO 继任传闻意义重大，任何领导层变动都可能影响公司战略和投资者信心。微软宕机事件凸显了全球云基础设施的脆弱性，而苹果智能眼镜的传闻则表明可穿戴技术领域的竞争正在加剧。 微软服务故障持续超过 30 小时，影响多项服务后才宣布恢复。苹果新款智能屏 HomeView 售价 299 美元，首批评测者报告了语音命令和账户切换方面的问题。华为关于折叠屏手机成为主力的说法值得注意，但根据 TrendForce 的数据，全球折叠屏渗透率仍较低，约为 1.6%。
+
+rss · 爱范儿 · 11月15日 23:55
+
+**背景**: 英伟达成立于 1993 年，在 CEO 黄仁勋的领导下已成为全球市值最高的公司之一，黄仁勋也是 AI 革命的公众面孔。苹果的 HomeView 是一款新型智能显示屏，可作为家庭中枢并配备 Siri AI，于 2026 年 10 月发布，2026 年 11 月上市。以华为 Mate X 系列为代表的折叠屏手机是一个增长中的高端细分市场，但仍只占智能手机总销量的一小部分。微软的云服务（包括 Azure 和 Microsoft 365）是全球企业的关键基础设施，因此服务中断具有高度破坏性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Jensen_Huang">Jensen Huang - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apple_HomeView">Apple HomeView</a></li>
+<li><a href="https://post.smzdm.com/p/a82666g7/">余承东称大折叠成千万人主力机：这个“千万”是什么口径，对你意味着什...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#Apple`, `#Microsoft`, `#Huawei`, `#tech news`
+
+---
+
+<a id="item-22"></a>
+## [边缘 AI 日报：英伟达 CEO 辞任、OpenAI 机器人重组、苹果 Siri、Meta 罚款](https://www.tmtpost.com/8206064.html) ⭐️ 7.0/10
+
+一份日报汇总报道称，英伟达 CEO 黄仁勋已辞任，引发继任与机构能力考验；OpenAI 重组了机器人团队；苹果正通过 App Intents 推动 Siri 成为执行入口。该汇总还提到 Meta 因默认相册访问被罚 8.05 亿欧元，以及 AI 勒索软件产业化加速。 若英伟达 CEO 变动属实，可能影响该公司在出口管制下的合规战略及其 32 亿美元中国项目；OpenAI 的重组和苹果的 Siri 战略则预示着 AI 安全治理和语音助手生态的转变。Meta 的罚款和 AI 勒索软件趋势凸显了大型科技公司面临的监管和安全压力日益增大。 该汇总提到出口管制审查、安全团队及 32 亿美元中国项目是英伟达面临的合规与算力闭环风险，但 CEO 辞任的说法似乎未经证实。苹果的 App Intents 框架允许应用将操作声明为意图，使 Siri 能够执行任务；同时有报告称 AI 相关勒索软件在攻击中占很大比例。
+
+rss · 钛媒体 · 11月16日 00:47
+
+**背景**: 英伟达面临美国出口管制，限制向中国销售 A100 和 H100 等先进 AI 芯片，使合规成为关键风险。苹果的 App Intents 框架允许开发者将应用操作暴露给 Siri、快捷指令和小组件，使 Siri 从语音助手演变为执行枢纽。勒索软件即服务（RaaS）平台和 AI 工具正在降低网络犯罪门槛，使攻击产业化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developer.apple.com/documentation/appintents/">App Intents | Apple Developer Documentation</a></li>
+<li><a href="https://www.adaptivesecurity.com/blog/ransomware-trends-2026">Ransomware Trends 2026: AI Attacks &amp; Defense Strategies</a></li>
+<li><a href="https://neuralwired.com/2026/06/05/nvidia-chip-export-controls-china-2026/">Nvidia &amp; US Chip Export Controls: Complete 2026 Guide</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#OpenAI`, `#Apple`, `#Meta`, `#AI security`
+
+---
+
+<a id="item-23"></a>
+## [国产芯片行业掀起融资热潮](https://www.tmtpost.com/8205694.html) ⭐️ 7.0/10
+
+据钛媒体报道，一股融资热潮正席卷中国国内芯片行业，资本正涌入从新架构到新产线的整个供应链。 这波投资热潮表明市场对中国推动半导体自给自足充满信心，并可能加速国内芯片生态系统的技术突破和产能扩张。 融资覆盖芯片供应链的多个环节，包括先进半导体架构和智能化高效产线，反映出广泛的资本投入而非孤立押注。
+
+rss · 钛媒体 · 11月15日 06:48
+
+**背景**: 在美国出口限制的背景下，中国一直在积极追求半导体自给自足，旨在建立本土供应链。国内产业在 DUV 光刻机和存储芯片等领域取得了进展，但在先进技术方面仍严重依赖进口。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://eu.36kr.com/en/p/4070439373919366">China&#x27;s Domestic Chip Industry: Surging Financing Boom with ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semiconductor_industry_in_China">Semiconductor industry in China - Wikipedia</a></li>
+<li><a href="https://www.dbs.com/content/article/pdf/AIO/062025/250602_insights_China_semiconductor_crisis_breeds_opportunity.pdf">Regional Industry Focus China Semiconductor - DBS Bank</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor`, `#chip financing`, `#China tech`, `#supply chain`, `#investment`
+
+---
+
+<a id="item-24"></a>
+## [汽车激光雷达厂商禾赛进军机器人关节执行器业务](https://www.tmtpost.com/8205984.html) ⭐️ 6.0/10
+
+据报，主要汽车激光雷达供应商禾赛已从一家机器人公司获得首批执行器订单，标志着其正式进入机器人关节/执行器业务。 这标志着禾赛向火热的人形机器人供应链进行战略多元化，可能为其在汽车激光雷达之外开辟新的收入来源，并加剧零部件厂商之间的竞争。 该报道仅用一句话提及首批执行器订单，未透露客户名称、订单规模或执行器的技术规格等细节。
+
+rss · 钛媒体 · 11月16日 01:12
+
+**背景**: 机器人关节执行器是集成了电机、减速器、编码器和驱动器的核心部件，用于实现机器人手臂和腿部的精确运动。禾赛以汽车激光雷达闻名，但一直在拓展机器人业务，其第二季度业绩显示机器人业务增长近两倍，SGI 产品线首次创收。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://sensor.ofweek.com/2026-08/ART-81006-12008-30699070.html">禾 赛 Q2净赚7000万， 机 器 人 业 务 增长近两倍，SGI... - OFweek传感 器 网</a></li>
+<li><a href="https://eyoubot.com/blog/robot-joint-actuator-introduction-selection">机 器 人 关 节 执 行 器 是什么，如何选：参数解析与选型指南 | 意优科 技</a></li>
+<li><a href="https://eu.36kr.com/zh/p/3647460169092745">揭秘！ 最神秘 机 器 人 公司浮出水面</a></li>
+
+</ul>
+</details>
+
+**标签**: `#激光雷达`, `#禾赛`, `#机器人执行器`, `#大厂战略`, `#产业跨界`
+
+---
+
+<a id="item-25"></a>
+## [AI 眼镜风口被 35 元华强北山寨货截胡](https://www.tmtpost.com/8205823.html) ⭐️ 6.0/10
+
+文章指出，尽管 AI 眼镜行业获得了 90 亿元融资，但华强北低价山寨产品（最低仅 35 元）正在截胡市场，反映出该品类的风口想象力正被透支。 这凸显了 AI 眼镜领域商品化和价格战的风险，大品牌和硬件创业公司可能难以将昂贵产品与廉价仿品区分开来，可能减缓创新和投资。 文章主要基于观点，缺乏独家数据或重大事件触发，但强调了当华强北能以极低成本快速复制并销售类似产品时，硬件差异化面临的挑战。
+
+rss · 钛媒体 · 11月16日 01:04
+
+**背景**: 华强北是深圳著名的电子市场，以快速生产热门电子产品的低价山寨货而闻名。AI 眼镜集成了摄像头、扬声器和 AI 助手，已吸引大量投资，但由于价格高昂和用途有限，在消费者普及方面面临障碍。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://post.smzdm.com/p/avd4r6g7/">戴 AI ...</a></li>
+<li><a href="https://video.sina.com.cn/p/finance/2026-06-05/detail-iniakmqh2688791.d.html">AI 眼 镜 成 华 强 北 顶流 | 新浪网</a></li>
+<li><a href="https://bianews.com/news/details?id=202552">被 AI 包围的 华 强 北 ：老板称产品鸡肋，真风口还是假热闹</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI眼镜`, `#华强北`, `#硬件创业`, `#价格战`, `#科技产业`
+
+---
+
+<a id="item-26"></a>
+## [脑机接口“元年”叙事：一半真实进展，一半仍在等待](https://www.tmtpost.com/8205824.html) ⭐️ 6.0/10
+
+一篇中文科技媒体分析文章指出，脑机接口（BCI）的“元年”叙事只有一半有真实进展支撑，另一半仍停留在等待阶段。文章强调，相比植入手术的数量，来自植入患者的长期随访数据才是衡量该领域成熟度的更有意义指标。 这一视角之所以重要，是因为投资者、监管机构和公众常将手术里程碑等同于临床成功，从而可能抬高对脑机接口初创公司和科技巨头神经技术项目的预期。将关注点转向长期结果，有望带来更现实的时间表以及更明智的监管与投资决策。 文章指出，尽管植入数量能登上头条，但监管机构和临床医生真正需要的是多年随访积累的持久安全性和有效性数据，用以评估脑机接口器械。文章暗示，手术公告与已发表的长期结果之间的差距，是该行业炒作的一个关键来源。
+
+rss · 钛媒体 · 11月16日 01:04
+
+**背景**: 脑机接口（BCI）是建立大脑与外部设备之间直接通信通路的一类系统，应用范围从帮助残障患者恢复运动控制到潜在的人类增强。侵入式脑机接口需要将电极植入大脑，并作为高风险医疗器械受到监管，通常从研发到获批需要 5 至 8 年。脑电图（EEG）和功能性近红外光谱（fNIRS）等非侵入式方法更安全，在消费电子和早期医疗场景中应用更广，但侵入式系统以手术风险和长期生物相容性问题为代价，换取更高的信号保真度。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://docs.pingcode.com/ask/69303.html">「 脑 机 接 口 （ BCI ）」究竟是什么，有什么具体的作用 – PingCode</a></li>
+<li><a href="https://www.kwanlon.com/news/176.html">全面了解 脑 机 接 口 （Brain-Computer Interface, BCI ...</a></li>
+<li><a href="https://m.anytesting.com/news/1957141.html">全球 脑 机 接 口 （ BCI ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#脑机接口`, `#BCI`, `#科技行业分析`, `#医疗科技`, `#新兴技术`
+
+---
+
+<a id="item-27"></a>
+## [每日汇总：APEC 深圳倡议、特斯拉 Cybercab 限制、51 个创新药进医保](https://www.tmtpost.com/8205965.html) ⭐️ 6.0/10
+
+APEC 工商峰会将首发“深圳倡议”，超百家世界 500 强参会；特斯拉 Cybercab 个人购车设使用限制，且暂禁商业用途；再创新高，51 个一类创新药进入新版国家医保药品目录。 这些进展表明中国通过 APEC 推动全球经济合作，对自动驾驶汽车部署持监管谨慎态度，并大幅扩大创新疗法的保险覆盖范围，影响患者、医疗行业以及更广泛的科技和金融领域。 Cybercab 的限制意味着个人买家不能将车辆用于网约车等商业用途，特斯拉未说明这些限制何时可能取消；51 个创新药覆盖肿瘤、罕见病、慢性病和精神疾病，目录共新增 107 种药品。
+
+rss · 钛媒体 · 11月15日 23:20
+
+**背景**: APEC 工商峰会是亚太经济合作的重要论坛，“深圳倡议”可能旨在促进贸易和创新。特斯拉 Cybercab 是一款即将推出的自动驾驶电动汽车，专为 Robotaxi 服务设计，其使用限制反映了监管和商业战略考量。中国国家医保药品目录每年更新以纳入新药，一类创新药（具有显著临床价值）的纳入是该国创新格局的关键指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E7%89%B9%E6%96%AF%E6%8B%89Cybercab">特 斯 拉 Cybercab - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www1.xinhuanet.com/politics/20261114/ee398c5473214b7ebd8a547e70f43e65/c.html">新华社权威快报丨再创新高 51个一类新药进入新版国家医保药品目录-新...</a></li>
+<li><a href="https://www.yicai.com/news/103440686.html">再创新高，51个一类新药进入新版国家医保药品目录</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Tesla`, `#APEC`, `#Healthcare Policy`, `#SpaceX`, `#Finance`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-28"></a>
+## [澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TTnhDUk5XbWFHYkZwci05amU3ekUybUptd0lCSG9aX0JqR0poSW5BTDkxTExTT2pIdTEtVndwWWVqamllLXZ0azdGcjNxdnFwbDJkQUJ6TQ?oc=5) ⭐️ 7.0/10
+
+澳大利亚储备银行（RBA）的一项研究发现，AI 对整体劳动力市场的冲击目前仍然有限，但 15 至 24 岁的年轻劳动者和应届毕业生在软件开发、客服等受 AI 影响较大的职业中，就业率更低、失业率更高。自 ChatGPT 推出以来，AI 高影响职业的招聘岗位降幅最大。 这是一项来自权威央行的研究，量化了 AI 替代风险的年龄结构，为客服和软件行业的人力规划、技能转型和自动化部署策略提供了具体依据。它也表明，AI 对劳动力市场的影响集中在初级岗位上，而非均匀分布于整个劳动力群体。 该研究尚未证明直接的因果关系，宏观经济因素同样被视为关键；招聘平台 SEEK 的数据表明，AI 不仅在辅助现有工作，也在催生对 AI 相关技能的新需求。
+
+rss · 客服行业动态 · 11月15日 11:53
+
+**背景**: 澳大利亚储备银行是澳大利亚的中央银行，其研究对政策和商业规划具有重要参考价值。ChatGPT 等生成式 AI 工具引发了担忧：过去由初级员工完成的任务——如基础客户咨询、简单编程——如今可以被自动化。斯坦福大学的类似研究发现，生成式 AI 对美国初级岗位的冲击尤为严重，客服岗位是受影响最大的职业之一。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.10jqka.com.cn/20261115/c681830431.shtml">澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位</a></li>
+<li><a href="https://www.ithome.com/1/027/432.htm">澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位 - I...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261115A0C1UY00">澳大利亚央行研究：AI率先冲击年轻劳动者_腾讯新闻</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI 就业影响`, `#客服行业`, `#劳动力市场`, `#自动化替代`, `#央行研究`
+
+---
+
+<a id="item-29"></a>
+## [小伙购买降价 RTX 5080 显卡，被假客服诱导开启屏幕共享，损失五千余元](https://news.google.com/rss/articles/CBMijAFBVV95cUxONTVmVGI0dWhjaUQtNVl0UUpadkx0TE1rX1hJNGI1WlR5QVJ4RUU0T01lT0pLLTcyaDlMaXR1czNmNkRtbDdROHN5SER5cWNSRFNZWnp4MTMwRG84M3ItMXdXSUZWN2lSc2RXVEI0a1k4aGIxTzhjYUpBZmh6YU9nQXJPSXFOWndpZHRXdw?oc=5) ⭐️ 6.0/10
+
+中国一名男子在网上购买降价的英伟达 RTX 5080 显卡后遭遇诈骗。尽管付款时已弹出风险提示，他随后仍被假冒的客服人员联系，并被诱导开启屏幕共享，导致额外损失五千多元。 此案凸显了电商领域中屏幕共享诈骗的威胁日益严重，诈骗分子冒充客服人员以获取受害者设备的远程访问权限。这强调了加强防诈骗措施和提升消费者意识的必要性，尤其是对于高价值电子产品的购买。 受害者在付款时收到了风险提示但仍继续操作，随后诈骗者指示他开启屏幕共享，很可能是为了获取银行信息等敏感数据。五千多元的额外损失发生在初始购买之后，表明这是一个多步骤的诈骗方案。
+
+rss · 客服行业动态 · 11月16日 00:56
+
+**背景**: 屏幕共享诈骗是指诈骗分子冒充客服代表，说服受害者共享屏幕（通常通过 Zoom 或 TeamViewer 等合法应用），以窃取登录凭证或授权交易。假客服诈骗在电商中很常见，诈骗者利用买家对平台的信任进行欺骗。英伟达 RTX 5080 是一款高端显卡，此类商品的折扣常被用作诱饵。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.fca.org.uk/consumers/screen-sharing-scams">Screen sharing scams | FCA</a></li>
+<li><a href="https://www.uccu.com/security-alert-screen-sharing-fraud/">Don’t become the victim of Screen Sharing Scams - UCCU</a></li>
+<li><a href="https://lock.pub/en/blog/shopee-lazada-scam-vietnam">Online Shopping Scams: How to Spot Fake Sellers... | LOCK.PUB Blog</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#fraud`, `#screen sharing`, `#security`, `#e-commerce`
+
+---
+
+<a id="item-30"></a>
+## [北京奔驰计划 2026 年新增 10 个服务网点，覆盖空白市场](https://news.google.com/rss/articles/CBMieEFVX3lxTE1YRjNBTF9zMGc0TVhfMHYzQTNNVGQ5TFZhSlJhdlpRVWFUa210bXl2OVI3UnhfRmFOdFRXWHdnV3gyNnlOVmUzZGROY2twNl9ib3FXNXVTMUNKY0VlVHZmd3dROXh4Z0Y5YUdEOWE0M1ZDbGxJZmg2cA?oc=5) ⭐️ 5.0/10
+
+北京奔驰客户服务负责人杰罗在接受采访时表示，公司计划今年新增 10 个服务网点，以覆盖空白市场区域。 这一扩张将改善服务不足地区梅赛德斯-奔驰车主的售后便利性，有望提升客户满意度和品牌忠诚度，从而在竞争激烈的中国豪华车市场中增强竞争力。 采访中未透露新网点的具体选址和投资金额，但此举符合北京奔驰在全国范围内加强服务网络的整体战略。
+
+rss · 客服行业动态 · 11月15日 07:07
+
+**背景**: 北京奔驰是北汽集团与戴姆勒（梅赛德斯-奔驰）的合资企业，主要为中国市场生产梅赛德斯-奔驰汽车。对于豪华品牌而言，售后服务网络至关重要，便捷且高质量的服务是留住客户和塑造品牌形象的关键因素。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cqn.com.cn/auto/content/2021-06/08/content_8700716.htm">北 京 奔 驰 拟将 北 京 两工厂产能提高45...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#automotive`, `#service network`, `#Beijing Benz`, `#after-sales`
+
+---
+
+<a id="item-31"></a>
+## [天津日报报道 3741 人客服团队守护温暖“不掉线”](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHV1VGhXbXB0TU1VZUc0NnBkWVZmUGlIOHNfbm9CaFZha2xTLVlVamRpZGwwdmxVajBmNEdGSzAwRHlVS0dkT01jbWhtMW1yb1gzdXpOWXBvT2x6Q3M0SkhEeEp0bHlyaUZfdFdzRG5pRGIwcGpXSW1Ubm5XaTZMYlZR?oc=5) ⭐️ 4.0/10
+
+《天津日报》发表了一篇关于 3741 人客服团队的专题报道，强调他们为确保服务不中断所付出的奉献以及团队的规模。 这篇报道强调了大规模人力配置在保持服务连续性方面的重要性，尤其是在高峰期，并突出了敬业客服团队在基本公共服务中的作用。 报道重点介绍了团队确保服务可用的承诺，可能是在节假日或紧急情况下，但除了人员数量外，并未提供太多技术或运营细节。
+
+rss · 客服行业动态 · 11月15日 22:36
+
+**背景**: 客服团队对于处理咨询和投诉至关重要，在中国，大型公用事业或政府服务热线通常雇佣数千名员工以确保全天候可用。此类专题报道在地方媒体中很常见，用于在需求高峰或危机期间展示奉献精神和公共服务。
+
+**标签**: `#customer service`, `#staffing`, `#service continuity`, `#local news`, `#human interest`
+
+---
