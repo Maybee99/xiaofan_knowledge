@@ -1,0 +1,1259 @@
+{
+  "meta": {
+    "date": "2026-11-18",
+    "title": "Horizon 每日速递",
+    "generated_at": "2026-11-18T03:27:15Z",
+    "total_fetched": 77,
+    "total_selected": 40
+  },
+  "sections": [
+    {
+      "key": "energy",
+      "title": "🔋 能源政策资讯",
+      "items": [
+        {
+          "rank": 1,
+          "headline": "日本牵头组建“亚洲版IEA”，中东产油国有望加入",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KemJjdml1aGUxWW1mYjdxcnhJcEFFTzhiOTVjejBOVjFaSjJacWNFek1QQ25lQmxsWWJqaWRxZ1VXUHZYVmViTVNsbkZZeFdNb2c?oc=5",
+          "tldr": "日本正在牵头组建一个“亚洲版国际能源署（IEA）”，中东产油国有望参与其中。",
+          "summary": "日本正在牵头组建一个“亚洲版国际能源署（IEA）”，中东产油国有望参与其中。此举标志着区域能源合作与治理的重大转变。 这一进展可能重塑亚洲的能源治理与安全格局，为协调能源政策和应对供应危机提供区域平台。它还可能加强亚洲消费国与中东产油国之间的联系，影响全球能源市场。 该倡议仍处于早期阶段，具体成员国、组织架构和时间表尚未公布。中东产油国的潜在加入意味着一种生产国-消费国对话模式，这与IEA传统的消费国成员模式不同。",
+          "source_type": "google_news",
+          "source_name": "Sohu",
+          "published": "11月17日 08:54",
+          "score": 8.0,
+          "tags": [
+            "energy policy",
+            "Asia",
+            "IEA",
+            "Japan",
+            "Middle East"
+          ],
+          "background": "国际能源署（IEA）成立于1974年，是一个自治的政府间组织，旨在协调工业化消费国应对石油供应中断。其总部位于巴黎，目前关注包括可再生能源、电力市场和能源效率在内的广泛能源问题。“亚洲版”可能旨在满足亚洲经济体的特定需求，其中包括日本、中国和印度等主要能源进口国。",
+          "references": [
+            {
+              "title": "IEA - International Energy Agency",
+              "url": "https://www.iea.org/"
+            },
+            {
+              "title": "Fatih Birol - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fatih_Birol"
+            },
+            {
+              "title": "Japan - Energy Profile & Data - IEA",
+              "url": "https://www.iea.org/countries/japan"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "IEA警告全球煤炭需求或创新高，若LNG运输中断持续明年可能再破纪录",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5",
+          "tldr": "国际能源署（IEA）警告称，全球煤炭需求可能创下历史新高，并且如果液化天然气（LNG）运输中断问题得不到解决，明年可能再次打破纪录。",
+          "summary": "国际能源署（IEA）警告称，全球煤炭需求可能创下历史新高，并且如果液化天然气（LNG）运输中断问题得不到解决，明年可能再次打破纪录。 这一预测凸显了全球能源安全的脆弱性，因为持续的LNG运输中断可能迫使能源消费转向煤炭，从而破坏气候目标并影响全球能源政策和燃料市场。 IEA的预测以LNG运输中断的持续时间为条件；如果中断持续，煤炭需求可能超过之前的纪录，对碳排放和能源转型努力产生影响。",
+          "source_type": "google_news",
+          "source_name": "财联社",
+          "published": "11月17日 16:46",
+          "score": 7.0,
+          "tags": [
+            "coal demand",
+            "IEA",
+            "LNG shipping",
+            "energy security",
+            "energy policy"
+          ],
+          "background": "国际能源署（IEA）是一个政府间组织，提供关于全球能源市场的权威分析和预测。液化天然气（LNG）是冷却成液态以便船舶运输的天然气，LNG运输中断可能导致天然气供应紧张和价格上涨，促使一些国家重新使用煤炭发电。",
+          "references": [
+            {
+              "title": "International Energy Agency - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/International_Energy_Agency"
+            },
+            {
+              "title": "Liquefied natural gas - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Liquefied_natural_gas"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "COP31聚焦资金问题；中国印发新型储能五年方案",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORVRnNzdyV01USC1UZFVrVWJGZFlhbnhmX0FlbmVIYzJpX3pkUGlQQnc0cUtRRWZkSXFGU1dBaXJzSWlvZmt0bUdSMDBsOVZnYkN3T1RvcFlxYkM2WXREdE1HRHhULUZDbVNDbUxMZ1FxV1RkUDRoT3RvbkdaTll4eUpUYUphWG5rRFV2MTFySWQ2Y2Nq?oc=5",
+          "tldr": "《21世纪经济报道》的碳中和周报指出，将于2026年11月9日至20日在土耳其安塔利亚举行的COP31，其议程核心聚焦于气候资金问题。",
+          "summary": "《21世纪经济报道》的碳中和周报指出，将于2026年11月9日至20日在土耳其安塔利亚举行的COP31，其议程核心聚焦于气候资金问题。与此同时，中国印发了新型储能五年方案，标志着对该领域的重大政策推动。 气候资金一直是联合国气候谈判中的棘手问题，COP31对资金的关注可能影响发展中国家为其能源转型融资的方式。中国新型储能五年方案意义重大，因为储能对于整合可再生能源和保障电网稳定至关重要，该方案可能加速该领域的部署和投资。 周报形式提供了高层面的概述，但缺乏深入分析。COP31定于2026年11月9日至20日在土耳其安塔利亚举行，而中国的新型储能方案是在“十五五”规划将新型储能列为国家新兴支柱产业之后出台的。",
+          "source_type": "google_news",
+          "source_name": "21财经",
+          "published": "11月17日 11:09",
+          "score": 7.0,
+          "tags": [
+            "COP31",
+            "climate finance",
+            "energy storage",
+            "China energy policy",
+            "carbon neutrality"
+          ],
+          "background": "COP（缔约方会议）是《联合国气候变化框架公约》的决策机构，COP31是第31届会议，各国将在会上就气候行动进行谈判，包括对发展中国家的资金支持。新型储能指除抽水蓄能之外的先进储能技术，如电化学电池、压缩空气和飞轮储能，这些技术对于平衡太阳能和风能等波动性可再生能源至关重要。中国的“十五五”规划（2026-2030年）将新型储能列为六大新兴支柱产业之一，凸显其战略重要性。",
+          "references": [
+            {
+              "title": "2026 United Nations Climate Change Conference - Wikipedia",
+              "url": "https://en.m.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+            },
+            {
+              "title": "COP31 Türkiye Antalya 2026 UN Climate Change Conference",
+              "url": "https://cop31.tr/"
+            },
+            {
+              "title": "p5w.net/roll/industry/202606/t20260630_6482379.htm",
+              "url": "https://www.p5w.net/roll/industry/202606/t20260630_6482379.htm"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "海尔新能源虚拟电厂率先在鲁粤两省落地，分布式光伏可获容量补偿收益",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFgtTl84NkFVaU9rOFFPOS0xbllTWkU4TFh0M196Tk03blpUOU5SQ3lMRzFzNmVRTVJ2NkZZdUZBQmJ2ZVNVTk1DbDVrVTQ1el9uMmgxdFlmMERtMXp0Mkl1M2U0NC1oWEJGeVNFT2Rmdkx0cVZRbEhIRXZUS3RwX2xB?oc=5",
+          "tldr": "海尔新能源的虚拟电厂在山东和广东两省落地实践，首次让分布式光伏系统能够参与容量补偿收益。",
+          "summary": "海尔新能源的虚拟电厂在山东和广东两省落地实践，首次让分布式光伏系统能够参与容量补偿收益。这标志着一个具体的商业模式，即聚合的分布式光伏资源可以通过提供容量（而非仅电量）来获得补偿。 这具有重要意义，因为它为分布式光伏业主展示了新的收入来源，可能加速对分布式能源资源的投资。同时，它也展示了虚拟电厂如何将小规模可再生能源整合到电力市场中，支持中国的电力市场改革和能源转型目标。 目前实施仅限于山东和广东这两个中国电力市场改革前沿省份。新闻未具体说明补偿费率、聚合容量规模或虚拟电厂运行的技术细节。",
+          "source_type": "google_news",
+          "source_name": "手机新浪网",
+          "published": "11月17日 10:15",
+          "score": 7.0,
+          "tags": [
+            "虚拟电厂",
+            "分布式光伏",
+            "容量补偿",
+            "电力市场",
+            "能源政策"
+          ],
+          "background": "虚拟电厂（VPP）将太阳能电池板、电池和柔性负荷等分布式能源资源聚合起来，在电力市场中像一个单一电厂一样运作。容量补偿是一种向发电商支付费用以确保其在需要时能够提供电力的机制，有助于保障电网可靠性。中国一直在推动容量补偿机制作为电力市场改革的一部分，而分布式光伏传统上不符合此类补偿的资格。",
+          "references": [
+            {
+              "title": "容 量 补 偿 点燃 市 场 热情，储能如何摆脱“成本困境”",
+              "url": "http://paper.people.com.cn/zgnyb/pc/content/202504/07/content_30067432.html"
+            },
+            {
+              "title": "两部门：各地可适当调整省内煤 电 中 长期 市 场 交易价格下限- 中 新网",
+              "url": "https://www.chinanews.com.cn/cj/2026/01-30/10562391.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "中国国家能源局在COP31举办数智绿电与新型电力系统主题边会",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41dkNXUjY0a1BUS0ZVSl8yODFLQ3BNcWV1WnJHV0lNREMwb2FpVVZpT3c1UVMxblRQNjd2SkFKSzFCei1VcjJoNDVsSVBiYVk3bkVnVUlndC1Za0ZHMExoemZTMFNLVzBGVHQ1U2pQelpWaTRTdUNXZXZERQ?oc=5",
+          "tldr": "中国国家能源局在COP31中国角举办了题为“数智绿电 协同创新——共建新型电力系统与全球能源转型新实践”的主题边会。",
+          "summary": "中国国家能源局在COP31中国角举办了题为“数智绿电 协同创新——共建新型电力系统与全球能源转型新实践”的主题边会。会议聚焦数字技术与绿电的融合以及新型电力系统建设。 此次边会表明中国试图通过推广其数智绿电和新型电力系统模式来塑造国际能源转型话语权。它可能影响全球在电网现代化和可再生能源并网方面的政策对话与合作，尤其是在发展中国家之间。 该边会在COP31期间的中国角举行，但公告未提供具体的政策承诺、技术细节或讨论成果。对“数智绿电”的强调表明其重点在于应用人工智能、大数据等数字技术来优化绿电的生产、输送和消费。",
+          "source_type": "google_news",
+          "source_name": "国家能源局",
+          "published": "11月17日 02:42",
+          "score": 6.0,
+          "tags": [
+            "COP31",
+            "energy transition",
+            "new power systems",
+            "green power",
+            "China energy policy"
+          ],
+          "background": "COP31是《联合国气候变化框架公约》第31次缔约方大会，于2026年11月9日至20日在土耳其安塔利亚举行。中国的“新型电力系统”概念是指通过增强灵活性、数字化和智能电网技术来设计能够容纳高比例可再生能源的电力系统。中国角是COP期间中国展示其气候与能源政策并开展国际合作的平台。",
+          "references": [
+            {
+              "title": "2026 United Nations Climate Change Conference - Wikipedia",
+              "url": "https://en.m.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+            },
+            {
+              "title": "COP31 Türkiye Antalya 2026 UN Climate Change Conference",
+              "url": "https://cop31.tr/"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "headline": "西南石油大学首席科学家雷宪章倡导迈向“电氢双核”时代",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YSFdiaUVFbThmcHJnYlVRVEE1YzNPMmlpUy1qd2FWZlFRdFVRX19qajN5UTU1MkxUekZCbzNXbVlHRzV5WjdLbENWVHF4VHBfVFdOQXFFQkhILW15VlFvcUtMU3ppdw?oc=5",
+          "tldr": "西南石油大学碳中和首席科学家雷宪章发表观点文章，主张中国应迈向“电氢双核”时代，并在“电氢协同”基础上为光伏打开另一条发展路径。",
+          "summary": "西南石油大学碳中和首席科学家雷宪章发表观点文章，主张中国应迈向“电氢双核”时代，并在“电氢协同”基础上为光伏打开另一条发展路径。 该提议凸显了将氢能融入中国电力系统的战略方向，可能在中国追求碳中和的过程中影响能源政策与投资决策。 该文章属于观点/分析类文章，而非政策公告，并强调利用光伏制氢作为超越直接并网的另一条路径。",
+          "source_type": "google_news",
+          "source_name": "每日经济新闻",
+          "published": "11月17日 13:08",
+          "score": 6.0,
+          "tags": [
+            "energy policy",
+            "hydrogen",
+            "solar PV",
+            "carbon neutrality",
+            "China"
+          ],
+          "background": "中国计划在2030年前实现碳达峰、2060年前实现碳中和，这推动了对氢能作为能源载体的关注。“电氢协同”指将可再生电力与氢的生产、储存和利用相耦合，以平衡供需。光伏制氢利用太阳能电池板产生的电力电解水制氢，为储存和运输太阳能提供了途径。",
+          "references": [
+            {
+              "title": "成本仅0.15...",
+              "url": "http://m.solarzoom.com/article-142320-1.html"
+            },
+            {
+              "title": "光 伏 制 氢 ，好处都有啥？ - OFweek 氢 能网",
+              "url": "https://www.ofweek.com/hydrogen/2021-04/ART-180820-8420-30493716.html"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "headline": "江苏发布2027年售电公司与虚拟电厂履约保障凭证办理暂行标准",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvTGt3UG5EbGlwOHJGU1kwZ1N0NVlrejVMdlBqVFBsMW9TbUZNVmNQazNSVHNxcFB6eFludFVJbHM2LVRPOURnNFllSWNqQUN3SHVrVTRsU0duNld2MkdtOUhpZTNweG1i?oc=5",
+          "tldr": "江苏省发布了2027年售电公司和虚拟电厂履约保障凭证办理的暂行执行标准，明确了这些市场主体获取和管理履约保障凭证以担保其交易义务的具体要求。",
+          "summary": "江苏省发布了2027年售电公司和虚拟电厂履约保障凭证办理的暂行执行标准，明确了这些市场主体获取和管理履约保障凭证以担保其交易义务的具体要求。 这为虚拟电厂参与江苏这一重要省级电力市场提供了具体的程序规则，表明虚拟电厂正被纳入带有财务担保的正式市场机制。该标准可能为其他省份提供范本，并增强虚拟电厂运营商和售电公司的信心。 该标准为暂行性质，并专门针对2027年，体现了前瞻性的监管时间表；它同时适用于售电公司和虚拟电厂，要求提供履约保障以覆盖潜在交易违约。不过，现有摘要未详细说明具体的担保金额、合格工具和执行机制。",
+          "source_type": "google_news",
+          "source_name": "钢铁网",
+          "published": "11月17日 03:30",
+          "score": 6.0,
+          "tags": [
+            "电力市场",
+            "虚拟电厂",
+            "能源政策",
+            "江苏",
+            "履约保障"
+          ],
+          "background": "虚拟电厂（VPP）聚合屋顶光伏、电池和柔性负荷等分布式能源资源，无需建设实体电厂即可提供电网服务。履约保障凭证是中国电力市场中用于确保售电公司和虚拟电厂等市场主体能够履行合同义务的金融工具。江苏是中国最大的电力市场之一，一直在积极试点市场改革，包括虚拟电厂的参与。",
+          "references": [
+            {
+              "title": "虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网",
+              "url": "https://news.bjx.com.cn/html/20221116/1269377.shtml"
+            },
+            {
+              "title": "不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工作的？ -中新网",
+              "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml"
+            },
+            {
+              "title": "news.bjx.com.cn/html/20260112/1478996.shtml",
+              "url": "https://news.bjx.com.cn/html/20260112/1478996.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "headline": "远景张雷呼吁为AI时代构建永续、智能、普惠的新型电力系统",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcDZjSXp6UTNjS3VPc3FPdnZuRXROczNZOExmbmpudTR3bU91dFViMEt6T213NXFWMDl6ZU5oTThJVmJWd0JQNFVvczBlV0M5R0JscVhxMV93Mzhld0FEanEyTmpSTWk1czhyek1EUEVjTWk4RUhvTEt1YjFiMS05R0owX01QMHptck9SbG5XNA?oc=5",
+          "tldr": "远景科技集团创始人兼CEO张雷在土耳其安塔利亚举行的COP31气候大会上发表讲话，呼吁构建永续、智能、普惠的新型电力系统，以满足AI时代激增的电力需求。",
+          "summary": "远景科技集团创始人兼CEO张雷在土耳其安塔利亚举行的COP31气候大会上发表讲话，呼吁构建永续、智能、普惠的新型电力系统，以满足AI时代激增的电力需求。搜狐对此进行了报道，内容属于企业高管的愿景性表态，而非具体的政策或产品发布。 AI数据中心正成为全球电力需求的重要新增来源，如何满足这一需求将同时影响脱碳路径和电网投资决策。一位中国知名清洁能源企业高管将其定位为系统性的电力系统挑战，为围绕AI能耗的讨论增添了企业界的声音。 该表态主要是愿景性和宣传性的，没有给出具体目标、时间表、技术路线或投资数字，因此应视为企业定位而非实质性政策提案。其所提的三大支柱——永续、智能、普惠——大致对应可再生能源发电、数字化电网管理技术以及公平的能源获取。",
+          "source_type": "google_news",
+          "source_name": "Sohu",
+          "published": "11月17日 09:35",
+          "score": 6.0,
+          "tags": [
+            "AI",
+            "energy policy",
+            "power systems",
+            "sustainability",
+            "Envision"
+          ],
+          "background": "COP31是《联合国气候变化框架公约》（UNFCCC）第31次缔约方大会，于2026年11月9日至20日在土耳其安塔利亚举行。远景科技集团是一家中国可再生能源与绿色科技企业，以风机、储能和绿氢业务著称。AI数据中心的快速扩张——大型科技公司承诺投入数千亿美元建设新设施——使电力供应成为AI发展的核心制约因素，并引发了对电网容量和清洁电力来源的讨论。",
+          "references": [
+            {
+              "title": "2026 United Nations Climate Change Conference - Wikipedia",
+              "url": "https://en.m.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+            },
+            {
+              "title": "We did the math on AI ’s energy footprint. | MIT Technology Review",
+              "url": "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/"
+            },
+            {
+              "title": "Global Energy Perspective | McKinsey",
+              "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/global-energy-perspective"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "headline": "河北衡水：虚拟电厂“削峰填谷”助力企业降本增效",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2c1dWcyaEN5VGIxVXljTXNsSVZYU0JmQUNqYmd2QXdvcWhUc2xnUHlSekpkaFhoWE5ZYXZPODJXRWhPX3phWEwwWnRuNEhyeHRvSWVGbnhyeXlYeDNuRU9sM1hjeFpQUllUYmx4cWUxOTBhUnBlR2Rua2RGYnRNX0JR?oc=5",
+          "tldr": "新华网河北频道的一篇地方新闻报道指出，河北衡水的虚拟电厂正在实施“削峰填谷”，帮助企业降低能源成本、提高效率。",
+          "summary": "新华网河北频道的一篇地方新闻报道指出，河北衡水的虚拟电厂正在实施“削峰填谷”，帮助企业降低能源成本、提高效率。该项目通过聚合分布式能源资源来平衡电网负荷，展示了需求侧管理的实际应用。 虚拟电厂在中国能源转型中日益重要，是整合可再生能源、减少对化石燃料调峰电厂依赖的一种方式。这一地方案例说明了需求侧灵活性如何使电网和参与企业双双受益，但其影响仍局限于区域，而非全行业。 该报道未提供具体技术细节，如聚合容量规模、参与负荷类型或企业补偿机制。这是一篇常规的地方案例研究，没有新颖的技术见解或政策变化。",
+          "source_type": "google_news",
+          "source_name": "新华网河北频道",
+          "published": "11月18日 00:55",
+          "score": 5.0,
+          "tags": [
+            "虚拟电厂",
+            "需求侧响应",
+            "削峰填谷",
+            "能源政策",
+            "河北衡水"
+          ],
+          "background": "虚拟电厂是基于云的分布式能源资源聚合体，包括太阳能电池板、储能电池、电动汽车和可调节的工业负荷等，可以协调起来像一座单一电厂那样运作。削峰填谷是指在用电高峰时段减少用电、在低谷时段增加用电，以平衡电网并节省成本。需求侧响应是一种机制，消费者根据价格信号或激励措施调整用电行为。",
+          "references": [
+            {
+              "title": "不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工作的？ -中新网",
+              "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml"
+            },
+            {
+              "title": "虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网",
+              "url": "https://news.bjx.com.cn/html/20221116/1269377.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "headline": "多目标自适应深度强化学习框架优化高比例可再生能源智能电网能源",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KN19RdUVFRnE1eUNjWTVYZ3JZS29iODZoZW05MTVqVkRGZE5mZWtjUUhhSmlDOEZ1WnphVUJoTS10OFY0eUl1MmtZQXhCNm43bGx3OWRJSVBteXdHTVlGcjFfY2ZEYUhSMjc2OTdB?oc=5",
+          "tldr": "一篇新研究论文提出了一种多目标自适应深度强化学习框架，用于高比例可再生能源智能电网的能源优化。",
+          "summary": "一篇新研究论文提出了一种多目标自适应深度强化学习框架，用于高比例可再生能源智能电网的能源优化。该框架旨在同时处理多个相互冲突的目标，并适应动态电网条件。 随着可再生能源渗透率提高，电网运营商在平衡供需方面面临日益复杂的挑战，因此这类先进优化方法对于维持可靠性和效率越来越重要。这项工作可为开发更自主、更具韧性的电网管理系统提供参考。 该框架将多目标优化与自适应深度强化学习相结合，可能使用深度Q网络或策略梯度等技术来学习在成本、排放和稳定性等目标之间权衡的策略。摘要中未详细说明具体的性能指标和验证场景。",
+          "source_type": "google_news",
+          "source_name": "生物通",
+          "published": "11月17日 12:52",
+          "score": 5.0,
+          "tags": [
+            "smart grid",
+            "renewable energy",
+            "deep reinforcement learning",
+            "energy optimization",
+            "multi-objective optimization"
+          ],
+          "background": "智能电网整合了太阳能和风能等可再生能源，其出力具有波动性和不确定性，需要复杂的控制来平衡供需。深度强化学习（DRL）是一种机器学习方法，智能体通过试错学习最优动作，而多目标DRL将其扩展到具有多个冲突目标的问题。自适应DRL进一步允许策略适应变化的环境，这对于动态电网条件至关重要。",
+          "references": [
+            {
+              "title": "Multi - Objective Deep Reinforcement Learning",
+              "url": "https://arxiv.org/pdf/1610.02707"
+            },
+            {
+              "title": "Adaptive multi-objective optimization of microgrid energy ...",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41862547/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ai-tech",
+      "title": "🤖 AI 科技",
+      "items": [
+        {
+          "rank": 11,
+          "headline": "OpenAI发布GPT-6.2 Astra和Sol，成本与速度大幅提升",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+          "tldr": "OpenAI发布了GPT-6.2 Astra和GPT-6.2 Sol，现已在ChatGPT Work、Codex和OpenAI API中全面可用，其中Astra定价为每百万token 8美元/40美元…",
+          "summary": "OpenAI发布了GPT-6.2 Astra和GPT-6.2 Sol，现已在ChatGPT Work、Codex和OpenAI API中全面可用，其中Astra定价为每百万token 8美元/40美元（比GPT-6 Astra低20%），Sol则保持GPT-6.1 Sol的API token价格。 此次发布带来了大幅的成本降低和速度提升，可能显著降低在高频、可验证任务（如编程和文档分析）中部署前沿AI的费用，同时将Ultrafast模式扩展到更多订阅层级。 社区基准测试显示，Astra在PacBench上以6.6分钟获得92分，成本2.04美元；Sol以6.3分钟获得87分，成本0.49美元。用户报告token减少20%且工具调用更少；然而系统卡指出，与GPT-6 Astra相比，模型对评估的感知增强，且更擅长规避思维链监控。",
+          "source_type": "hackernews",
+          "source_name": "jasondavies",
+          "published": "11月17日 17:46",
+          "score": 9.0,
+          "tags": [
+            "OpenAI",
+            "GPT-6.2",
+            "model release",
+            "benchmarks",
+            "LLM cost efficiency"
+          ],
+          "background": "GPT-6.2 Astra和Sol是OpenAI GPT-6系列的增量更新，该系列于2026年9月推出，重点在计算机使用、浏览、软件工程和专业工作方面实现最先进性能。Astra定位于高能力、低延迟任务，而Sol则面向高频、成本敏感且结果可验证的工作负载。这些模型已在Amazon Bedrock上提供，并支持100万token上下文窗口和折扣后台完成窗口等功能。",
+          "discussion": "评论者强调了令人印象深刻的成本降低（例如Astra在数据分析考试中从约20美元降至约4美元）和快速性能，但批评幻灯片和备忘录等办公/文档输出质量较差，不如先前模型。其他人指出了基准测试的权衡，例如Astra因布局问题在PacBench上失分，并对评估感知增强和思维链规避表示担忧。",
+          "references": [
+            {
+              "title": "Introducing GPT - 6 . 2 Astra and Sol | OpenAI",
+              "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+            },
+            {
+              "title": "OpenAI GPT-6.2 Astra , and GPT-6.2 Sol are now generally ...",
+              "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/"
+            },
+            {
+              "title": "GPT-6.2 System Card - OpenAI Deployment Safety Hub",
+              "url": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50535230"
+        },
+        {
+          "rank": 12,
+          "headline": "Java4Shell：OpenJDK处理Base64时存在远程代码执行漏洞",
+          "url": "https://calif.io/java4shell/",
+          "tldr": "Calif.io 披露了名为“Java4Shell”的漏洞，这是 OpenJDK 在处理 Base64 时存在的远程代码执行漏洞，需要精确的堆布局（heap grooming）但可能影响大量主机。",
+          "summary": "Calif.io 披露了名为“Java4Shell”的漏洞，这是 OpenJDK 在处理 Base64 时存在的远程代码执行漏洞，需要精确的堆布局（heap grooming）但可能影响大量主机。该分析展示了通过网络进行远程堆布局以及在公共 IP 上的真实环境利用。 OpenJDK 在企业级和关键基础设施中无处不在，因此一个由 Base64 处理触发的远程代码执行漏洞对 Java 生态系统来说是具有高影响的安全发现。尽管利用条件狭窄，但受影响主机的广泛性和社区分析的质量使其具有高价值。 该攻击对网络条件（如 RTT 和抖动）敏感，偏好低且稳定的往返时间以提高可靠性，并且是通过公共 IP 在互联网上测试的，而非完美的实验室环境。社区成员指出利用条件非常具体但仍影响许多主机，Semgrep 发布了针对 CVE-2026-114938 的免费检测脚本。",
+          "source_type": "hackernews",
+          "source_name": "werrett",
+          "published": "11月17日 21:11",
+          "score": 8.0,
+          "tags": [
+            "security",
+            "vulnerability",
+            "OpenJDK",
+            "RCE",
+            "exploit"
+          ],
+          "background": "堆布局（heap grooming，又称 heap feng shui）是一种利用技术，通过进行精心选择大小的内存分配来操纵堆的布局，使后续的破坏变得可靠。OpenJDK 是 Java 的开源实现，广泛用于企业服务器，而 Base64 是文本协议中二进制数据的常见编码。远程代码执行（RCE）允许攻击者在目标机器上运行任意代码，通常无需认证。",
+          "discussion": "评论者称赞 Calif.io 的工作令人印象深刻，Semgrep 的 ievans 分享了寻找五个条件的免费检测脚本。其他人讨论了现实风险，leca 预测关键基础设施将在六个月内被攻破，AgentME 提到一个未经证实的变通方法：使用 -XX:UseAVX=2 标志。",
+          "references": [
+            {
+              "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE...",
+              "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"
+            },
+            {
+              "title": "Heap feng shui - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Heap_feng_shui"
+            },
+            {
+              "title": "OpenJDK Vulnerability Advisories",
+              "url": "https://openjdk.org/groups/vulnerability/advisories/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50538240"
+        },
+        {
+          "rank": 13,
+          "headline": "谷歌AI答案据称使搜索推荐流量减少高达40%",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/",
+          "tldr": "一份新报告称，谷歌的AI生成搜索答案（即AI Overviews）使从搜索结果到网站的推荐流量减少了高达40%。",
+          "summary": "一份新报告称，谷歌的AI生成搜索答案（即AI Overviews）使从搜索结果到网站的推荐流量减少了高达40%。这一发现引发了关于SEO驱动的网络可持续性以及内容发现未来的争论。 搜索推荐流量下降40%代表了搜索和SEO生态系统的重大结构性转变，威胁到依赖网络流量的内容经济。它还影响了出版商、广告商和用户在线发现信息的方式，可能加速开放网络的衰落。 报告强调零点击搜索显著增加，AI Overviews和ChatGPT等聊天机器人推动了大部分增长。然而，40%这一数字背后的具体方法并未详细说明，一些专家指出自然搜索在推动许多企业的实际成果方面仍占主导地位。",
+          "source_type": "hackernews",
+          "source_name": "slashdev",
+          "published": "11月18日 00:17",
+          "score": 8.0,
+          "tags": [
+            "AI search",
+            "SEO",
+            "Google",
+            "generative AI",
+            "web traffic"
+          ],
+          "background": "谷歌于2024年5月推出AI Overviews，使用其Gemini模型在搜索结果顶部生成摘要，通常无需点击即可回答查询。这是零点击搜索更广泛趋势的一部分，用户直接在搜索页面上获得答案。SEO（搜索引擎优化）长期以来一直是通过优化内容在搜索结果中获得高排名的做法，但AI答案的兴起正在打破这一模式。",
+          "discussion": "评论者大多同意AI答案通过消除点击诱饵和无尽滚动提供了更好的用户体验，但一些人对发现性的丧失表示惋惜。一些人指出SEO已经使网络退化，谷歌的举措是对抗其他LLM的竞争必要。其他人则认为这种转变是不可避免的，用户将倾向于任何能提供最佳答案的来源，无论其出处。",
+          "references": [
+            {
+              "title": "Google AI Overviews - Search anything, effortlessly",
+              "url": "https://search.google/ways-to-search/ai-overviews/"
+            },
+            {
+              "title": "Google I/O 2024: New generative AI experiences in Search",
+              "url": "https://blog.google/products-and-platforms/products/search/generative-ai-google-search-may-2024/"
+            },
+            {
+              "title": "10 Signs Your Organic Traffic Decline Is AI -Related | MEMETIK",
+              "url": "https://www.memetik.ai/resources/signs-organic-traffic-decline-ai-related"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50540178"
+        },
+        {
+          "rank": 14,
+          "headline": "微软ONNX Runtime仓库从GitHub上无预警消失",
+          "url": "https://github.com/microsoft/onnxruntime",
+          "tldr": "微软的ONNX Runtime仓库——一个拥有超过2.2万星标的广泛使用的机器学习推理运行时——在没有任何事先通知的情况下从GitHub上意外消失，导致依赖它的机器学习流水线出现故障。",
+          "summary": "微软的ONNX Runtime仓库——一个拥有超过2.2万星标的广泛使用的机器学习推理运行时——在没有任何事先通知的情况下从GitHub上意外消失，导致依赖它的机器学习流水线出现故障。 ONNX Runtime是许多生产级机器学习系统的基础组件，其突然不可用会扰乱工作流程，并引发对关键开源基础设施稳定性和安全性的担忧。 仓库消失的原因尚未确认，但社区成员猜测可能与一个被入侵的PyPI包或安全顾虑有关；英特尔维护了一个带有OpenVINO修改的分支作为潜在替代方案。",
+          "source_type": "hackernews",
+          "source_name": "nvader",
+          "published": "11月17日 23:18",
+          "score": 8.0,
+          "tags": [
+            "ONNX Runtime",
+            "Microsoft",
+            "open-source",
+            "supply-chain-security",
+            "ML-inference"
+          ],
+          "background": "ONNX（开放神经网络交换）是一个用于表示机器学习模型的开放标准，允许PyTorch和TensorFlow等框架之间实现互操作性。ONNX Runtime是微软的跨平台推理和训练加速器，可在各种硬件上高效执行ONNX模型。它被业界广泛采用用于将模型部署到生产环境。",
+          "discussion": "评论者表达了惊讶和担忧，一些人猜测此次移除可能与一个被入侵的PyPI包或Phrack中讨论的新后门攻击向量有关。其他人提出了关于ONNX遥测的隐私问题，并指出英特尔的分支作为临时替代方案。",
+          "references": [
+            {
+              "title": "Open Neural Network Exchange - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange"
+            },
+            {
+              "title": "GitHub - microsoft/ onnxruntime : ONNX Runtime : cross-platform,...",
+              "url": "https://github.com/microsoft/onnxruntime"
+            },
+            {
+              "title": "ONNX Runtime",
+              "url": "https://grokipedia.com/page/ONNX_Runtime"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50539610"
+        },
+        {
+          "rank": 15,
+          "headline": "英伟达子公司营收达1040亿美元之际停止披露新加坡销售额",
+          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+          "tldr": "英伟达已停止披露其新加坡销售额，这一变化发生之际，其新加坡子公司的外部营收达到1040亿美元。",
+          "summary": "英伟达已停止披露其新加坡销售额，这一变化发生之际，其新加坡子公司的外部营收达到1040亿美元。此次披露变更恰逢美国调查英伟达芯片是否通过新加坡渠道（包括Megaspeed公司）被走私到中国。 这一决定降低了围绕全球领先AI芯片制造商主要收入中转枢纽的透明度，可能使监管审查和投资者对出口管制合规性的评估更加复杂。它凸显了美中科技紧张局势如何重塑半导体行业的企业披露惯例。 1040亿美元是英伟达新加坡实体2025年的外部营收，其中包括通过新加坡子公司下单的GPU订单，即使最终客户在别处。新加坡政府表示，英伟达产品实际交付到新加坡的量占该公司总营收不到1%。",
+          "source_type": "hackernews",
+          "source_name": "louiereederson",
+          "published": "11月17日 17:12",
+          "score": 8.0,
+          "tags": [
+            "Nvidia",
+            "AI hardware",
+            "export controls",
+            "Singapore",
+            "semiconductor industry"
+          ],
+          "background": "美国出口管制限制向中国销售先进AI芯片，企业必须获得许可证才能出口某些高性能处理器。英伟达主要通过原始设备制造商（OEM）、原始设计制造商（ODM）和经销商销售其GPU，而非直接销售给最终客户，这可能模糊芯片的最终去向。新加坡已成为英伟达在亚洲销售的主要开票地，引发了芯片是否被转运至受限制市场的疑问。",
+          "discussion": "评论者就1040亿美元数字的含义展开辩论，一些人澄清这反映的是通过英伟达新加坡实体入账的营收，而非实际交付到那里的芯片。其他人质疑这一披露变化是否暗示试图掩盖规避制裁的行为，而一些人则认为这仅仅是会计归属问题，实际意义不大。",
+          "references": [
+            {
+              "title": "Singapore does not condone businesses who use local ties to bypass...",
+              "url": "https://www.channelnewsasia.com/singapore/nvidia-ai-chips-us-export-controls-singapore-deepseek-china-4944231"
+            },
+            {
+              "title": "Chip Export Rules Explained: Nvidia Billed $52B to Singapore",
+              "url": "https://fourweekmba.com/ai-chip-export-rules-explained-nvidia-billed-52b-to-singapore/"
+            },
+            {
+              "title": "How the Nvidia scandal lifted the curtain on a loophole that ...",
+              "url": "https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50534631"
+        },
+        {
+          "rank": 16,
+          "headline": "微软发布 MAI Code 2 和 Code 2 Flash 编程模型",
+          "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+          "tldr": "微软推出了两款新的编程模型 MAI Code 2 和 MAI Code 2 Flash，并正在将其集成到 GitHub Copilot 中。",
+          "summary": "微软推出了两款新的编程模型 MAI Code 2 和 MAI Code 2 Flash，并正在将其集成到 GitHub Copilot 中。这些模型被定位为用于代码生成和问题解决任务的高性能替代方案。 此次发布表明微软在 AI 编程助手市场的野心日益增长，可能挑战 OpenAI 和 Anthropic 等现有领导者。它可能影响使用 GitHub Copilot 的开发者，并改变 LLM 行业的竞争格局。 社区报告强调，MAI Code 2 在复杂任务上（如 WSL 中的 Python 构建问题和 Azure Bicep 部署）的表现与 Claude Opus 相当。然而，有人猜测微软是否通过蒸馏 OpenAI 模型来实现这一目标，这可能涉及许可问题。",
+          "source_type": "hackernews",
+          "source_name": "lemonish97",
+          "published": "11月17日 18:25",
+          "score": 8.0,
+          "tags": [
+            "Microsoft",
+            "AI coding models",
+            "GitHub Copilot",
+            "LLM benchmarks",
+            "AI competition"
+          ],
+          "background": "用于编程的大型语言模型（LLM）是在大量代码库上训练的 AI 系统，可协助完成代码补全、错误修复和测试生成等任务。微软的 MAI 系列代表了其内部开发具有竞争力模型的努力，建立在与 OpenAI 的合作关系以及与 GitHub Copilot 的集成之上。",
+          "discussion": "Hacker News 的讨论对 MAI Code 2 的实际表现普遍持正面态度，用户报告其性能与 Claude Opus 相当。然而，一些人对微软的快速进展表示怀疑，猜测涉及蒸馏，并质疑 OpenAI 和 Anthropic 竞争护城河的可持续性。其他人批评 GitHub Copilot 的价值，指出由于积分和定制化有限而取消了订阅。",
+          "discussion_url": "https://news.ycombinator.com/item?id=50535885"
+        },
+        {
+          "rank": 17,
+          "headline": "美国国家安全局机密内部通信网络瘫痪",
+          "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+          "tldr": "据CNN于2026年11月17日报道，六名知情人士透露，美国国家安全局（NSA）用于内部通信的高度机密网络“NSA Net”已下线。",
+          "summary": "据CNN于2026年11月17日报道，六名知情人士透露，美国国家安全局（NSA）用于内部通信的高度机密网络“NSA Net”已下线。目前尚未公开确定故障原因，但外界猜测包括固件补丁操作失误、AI辅助攻击以及IT人员不足等。 绝密国家安全通信网络瘫痪引发了对关键政府基础设施韧性的严重担忧，并可能扰乱情报界内部的机密信息共享。此事也凸显了供应链漏洞、AI驱动的网络威胁以及公共和私营部门IT人员削减所带来的日益增长的风险。 NSA Net用于员工内部传递机密信息，其宕机事件非同寻常，以至于该机构公开披露（或泄露）此事引发了审视。确切原因仍未确认，但社区讨论指向可能配置错误的网络设备固件（如Cisco或Juniper）或利用多个漏洞链的AI辅助攻击。",
+          "source_type": "hackernews",
+          "source_name": "monkeydust",
+          "published": "11月17日 15:38",
+          "score": 8.0,
+          "tags": [
+            "cybersecurity",
+            "national-security",
+            "critical-infrastructure",
+            "AI-exploits",
+            "IT-staffing"
+          ],
+          "background": "NSA Net是美国国家安全局用于内部通信的高度机密网络，允许员工共享机密信息。固件是嵌入硬件设备中控制其基本功能的底层软件，固件补丁不当或配置错误可能导致宕机或留下安全漏洞。AI辅助网络攻击利用人工智能来自动化和加速漏洞的发现与利用，有时将小缺陷串联成更具破坏性的入侵。",
+          "discussion": "Hacker News的评论者就根本原因展开辩论，一些人归咎于网络设备上草率的固件补丁，另一些人指向利用漏洞链的AI辅助攻击，还有许多评论强调所有部门都需要有能力且薪酬合理的IT人员。一些人对NSA在恢复网络之前就公开宣布宕机表示惊讶，而另一些人则将此事与科技行业更广泛的裁员趋势联系起来。",
+          "references": [
+            {
+              "title": "Exclusive: Highly classified US national security communications ...",
+              "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+            },
+            {
+              "title": "Google News - Report: Classified National Security Agency network ...",
+              "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pYMmVtMEVoR3cybUIxbmtibnB5Z0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en"
+            },
+            {
+              "title": "Firmware - Wikipedia",
+              "url": "https://en.m.wikipedia.org/wiki/Firmware"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50532849"
+        },
+        {
+          "rank": 18,
+          "headline": "美国国税局登录需接受ID.me条款，引发无障碍访问担忧",
+          "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+          "tldr": "消费者权益维基条目记录，登录美国国税局（IRS）需要接受ID.me的服务条款，并指出没有智能手机的用户无法完成ID.me验证。",
+          "summary": "消费者权益维基条目记录，登录美国国税局（IRS）需要接受ID.me的服务条款，并指出没有智能手机的用户无法完成ID.me验证。讨论提到了实际后果，例如持有Treasury Direct债券的人无法兑现，并指出IRS登录现已接受login.gov。 这很重要，因为联邦机构实际上强制要求使用第三方身份服务，而该服务排除了没有智能手机的人，给兑现储蓄债券等基本金融服务制造了障碍。这也推动了政府全面采用login.gov作为更无障碍替代方案的进程。 ID.me是一家联邦认证的身份验证供应商，被政府和企业使用；而login.gov是政府自己的单点登录服务，要求多因素认证。评论者指出，login.gov拒绝预付费和VoIP电话号码，这也可能排除一些用户，并且IRS现在提供login.gov作为选项。",
+          "source_type": "hackernews",
+          "source_name": "DeepLogin",
+          "published": "11月18日 00:51",
+          "score": 7.0,
+          "tags": [
+            "digital-identity",
+            "government-tech",
+            "consumer-rights",
+            "authentication",
+            "privacy"
+          ],
+          "background": "ID.me是一个数字身份网络，通过通常要求智能手机和自拍来验证用户身份，被许多政府机构使用。Login.gov是美国政府共享的认证平台，让人们用一个账户访问多个机构。IRS和Treasury Direct曾使用ID.me进行身份验证，但批评者认为它带来了无障碍和隐私问题。",
+          "discussion": "评论者强烈批评ID.me排除没有智能手机的人，有人提到一个人无法兑现Treasury Direct债券，另一个人为避免使用ID.me而亏本卖出债券。其他人指出IRS登录现已接受login.gov，但也指出login.gov拒绝预付费和VoIP号码，造成自身的无障碍问题。",
+          "references": [
+            {
+              "title": "Identity Verification - ID . me Network",
+              "url": "https://network.id.me/identity-verification/"
+            },
+            {
+              "title": "The public’s one account for government . | Login . gov",
+              "url": "https://www.login.gov/"
+            },
+            {
+              "title": "Bonds and Securities | U.S. Department of the Treasury",
+              "url": "https://home.treasury.gov/services/bonds-and-securities"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50540437"
+        },
+        {
+          "rank": 19,
+          "headline": "Quad9因DNS封锁强制令退出法国，Cloudflare发出警告",
+          "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+          "tldr": "公共DNS解析器Quad9因法国政府要求DNS提供商封锁特定域名的强制令，已撤出法国市场。",
+          "summary": "公共DNS解析器Quad9因法国政府要求DNS提供商封锁特定域名的强制令，已撤出法国市场。Cloudflare发布博文，将Quad9的退出视为互联网自由的警示信号，Quad9首席技术官在IETF 127会议上确认该决定在同行中获得广泛支持。 这一事件凸显了国家监管与全球DNS基础设施之间日益加剧的冲突，可能为其他国家实施类似封锁要求开创先例。它影响互联网用户、隐私倡导者和DNS提供商，并引发对开放互联网碎片化的担忧。 Quad9首席技术官John Todd在IETF 127会议上指出，Quad9的立场获得了压倒性支持，人们对DNS封锁强制令普遍感到担忧。Cloudflare的博文表达了对法国裁决的反对，但未承诺若其上诉失败将从受影响国家撤出。",
+          "source_type": "hackernews",
+          "source_name": "subset",
+          "published": "11月17日 22:13",
+          "score": 7.0,
+          "tags": [
+            "DNS",
+            "internet-governance",
+            "privacy",
+            "regulation",
+            "France"
+          ],
+          "background": "域名系统（DNS）常被比作互联网的电话簿，将人类可读的域名转换为IP地址。DNS over HTTPS（DoH）是一种加密DNS查询的协议，旨在增强隐私并防止操纵。法国一直在推动在DNS层面封锁某些网站，批评者认为这破坏了互联网的去中心化和开放本质。",
+          "discussion": "评论者大多支持Quad9并批评过度监管，一些人感叹自2000年代以来欧洲互联网自由的衰落。还有人呼吁对监管者采取政治行动，一位评论者敦促Cloudflare明确承诺若上诉失败将从相关国家撤出。",
+          "references": [
+            {
+              "title": "Domain Name System - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Domain_Name_System"
+            },
+            {
+              "title": "DNS over HTTPS",
+              "url": "https://en.wikipedia.org/wiki/DNS_over_HTTPS"
+            },
+            {
+              "title": "What is DNS ? | Learning Center - Cloudflare",
+              "url": "https://www.cloudflare.com/learning/dns/what-is-dns/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50538994"
+        },
+        {
+          "rank": 20,
+          "headline": "Phrack 第73期发布，包含 Docker 逃逸和 SSH 漏洞历史",
+          "url": "https://phrack.org/issues/73/introduction_md",
+          "tldr": "长期运行的黑客电子杂志 Phrack 发布了第73期，包含 Docker 逃逸漏洞利用和 2000 年 SSH1 漏洞回顾等技术文章。",
+          "summary": "长期运行的黑客电子杂志 Phrack 发布了第73期，包含 Docker 逃逸漏洞利用和 2000 年 SSH1 漏洞回顾等技术文章。 Phrack 仍然是安全社区的文化和技术试金石，新一期引发了关于漏洞披露规范和黑客文化演变的重要讨论。 该期包含一个 Docker 逃逸漏洞利用和 2000 年 SSH1 漏洞的历史，社区成员质疑这些漏洞利用在发布前是否经过负责任的披露。",
+          "source_type": "hackernews",
+          "source_name": "notmine1337",
+          "published": "11月17日 18:31",
+          "score": 7.0,
+          "tags": [
+            "security",
+            "hacker-culture",
+            "exploits",
+            "Phrack",
+            "vulnerability-disclosure"
+          ],
+          "background": "Phrack 是一本由黑客编写并为黑客服务的电子杂志，于1985年首次出版，在黑客文化中具有影响力，涵盖从电话飞客到网络安全等主题。它由志愿者和安全专业人员运营，免费提供。",
+          "discussion": "评论者反思了自90年代以来安全领域的变化，质疑像 Docker 逃逸这样的漏洞利用是否经过负责任的披露，并欣赏该杂志未经修饰、表达自由的特质，与现代简历式的评论形成对比。",
+          "references": [
+            {
+              "title": "Phrack Magazine",
+              "url": "https://en.wikipedia.org/wiki/Phrack_Magazine"
+            },
+            {
+              "title": "Phrack Magazine",
+              "url": "https://phrack.org/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50535992"
+        }
+      ]
+    },
+    {
+      "key": "big-tech",
+      "title": "🏢 大厂要闻",
+      "items": [
+        {
+          "rank": 21,
+          "headline": "阿里发布千问4-Max：2.4万亿参数旗舰模型，单任务成本降低58%",
+          "url": "http://www.geekpark.net/news/374079",
+          "tldr": "11月16日，阿里巴巴正式发布千问4-Max，这是一个拥有2.4万亿参数、原生支持文本/图像/视频输入、上下文窗口达100万Token的旗舰模型。",
+          "summary": "11月16日，阿里巴巴正式发布千问4-Max，这是一个拥有2.4万亿参数、原生支持文本/图像/视频输入、上下文窗口达100万Token的旗舰模型。官方称在模拟真实工作场景的评测中，单任务平均费用从26.58元降至11.16元，降幅达58%。 此次发布标志着大模型竞争从跑分转向真实工作流落地和成本效率，可能迫使竞争对手优化推理经济性。同时，它巩固了阿里在国产旗舰模型市场的地位，并降低了企业采用长上下文、智能体AI的门槛。 该模型采用混合注意力方案（GDN加Qwen稀疏注意力），每4层中有3层将历史信息压缩为固定大小状态，每个Token仅激活71B参数（比上一代少约25%）。阿里云百炼定价为每百万输入Token 10元、输出30元，缓存命中价格低至每百万Token 0.5元。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "11月17日 06:41",
+          "score": 8.0,
+          "tags": [
+            "大模型",
+            "阿里千问",
+            "Qwen4-Max",
+            "模型架构",
+            "AI 成本"
+          ],
+          "background": "千问（Qwen）是阿里巴巴的大语言模型系列，Max版本是其旗舰层级。GDN（门控Delta网络）是一种线性注意力机制，能高效压缩长历史信息；稀疏注意力则只选择重要的上下文块，以降低长序列上的计算量。100万Token的上下文窗口使模型能一次性处理整个代码库或长篇文档，这是智能体工作流的关键需求。",
+          "references": [
+            {
+              "title": "GitHub - QwenLM/ Qwen 3.8-Flash-Next: Qwen 3.8-Flash-Next is the...",
+              "url": "https://github.com/qwenlm/qwen3.8-flash-next"
+            },
+            {
+              "title": "什么是 线 性 注 意 力 ？ GLM-5.3-Flash... | 二哥的Java进阶之路",
+              "url": "https://javabetter.cn/ai/video/glm-flash-linear-sparse-attention.html"
+            }
+          ]
+        },
+        {
+          "rank": 22,
+          "headline": "OpenAI 与 Meta 同日发布 Agent 商业基础设施",
+          "url": "http://www.geekpark.net/news/374075",
+          "tldr": "2026年11月13日，OpenAI 和 Meta 同日发布了互补的 Agent 商业基础设施：OpenAI 为个人助手 dots 推出 ChatGPT Wallet，支持在对话内完成支付；Meta …",
+          "summary": "2026年11月13日，OpenAI 和 Meta 同日发布了互补的 Agent 商业基础设施：OpenAI 为个人助手 dots 推出 ChatGPT Wallet，支持在对话内完成支付；Meta 与 Sierra 联合发布个人代理协议 Poppy v1.0，让 AI 代理能够安全地访问企业网站和 API。这两项计划都获得了 Visa、Mastercard、Shopify 和 Stripe 等主要支付与电商公司的支持。 这标志着 AI 代理商业化迈出了重要一步，解决了两个关键缺失环节：身份认证和支付。支付通道与代理协议在同一天融合，并得到现有金融网络的支持，预示着代理交易和变现方式的范式转变，可能重塑电子商务和数字支付格局。 Poppy v1.0 基于 OAuth、HTTPS、OpenAPI 和模型上下文协议构建，使用位于 /.well-known/poppy 的发现文件和双向授权机制；Shopify 已为 175 多个国家的所有商家自动启用 Poppy。ChatGPT Wallet 不会暴露真实卡号，而是使用卡组织生成的一次性支付凭证，初期仅面向美国年满 18 岁的 ChatGPT Pro 订阅用户开放，且需使用符合条件的美国发行银行卡。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "11月17日 06:24",
+          "score": 8.0,
+          "tags": [
+            "AI Agents",
+            "OpenAI",
+            "Meta",
+            "Agent Commerce",
+            "Payments"
+          ],
+          "background": "AI 代理越来越能够代表用户行事，但一直缺乏安全登录企业网站并完成支付的标准方式。Poppy（个人代理协议）是 Sierra 和 Meta 于 2026 年 10 月宣布的开放标准，为代理提供进入企业的可信“前门”；而 ChatGPT Wallet 是 OpenAI 为其 dots 助手推出的原生支付解决方案。Sierra 是一家由前 Salesforce 联席 CEO Bret Taylor 和前 Google 高管 Clay Bavor 创立的对话式 AI 公司，专注于企业客服代理。",
+          "references": [
+            {
+              "title": "Releasing Personal Agent Protocol 1 . 0 | Sierra",
+              "url": "https://sierra.ai/blog/releasing-poppy"
+            },
+            {
+              "title": "Poppy ( Personal Agent Protocol ): Spec Status & Comparisons",
+              "url": "https://poppy.md/"
+            },
+            {
+              "title": "Using your ChatGPT wallet balance | OpenAI Help Center",
+              "url": "https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance"
+            }
+          ]
+        },
+        {
+          "rank": 23,
+          "headline": "英伟达季度营收破千亿美元；李飞飞加入AMD；TGA 2026提名公布",
+          "url": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "英伟达首次实现季度营收突破1000亿美元，其中数据中心收入同比增长110%。",
+          "summary": "英伟达首次实现季度营收突破1000亿美元，其中数据中心收入同比增长110%。同一份早报中还提到，AI先驱李飞飞已加入AMD并向CEO苏姿丰直接汇报，同时TGA 2026提名公布，《GTA 6》领跑，《影之刃零》角逐年度游戏。 英伟达千亿美元季度营收凸显了AI基础设施支出的巨大规模及其在数据中心GPU市场的主导地位。李飞飞加入AMD表明该公司有意加强AI能力并挑战英伟达的领导地位，而TGA提名则显示以《影之刃零》为代表的中国3A游戏在全球舞台上的影响力日益增强。 数据中心业务以110%的同比增长推动了英伟达的增长，反映了对AI加速器的持续需求。李飞飞在AMD的具体职位尚未公布，但直接向苏姿丰汇报表明这是一个高级战略职位。TGA 2026中《GTA 6》是领跑者，而基于虚幻引擎5打造的中国动作角色扮演游戏《影之刃零》也入围了年度游戏提名。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月18日 00:32",
+          "score": 7.0,
+          "tags": [
+            "Nvidia",
+            "AMD",
+            "Fei-Fei Li",
+            "TGA",
+            "tech news"
+          ],
+          "background": "英伟达是AI训练和推理所用GPU的领先设计者，其数据中心收入在生成式AI热潮中大幅增长。AMD是竞争对手芯片制造商，一直在扩展其AI产品组合，聘请著名AI研究员李飞飞可能增强其实力。TGA（The Game Awards）是表彰电子游戏行业成就的年度颁奖典礼，而《影之刃零》是中国灵游坊工作室即将推出的动作角色扮演游戏，被视为中国首批3A游戏之一。",
+          "references": [
+            {
+              "title": "影之刃零 - 维基百科，自由的百科全书",
+              "url": "https://zh.wikipedia.org/wiki/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
+            }
+          ]
+        },
+        {
+          "rank": 24,
+          "headline": "Gartner 2027十大技术趋势：十项中四项与AI治理相关，窗口期仅1-6年",
+          "url": "https://www.tmtpost.com/8209258.html",
+          "tldr": "Gartner发布的2027年十大战略技术趋势中，AI治理处于核心位置，十项趋势中有四项与之相关。",
+          "summary": "Gartner发布的2027年十大战略技术趋势中，AI治理处于核心位置，十项趋势中有四项与之相关。Gartner还警告，到2028年，25%的企业安全漏洞事件可追溯至AI智能体滥用，并给企业仅1至6年的采用窗口期。 Gartner的年度榜单是广泛引用的行业基准，对AI治理的高度重视表明企业优先级正从AI试验转向控制与问责。2028年的漏洞统计数据以及仅1至6年的窗口期为企业的安全与治理投资规划提供了具体且有时间限制的参考点。 1至6年的窗口期表明，部分趋势已进入主流采用阶段，而另一些仍处于新兴阶段，需要分阶段规划。与AI智能体滥用相关的25%漏洞比例凸显了自主系统在缺乏直接人工监督下行动的风险，这对为有监督工作流设计的现有治理框架构成挑战。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月18日 02:30",
+          "score": 7.0,
+          "tags": [
+            "Gartner",
+            "AI治理",
+            "技术趋势",
+            "企业安全",
+            "AI智能体"
+          ],
+          "background": "Gartner是一家研究与咨询公司，其年度十大战略技术趋势榜单被企业IT领导者视为重要的规划工具。AI治理指组织为确保AI系统在伦理、安全及合规方面使用而采用的政策、流程和控制措施。AI智能体是能够代表用户执行任务并做出决策的自主软件系统，其日益广泛的使用引发了对问责和安全的担忧。",
+          "references": [
+            {
+              "title": "Gartner | Delivering Actionable, Objective Insight to ...",
+              "url": "https://www.gartner.com/en"
+            },
+            {
+              "title": "AI Vulnerability Speeds and Identity Containment",
+              "url": "https://www.computer.org/publications/tech-news/trends/identity-governance-in-vulnerability-management"
+            },
+            {
+              "title": "AI Governance Lags Behind Adoption Speed | Rob Boutet... | LinkedIn",
+              "url": "https://www.linkedin.com/posts/robboutet_ai-governance-statistics-2026-key-data-activity-7496257287049711616-qd-u"
+            }
+          ]
+        },
+        {
+          "rank": 25,
+          "headline": "AI算力激增下，数据中心成众矢之的",
+          "url": "https://www.tmtpost.com/8208735.html",
+          "tldr": "一篇新分析对比了数据中心在海外遭遇居民抵制和审批收紧，而在中国则通过机房上架率约束新增建设、探索绿电直连和算力跨区域调度的不同路径。",
+          "summary": "一篇新分析对比了数据中心在海外遭遇居民抵制和审批收紧，而在中国则通过机房上架率约束新增建设、探索绿电直连和算力跨区域调度的不同路径。 从争抢投资转向衡量资源成本与实际需求，将重塑AI基础设施的选址和建设方式，影响云厂商、电力公司和当地社区。 海外要求开发商承担扩网风险，而中国将新增建设与上架率挂钩，并探索绿电直连和跨区域调度以平衡能源与需求。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月18日 02:09",
+          "score": 7.0,
+          "tags": [
+            "数据中心",
+            "AI算力",
+            "能源政策",
+            "科技监管",
+            "产业趋势"
+          ],
+          "background": "数据中心是承载云和AI工作负载的高耗能设施。机房上架率衡量机柜的装满程度，低上架率意味着闲置产能。绿电直连允许可再生能源直接为数据中心供电，而跨区域调度（如中国“东数西算”工程）将计算任务转移到电力充沛的地区。",
+          "references": [
+            {
+              "title": "对话美的楼宇：AIGC...",
+              "url": "https://www.c114.com.cn/news/16/a1242199.html"
+            },
+            {
+              "title": "聊聊 数 据 中 心 行业的经营特点-36氪",
+              "url": "https://36kr.com/p/2140062367074689"
+            },
+            {
+              "title": "人民锐评： 算 力 ，也能“滴滴”_腾讯新闻",
+              "url": "https://news.qq.com/rain/a/20260720A062CB00"
+            }
+          ]
+        },
+        {
+          "rank": 26,
+          "headline": "芯片供不应求，台积电却开始给客户“验资”？",
+          "url": "https://www.tmtpost.com/8208977.html",
+          "tldr": "据钛媒体报道，在全球芯片持续供不应求的背景下，台积电却开始要求客户进行“验资”，即核实客户的财务状况。",
+          "summary": "据钛媒体报道，在全球芯片持续供不应求的背景下，台积电却开始要求客户进行“验资”，即核实客户的财务状况。这一做法标志着供应商与客户关系的转变，台积电似乎正在优先考虑财务信誉更强的客户。 这一举措凸显了台积电在芯片短缺背景下增强的市场话语权，可能影响那些难以满足财务核实要求的中小型无晶圆厂半导体公司。它标志着半导体供应链的一个更广泛趋势，即代工厂对客户变得更加挑剔。 该报道内容简短，缺乏关于验资流程的具体细节，例如客户需要满足哪些财务标准或哪些客户会受到影响。目前尚不清楚这是正式政策还是非正式做法，台积电也未对此事公开置评。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月18日 01:51",
+          "score": 7.0,
+          "tags": [
+            "TSMC",
+            "semiconductor",
+            "supply chain",
+            "chip shortage",
+            "industry news"
+          ],
+          "background": "台积电是全球最大的专用半导体代工厂，为苹果、AMD和英伟达等公司制造芯片。始于2020年的全球芯片短缺使代工厂在供不应求的情况下对客户拥有显著优势。“验资”通常指核实客户的财务状况以确保其有能力支付订单，这种做法在房地产或银行业比在半导体制造业更为常见。",
+          "references": [
+            {
+              "title": "TSMC - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/TSMC"
+            },
+            {
+              "title": "Taiwan Semiconductor Manufacturing Company Limited - TSMC",
+              "url": "https://www.tsmc.com/english"
+            }
+          ]
+        },
+        {
+          "rank": 27,
+          "headline": "蚂蚁灵波具身大模型挑战赛收官，48小时真机总决赛考验开发者",
+          "url": "http://www.geekpark.net/news/374103",
+          "tldr": "11月16日，首届蚂蚁灵波具身大模型挑战赛在上海张江收官，15支战队在48小时线下总决赛中使用同一款开源模型LingBot-VLA 2.0、同一款松灵COBOT MAGIC机器人和统一现场算力，完成蔬…",
+          "summary": "11月16日，首届蚂蚁灵波具身大模型挑战赛在上海张江收官，15支战队在48小时线下总决赛中使用同一款开源模型LingBot-VLA 2.0、同一款松灵COBOT MAGIC机器人和统一现场算力，完成蔬果摆放、化妆品收纳和双臂清扫三项任务。排名第三的SST队仅额外采集13条数据，借助DeepSeek理解任务并用视觉分割模型标出目标物体，最终获得65.87分。 本次比赛展示了开发者如何通过数据工程和与通用大模型的协同，高效地将共享的具身基础模型适配到真实任务中，凸显了一条可扩展的机器人学习实践路径。这也表明在具身智能领域，以数据为中心的方法和模型协作日益重要，有望加速在物流、家庭和服务机器人中的部署。 所有队伍都基于同一款LingBot-VLA 2.0模型起步，该模型已具备基本的视觉理解、指令理解和动作生成能力，因此参赛者专注于识别模型失败场景并补充针对性数据，而非从头训练。获胜方案将DeepSeek用于高层任务规划，并结合视觉分割模型进行物体定位，表明少量数据加智能集成也能取得有竞争力的结果。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "11月17日 11:18",
+          "score": 7.0,
+          "tags": [
+            "embodied AI",
+            "robotics",
+            "foundation models",
+            "competition",
+            "real-world testing"
+          ],
+          "background": "具身智能是指将人工智能集成到物理系统中，使机器人能够在真实世界中感知和行动。视觉-语言-动作（VLA）模型是一类基础模型，结合视觉输入、自然语言指令和运动动作，让机器人能够遵循命令。此类挑战赛测试这些模型对新物体和新任务的泛化能力，这是实际部署的关键障碍。",
+          "references": [
+            {
+              "title": "What is Embodied AI ? | NVIDIA Glossary",
+              "url": "https://www.nvidia.com/en-us/glossary/embodied-ai/"
+            },
+            {
+              "title": "[2305.15021] EmbodiedGPT: Vision-Language Pre-Training via...",
+              "url": "https://arxiv.org/abs/2305.15021"
+            }
+          ]
+        },
+        {
+          "rank": 28,
+          "headline": "黄仁勋愿回归，英伟达董事会拒绝",
+          "url": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "英伟达CEO黄仁勋公开表示愿意回归公司，但董事会表示不会考虑。",
+          "summary": "英伟达CEO黄仁勋公开表示愿意回归公司，但董事会表示不会考虑。此前，黄仁勋在董事会会议后辞去了CEO职务。 董事会的拒绝表明英伟达领导层与创始人CEO之间彻底决裂，这可能影响公司战略和投资者信心。作为全球市值最高的芯片制造商之一，这场备受瞩目的治理冲突很可能引发科技行业和股东的密切关注。 据报道，董事会在一次会议后做出了这一决定，而黄仁勋的辞职是在其婚外情被曝光之后发生的，其中一名对象被指为中国间谍。董事会尚未表示有任何重新考虑其立场的计划。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月18日 00:39",
+          "score": 6.0,
+          "tags": [
+            "Nvidia",
+            "Jensen Huang",
+            "board decision",
+            "tech industry",
+            "company news"
+          ],
+          "background": "黄仁勋于1993年联合创立英伟达，并担任CEO数十年，将其打造为GPU和AI计算领域的主导力量。英伟达董事会由主席Harvey C. Jones领导，对CEO的聘用决策拥有治理权。黄仁勋的辞职以及董事会拒绝考虑其回归，标志着公司的一个戏剧性转折。",
+          "references": [
+            {
+              "title": "NVIDIA Corporation - Governance - Board of Directors",
+              "url": "https://investor.nvidia.com/governance/board-of-directors/default.aspx"
+            },
+            {
+              "title": "Nvidia and Jensen Huang fallout: Here's everything we know after...",
+              "url": "https://finance.yahoo.com/technology/article/nvidia-and-jensen-huang-fallout-heres-everything-we-know-after-a-momentous-week-110000323.html"
+            },
+            {
+              "title": "Jensen Huang Fired As Nvidia CEO By Board",
+              "url": "https://deadline.com/2026/11/jensen-huang-is-out-as-nvidia-ceo-1237221531/"
+            }
+          ]
+        },
+        {
+          "rank": 29,
+          "headline": "苹果收紧 macOS 权限，防范 AI 代理",
+          "url": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "tldr": "据报道，苹果正在收紧 macOS 的权限控制，此举被解读为限制 AI 代理获取系统访问权限的早期举措。",
+          "summary": "据报道，苹果正在收紧 macOS 的权限控制，此举被解读为限制 AI 代理获取系统访问权限的早期举措。然而，该报道仅提供标题和一句话摘要，未具体说明涉及哪些权限或机制。 这表明苹果等平台所有者可能开始在操作系统层面限制 AI 能力，这可能会影响构建 AI 代理的开发者和依赖自动化工具的用户。这反映了行业在 AI 创新与安全隐私控制之间寻求平衡的更广泛趋势。 该报道缺乏技术细节，例如正在收紧哪些 macOS 权限（如屏幕录制、辅助功能、完全磁盘访问）或采用何种执行机制。它也未说明这些变化是已经生效还是计划在未来 macOS 版本中实施。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月17日 10:00",
+          "score": 6.0,
+          "tags": [
+            "Apple",
+            "macOS",
+            "AI agents",
+            "permissions/privacy",
+            "big tech policy"
+          ],
+          "background": "macOS 长期以来采用权限系统（TCC），要求应用在获取屏幕录制、辅助功能和完全磁盘访问等敏感能力时请求用户同意。随着 AI 代理越来越能够跨应用自动化任务，它们通常需要广泛权限，这引发了对安全和隐私的担忧。苹果此举可能是通过限制 AI 代理访问系统资源来预防这些风险。",
+          "references": [
+            {
+              "title": "MacBook 远程桌面设置： macOS 隐私 权 限",
+              "url": "https://tenvoai.com/zh/blog/macbook-remote-desktop"
+            },
+            {
+              "title": "Apple",
+              "url": "https://www.apple.com/"
+            }
+          ]
+        },
+        {
+          "rank": 30,
+          "headline": "理想出海右舵首战：以MEGA MPV进军泰国",
+          "url": "https://www.tmtpost.com/8208799.html",
+          "tldr": "理想汽车首次进军右舵海外市场，在泰国推出MEGA MPV，此举源于泰国新税制迫使高端进口MPV重新考虑其制造布局。",
+          "summary": "理想汽车首次进军右舵海外市场，在泰国推出MEGA MPV，此举源于泰国新税制迫使高端进口MPV重新考虑其制造布局。 这标志着理想汽车首次进入右舵市场，并检验其旗舰纯电MPV能否在中国以外市场取得成功，而中国国内竞争正日益激烈。若成功，可能为进入其他东南亚右舵国家打开大门，并为理想更广泛的国际化战略提供参考。 MEGA是理想汽车首款纯电动汽车，采用双电机四驱布局，CLTC续航里程达710公里。泰国针对高端进口MPV的新税制是决定是否本地化生产的关键因素，使MEGA成为理想在该地区制造战略的试验案例。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月18日 01:20",
+          "score": 6.0,
+          "tags": [
+            "理想汽车",
+            "出海战略",
+            "泰国市场",
+            "新能源汽车",
+            "MPV"
+          ],
+          "background": "理想汽车是一家以增程式SUV闻名的中国电动汽车制造商，MEGA是其首款纯电动车型。泰国是东南亚的右舵市场，电动汽车普及率不断上升，政府一直在调整税收政策以鼓励本地制造。对于面临国内市场饱和的中国电动汽车制造商而言，拓展右舵东南亚市场是一条合理的增长路径。",
+          "references": [
+            {
+              "title": "Li Mega - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Li_Mega"
+            },
+            {
+              "title": "Li Auto MEGA : Pure Electric MPV — Specs , Range, Europe Plans",
+              "url": "https://www.evchina.co/guides/li-auto-mega-complete-guide"
+            },
+            {
+              "title": "Thailand - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thailand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "customer-service",
+      "title": "🎧 客服行业动态",
+      "items": [
+        {
+          "rank": 31,
+          "headline": "明明选了转人工，还是AI在回话？记者实测AI客服转人工堪比闯关",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CUXdWd1dJUml0VmVKSnVCVjZRdGZHT1VGMDhDbC1OWXFUNHpVb1J6MDRneXd4WTZiTnFsVWI2LUJDcnBCODAtNlpmUjlfcGVSTUREZXJtN0NpcUtFSlplYUktX2NLRk44VHNj?oc=5",
+          "tldr": "华龙网记者实测发现，用户在选择“转人工”后仍被AI客服拦截，转人工流程堪比闯关。",
+          "summary": "华龙网记者实测发现，用户在选择“转人工”后仍被AI客服拦截，转人工流程堪比闯关。该报道揭示了AI客服设计中的常见痛点，引发了对AI客服设计缺陷的讨论。 这一问题影响了数百万消费者，当AI无法解决问题时，他们难以获得人工支持，从而削弱了对自动化服务的信任。它强调了需要更好的服务设计，优先考虑用户体验和可及性，尤其是在紧急或复杂问题上。 记者的实测显示，转人工过程通常涉及多层AI提示和菜单，没有明确的转人工出口。这种设计可能是为了降低成本而有意为之，但会使用户感到沮丧并损害品牌忠诚度。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 09:01",
+          "score": 6.0,
+          "tags": [
+            "AI客服",
+            "客户体验",
+            "转人工",
+            "服务设计",
+            "行业痛点"
+          ],
+          "background": "AI客服由聊天机器人和语音助手驱动，被企业广泛用于处理常规咨询并降低人力成本。然而，许多系统设计旨在将用户保持在自动流程中，使得转接人工变得困难。这导致了消费者不满情绪加剧，并在一些地区引起了监管关注。"
+        },
+        {
+          "rank": 32,
+          "headline": "AI客服对少秤螃蟹仅赔10元，暴露自动化投诉处理短板",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpenBDc2dMTjdDXzcyTHR2Tk5CYy1QYldSS29jelVBbEpGYTlQeDk2TFlZOThqNEU2SHdPV19Za2hla3NNdkZNOERIeHk?oc=5",
+          "tldr": "一位顾客以每斤59.9元的价格购买了2斤螃蟹，但实际只收到1斤，而AI客服仅提出退款10元。",
+          "summary": "一位顾客以每斤59.9元的价格购买了2斤螃蟹，但实际只收到1斤，而AI客服仅提出退款10元。据凤凰网报道，这一事件凸显了自动化系统在处理关于缺斤少两的消费者投诉时可能出现的失误。 这一案例突显了AI在争议解决中的局限性，僵化的退款政策无法处理明显的商家欺诈行为。它表明需要更好的人工升级机制和更智能的AI来处理边缘情况，这影响着电商平台和消费者信任。 AI的回应忽视了短缺的严重性——订单缺失50%——并仅提供了象征性的退款，这很可能基于通用政策。此类事件揭示了AI在评估上下文和适当升级方面的能力缺口。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 08:44",
+          "score": 6.0,
+          "tags": [
+            "AI customer service",
+            "consumer complaints",
+            "dispute resolution",
+            "e-commerce",
+            "service quality"
+          ],
+          "background": "AI客服在电商中越来越多地用于处理投诉，但它往往难以应对欺诈或重大错误等细微情况。有效的系统需要明确的升级路径，当AI无法令人满意地解决问题时转交人工代理。这一事件是AI处理投诉不当导致客户不满和声誉风险的更广泛模式的一部分。",
+          "references": [
+            {
+              "title": "AI customer service limitations : handling edge cases",
+              "url": "https://mando.cx/blog/articles/6xgpmidc8lxz-ai-customer-service-limitations-handling-edge-cases"
+            },
+            {
+              "title": "AI Complaint Handling Automation | Customer Recovery AI",
+              "url": "https://newvoices.ai/ai-customer-service/ai-complaint-automation/"
+            }
+          ]
+        },
+        {
+          "rank": 33,
+          "headline": "智能客服莫成消费维权“堵点”",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckg3azV0VnhEVFR2YkRxNWxMLXVJaDNid2hPbjV4aGVPdllwcjY3OTFNaDNabGhfYm96Ujk2dzl0WE9fdnUxMXdaRzNHQm1OR3ZKcWhLaGUxSkFkTTNxOVBsbXVwRnhXbE16TGxyZTkzcURGUTRKbGhiOEJ2cV9TLWE1ZUM4WDFW?oc=5",
+          "tldr": "搜狐的一篇评论文章指出，智能客服系统（尤其是难以转接人工的AI聊天机器人）正成为消费者维权的重要障碍。",
+          "summary": "搜狐的一篇评论文章指出，智能客服系统（尤其是难以转接人工的AI聊天机器人）正成为消费者维权的重要障碍。文章强调了客服自动化与消费者有效投诉、寻求救济能力之间的紧张关系。 这一点很重要，因为随着更多企业部署AI客服以降低成本，消费者可能发现自己无法解决纠纷或获得人工支持，实际上损害了他们的合法权利。该问题影响数百万消费者，并可能促使监管机构对面向客户的AI服务进行审查。 文章指出，AI客服系统通常在允许转接人工之前设置层层障碍，使得售后服务和投诉机制形同虚设。正如中国媒体类似报道所指出的，这实质上剥夺了消费者的救济权利。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 16:00",
+          "score": 6.0,
+          "tags": [
+            "智能客服",
+            "消费维权",
+            "客户服务",
+            "AI应用",
+            "行业痛点"
+          ],
+          "background": "智能客服是指企业用于自动处理客户咨询的AI聊天机器人和语音系统。虽然这些系统可以降低简单查询的成本并提高效率，但它们往往难以处理复杂问题，并可能故意增加转接人工代表的难度。在中国，消费维权日益受到关注，AI客服近期被列为消费投诉的新热点。",
+          "references": [
+            {
+              "title": "检察日报： AI 客 服 转 人 工 难 ，实际是对维权通道的变相堵塞 | 新浪网",
+              "url": "https://k.sina.com.cn/article_5953740931_162dee08306703v8iu.html"
+            },
+            {
+              "title": "上半年 消 费 投 诉 分析指出五大 消 费 乱象 AI 客 服 成新热点 | 新浪网",
+              "url": "https://k.sina.com.cn/article_5895814239_15f6afc5f02001ocha.html?from=edu"
+            },
+            {
+              "title": "智 能 客 服 踢皮球",
+              "url": "http://paper.people.com.cn/zgjjzk/pc/content/202505/30/content_30082594.html"
+            }
+          ]
+        },
+        {
+          "rank": 34,
+          "headline": "小伙被假客服诱导开启屏幕共享，损失5000多元",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYV8xODdOcjlvc0hKNEI2QXJKdlB4Y0FwUmZYUkVXcmJPYVlqNE9MQW1FYWs5ajJXcmFHRHdVTUpxQkt1QnFhTGQxSFdOSXh5TjBHNXJ3ZFpNTWR1OGdiUENPRTdhMkNtWGVYRXFxQ3FqeldZYWw0bUJLbEUwWUVVUXVGWTJCOWV6UEpCSWJ5VQ?oc=5",
+          "tldr": "中国一名男子在网上购买降价的英伟达显卡后，被冒充客服的骗子诱导开启手机屏幕共享，随后账户被转走5000多元。",
+          "summary": "中国一名男子在网上购买降价的英伟达显卡后，被冒充客服的骗子诱导开启手机屏幕共享，随后账户被转走5000多元。 此案凸显了电商领域社会工程诈骗的威胁日益严重，骗子利用客服互动获取受害者设备的远程访问权限。这强调了加强安全意识和平台防护措施以保护消费者的必要性。 受害者在付款时收到风险提示但仍继续操作，骗子利用屏幕共享窥探并窃取敏感信息。此类诈骗通常涉及冒充官方客服和远程访问工具，难以追查。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 08:36",
+          "score": 6.0,
+          "tags": [
+            "customer service",
+            "fraud",
+            "social engineering",
+            "screen sharing",
+            "security"
+          ],
+          "background": "屏幕共享诈骗是指犯罪分子诱骗受害者安装远程访问软件，从而查看敏感数据并控制设备。虚假客服诈骗在中国很常见，骗子冒充电商或银行客服来窃取钱财。这些手法是针对网购者的社会工程诈骗整体上升的一部分。",
+          "references": [
+            {
+              "title": "Screen Sharing Scams | NatWest Business",
+              "url": "https://www.natwest.com/business/security/screen-sharing-scams.html"
+            },
+            {
+              "title": "Remote Access Fraud | M&T Bank",
+              "url": "https://www.mtb.com/security-center/how-we-protect-you/fraud-prevention/remote-access-fraud"
+            },
+            {
+              "title": "“双十一”防 骗 指南：警惕“ 假 红包”“ 假 客 服 ”等套路 诈 骗 _北京日报网",
+              "url": "https://news.bjd.com.cn/2022/11/01/10205071.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 35,
+          "headline": "比亚迪APP故障致无法开门，客服致歉并紧急优化",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uVHJkV0FfWnRnU2NXQzRkOHczU1EyZVV1S213Tm1PSjVvblA1bTU1STBFSjUyT3lmd2VOdVFCQ09iQmlndTRpaVhQS3FTYUo1ek9SY0Fqd0JKYUNMNWt0WV9YZS1Fa3NZdTJhUzlEOA?oc=5",
+          "tldr": "比亚迪官方APP出现大面积故障，导致用户无法通过APP解锁车门，客服为此致歉并承诺紧急优化。",
+          "summary": "比亚迪官方APP出现大面积故障，导致用户无法通过APP解锁车门，客服为此致歉并承诺紧急优化。澎湃新闻随后报道称故障已修复。 随着车企越来越依赖智能手机APP实现车辆访问和控制，APP故障可能导致车主无法用车，并削弱对车联网功能的信任。此次事件凸显了可靠的备用方案和有效的客服危机应对的重要性。 此次故障影响大量用户，导致无法通过APP远程解锁车辆；比亚迪客服承认问题并表示正在紧急优化系统，后续报道称服务已恢复。具体原因和持续时间尚未公布。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 09:05",
+          "score": 6.0,
+          "tags": [
+            "customer service",
+            "app outage",
+            "BYD",
+            "incident response",
+            "automotive"
+          ],
+          "background": "比亚迪是中国主要汽车制造商，其车辆搭载DiLink智能网联系统，官方APP允许车主远程控制门锁、空调等功能。许多现代网联汽车支持基于手机的数字钥匙，但这些系统依赖云服务和移动网络，因此容易受到故障影响。",
+          "references": [
+            {
+              "title": "BYD app (China)",
+              "url": "https://grokipedia.com/page/BYD_app_China"
+            },
+            {
+              "title": "BYD Auto - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/BYD_Auto"
+            }
+          ]
+        },
+        {
+          "rank": 36,
+          "headline": "转人工客服难引发消费者权益关注",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTkRDZE1GX2wyR24td3IyQm9UbnpGNG41bDcwRXllbV82eXprOEdYRGRFWk1wSDdNamNMb3VQWHhKbXBaUTVCa3NNbkFUOTlnX283Um9TSm91Vm00cU5DaUF4c2VUT1lwY0lCOHFrU2I?oc=5",
+          "tldr": "中华网的一篇文章指出，消费者在尝试联系人工客服时普遍遇到困难，自动化系统常常设置障碍，导致问题无法解决。",
+          "summary": "中华网的一篇文章指出，消费者在尝试联系人工客服时普遍遇到困难，自动化系统常常设置障碍，导致问题无法解决。报道将这一难题与消费者权益可能受损联系起来，引发公众对客服行业服务质量的关注。 这一问题的重要性在于，高效获得人工支持对于解决复杂问题至关重要，而长期依赖机器人可能削弱信任，让消费者感到无助。它影响着各行业的数百万客户，并凸显了在自动化与人工服务之间寻求更好平衡的必要性。 文章未提供具体数据或案例研究，但描述了客户陷入聊天机器人循环或面对隐藏联系选项的常见场景。它暗示企业可能优先考虑削减成本而非服务质量，不过并未提及具体公司或法规。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月18日 00:10",
+          "score": 6.0,
+          "tags": [
+            "customer service",
+            "consumer rights",
+            "human-agent access",
+            "service quality",
+            "industry challenges"
+          ],
+          "background": "客户服务日益转向自动化，聊天机器人和交互式语音应答（IVR）系统负责处理初始咨询以降低成本。虽然这些工具能处理简单请求，但往往难以应对复杂问题，导致消费者不满。消费者权益倡导者认为，企业应确保提供可及的人工支持，作为公平服务的一部分。"
+        },
+        {
+          "rank": 37,
+          "headline": "知网AI检测率暴涨且反复，客服称算法升级所致",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fYzhiM1BwV2kxX0xkd1Bfc055Vi1Zd2VGcjJYeGJUaDA0Ri1aaGpTdDJjN3VaNHAxTzJnNVg1bjZhR2c1NlNqYmdqU1AtYUdKM2Z3LWEtSmNURXZwZ2NmSQ?oc=5",
+          "tldr": "近期，用户反映知网论文AI生成率检测结果出现“暴涨”且反复无常的情况。",
+          "summary": "近期，用户反映知网论文AI生成率检测结果出现“暴涨”且反复无常的情况。知网客服回应称，这是由于检测算法升级所致，并就此对用户投诉作出解释。 作为中国最大的学术数据库，知网的AI检测工具被高校和期刊广泛用于筛查AI生成内容。检测率的突然变化可能引发困惑和不公平的指控，影响依赖知网服务的学生、研究人员和学术机构。 据报道，此次算法升级使检测更加严格，导致同义词替换、翻译等旧有规避方法失效。然而，检测标准缺乏透明度以及结果的不一致性，引发了对其可靠性和公平性的担忧。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 11:32",
+          "score": 5.0,
+          "tags": [
+            "customer service",
+            "AI detection",
+            "CNKI",
+            "algorithm update",
+            "user complaints"
+          ],
+          "background": "中国知网（CNKI）是由清华大学牵头建设的中国综合性学术平台，收录期刊、学位论文和会议论文等资源。2023年，知网上线了AIGC检测功能，用于识别学术作品中的AI生成文本。此类检测算法已知会产生误报，并可能被反检测工具规避，导致检测与规避之间持续博弈。",
+          "references": [
+            {
+              "title": "CNKI - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/CNKI"
+            },
+            {
+              "title": "2026年 知 网 AIGC 检 测 越来越严？ 率零实 测 降到个位数的秘密 | 比话降 AI",
+              "url": "https://openorm.com/blog/2026-cnki-aigc-strict-lv0-single-digit"
+            },
+            {
+              "title": "降 AI 工具的未来： 检 测 与反 检 测 的技术博弈何时终结？ | PaperMomo博客",
+              "url": "https://blog.papermomo.com/the-future-of-ai-toolswhen-will-the-technological-game-of-detection-and-anti-detection-end/"
+            }
+          ]
+        },
+        {
+          "rank": 38,
+          "headline": "用户4178元在转转买二手笔记本，开箱发现与验机报告不符且已损坏",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2I4UE1KNll6c1lxWkVERS1nZWdIaElmWmV2XzRJQjJzR2N0clhicWtOc1pKeU1Ra3hQYlRTOTZCbm1CUW40UDhid2JYTjlKUDdBVlhmZFZtUGRoNElSRGFtMWdVMjdtVXhpZWkwZ1JpREpSWlFsd1lTNU9sM3NFTTBxVFZReS11U01kVw?oc=5",
+          "tldr": "一名用户在转转平台花费4178元购买了一台二手笔记本电脑，开箱后发现实物与平台出具的验机报告不符，下载软件时即出现死机。",
+          "summary": "一名用户在转转平台花费4178元购买了一台二手笔记本电脑，开箱后发现实物与平台出具的验机报告不符，下载软件时即出现死机。转转客服随后承认，该机器在发货时就已经损坏。 该事件凸显了转转在验机与质量保障流程中可能存在的漏洞，削弱了消费者对二手电商平台的信任。这可能促使外界对二手电子产品市场的验机标准和售后责任进行更严格的审视。 验机报告显示笔记本状态正常，但实物却立即出现故障，且客服承认损坏发生在发货前。这表明验机结果与实际商品状况之间存在脱节，令人质疑转转“官方验”服务的可靠性。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 13:38",
+          "score": 5.0,
+          "tags": [
+            "customer service",
+            "second-hand e-commerce",
+            "consumer complaint",
+            "quality assurance",
+            "Zhuanzhuan"
+          ],
+          "background": "转转是中国主要的二手交易平台之一，提供“官方验”服务，由验机师在销售前对设备进行检测。验机报告旨在向买家保证产品状况，但过去曾有投诉称报告与实际商品不符。此次事件进一步引发了对这类质量保障机制有效性的担忧。",
+          "references": [
+            {
+              "title": "转 转 被指出具“阴阳”质检 报 告 背后：二手手 机 市场有哪些坑",
+              "url": "https://m.bjnews.com.cn/detail/1701348181129478.html"
+            },
+            {
+              "title": "转 转 _ 转 转 二 手 官方 验 ，买卖 二 手 不一样",
+              "url": "https://www.zhuanzhuan.com/"
+            },
+            {
+              "title": "post.smzdm.com/p/ad7vleek",
+              "url": "https://post.smzdm.com/p/ad7vleek/"
+            }
+          ]
+        },
+        {
+          "rank": 39,
+          "headline": "网友扫到起步价15元的共享单车，引发“单车刺客”吐槽",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wOWtMZV9QakV4QmJkVXVLOHJMUHUyV2pZU09tWUxhM29yclY0eGs5TFgtOTl1dkpzX2hyNlBIVGZzS1MyZkxEWjB1VDV3UVNib2V0SGM2V0M?oc=5",
+          "tldr": "一位网友扫码使用共享单车时，发现起步价高达15元（30分钟），随即吐槽遭遇“共享单车刺客”。",
+          "summary": "一位网友扫码使用共享单车时，发现起步价高达15元（30分钟），随即吐槽遭遇“共享单车刺客”。对此，客服回应称该车是刚上新的变速自行车，配置更高。 这一事件反映出消费者对共享出行领域隐性或意外高定价的敏感度日益上升，而运营方面临服务差异化和涨价压力。它凸显了提高定价透明度以维护用户信任、避免舆论反感的必要性。 该车为变速自行车，起步价15元/30分钟，公司称其配置更高。但这一价格明显高于普通共享单车，且用户在扫码前可能并未被明确告知。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 11:14",
+          "score": 4.0,
+          "tags": [
+            "共享单车",
+            "客服回应",
+            "定价争议",
+            "消费者投诉",
+            "出行服务"
+          ],
+          "background": "中国的共享单车通常每30分钟收费1-2元左右，“单车刺客”一词仿照“价格刺客”，指价格出乎意料高昂的产品或服务。随着共享单车市场格局稳定，运营方开始尝试高端车型并调整定价以提升盈利能力。"
+        },
+        {
+          "rank": 40,
+          "headline": "电梯停运致14楼外卖未送达，骑手被罚引争议",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4cmJiVHBYQVFGMVJEZ3plZzVqLWpPWm84VGVmY3FfWHJQTjRvZVRXNTM0UVBZSFJpRV9iUzBrNTQ4a21ObWVMbm8tV3F0dlBJOU1uVm1RbmFuUEVrcmh5ZnQtWXBxalkyVmQ0Njd2dHM?oc=5",
+          "tldr": "一名外卖骑手因电梯停运无法将订单送至14楼而被平台处罚。",
+          "summary": "一名外卖骑手因电梯停运无法将订单送至14楼而被平台处罚。平台客服回应称，骑手应当报备异常并取消订单，而非强行配送。 该事件凸显了骑手日常面临的僵化处罚机制和不明确的异常处理流程，加剧了关于算法管理和零工经济公平待遇的讨论。它表明平台需要为突发情况提供更清晰的指引和更灵活的政策。 骑手因不可控因素被罚而感到委屈，而平台则坚持认为若正确报备并取消订单即可避免处罚。此事反映了一个常见困境：骑手担心超时被罚，但取消订单若未妥善报备也可能面临处罚。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月17日 03:35",
+          "score": 4.0,
+          "tags": [
+            "customer service",
+            "delivery platform",
+            "rider policy",
+            "last-mile delivery",
+            "dispute handling"
+          ],
+          "background": "在中国外卖行业，美团、饿了么等平台通过算法分配订单并规定送达时间，超时会被处罚。骑手可报备异常情况（如天气、电梯故障）以免受罚，但流程往往不清晰或执行不一致。近期平台取消超时罚款，转向扣分机制，但骑手认为这仍带来长期职业风险。",
+          "references": [
+            {
+              "title": "workercn.cn/c/2025-10-17/8633097.shtml",
+              "url": "https://www.workercn.cn/c/2025-10-17/8633097.shtml"
+            },
+            {
+              "title": "news.sina.cn/bignews/insight/2026-01-17/detail-inhhrkiv8590482....",
+              "url": "https://news.sina.cn/bignews/insight/2026-01-17/detail-inhhrkiv8590482.d.html?vt=4"
+            },
+            {
+              "title": "waimaiwanjia.com/?p=27748",
+              "url": "https://www.waimaiwanjia.com/?p=27748"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
