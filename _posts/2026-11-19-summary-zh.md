@@ -1,0 +1,722 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-19 (ZH)"
+date: 2026-11-19
+lang: zh
+---
+
+> 从 64 条内容中筛选出 30 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [国家能源局发布《中国虚拟电厂发展报告（2026）》](#item-1) ⭐️ 8.0/10
+2. [湖北电网百万千瓦级虚拟电厂首次实现填谷能力持续调用](#item-2) ⭐️ 7.0/10
+3. [国家能源局：全国虚拟电厂 592 个，最大调节能力 2042.8 万千瓦](#item-3) ⭐️ 7.0/10
+4. [IEA：全球煤炭需求或创新高，若 LNG 运输难恢复明年或再破纪录](#item-4) ⭐️ 7.0/10
+5. [IEA 署长警告：霍尔木兹海峡恐难恢复战前常态](#item-5) ⭐️ 7.0/10
+6. [民主党起草数据中心电力改革方案，运营商或需多付 350 亿美元](#item-6) ⭐️ 7.0/10
+7. [OPEC 在土耳其 COP31 气候谈判中为化石燃料辩护](#item-7) ⭐️ 6.0/10
+8. [孙逢春：不发展电动车交通碳中和无解，2035 年 4 亿辆车需 2 万亿度电](#item-8) ⭐️ 6.0/10
+9. [2026 中国 5G+工业互联网大会聚焦工业智能体与数字能源](#item-9) ⭐️ 5.0/10
+10. [华北电力大学举办中国能源企业海外利益安全法律保障研讨会](#item-10) ⭐️ 5.0/10
+
+### 🤖 AI 科技
+
+11. [Anthropic 完成首次公开募股，估值 1.5 万亿美元，募资约 1050 亿美元](#item-11) ⭐️ 10.0/10
+12. [谷歌发布前沿模型 Gemini 4 Neon](#item-12) ⭐️ 8.0/10
+13. [Wiz 披露 Nginx HTTP/2 未授权远程代码执行漏洞](#item-13) ⭐️ 8.0/10
+14. [微软发布七款新 AI 模型，主打高性价比](#item-14) ⭐️ 8.0/10
+15. [文章认为：AI 不会让创造者致富，而会让应用者致富](#item-15) ⭐️ 7.0/10
+16. [Ruby 披露 Regexp 和字符串大小写转换中的多个漏洞](#item-16) ⭐️ 7.0/10
+17. [毕马威英国审计试验发现 AI 代理比人类会计师提出更深入的问题](#item-17) ⭐️ 7.0/10
+18. [LLM 辅助逆向工程引发技能流失与智能体工作流之争](#item-18) ⭐️ 7.0/10
+19. [Quad9 因 DNS 封锁令退出法国](#item-19) ⭐️ 7.0/10
+20. [德意志银行与爱泼斯坦关联调查借助 OpenAleph 工具](#item-20) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+21. [GPT-6.2 发布：跑分破纪录，实测遭吐槽](#item-21) ⭐️ 8.0/10
+22. [即梦 Seedance 2.5 升级，支持 4K AI 视频生成](#item-22) ⭐️ 7.0/10
+23. [小马智行三季报：Robotaxi 贡献四成营收，商业化提速](#item-23) ⭐️ 7.0/10
+24. [英伟达季度营收 1158 亿美元、Anthropic 万亿 IPO 与美国远程算力管制](#item-24) ⭐️ 7.0/10
+25. [早报：Gemini 4 Neon 发布、英伟达 CEO 风波、英特尔裁员、豆包日活破 800 万](#item-25) ⭐️ 6.0/10
+26. [《GTA VI》首发体验：过去十年最佳，未来十年可能也是最佳](#item-26) ⭐️ 6.0/10
+27. [深度实测 GPT-6.2：强是真强，难用也是真难用](#item-27) ⭐️ 6.0/10
+28. [Rimac Nevera 纯电超跑停产，CEO 转向 16 缸布加迪新旗舰](#item-28) ⭐️ 6.0/10
+29. [名创优品三季报揭示 TOP TOY 困境，非核心玩具业务反而红火](#item-29) ⭐️ 6.0/10
+30. [字节跳动领导层变动：曾妍论文勾勒 10 万亿参数 AI 路线图](#item-30) ⭐️ 6.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [国家能源局发布《中国虚拟电厂发展报告（2026）》](https://news.google.com/rss/articles/CBMicEFVX3lxTE40MmpXd2NUQnNtRnZNT0dQTkdaRmdDMGJ1UzdiZlU2Zkh1TTRiVnVSWjhyUm5QMktleDFNc0lFOThZSE9yQVdackpwRVo1MWxvelFKaVh0NzdDOUdRT3VldXYwRkVzYVE1MTFmNXJ6TWY?oc=5) ⭐️ 8.0/10
+
+国家能源局于 2026 年 3 月 15 日发布《中国虚拟电厂发展报告（2026）》，全面梳理了虚拟电厂行业的发展现状和政策导向。新华网等主流媒体对此进行了报道。 这是国家层面首份关于虚拟电厂的综合性报告，为行业提供了权威指导和市场信号，将影响能源领域的投资和监管决策。预计将加速虚拟电厂作为关键灵活性资源的发展，助力新能源消纳和电力市场改革。 报告可能涵盖虚拟电厂的定义、技术标准、商业模式和政策框架，但初步公告中未披露具体细节，如装机目标或试点项目清单。全文预计将在国家能源局网站上发布，相关方应关注后续可能出台的实施细则。
+
+google\_news · 中国能源新闻网 · 11月19日 02:25
+
+**背景**: 虚拟电厂是一种数字聚合平台，通过整合分布式能源资源（如光伏、储能、柔性负荷和电动汽车）来提供类似传统电厂的电网服务。虚拟电厂有助于平衡供需、增强电网灵活性并促进可再生能源消纳。中国自 2021 年起积极试点虚拟电厂，多个省份开展了示范项目以支持碳中和目标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+<li><a href="https://www.sohu.com/a/953984467_121958964">一张图看懂虚拟电厂：5 分钟掌握核心概念与运行机制</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#国家能源局`, `#电力市场`, `#需求侧响应`
+
+---
+
+<a id="item-2"></a>
+## [湖北电网百万千瓦级虚拟电厂首次实现填谷能力持续调用](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Jdmh6ekkyWDhlczBZVjBiMEMtXy11SFg0ZXh1WnpBYkJYaGJiOUlqTVA4ZExkblBQS3B1RXQxUm1tMFcwd1lhYWozdklhNVRnRm4tTV9FZDV4eVcybUlkaw?oc=5) ⭐️ 7.0/10
+
+据碳索储能网报道，湖北电网百万千瓦级虚拟电厂首次成功实现填谷能力的持续调用。这标志着该电网首次能够持续调用百万千瓦级的聚合需求侧资源来填补夜间用电低谷。 这一里程碑表明，需求侧灵活性可以在电网规模上实现持续而非一次性的调度，这对于消纳日益增长的不稳定可再生能源至关重要。它可为电力市场设计提供参考，并鼓励其他省级电网采用类似的虚拟电厂模式。 报道未提供太多技术细节，但这一成果意味着湖北虚拟电厂平台能够在连续调度时段内聚合和控制储能、可调负荷、电动汽车等分布式资源。持续填谷需要可靠的通信、预测和控制系统来长期保持响应精度。
+
+google\_news · 碳索储能网 · 11月19日 01:38
+
+**背景**: 虚拟电厂（VPP）是一种基于软件的聚合平台，通过协调分布式能源资源（如屋顶光伏、电池储能、可控负荷和电动汽车）来像单一电厂一样为电网运营商服务。在中国，虚拟电厂已从江苏、河北早期的需求响应试点发展到更市场化的模式，山西、广东等省份已发布实施方案。填谷是削峰的对应操作，即在用电低谷时段增加用电，以平衡电网并消纳过剩的可再生能源发电。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎 一张图看懂虚拟电厂：5分钟掌握核心概念与运行机制 - 知乎 一张图看懂虚拟电厂：5 分钟掌握核心概念与运行机制 一张图看懂虚拟电厂：5分钟掌握核心概念与运行机制_虚拟电厂知识分享-... 虚拟电厂：以“全域”视角整合负荷资源，参与电网削峰填谷 拆解虚拟电厂运行逻辑：不靠新建电站，如何实现电力削峰填谷</a></li>
+<li><a href="https://news.bjx.com.cn/html/20210622/1159658.shtml">news.bjx.com.cn/html/20210622/1159658.shtml</a></li>
+<li><a href="https://m.dzplus.dzng.com/share/general/0/NEWS2779239ABCBWGLPNBVCD">m.dzplus.dzng.com/share/general/0/NEWS2779239ABCBWGLPNBVCD</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#需求侧响应`, `#电力市场`, `#储能`, `#湖北电网`
+
+---
+
+<a id="item-3"></a>
+## [国家能源局：全国虚拟电厂 592 个，最大调节能力 2042.8 万千瓦](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ieWxmSWVXdEQwOGVwcXA1V0c0RmZBbDM0RnJWZnJwVFdfQjFFc3YzTTl3U0VRSDRiSUFENG1XQWMySzR0U2tsdVNKbm9tX2pXUEt3Z0lEdmM3Nm5IMGR6UTNB?oc=5) ⭐️ 7.0/10
+
+国家能源局宣布，截至 2026 年 6 月底，全国已建成并投运虚拟电厂项目 592 个，最大调节能力合计 2042.8 万千瓦。项目数量同比增长 78.9%，标志着我国虚拟电厂规模已提前达到既定目标。 这是国家能源局首次发布全国虚拟电厂汇总数据，为能源政策分析、市场评估和投资决策提供了重要的基准信息。这表明虚拟电厂正成为我国新型电力系统和电力需求侧管理的重要组成部分。 该数据仅统计已建成并投运的项目，2042.8 万千瓦指的是最大调节能力，而非实际发电容量。数据与《中国虚拟电厂发展报告（2026）》同步发布，该报告可能提供按地区和类型划分的更详细分类信息。
+
+google\_news · 观点网 · 11月19日 01:25
+
+**背景**: 虚拟电厂是将分布式能源资源（如屋顶光伏、电动汽车充电桩、商业楼宇负荷和储能）聚合协调，使其像一座电厂一样运行，主要提供电网调节服务。中国一直在推动虚拟电厂发展，以构建能够消纳高比例可再生能源、更多依靠需求侧灵活性的“新型电力系统”。国家能源局是中国负责能源政策和监管的中央政府机构。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工 作 的？ -中新网</a></li>
+<li><a href="https://news.bjx.com.cn/html/20221116/1269377.shtml">虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网</a></li>
+<li><a href="https://news.bjx.com.cn/html/20240605/1381228.shtml">安徽合肥 虚 拟 电 厂 年内将进一步扩容至120万千瓦左右-北极星 电 力 软件网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力需求侧管理`, `#新型电力系统`, `#国家能源局`
+
+---
+
+<a id="item-4"></a>
+## [IEA：全球煤炭需求或创新高，若 LNG 运输难恢复明年或再破纪录](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）报告称，全球煤炭需求正迈向历史新高，并警告若液化天然气（LNG）运输与供应链难以恢复，明年煤炭需求可能再度刷新纪录。该报告将煤炭需求激增直接归因于 LNG 运输能力受限。 这一结论的重要性在于，煤炭是碳排放强度最高的化石燃料，需求创纪录将使全球气候目标和能源转型规划更加复杂。它也表明，天然气供应链瓶颈（而不仅是燃料价格）正在重塑电力系统在煤与气之间的选择，影响公用事业企业、政策制定者和排放前景。 IEA 的展望将煤炭需求与 LNG 运输恢复情况挂钩，意味着 2026 年的走势取决于物流而非仅取决于气价或天气。报告还指出，即便煤炭绝对消费量创纪录，其在整体能源结构中的份额仍可能下降，因为能源总需求和可再生能源增长足够快，可以同时容纳两者。
+
+google\_news · 财联社 · 11月18日 14:56
+
+**背景**: 国际能源署（IEA）是总部位于巴黎的政府间组织，发布备受关注的石油、天然气、煤炭和电力展望报告。LNG（液化天然气）需冷却至约-162°C 并由专用运输船承运，因此航道限制或船队短缺等运输中断会延误货物并推高到岸气价。当天然气昂贵或难以获取时，公用事业往往转向燃煤发电，这正是 LNG 物流能够影响煤炭需求的原因。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260824A09O1W00">煤 炭 ：救难能源危机的黑衣骑士和无可争议的能源王者_腾讯 新 闻</a></li>
+<li><a href="https://m.gmw.cn/2026-01/15/content_1304304021.htm">全 球 煤 炭 需 求 将温和下降</a></li>
+<li><a href="https://swti1.0you.cn/html/355198.html">天 然 气 需求强劲增长 亚洲 LNG ... | 永和市时尚时讯</a></li>
+
+</ul>
+</details>
+
+**标签**: `#煤炭需求`, `#IEA`, `#LNG运输`, `#能源政策`, `#能源市场`
+
+---
+
+<a id="item-5"></a>
+## [IEA 署长警告：霍尔木兹海峡恐难恢复战前常态](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySjVfSHc3MzVjR3NoZ1BGbkFrQTVPaFgwUE9va2tRLWpQNUJUUEMyZUpGQmhTYk0yWW5UeVVQanUwbDFiLVN5QkFUX05vNDdmbGptd1FRYk1hSFRjT3hScUJR?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）署长警告称，霍尔木兹海峡即使恢复通航，也恐难恢复战前常态，全球能源贸易面临的信任危机难以逆转。 霍尔木兹海峡是全球最关键的石油运输咽喉，日均通过约 2000 万桶原油，任何持续的中断或风险溢价上升都可能使能源价格保持波动，并重塑全球供应链和政策应急规划。 这一警告来自 IEA 署长，表明即使海峡物理上重新开放，也可能无法恢复市场信心，因为交易商和保险商的信任已受损；简短报道中未公布具体时间表或政策措施。
+
+google\_news · 华盛通 · 11月18日 14:38
+
+**背景**: 霍尔木兹海峡是位于伊朗和阿曼之间的狭窄水道，全球约五分之一的石油供应和相当比例的液化天然气经此通过。国际能源署是一个政府间组织，负责协调成员国的能源安全并监测供应风险。近期该地区地缘政治紧张加剧了人们对海峡作为过境通道可靠性的担忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/topics/energy-security">Global Energy Security and Energy Supply - IEA - Topics - IEA</a></li>
+<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure ... Historical and Strategic Significance of the Strait of Hormuz ... International - Analysis - U.S. Energy Information ... Strait of Hormuz - Geopolitics, Oil, and Maritime Info Strait of Hormuz: Oil and LNG Trade Facts - IEA - About - IEA The Strait of Hormuz as a Strategic Maritime Chokepoint ... The Strategic Importance of the Strait of Hormuz: The World&#x27;s ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Strait of Hormuz`, `#energy security`, `#IEA`, `#oil supply`, `#geopolitics`
+
+---
+
+<a id="item-6"></a>
+## [民主党起草数据中心电力改革方案，运营商或需多付 350 亿美元](https://news.google.com/rss/articles/CBMiZkFVX3lxTE96TndJY01oRDItN21yUUVlc19sdW1UV2ZHQkVhbHV4ckpUNXZ4Y0J2cHdkNHVTUjhkbWx3MUllU0tKdlBiZXE2Njc4X2tnQnVNUTl4SnlGSlZEQm5ORnkyTnRWZXdPZw?oc=5) ⭐️ 7.0/10
+
+美国民主党正在筹备一项数据中心电力改革方案，可能要求数据中心运营商在 10 年内额外支付 350 亿美元。该提案旨在改革针对数据中心等大型电力用户的电价设计。 若该方案通过，将大幅提高数据中心运营商的成本，并可能重塑电价设计，影响科技行业和能源市场。这表明在电价上涨的背景下，政策制定者正日益关注数据中心的能源需求。 350 亿美元是未来十年额外成本的估算值，但该提案仍在筹备中，尚未成为法律。摘要中未详细说明具体机制，如新的电价结构或需量电费。
+
+google\_news · 金融界 · 11月18日 10:31
+
+**背景**: 在人工智能和云计算的推动下，数据中心目前占美国电力需求的比例显著且不断增长。这种激增给电网带来压力，尤其是在 PJM 等区域，并导致居民电价上涨。政策制定者正在讨论如何分摊为这些大型负载升级基础设施的成本。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.pymnts.com/news/artificial-intelligence/2026/electric-rate-shock-triggers-white-house-crackdown-on-data-centers/?ref=biztoc.com">Electric Rate Shock Triggers White House Move on Data Centers</a></li>
+<li><a href="https://dev.to/rawveg/when-data-centres-move-in-4c1o">When Data Centres Move In - DEV Community</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#data centers`, `#electricity pricing`, `#regulation`, `#US politics`
+
+---
+
+<a id="item-7"></a>
+## [OPEC 在土耳其 COP31 气候谈判中为化石燃料辩护](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tNDFSdzJDSFBrVlZhdV84MjRndjFzSkRINF9zY0lLaU5kTk5Qdm1CTTN2S3BFYm4zUF9NS2RoT3JLTUtDeUJxQURCWDAwclk0aS1LeldWd0I?oc=5) ⭐️ 6.0/10
+
+在土耳其安塔利亚举行的 COP31 气候大会上，OPEC 秘书长海瑟姆·阿尔盖斯于 2026 年 11 月 18 日表示，推动全球电气化的努力将依赖化石燃料。此番言论正值东道主土耳其提出目标，计划到 2035 年将电力在全球终端能源需求中的占比提升至 35%之际。 这一表态凸显了化石燃料生产国与气候谈判代表之间的持续紧张关系，可能使在电气化和减排方面达成雄心勃勃成果的努力复杂化。这对政策制定者和投资者具有重要意义，因为 OPEC 的立场可能影响能源转型承诺的步伐以及 COP31 最终协议的可信度。 OPEC 秘书长海瑟姆·阿尔盖斯明确将电气化与化石燃料依赖联系起来，而土耳其提出的到 2035 年电力占比 35%的目标是会议的核心预期成果。OPEC+在联合国气候谈判中历来因主张继续使用化石燃料而引发摩擦。
+
+google\_news · 维度网 · 11月19日 00:37
+
+**背景**: COP31 是 2026 年联合国气候变化大会，于 2026 年 11 月 9 日至 20 日在土耳其安塔利亚举行，近 200 个国家在此谈判气候协议。OPEC 是由主要石油生产国组成的卡特尔组织，经常在全球论坛上捍卫石油行业的利益。该会议被视为加速落实《巴黎协定》和扩大气候融资的关键。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference">2026 United Nations Climate Change Conference - Wikipedia</a></li>
+<li><a href="https://www.al-monitor.com/originals/2026/11/opec-speaks-fossil-fuels-cop31-climate-talks">OPEC speaks up for fossil fuels at COP31 climate talks</a></li>
+<li><a href="https://cop31.tr/">COP31 Türkiye Antalya 2026 UN Climate Change Conference</a></li>
+
+</ul>
+</details>
+
+**标签**: `#COP31`, `#OPEC`, `#fossil fuels`, `#energy policy`, `#climate negotiations`
+
+---
+
+<a id="item-8"></a>
+## [孙逢春：不发展电动车交通碳中和无解，2035 年 4 亿辆车需 2 万亿度电](https://news.google.com/rss/articles/CBMia0FVX3lxTE5Sb3k2UHBVRW5RQjZuczVMYW1lbm12Q3BZbG5xVzQ5YW1uNUdkSVRaSk1tN1c2OC1iZlNPbld5R1hKc3djdnlfYzRKLWJUMkdIYmZOUDVDamFrMHlSNWlWUnZtV0xDSFlHbEpB?oc=5) ⭐️ 6.0/10
+
+孙逢春院士表示，不发展电动汽车，交通领域的碳中和就无法实现，并预测到 2035 年中国 4 亿辆汽车将需要 2 万亿度电。 这一预测凸显了中国电动汽车转型带来的巨大电力需求和电网基础设施挑战，这对中国的双碳目标至关重要，并影响能源政策、公用事业和汽车制造商。 4 亿辆车需 2 万亿度电，意味着每辆车年均耗电约 5000 度，但实际需求将取决于车辆使用模式 and 效率提升。
+
+google\_news · 中金在线 · 11月18日 09:58
+
+**背景**: 中国承诺 2030 年前实现碳达峰、2060 年前实现碳中和，即“双碳”目标。交通运输是主要排放源之一，车辆电动化被视为减排的关键路径，但这需要大规模扩展清洁发电和电网容量。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bbc.com/news/world-asia-china-57483492">Why China &#x27;s climate policy matters to us all</a></li>
+<li><a href="https://formingworld.com/electric-vehicles-2035-autoform/">Got Electric Vehicles ? The Tipping Point is Near: EV... - FormingWorld</a></li>
+
+</ul>
+</details>
+
+**标签**: `#electric vehicles`, `#carbon neutrality`, `#energy policy`, `#electricity demand`, `#China transportation`
+
+---
+
+<a id="item-9"></a>
+## [2026 中国 5G+工业互联网大会聚焦工业智能体与数字能源](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tLVhfUm5oYUpIRk5UYjFqclZ1Z1VFbUg2S3Z5Ul9ta3NzNkxlMVZyay1GOUREUlF2NzB5aDZJNnczdUtTMU5hTVlPaWdnUTU5Y2ZWSS05WUdKV3RRcXZ1M3pvckpRdw?oc=5) ⭐️ 5.0/10
+
+2026 中国 5G+工业互联网大会在武汉举行，集中展示了工业智能体、数字能源解决方案和 5G 工厂等推动数字与产业融合的关键主题。 此次大会表明中国正推动人工智能和 5G 融入工业与能源系统，这可能加速效率提升，并为数字与产业融合的政策方向提供指引。 尽管大会重点展示了工业智能体、数字能源和 5G 工厂，但主要属于展示性质，并未发布具体政策或量化目标，实施细节和标准仍不明确。
+
+google\_news · 东方财富 · 11月18日 09:56
+
+**背景**: 5G 工厂是指利用 5G 和工业互联网基础设施连接生产单元、实现 IT 与运营技术融合的先进制造设施。数字能源则是将物联网、大数据和人工智能应用于能源系统，以优化效率并支撑现代能源体系建设。工业智能体是设计用于在工业环境中自主执行任务的 AI 系统，代表了传统自动化的演进方向。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.miit.gov.cn/jgsj/xgj/wjfb/art/2026/art_3a18983db9024d1cbf4ccd88c4e7333f.html">工业和信息化部办公厅关于推广5G工厂典型应用实践的通知</a></li>
+<li><a href="https://baike.baidu.com/item/5G%E5%B7%A5%E5%8E%82/63420846">5G工厂 - 百度百科</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%95%B0%E5%AD%97%E8%83%BD%E6%BA%90/22258820">数字能源 - 百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#5G`, `#industrial internet`, `#digital energy`, `#energy policy`, `#China`
+
+---
+
+<a id="item-10"></a>
+## [华北电力大学举办中国能源企业海外利益安全法律保障研讨会](https://news.google.com/rss/articles/CBMidkFVX3lxTE1XOWhkNWZqQkhYaEtqMEpFYlJycFMyYnpCVVljT1ZSMGpGeUx4cnpTR2dNekJFREJOb29LYTJzR3ZjUERRa3pVMVAwLW8yWDV5UkJLY3d6NmhaV1NvRzdvNjZSSS1ieksxbS04b0UyNEJzZVFSNWc?oc=5) ⭐️ 5.0/10
+
+华北电力大学在北京举办了“中国能源企业海外利益安全法律保障专题研讨会”，并与该校“碳达峰碳中和交叉科学论坛”同期举行。会议汇聚专家，探讨海外利益的法律保障及实现“双碳”目标的交叉科学路径。 随着中国能源企业加速海外布局，法律风险与地缘政治紧张加剧，关于法律保障的研讨对保护海外投资具有现实意义。与碳中和议题的结合凸显了能源政策、法律与气候目标的交叉，对能源法律和国际商务专家具有参考价值。 该研讨会是由能源电力领域重点高校华北电力大学主办的学术活动，并未发布新的政策措施或具有约束力的协议。配套的交叉科学论坛是华北电力大学的系列学术活动，曾邀请国际计量专家等人士参与。
+
+google\_news · 华北电力大学 · 11月18日 03:33
+
+**背景**: 中国“双碳”目标是指 2030 年前实现碳达峰、2060 年前实现碳中和，这一承诺于 2020 年宣布。中国能源企业越来越多地在海外投资可再生能源、电网和化石燃料项目，面临多样化的法律和监管环境。华北电力大学是一所以能源电力为特色的重点大学，其交叉科学论坛系列聚焦与碳中和相关的科技挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ncepu.edu.cn/xshd/8a34c9fec5254840a9127519024ae0fe.htm">“碳达峰 碳中和”交叉科学论坛-学术活动-华北电力大学</a></li>
+<li><a href="https://www.qstheory.cn/dukan/hqwg/2022-07/12/c_1128824083.htm">正确认识 和 把握 碳 达 峰 碳 中 和 - 求是网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#overseas investment law`, `#carbon neutrality`, `#China energy`, `#academic symposium`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [Anthropic 完成首次公开募股，估值 1.5 万亿美元，募资约 1050 亿美元](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) ⭐️ 10.0/10
+
+Anthropic 已完成首次公开募股（IPO）的定价，市值达到 1.5 万亿美元，募资约 1050 亿美元，成为史上规模最大的科技 IPO 之一。此次发行包含 9.8 亿股 A 类普通股，每股定价 83 美元，发行规模较此前计划的 8.25 亿股有所扩大。 此次 IPO 是 AI 行业的里程碑事件，表明公开市场对 AI 公司抱有巨大信心，并为 AI 初创企业的估值树立了新标杆。它将影响投资者、员工、竞争对手以及整个科技生态，因为 Anthropic 在成立仅五年后便成为市值最高的上市公司之一。 募资的 1050 亿美元中，约 813.4 亿美元来自以每股 83 美元发行的 9.8 亿股，约 260 亿美元来自谷歌、英伟达等战略投资者，扣除现有股东出售 2360 万股所获的 19 亿美元。此次 IPO 规模从 8.25 亿股上调，反映出强劲的需求。
+
+hackernews · surprisetalk · 11月18日 23:30 · [社区讨论](https://news.ycombinator.com/item?id=50553843)
+
+**背景**: 首次公开募股（IPO）是私营公司首次向公众发行股票、转变为上市公司并筹集股权资本的过程。市值通过将股价乘以总流通股数计算得出，常用于衡量公司规模。Anthropic 由前 OpenAI 研究人员于 2021 年创立，是 Claude AI 助手背后的公司，并迅速成长为 AI 领域的重要参与者。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Initial_public_offering">Initial public offering - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Market_capitalization">Market capitalization - Wikipedia</a></li>
+<li><a href="https://www.bbc.com/news/articles/cmd7159vlr85o">Anthropic : The seven founders about to become multi-billionaires</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对一家 2021 年成立的公司达到 1.5 万亿美元市值表示震惊，指出苹果直到 2020 年才达到类似估值。一些人对允许员工立即出售股票的做法提出质疑，认为这是一个负面信号，而其他人则分析了扩大的股票数量和募资构成。
+
+**标签**: `#Anthropic`, `#IPO`, `#AI industry`, `#valuation`, `#public markets`
+
+---
+
+<a id="item-12"></a>
+## [谷歌发布前沿模型 Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) ⭐️ 8.0/10
+
+谷歌发布了 Gemini 4 Neon，这是一款新的前沿模型，定位于以更低成本处理复杂编码和分析任务，接替 Gemini 4 Hydrogen。该模型已通过 OpenRouter 提供服务，速度达每秒 127 个 token，远快于 Gemini 4 Carbon 的每秒 46 个 token。 此次发布扩充了谷歌的 Gemini 模型系列，加剧了前沿 AI 模型之间的竞争，为开发者提供了更快、更便宜的选择，适用于智能体编码和工具密集型工作。同时，它也引发了关于模型命名清晰度以及基准分数与实际表现之间差距的讨论。 在 Artificial Analysis 指数上，Neon 的总分高于 Carbon，但在 CritPt 等研究级推理评估中得分较低，而 Carbon 仍被定位为“长周期”模型。其在 OpenRouter 上的高吞吐量（每秒 127 个 token）相比 Carbon（每秒 46 个 token）让部分社区成员感到困惑。
+
+hackernews · yigitdemirag · 11月18日 21:34 · [社区讨论](https://news.ycombinator.com/item?id=50552424)
+
+**背景**: Gemini 是谷歌的旗舰大语言模型系列，“前沿模型”指的是能力最先进的 AI 系统。Artificial Analysis 指数和 CritPt 等基准是用于比较模型性能的标准化测试，但往往无法反映真实世界的可用性。模型命名方案（如 Neon、Carbon、Hydrogen）旨在标示不同的用例和能力层级。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/">He Wants AI Benchmarking To Be a Science, Not... | Quanta Magazine</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对新模型名称的不断涌现感到疲劳，并难以将其映射到具体用例，有人指出世界上大多数人很难跟踪 Sol、Astra、Neon、Opus 和 Carbon 等名称。其他人质疑基准的有效性，认为 Gemini 模型尽管分数相当，但感觉不如 Anthropic 的 Opus 5.5 智能，并讨论了细微的定位差异：Neon 总体更智能，但 Carbon 仍更适合长周期研究任务。
+
+**标签**: `#Gemini`, `#Google`, `#LLM`, `#model release`, `#AI benchmarks`
+
+---
+
+<a id="item-13"></a>
+## [Wiz 披露 Nginx HTTP/2 未授权远程代码执行漏洞](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) ⭐️ 8.0/10
+
+Wiz Research 与 Ikotas Labs、Metnir、Rapid7 和 Xint 独立发现并披露了 Nginx HTTP/2 实现中的两个严重未授权远程代码执行漏洞，编号为 CVE-2026-123633 和 CVE-2026-123007，F5 于 2026 年 11 月 18 日发布了安全更新。 Nginx 为约 2.25 亿个网站提供支持，因此其 HTTP/2 栈中的未授权 RCE 在互联网规模上构成严重风险，尽管 HTTP/2 并非默认启用且仅约 12%的服务器使用它。 利用漏洞需要启用 HTTP/2，并且根据社区分析，还需要大量流量（例如 128GB）和特定 CPU 指令；缓解措施是禁用 HTTP/2，且 CVE-2026-123007 的概念验证代码已公开。
+
+hackernews · speedping · 11月18日 15:19 · [社区讨论](https://news.ycombinator.com/item?id=50547374)
+
+**背景**: Nginx 是一个广泛使用的开源 Web 服务器和反向代理。HTTP/2 是 HTTP 协议的重大修订版，通过多路复用和头部压缩提升性能。远程代码执行（RCE）漏洞允许攻击者在无需认证的情况下在服务器上运行任意代码，因此极为严重。F5 是维护 Nginx 的公司。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">Unauthenticated Remote Code Execution in NGINX ... | Wiz Blog</a></li>
+<li><a href="https://cybersecuritynews.com/nginx-http-2-vulnerabilities/">NGINX HTTP/2 Flaws Could Allow Memory Corruption and Remote ...</a></li>
+<li><a href="https://www.imperva.com/blog/critical-nginx-http-2-vulnerabilities-cve-2026-123633-and-cve-2026-123007-what-imperva-customers-need-to-know/">Critical NGINX HTTP/2 Vulnerabilities (CVE-2026-123633 and ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者争论披露时机，指出该漏洞一周前已在开源仓库中修复，可能被监控提交记录的人利用，并认为应发布关于禁用 HTTP/2 的简单公告。其他人则淡化严重性，指出 HTTP/2 并非默认启用且利用需要大量流量和特定 CPU 指令，还有一些人表达了对 AI 驱动漏洞发现的更广泛担忧。
+
+**标签**: `#nginx`, `#vulnerability`, `#remote-code-execution`, `#http2`, `#security-disclosure`
+
+---
+
+<a id="item-14"></a>
+## [微软发布七款新 AI 模型，主打高性价比](https://microsoft.ai/news/microsoft-ignite-2026/) ⭐️ 8.0/10
+
+微软在 Ignite 2026 大会上发布了七款新 AI 模型系列，强调可扩展的性价比。其中包括 MAI Cyber 2 Flash，据称在每任务成本不到 GPT-6 Astra 的 2%的情况下达到其质量水平；以及 MAI Code 2，以约 40%的价格达到 GPT-6.1 Sol 编码质量的 98%。 此次发布标志着微软在性能和成本上直接与 Anthropic、OpenAI 等领先 AI 实验室竞争，可能加剧 AI 模型市场的价格战。同时，它为企业提供了更多低成本部署高性能模型的选择，有望加速 AI 的采用。 这些模型被定位为具有卓越性价比的世界级模型，据社区测试，MAI Code 2 的编码性能接近 Opus 5 水平。微软通过其平台提供这些模型，但公告中未完全披露具体的可用性和许可细节。
+
+hackernews · gmays · 11月18日 16:08 · [社区讨论](https://news.ycombinator.com/item?id=50548021)
+
+**背景**: 微软一直在开发自己的 MAI（微软 AI）系列模型，以减少对 OpenAI 的依赖并在生成式 AI 市场竞争。Ignite 是微软面向开发者和 IT 专业人士的年度大会，用于展示新技术。Opus 5 是 Anthropic 的最新 AI 模型，旨在以旗舰模型一半的成本提供接近前沿的智能；GPT-6 Astra 和 GPT-6.1 Sol 是作为基准引用的 OpenAI 模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://microsoft.ai/news/microsoft-ignite-2026/">Seven new world-class models at scalable price-performance ...</a></li>
+<li><a href="https://www.wam.ae/en/article/17c8lgc-anthropic-rolls-out-opus-model-efficiency-upgrade">Anthropic rolls out Opus 5 AI model in efficiency upgrade</a></li>
+<li><a href="https://www.neowin.net/news/microsofts-new-coding-ai-model-can-run-locally-but-youll-need-a-monster-pc/">Microsoft &#x27;s new coding AI model can run locally, but you&#x27;ll... - Neowi...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反应不一：一些用户称赞 MAI Code 2 的性能，称其“与 Opus 或 Sol 相当”；另一些人则批评微软的策略，认为应开源模型以获取市场份额，并将其比作 Windows Phone 的失败。还有人对 AI 对就业和社会的影响表示更广泛的担忧，一些人对行业方向感到失望。
+
+**标签**: `#Microsoft`, `#AI models`, `#price-performance`, `#model release`, `#competition`
+
+---
+
+<a id="item-15"></a>
+## [文章认为：AI 不会让创造者致富，而会让应用者致富](https://colossus.com/article/ai-will-not-make-you-rich/) ⭐️ 7.0/10
+
+Colossus 网站发表的一篇新文章认为，AI 与集装箱等过去的通用技术一样，不太可能让发明者致富，反而会奖励那些以新颖方式应用它的人。 这一反主流观点挑战了构建 AI 模型是致富之路的假设，表明真正的经济价值将归于采用者和应用层创新者，这可能重塑科技行业的投资和职业策略。 文章将 AI 与集装箱化相类比，指出尽管集装箱彻底改变了贸易，但财富流向了那些利用集装箱开创全新商业模式的人，而非集装箱制造商本身；同样，AI 的商品化可能意味着最大的赢家是那些利用 AI 催生新产品和服务的人。
+
+hackernews · madars · 11月19日 01:51 · [社区讨论](https://news.ycombinator.com/item?id=50555093)
+
+**背景**: 通用技术（GPT）如蒸汽机、电力和互联网，其特点是具有改变多个行业并催生互补性创新的潜力。经济学家早已观察到，通用技术的发明者往往只获得所创造总经济价值的一小部分，因为技术会扩散并商品化。20 世纪 50 至 60 年代普及的集装箱就是一个经典例子：它大幅降低了运费并促成了全球供应链，但巨额财富是由利用新可能性的物流公司和零售商创造的。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://archive.org/details/boxhowshippingco0000levi">The box : how the shipping container made the... : Internet Archive</a></li>
+<li><a href="https://www.linkedin.com/pulse/ai-beyond-general-purpose-technology-irene-lin-xtisc">AI Beyond General Purpose Technology</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者展开了细致的辩论：一些人反驳集装箱类比，指出全新的贸易类别涌现并创造了财富；另一些人则认为，AI 采用的下一阶段可能涉及隐藏 AI 的使用，因为 AI 生成的工作正变得商品化且难以区分。另一位评论者强调了文章关于 AI 遭遇独特反弹的观察，与早期科技英雄相比；还有人质疑任何人都能在笔记本电脑上构建和训练 LLM 的前提。
+
+**标签**: `#AI economics`, `#general-purpose technology`, `#AI adoption`, `#industry analysis`, `#commentary`
+
+---
+
+<a id="item-16"></a>
+## [Ruby 披露 Regexp 和字符串大小写转换中的多个漏洞](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) ⭐️ 7.0/10
+
+Ruby 于 2026 年 11 月 18 日发布安全公告，披露了影响其 Regexp 引擎和字符串大小写转换例程的多个漏洞。该公告紧随此前针对 GitLab 的 CVE-2026-89078、CVE-2026-93577、CVE-2026-97229 和 CVE-2026-110264 的 Regexp 编译修复之后发布。 这些缺陷影响几乎每个 Ruby 应用都会用到的核心运行时组件，而 Regexp 问题严重到足以在 GitLab 中实现远程代码执行。运行 Ruby 的团队，尤其是那些编译用户提供的正则表达式的团队，应尽快查看公告并升级。 评论者指出了一个具体的缓冲区溢出式缺陷：在 Windows-1252 编码中，将德语尖音 s（ß）转为大写会扩展为“SS”，使字符串长度增加一个字符，而大小写转换代码似乎逐字符检查缓冲区余量，未考虑扩展。Ruby 长期警告从不可信输入编译正则表达式是不安全的，本公告进一步强化了这一指导。
+
+hackernews · runesoerensen · 11月18日 23:52 · [社区讨论](https://news.ycombinator.com/item?id=50554038)
+
+**背景**: Ruby 是一种广泛使用的编程语言，其运行时包含 Onigmo 正则表达式引擎以及支持编码的 String 方法（如 upcase 和 downcase）。当正则表达式模式来自不可信用户时，正则编译已被反复证明是危险的，因为精心构造的模式可能触发内存损坏或拒绝服务。近期 GitLab 的公告将四个严重的远程代码执行漏洞追溯到 Ruby 的正则引擎，促使 Ruby 发布了一系列编译修复。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://docs.ruby-lang.org/en/master/String.html">class String - Documentation for Ruby 4.1</a></li>
+<li><a href="https://blog.kiprosh.com/encoding-problems-in-ruby/">Encoding Problems in Ruby</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者聚焦于 Windows-1252 中 ß→SS 的长度扩展缺陷，tptacek 称其很可能是一个因逐字符余量检查而导致的“绝妙 bug”。TZubiri 建议用普通条件语句、数组访问和比较运算符替代正则表达式以缩小攻击面，而 lousken 则以疲惫的幽默回应（“我需要休假”）。
+
+**标签**: `#ruby`, `#security-vulnerability`, `#regexp`, `#string-encoding`, `#software-security`
+
+---
+
+<a id="item-17"></a>
+## [毕马威英国审计试验发现 AI 代理比人类会计师提出更深入的问题](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) ⭐️ 7.0/10
+
+毕马威英国首次对一家英国上市公司进行了基于 AI 的审计，据审计主管 Cath Burnet 称，AI 代理在问题上比常规审计团队深入得多，并提出了人类审计师未曾提出的问题。 该试验表明 AI 代理可以增强审计等复杂知识工作，可能重塑专业服务公司部署 AI 的方式，并引发对初级会计师未来角色的质疑。 该试验由毕马威自身进行，公开报告缺乏比较 AI 与人类表现的定量数据，因此除了定性声明外，难以评估结果的重要性。
+
+hackernews · Betelbuddy · 11月18日 15:49 · [社区讨论](https://news.ycombinator.com/item?id=50547777)
+
+**背景**: AI 代理是能够执行数据分析和风险评估等审计任务的自主系统。毕马威是四大会计师事务所之一，审计涉及检查财务记录以确保准确性和合规性，这一过程传统上依赖人类判断和专业知识。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1">AI asked ‘better questions’ than KPMG accountants in pilot audit</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50547777">AI Agents Ask Better Questions Than KPMG ... | Hacker News</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对该试验缺乏定量证据和自报性质表示怀疑，一些人指出 AI 记忆细节的能力使其非常适合繁琐的审计任务。其他人批评大型会计师事务所的剥削模式，并强调 AI 在结构化、清单驱动的工作中超越人类的潜力。
+
+**标签**: `#AI agents`, `#auditing`, `#KPMG`, `#professional services`, `#AI adoption`
+
+---
+
+<a id="item-18"></a>
+## [LLM 辅助逆向工程引发技能流失与智能体工作流之争](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) ⭐️ 7.0/10
+
+slowchronicle.com 上的一篇博客文章及其 Hacker News 讨论帖探讨了如何利用大语言模型进行逆向工程，评论者分享了具体成功案例，例如解锁 Android 应用的高级功能以及逆向工程已废弃的 DSP 插件。讨论还提出了一种“面向智能体的科学方法”，迫使 LLM 执行确定性实验，而不是陷入循环猜测。 这是一次从业者视角的审视，探讨 LLM 如何改变传统上由深厚专业知识门槛所限制的逆向工程领域，并揭示了 AI 驱动的自动化与动手实践带来的技能积累之间的真实矛盾。这些轶事表明，即使是非专家现在也能完成解锁应用功能或恢复废弃软件等任务，这可能重塑安全研究员、开发者和爱好者进行二进制分析的方式。 评论者指出，像 Codex 这样的 LLM 可以在五小时窗口内解锁基于订阅的 Android 应用，甚至完全离线重新实现其功能；而另一些人报告称，在更难的目标上，Claude（尤其是 Opus）需要持续监督以阻止“猜测循环”。讨论还提出了当智能体生成人类几乎不审查的代码时，软件专利责任这一未解决的问题。
+
+hackernews · ioma8 · 11月18日 22:29 · [社区讨论](https://news.ycombinator.com/item?id=50553225)
+
+**背景**: 逆向工程是分析已编译软件以理解其结构和行为的过程，常用于安全研究、互操作性以及恢复废弃或无文档的程序。LLM 越来越多地被应用于这一任务，因为它们可以阅读反编译代码、提出假设并自动化重复的分析步骤。智能体工作流——即 LLM 迭代地规划和执行动作——是一种较新的发展，旨在使这一过程更加自主。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.clearseclabs.com/docs/training/building-agentic-re/">Agentic RE: Automating Reverse Engineering ... | CLEARSECLABS LLC</a></li>
+<li><a href="https://agentspulse.github.io/tutorials/rea-reverse-engineer-anything-mcp/">What Is REA? AI Reverse Engineering with MCP | AgentsPulse</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者意见分歧：一位评论者认为过程本身才是培养技能和获得满足感的途径，而 AI 辅助的逆向工程削弱了这一点；另一位具有 DevOps 背景的评论者则报告称，尽管编码经验很少，却成功逆向工程了废弃的音频插件。其他人分享说 Codex 无需额外技能即可解锁 Android 应用的高级功能，还有从业者指出“猜测循环”是用 Claude 进行逆向工程时的主要烦恼，在更难的目标上需要持续照看。
+
+**标签**: `#LLM`, `#reverse-engineering`, `#AI agents`, `#software development`, `#Hacker News discussion`
+
+---
+
+<a id="item-19"></a>
+## [Quad9 因 DNS 封锁令退出法国](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) ⭐️ 7.0/10
+
+瑞士非营利 DNS 解析器 Quad9 宣布将于 2026 年 11 月 24 日停止为法国用户提供服务，此前巴黎法院因 Quad9 未封锁与盗版网球直播相关的域名而对其处以每日 1000 欧元的罚款。该命令由 beIN Sports 提起，Quad9 选择退出而非遵守 DNS 层面的封锁要求。 此案为要求中立的 DNS 基础设施提供商对其仅提供指向的内容承担责任开创了先例，可能迫使其他公共解析器要么封锁域名，要么退出市场。它引发了对审查、隐私以及 DNS 封锁技术有效性的担忧，影响全球用户、ISP 和互联网治理。 法院的处罚针对 Quad9 未能封锁与盗版网球直播相关的域名，但 DNS 封锁仅移除指针，并不实际删除内容，因此在技术上无效。Quad9 的免费 9.9.9.9 服务将对法国用户停止工作，法国此前已对 Google、Cloudflare 和 Cisco 发出类似命令。
+
+hackernews · ritzaco · 11月18日 13:18 · [社区讨论](https://news.ycombinator.com/item?id=50545958)
+
+**背景**: DNS 解析器将人类可读的域名转换为 IP 地址，充当互联网的目录。DNS 层面的封锁是一种常见的反盗版措施，但批评者认为它容易被绕过，并可能被重新用于审查。Quad9 是一家由瑞士非营利组织运营的注重隐私的公共解析器，提供加密 DNS 和恶意软件拦截。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">Quad 9 Is Leaving France: Why DNS Resolvers Are... | Tech Stackups</a></li>
+<li><a href="https://www.dnslab.dev/learn/docs/governance/dns-censorship">DNS Censorship — DNS Docs - dnslab.dev</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者争论法国法院是误解了糟糕的法律还是正确适用了荒谬的法律，一些人认为非起诉式的反盗版方法不可避免地成为压制言论的工具。其他人强调真正的解决方案是让合法选项更便捷，还有人指出 AI 公司已经大量消费知识产权却未受惩罚。
+
+**标签**: `#DNS`, `#internet governance`, `#piracy`, `#censorship`, `#privacy`
+
+---
+
+<a id="item-20"></a>
+## [德意志银行与爱泼斯坦关联调查借助 OpenAleph 工具](https://www.inside-db.com/) ⭐️ 6.0/10
+
+一个调查新闻项目发布了关于德意志银行与杰弗里·爱泼斯坦关联的调查结果，使用基于 ElasticSearch 和 FollowTheMoney 模式的开源工具 OpenAleph 分析了约 1500 万份文件。 该项目展示了开源 AI 和搜索工具如何支持调查报道中的大规模文档分析，有望提升金融机构的透明度和问责制。 这些文件主要是 Outlook 邮箱导出文件，由 DARC 维护的 OpenAleph 提供了安全的上传和分析环境；但原始数据不会在线发布，记者将在未来几个月继续进行新闻评估。
+
+hackernews · gyre007 · 11月18日 15:38 · [社区讨论](https://news.ycombinator.com/item?id=50547620)
+
+**背景**: OpenAleph 是一个开源平台，最初由 OCCRP 为调查新闻编辑室开发，用于搜索文档和结构化数据。它使用 ElasticSearch 进行索引，并采用专为调查新闻设计的 FollowTheMoney 模式来建模实体和关系。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://openaleph.org/docs/user-guide/103/investigations/">Investigations - OpenAleph</a></li>
+<li><a href="https://openaleph.org/start/">Get Started - OpenAleph</a></li>
+<li><a href="https://www.elastic.co/docs/explore-analyze">Explore and analyze data with Kibana - Elastic Docs</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者讨论了技术栈，一名记者提到使用了 OpenAleph 和 ElasticSearch。其他人批评页面缺乏摘要，对新闻中的选择性遗漏表示担忧，并质疑避税行为。
+
+**标签**: `#investigative-journalism`, `#AI-tools`, `#ElasticSearch`, `#data-analysis`, `#Deutsche-Bank`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [GPT-6.2 发布：跑分破纪录，实测遭吐槽](http://www.geekpark.net/news/374175) ⭐️ 8.0/10
+
+2026 年 11 月 17 日，OpenAI 发布 GPT-6.2 Astra 和 Sol，其中 Astra 的 API 价格下调 20%，并以 62 分在 Artificial Analysis 智能指数上排名第二，仅次于 Claude Fable 5.2。但上线仅几分钟，知名开发者 Matt Shumer 和 Theo Browne 就公开批评模型“基本不可用”、在实际任务中不稳定。 跑分领先与开发者体验糟糕之间的巨大落差，凸显了基准测试驱动评估的局限性，也引发了对 OpenAI 产品质量及其相对于 Anthropic 和 Google 等竞争对手优势的质疑。这可能削弱开发者信任，并加速他们在编程和智能体任务中转向替代模型。 两款模型均配备 105 万 token 上下文窗口，但 Astra 的编程智能体得分停滞在 53 分，Sol 则下降 3 分至 49 分，其中代码库问答一项暴跌 14 分。定价存在隐藏陷阱：单次输入超过 27.2 万 token 时输入和缓存价格翻倍，且 Ultrafast 模式将从 2027 年 3 月起翻倍至基础价格的 6 倍。
+
+rss · 极客公园 · 11月18日 13:40
+
+**背景**: GPT-6.2 是 OpenAI GPT-6 系列的后续版本，于 2026 年底发布。Artificial Analysis 智能指数是一个综合基准，汇总多项评估来对 AI 模型排名，而编程智能体指数则专门衡量软件工程任务上的表现。基准分数往往不能完全反映真实世界的可用性，尤其是在复杂、开放式的开发者工作流中。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GPT-6.2_Astra">GPT-6.2 Astra</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 知名开发者和研究者表达了强烈失望：Matt Shumer 称其“基本不可用”，Theo Browne 写了批评长文，Ethan Mollick 指出它“非常不稳定且古怪”，是自 GPT-4.5 以来 OpenAI 前沿发布首次未见明显进步。一些人承认其在漏洞挖掘和 3D 生成等狭窄领域能力惊人，但整体情绪负面。
+
+**标签**: `#OpenAI`, `#GPT-6.2`, `#AI models`, `#benchmark vs real-world`, `#big tech`
+
+---
+
+<a id="item-22"></a>
+## [即梦 Seedance 2.5 升级，支持 4K AI 视频生成](https://www.ifanr.com/1690033?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+字节跳动旗下即梦平台将其 Seedance 视频模型升级至 2.5 版本，新增 4K AI 视频生成能力，推动该工具从实验性片段创作转向完整的生产流程。 这标志着中国大厂在 AI 视频领域的重要进展，4K 输出使 AI 视频从实验性片段迈向生产级内容，可能影响专业视频创作者及整个 AI 视频市场。 Seedance 2.5 支持 4K 分辨率及最长 30 秒的单镜头原生视频生成（含音频），可通过即梦平台使用；不过原文对底层模型架构的技术细节着墨较少。
+
+rss · 爱范儿 · 11月18日 04:00
+
+**背景**: Seedance 是字节跳动推出的 AI 视频生成模型，可通过即梦平台使用。Seedance、Kling、Veo 等 AI 视频生成工具能够根据文本或图像提示生成视频，近期进展主要集中在更高分辨率、更长时长以及音频集成，以满足专业需求。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://jimeng.jianying.com/tools/seedance-2-5">Seedance 2.5 免费 AI 视频生成器（支持音频）| 即梦</a></li>
+<li><a href="https://seedvideo.app/zh">Seedance 2.5 AI视频生成 - 30秒一镜到底 | SeedVideo</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI视频生成`, `#Seedance`, `#即梦`, `#4K`, `#大厂产品发布`
+
+---
+
+<a id="item-23"></a>
+## [小马智行三季报：Robotaxi 贡献四成营收，商业化提速](https://www.tmtpost.com/8210512.html) ⭐️ 7.0/10
+
+小马智行第三季度营收创下历史新高，其中 Robotaxi 业务贡献了总营收的 40%，车队扩张带动经营效率持续改善。 这一里程碑表明，Robotaxi 正成为领先自动驾驶企业的重要收入来源，标志着该行业的商业化进程正在加速，并可能增强投资者和合作伙伴的信心。 营收增长得益于车队规模扩大和运营效率提升，但报告未披露具体车队规模或单车经济模型；小马智行此前曾计划到 2026 年将 Robotaxi 车队扩展至 20 多个城市的 3000 辆。
+
+rss · 钛媒体 · 11月19日 02:16
+
+**背景**: 小马智行是中国领先的自动驾驶公司，在广州、深圳等城市运营 Robotaxi 服务。Robotaxi 商业化需要实现单车经济盈亏平衡，即单车收入覆盖车辆折旧、远程运营和维护等成本。该公司一直在通过低成本的新一代车型扩大车队规模，以提升利润率。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.pony.ai/pony-ai-drives-commercialization-at-scale-with-lower-cost-robotaxis-and-new-l4-light-truck/">Pony . ai Drives Commercialization at Scale with Lower-Cost...</a></li>
+<li><a href="https://www.globaltimes.cn/page/202608/1367908.shtml">Pony . ai ’s autonomous-driving distance tops 100m km... - Global Times</a></li>
+<li><a href="https://blog.pony.ai/pony-ai-expands-robotaxi-operations-infrastructure-with-jd-coms-auto-services-unit/">Pony.ai Expands Robotaxi Operations Infrastructure With...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Pony.ai`, `#Robotaxi`, `#autonomous driving`, `#earnings`, `#commercialization`
+
+---
+
+<a id="item-24"></a>
+## [英伟达季度营收 1158 亿美元、Anthropic 万亿 IPO 与美国远程算力管制](https://www.tmtpost.com/8210615.html) ⭐️ 7.0/10
+
+英伟达公布第三季度营收 1158 亿美元、订单积压达 2.5 万亿美元，同时停售 H200 并设立董事会层面的出口管制委员会，完成创始人离任后的治理重置。与此同时，美国将出口管制扩大至第三国远程算力，Anthropic 被曝拟以约 1.4 万亿美元估值 IPO，微软则在 Ignite 大会上将 Office 与 Copilot 升级为智能体工作系统。 这些动向表明，AI 基础设施与治理正围绕少数美国巨头集中，而华盛顿堵住远程算力漏洞将进一步割裂全球 AI 算力供给。Anthropic 若以万亿美元估值上市，将使算力成本接受公开检验，微软的智能体化则重塑企业采购和使用生产力软件的方式。 美国工业与安全局（BIS）新的临时最终规则要求，凡可能向中国等受限国家提供算力的 AI 芯片出口均需申请许可，即使经由海外数据中心也不例外。英伟达停售 H200 并设立董事会出口管制委员会，显示内部合规趋严；而 Anthropic 的估值报道在约 1.4 万亿至逾 1.5 万亿美元之间。
+
+rss · 钛媒体 · 11月19日 01:05
+
+**背景**: 英伟达 H200 是高端数据中心 GPU，一直处于美中芯片出口限制的中心。美国商务部工业与安全局（BIS）此前管制的是芯片实物流转，但受限国家的企业仍可从第三国数据中心租用美国设计的算力；11 月 16 日的临时最终规则旨在堵住这一漏洞。Anthropic 是 Claude 系列模型背后的 AI 实验室，其 IPO 将成为 AI 公司史上规模最大的上市之一。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">US tightens AI chip export controls to deter Chinese ...</a></li>
+<li><a href="https://www.nixonpeabody.com/insights/alerts/2026/11/16/bis-targets-remote-access-to-advanced-chips-through-overseas-data-centers">BIS targets remote access to advanced chips through overseas ...</a></li>
+<li><a href="https://gpusmith.com/articles/en/nvidia-gpu-export-restrictions">NVIDIA Export Controls 2026: H200, H20 &amp; China Rules</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#AI infrastructure`, `#export controls`, `#Anthropic IPO`, `#Microsoft Copilot`
+
+---
+
+<a id="item-25"></a>
+## [早报：Gemini 4 Neon 发布、英伟达 CEO 风波、英特尔裁员、豆包日活破 800 万](https://www.ifanr.com/1690255?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+谷歌发布 Gemini 4 Neon，主打复杂任务与更低单次成本；英伟达董事会因丑闻阻止联合创始人黄仁勋回归 CEO 职位，临时 CEO Colette Kress 承诺涨薪；英特尔再次裁减全球 IT 员工；字节跳动旗下豆包聊天机器人三个月内日活跃用户突破 800 万。 这些动态反映了 AI 模型与人才竞争的加剧，以及传统芯片厂商持续削减成本，可能重塑科技行业格局，并影响开发者、企业和投资者。 Gemini 4 Neon 基于 Gemini 4 Carbon 改编，支持高达 100 万 token 的上下文窗口，涵盖文本、图像、音频和视频；英伟达领导层变动源于黄仁勋承认婚外情，临时 CEO 已确认停止向中国发运 H200。
+
+rss · 爱范儿 · 11月19日 00:36
+
+**背景**: Gemini 是谷歌的多模态 AI 模型系列，不同版本针对不同任务和成本优化。英伟达是领先的 GPU 设计公司，其 CEO 黄仁勋是知名人物，他的突然辞职和董事会的决定非同寻常。英特尔一直在竞争压力下重组以削减成本。豆包是字节跳动的 AI 聊天机器人，在中国拥挤的市场中与 DeepSeek 和 Kimi 竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">Introducing Gemini 4 Neon</a></li>
+<li><a href="https://deepmind.google/models/model-cards/gemini-4-neon/">Gemini 4 Neon - Model Card — Google DeepMind</a></li>
+<li><a href="https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/">关于 英 伟 达 临 时 CEO 克雷斯，我们知道些什么 - 纽约 时 报中文网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#大厂动态`, `#Google Gemini`, `#英伟达`, `#英特尔`, `#行业简报`
+
+---
+
+<a id="item-26"></a>
+## [《GTA VI》首发体验：过去十年最佳，未来十年可能也是最佳](https://www.ifanr.com/1690188?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+爱范儿发布了一篇《GTA VI》的首发体验文章，称其为过去十年最好的游戏，也可能是未来十年最好的游戏，但提供的正文内容仅有标题“欢迎回到罪城”和推广微信公众号的页脚。 《GTA VI》是十年来最受期待的游戏之一，来自主要媒体的首发体验可以塑造消费者预期，并影响围绕 Rockstar Games 及其母公司 Take-Two Interactive 的行业讨论。 文章正文基本缺失，仅包含一个标题和一条推广信息，因此没有关于玩法、剧情或技术表现的实质性细节；因此，关于它是十年最佳游戏的说法在提供的文本中缺乏支撑。
+
+rss · 爱范儿 · 11月18日 17:16
+
+**背景**: 《GTA VI》是 Rockstar Games 的《侠盗猎车手》系列的最新作品，背景设定在虚构的雷奥尼达州，其中包括以迈阿密为原型的罪恶城。该游戏是 2013 年《GTA V》的续作，也是有史以来制作成本最高的娱乐产品之一。罪恶城此前曾出现在 2002 年的《GTA：罪恶城市》中，该作因其 1980 年代背景而备受喜爱。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E4%BF%A0%E7%9B%9C%E7%8D%B5%E8%BB%8A%E6%89%8B%EF%BC%9A%E7%BD%AA%E6%83%A1%E5%9F%8E%E5%B8%82">俠盜獵車手：罪惡城市 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E7%BD%AA%E6%81%B6%E5%9F%8E/63628953">罪恶城（系列游戏《GTA》中的地点（HD宇宙））_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#GTA VI`, `#Rockstar Games`, `#游戏评测`, `#大厂要闻`, `#游戏产业`
+
+---
+
+<a id="item-27"></a>
+## [深度实测 GPT-6.2：强是真强，难用也是真难用](https://www.ifanr.com/1690130?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+爱范儿发布了一篇关于 GPT-6.2 的深度实测文章，指出该模型能力很强但使用起来也有难度，不过目前提供的内容仅为预告。 作为 OpenAI 推出的重要新模型，GPT-6.2 的易用性问题可能会影响那些将其用于复杂项目和日常任务的开发者和企业。 评测指出 GPT-6.2 强大但难用，不过摘录内容缺少具体的技术细节或基准测试数据。
+
+rss · 爱范儿 · 11月18日 10:01
+
+**背景**: GPT-6.2 指的是 OpenAI 最近发布的模型系列，包括面向最棘手项目的 GPT-6.2 Astra 和面向日常工作的 GPT-6.2 Sol。这些模型旨在以更少的输出 token 取得更好的结果，从而提升企业和开发者的使用效率。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://openai.com/zh-Hans-CN/index/introducing-gpt-6-2-astra-sol/">推出 GPT-6.2 Astra 和 Sol | OpenAI</a></li>
+<li><a href="https://baike.baidu.com/item/GPT-6.2+Sol/69766845">GPT-6.2 Sol - 百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#GPT-6.2`, `#AI模型`, `#产品评测`, `#大厂动态`, `#技术应用`
+
+---
+
+<a id="item-28"></a>
+## [Rimac Nevera 纯电超跑停产，CEO 转向 16 缸布加迪新旗舰](https://www.ifanr.com/1690064?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+Rimac 创始人兼 CEO Mate Rimac 在社交媒体上宣布，旗舰纯电超跑 Nevera 系列将在今年年底前停产，同时他将重心转向打造布加迪全新的 16 缸旗舰车型。 Nevera 作为电动超跑的标志性车型停产，标志着 Rimac 的战略重心转向与布加迪的合资业务，也引发了外界对超豪华领域电动超跑与内燃机未来走向的思考。 Nevera 以四电机布局著称，总功率达 1914 马力，峰值扭矩 2360 牛·米，零百加速仅 1.81 秒，最高时速 412 公里/小时；但此次消息并未透露布加迪新 16 缸车型的具体规格或时间表。
+
+rss · 爱范儿 · 11月18日 03:40
+
+**背景**: Rimac Automobili 是由 Mate Rimac 创立的克罗地亚电动汽车制造商，其 Nevera 超跑一直是电动性能的标杆。2021 年，保时捷与 Rimac 集团合资成立布加迪·锐马克公司，由 Mate Rimac 担任 CEO，旨在将布加迪的品牌遗产与 Rimac 的电动技术相结合。16 缸发动机指的是布加迪标志性的 W16 发动机，曾用于 Chiron 等车型，不过新旗舰可能采用不同的 16 缸配置。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/Rimac+Nevera/62305868">Rimac Nevera - 百度百科</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%B8%83%E5%8A%A0%E8%BF%AA%C2%B7%E9%94%90%E9%A9%AC%E5%85%8B/68470057">布加迪·锐马克_百度百科</a></li>
+<li><a href="https://newsroom.porsche.com/zh/2021/company/cn-porsche-bugatti-rimac-joint-venture-25009.html">布加迪与 Rimac 结合强势品牌基因 - Porsche Newsroom CHN</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Rimac`, `#布加迪`, `#电动超跑`, `#汽车行业`, `#停产`
+
+---
+
+<a id="item-29"></a>
+## [名创优品三季报揭示 TOP TOY 困境，非核心玩具业务反而红火](https://www.tmtpost.com/8210308.html) ⭐️ 6.0/10
+
+根据钛媒体的分析，名创优品第三季度财报显示，其专门潮玩品牌 TOP TOY 增长熄火，而非核心的玩具业务反而蓬勃发展。 这一反差引发了对名创优品在竞争激烈的潮玩市场中战略的质疑，它正与泡泡玛特等对手竞争，这可能影响投资者对 TOP TOY 计划赴港 IPO 的信心。 TOP TOY 曾宣布雄心勃勃的全球扩张计划，目标五年内在 100 个国家开设超过 1000 家门店，但三季报显示其表现未达预期。
+
+rss · 钛媒体 · 11月19日 02:15
+
+**背景**: 名创优品最初以平价生活用品闻名，于 2020 年推出 TOP TOY 作为专门潮玩品牌，以抢占蓬勃发展的潮玩市场，与泡泡玛特竞争。TOP TOY 一直在寻求独立赴港上市，但潮玩行业竞争激烈，各品牌争夺相同的设计师、IP 授权和消费者。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.ebrun.com/576498.html">TOP TOY 孙元文：我们没有把泡泡玛特当对手 - 零售 - 亿邦动力</a></li>
+<li><a href="https://www.toutiao.com/article/7625142479280505382/">从10元店到IP巨头：名创优品营收214亿，IP产品撑起近10亿爆款！</a></li>
+<li><a href="https://i.ifeng.com/c/8LAbno2QxE3">重估名创优品：布局潮玩赛道增强增长韧性，毛利率、净利率有广阔提升...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#名创优品`, `#TOP TOY`, `#潮玩`, `#财报`, `#零售`
+
+---
+
+<a id="item-30"></a>
+## [字节跳动领导层变动：曾妍论文勾勒 10 万亿参数 AI 路线图](https://www.tmtpost.com/8210148.html) ⭐️ 6.0/10
+
+字节跳动将 AI 核心负责人从周畅换为曾妍，曾妍的新论文提出了训练 10 万亿参数模型的路线图，标志着公司 AI 战略方向的转变。 这一领导层变动和雄心勃勃的 10 万亿参数目标可能重塑字节跳动在全球 AI 竞赛中的竞争地位，有望在模型规模上超越 Anthropic 和阿里巴巴等对手。 据报道，该路线图的目标模型规模远超字节跳动此前讨论的 5 万亿参数模型，而曾妍以入职后不久发表 X-VLM 论文而闻名。
+
+rss · 钛媒体 · 11月19日 02:15
+
+**背景**: 字节跳动的 Seed 团队负责其大语言模型开发，包括豆包模型。周畅曾是阿里巴巴通义实验室的核心人物，于 2024 年加入字节跳动，在据报离职前负责视觉多模态生成方向。曾妍（媒体有时称其为“罗福莉”）凭借 X-VLM 视觉语言预训练模型迅速崭露头角。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260807A09BTN00">外媒： 字 节 跳 动 训练 10 万 亿 参数超大模型 堪比Anthropic...</a></li>
+<li><a href="https://eu.36kr.com/zh/p/3736438995907079">字 节 “罗福莉”：撑起Seedance半边天</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%91%A8%E7%95%85/64661993">周畅（字节跳动豆包大模型视觉多模态生成方向负责人）_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#ByteDance`, `#leadership change`, `#AI strategy`, `#tech industry`, `#China`
+
+---
