@@ -1,0 +1,777 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-20 (ZH)"
+date: 2026-11-20
+lang: zh
+---
+
+> 从 73 条内容中筛选出 32 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [全国虚拟电厂调节能力突破 2000 万千瓦，民企投资占比近半](#item-1) ⭐️ 8.0/10
+2. [IEA：中东战争使全球石油供应减少 28 亿桶](#item-2) ⭐️ 8.0/10
+3. [国家能源局发布《中国虚拟电厂发展报告（2026）》](#item-3) ⭐️ 8.0/10
+4. [中国虚拟电厂调节能力提前完成 2027 年目标](#item-4) ⭐️ 7.0/10
+5. [《中国虚拟电厂发展报告（2026）》发布](#item-5) ⭐️ 7.0/10
+6. [中国虚拟电厂进入加速发展期，2030 年调节能力将翻番](#item-6) ⭐️ 7.0/10
+7. [报告称中国民营企业踊跃投资虚拟电厂项目](#item-7) ⭐️ 7.0/10
+8. [国家能源局：虚拟电厂最大调节能力达 2042.8 万千瓦，同比增长 62.7%](#item-8) ⭐️ 7.0/10
+9. [我国虚拟电厂最大调节能力超 2042 万千瓦](#item-9) ⭐️ 7.0/10
+10. [IEA：制冷首超供暖成能源需求增长第一引擎，AI 数据中心加剧电网压力](#item-10) ⭐️ 7.0/10
+
+### 🤖 AI 科技
+
+11. [Anthropic 登陆纳斯达克：首家大型 AI 公司上市](#item-11) ⭐️ 9.0/10
+12. [Gemini 4 Neon 登顶模型工程指数，引发 HN 热议](#item-12) ⭐️ 8.0/10
+13. [溶瘤病毒注射使三名胰腺癌患者病情得到控制](#item-13) ⭐️ 8.0/10
+14. [Anthropic 的 Claude Fable 5.2 解决黑洞物理两大开放问题](#item-14) ⭐️ 8.0/10
+15. [OpenJDK“java4shell”远程代码执行漏洞被报告，Oracle 接管 PR](#item-15) ⭐️ 8.0/10
+16. [Coxon 与 Hanson 辩论政府是否应放缓前沿 AI 发展](#item-16) ⭐️ 7.0/10
+17. [文章批评付费广告成为对开发者的榨取税](#item-17) ⭐️ 6.0/10
+18. [Synology 警告默认安装的 OAuth 服务包存在命令注入漏洞](#item-18) ⭐️ 6.0/10
+19. [流行正则表达式测试工具 RegExr 暂时下线](#item-19) ⭐️ 4.0/10
+
+### 🏢 大厂要闻
+
+20. [谷歌 DeepMind 发布 Gemini 4 Neon，高性价比准旗舰模型](#item-20) ⭐️ 8.0/10
+21. [比亚迪发布折叠方向盘，首搭方程豹钛 9，27.99 万元起](#item-21) ⭐️ 7.0/10
+22. [阿里“散养”平头哥：从去 IOE 到去 CUDA 的战略新棋](#item-22) ⭐️ 7.0/10
+23. [三个辍学 00 后创办的 Mercor 估值破 200 亿美元，英伟达、阿里抢投](#item-23) ⭐️ 7.0/10
+24. [腾讯收缩元宝投入，转向企业级 AI WorkBuddy](#item-24) ⭐️ 7.0/10
+25. [Anthropic 上市首日大涨、英伟达财报、Gemini 4 发布领衔 AI 要闻](#item-25) ⭐️ 7.0/10
+26. [英伟达官宣全员加薪，接班人话题持续升温](#item-26) ⭐️ 6.0/10
+27. [资生堂被曝清空欧珀莱品牌，外资美妆在华战略引关注](#item-27) ⭐️ 6.0/10
+28. [英伟达 CFO 科莱特·克雷斯在财报电话会上表示“我们能搞定”](#item-28) ⭐️ 6.0/10
+29. [AI 办公的“入口之战”打完了吗？](#item-29) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+30. [杭州报道：一名“云店员”远程管理 500 多家无人店，销售额增长 25%](#item-30) ⭐️ 6.0/10
+31. [为客服一线筑造 AI“许愿池”](#item-31) ⭐️ 5.0/10
+32. [iPhone Duo 人脸解锁被照片骗过，苹果客服回应](#item-32) ⭐️ 5.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [全国虚拟电厂调节能力突破 2000 万千瓦，民企投资占比近半](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pWXlucUpid1dvXzBKLXRiVGNFR0pyUDZyUE9rY1VVa1l2OXd0MG5HN1BEYndOaGtxbWI4TDVIX09Wc1pzM0VUUTJKODJFZHo0OFVuUzJEX0w1dw?oc=5) ⭐️ 8.0/10
+
+国家能源局 11 月 19 日发布的《中国虚拟电厂发展报告（2026）》显示，截至 2026 年 6 月底，全国虚拟电厂最大调节能力达到 2042.8 万千瓦，同比增长 62.7%；已建成并投运的虚拟电厂数量为 592 个，同比增长 78.9%，民营企业投资占比近半。 这一里程碑表明中国需求侧灵活资源已从试点走向规模化应用，增强了电力系统消纳可再生能源和供需平衡的能力。民营企业投资占比近半，反映出市场参与格局更加多元，有望加速虚拟电厂领域的技术创新和市场竞争。 报告中的 2042.8 万千瓦指的是最大调节能力，即虚拟电厂可调用的灵活负荷和分布式资源的总和，而非实际发电量。这些数据来自国家能源局 2026 年报告，报告指出虚拟电厂正从“聚起来”迈向“用得好”的价值释放新阶段。
+
+google\_news · 上观新闻 · 11月19日 22:13
+
+**背景**: 虚拟电厂并非实体电厂，而是通过信息通信技术和软件系统，将分布式光伏、储能、可控负荷、电动汽车等分布式能源资源聚合起来，像一座电厂一样协调运行。需求侧响应是虚拟电厂的核心机制之一，允许用户根据价格信号或电网调度指令调整用电行为，实现削峰填谷。中国自 20 世纪 90 年代起推行需求侧管理，近年来逐步从行政限电转向市场化需求响应，虚拟电厂成为消纳可再生能源和保障电网稳定的重要手段。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/20261119/34a783e4c6aa437b86fdd61e5a84a2cc/c.html">从“聚起来”到“用得好” 虚拟电厂迈入价值释放新阶段——《中国虚拟电厂发...</a></li>
+<li><a href="https://tech.gmw.cn/2026-11/20/content_39111267.htm">我国虚拟电厂最大调节能力超2042万千瓦 - 光明网</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#需求侧响应`, `#能源政策`, `#电力市场`, `#民营企业投资`
+
+---
+
+<a id="item-2"></a>
+## [IEA：中东战争使全球石油供应减少 28 亿桶](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXUtemg0SkVyN1dpUjFUN2VUMVc4dmEtQ2lMbDk0Ym8xU1I4T25TamE2YmQ3WXB1OVR1VmI0TVd5UUZ5N0RSWU1PTjFyT0Ewdm9uUDVSOVR4Rl9OMGdYU2xMbjJZVHVUeXYyT0RnbWotaHBTWmlHd0NROXFqZnhVM0laYk5DTnFqd0JYZA?oc=5) ⭐️ 8.0/10
+
+国际能源署（IEA）报告称，中东战争已使全球石油供应减少 28 亿桶，这一消息由搜狐新闻报道。IEA《2026 年世界能源展望》还警告，霍尔木兹海峡的石油运量可能暴跌九成，标志着霍尔木兹时代的终结。 IEA 的这一量化数据凸显了地缘政治冲突对全球能源安全和石油市场的严重影响，可能导致油价上涨，并促使各国政府和国际组织采取政策应对。供应中断不仅影响石油进口国，还会波及更广泛的全球经济，因为能源成本会传导至运输、制造业和消费品领域。 28 亿桶这一数字代表了冲突导致的石油供应累计损失，IEA 的展望强调了霍尔木兹海峡的脆弱性——2025 年该海峡日均运输约 2000 万桶原油和石油产品。报告指出，替代路线和战略储备可能不足以完全抵消如此大规模的供应中断。
+
+google\_news · Sohu · 11月20日 01:02
+
+**背景**: 国际能源署（IEA）是一个总部位于巴黎的政府间组织，成立于 1974 年，负责提供全球能源领域的政策建议、分析和数据。霍尔木兹海峡是全球最重要的石油运输咽喉要道之一，连接波斯湾与阿曼湾和阿拉伯海。这条狭窄水道的任何中断都可能对全球油价和能源安全产生巨大影响，因为全球很大一部分石油贸易都要经过这里。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz - About - IEA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/International_Energy_Agency">International Energy Agency - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#oil supply`, `#Middle East conflict`, `#energy security`, `#oil markets`
+
+---
+
+<a id="item-3"></a>
+## [国家能源局发布《中国虚拟电厂发展报告（2026）》](https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxek5sNHVpcUFGODB4Z2UtazNDRkZDaWZqdWw0VGVicTFQSVNyTG1USE50VWZBLUxqQmcxWGdwaFNpY1ltN1FvQ0pmcTVrWVhGMjF6VTA3aDU?oc=5) ⭐️ 8.0/10
+
+国家能源局发布了《中国虚拟电厂发展报告（2026）》，这是一份关于中国虚拟电厂发展的权威行业报告。该报告于 2026 年初发布，并由新华网、中国能源新闻网等多家官方和行业媒体转载。 作为国家级政策文件，该报告预计将为未来虚拟电厂相关政策、市场规则和投资方向定下基调。它直接影响电网运营商、聚合商、储能企业和电力市场设计者，并体现了政府对需求侧灵活性资源的战略考量。 该报告很可能概述了中国虚拟电厂的现状、挑战和未来趋势，包括技术标准、商业模式和市场机制。然而，目前可获得的摘要中并未详细说明报告的具体内容和建议，进一步分析需要获取全文。
+
+google\_news · 国际充换电网 · 11月19日 06:15
+
+**背景**: 虚拟电厂（VPP）是一种通过先进信息通信技术，聚合分布式能源资源（如光伏、储能、可控负荷和电动汽车等）的系统，使其能够像传统电厂一样参与电力系统运行和市场交易。在中国，随着可再生能源的快速增长，虚拟电厂被视为增强电网灵活性和消纳波动性可再生能源的关键解决方案。国家能源局是中国负责能源政策和监管的主要政府机构，其发布的报告往往指导行业发展与政策制定。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+<li><a href="https://news.bjx.com.cn/html/20200827/1100003.shtml">什么是电力需求响应？负荷侧是怎么被“唤醒”的？-北极星电力市场网</a></li>
+<li><a href="https://blog.taoke-web.com/article/8.cshtml">淘科新能源官方博客</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力市场`, `#国家能源局`, `#需求响应`
+
+---
+
+<a id="item-4"></a>
+## [中国虚拟电厂调节能力提前完成 2027 年目标](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkhlYVBsMEJxb3hjSklkT2pJb01qTUwxb3BxRi15OFViVktKSUpLNlZqVnBJLUY1N0Z5dUhpYnVPMUlIQ1I1bENzTXU1RUpqZ1FxaEFES3pEOVlWUzhsRk5jblNnY2dZTFpXQWRKZ1lmbmF0R1hCaEo4XzhycEZMWWp0UUJiMEdWR2VNaXRKdw?oc=5) ⭐️ 7.0/10
+
+国家能源局发布首份国家级虚拟电厂发展报告，截至 2026 年 6 月底，全国已建成投运虚拟电厂 592 个，最大调节能力达到 2042.8 万千瓦，同比增长 62.7%，提前完成 2027 年 2000 万千瓦的目标。 这一里程碑表明中国需求侧灵活性资源正在快速规模化，对于整合不断增长的可再生能源和维持电网稳定至关重要。它体现了强有力的政策支持和市场发展，可能影响未来监管政策并吸引虚拟电厂技术投资。 报告将加速进展归因于顶层政策引导、市场需求和技术进步的共同作用。国家能源局计划分地区推动虚拟电厂建设，以确保持续推进全国目标。
+
+google\_news · 21财经 · 11月20日 00:51
+
+**背景**: 虚拟电厂通过软件系统聚合分布式能源资源（如光伏、储能、电动汽车和可控负荷），提供削峰填谷、调频等电网服务。中国一直在推动虚拟电厂发展，作为能源转型的一部分，以消纳更多可再生能源并增强需求侧响应。2027 年 2000 万千瓦的目标是国家能源政策中为引导部署而设定的。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.china.com/socialgd/10000169/20261120/49889592.html">虚拟电厂提前完成2027年目标 调节能力显著提升_新闻频道_中华网</a></li>
+<li><a href="https://field.10jqka.com.cn/20261120/c682020004.shtml">中国虚拟电厂发展报告发布 6月底已提前完成2027年调节能力目标</a></li>
+<li><a href="https://www.nea.gov.cn/20261119/69c5995084014969b750007706cbd39d/2026111969c5995084014969b750007706cbd39d_454767ba4ebc2b4011880e77875dca50fc.pdf">中国虚拟电厂发展报告 中 - 国家能源局</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#需求侧响应`, `#电力市场`, `#可再生能源整合`
+
+---
+
+<a id="item-5"></a>
+## [《中国虚拟电厂发展报告（2026）》发布](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hRTVSTHZxSWdENlFORWhtX1Vfc25FSnB1SkVEZUVPVDNaaVJWZkNjZ3FZUllXNHZrbG1rcFI5eXJDRTQ4dDJFUFF4X1llYllxZjE5UUtaU0dLbzN1dUE?oc=5) ⭐️ 7.0/10
+
+该报告分析了 2026 年中国虚拟电厂的发展现状、政策与市场趋势，为这一新兴电网灵活性解决方案提供了全面概述。 该报告对能源政策专业人士和市场参与者具有高度相关性，提供了虚拟电厂如何增强电网灵活性并支持中国能源转型的见解。 报告可能涵盖政策框架、市场机制和技术发展，但现有摘要未详细说明具体数据和案例研究。
+
+google\_news · ideacarbon.org · 11月19日 13:11
+
+**背景**: 虚拟电厂（VPP）聚合分布式能源资源（如太阳能、储能和柔性负荷），在电力市场中作为单一实体运行。在中国，虚拟电厂对于平衡供需日益重要，尤其是在可再生能源增长的情况下。该报告发布之际，中国正努力建设全国统一电力市场并完善需求响应机制。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjx.com.cn/html/20250521/1442505.shtml">403.5元/MWh！ 安徽铜陵 虚 拟 电 厂 完成首笔绿 电 交易！ -北极星储能网</a></li>
+<li><a href="http://der.tsinghuajournals.com/CN/10.16513/j.2096-2185.DE.2409301">电力需求响应实施现状综述及展望</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力市场`, `#需求响应`, `#中国`
+
+---
+
+<a id="item-6"></a>
+## [中国虚拟电厂进入加速发展期，2030 年调节能力将翻番](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMWUliNV8yZkFVRThDeHdENExqb2dEOWNsRFU3d2JqTUlRcUFYT08wbWFzSlFjV0NPOE9PT3BTamdaYTgyenhLQUZJNVNuZnZ0R0dMVm1iV1ExWDhRenJzbFJHQUs?oc=5) ⭐️ 7.0/10
+
+据财新报道，中国虚拟电厂正进入加速发展期，预计到 2030 年其最大调节能力将翻番。这一预测表明未来几年电网灵活性资源将大幅扩张。 这一点很重要，因为虚拟电厂聚合了屋顶光伏、电池和柔性负荷等分布式能源资源来帮助平衡电网，这对于消纳不断增长的可再生能源至关重要。到 2030 年调节能力翻番将显著增强中国电力系统的灵活性，并支撑其清洁能源转型。 报道未明确说明基准容量或资源的具体构成，但该预测意味着需求侧灵活性将大幅提升。提供调频等服务的虚拟电厂需要具备秒级响应能力并直接接入调度系统，这可能带来技术和监管挑战。
+
+google\_news · 财新 · 11月19日 15:08
+
+**背景**: 虚拟电厂（VPP）是一种基于云端的分布式能源资源聚合体，这些资源包括太阳能电池板、电池、电动汽车和可控负荷等，可以协调起来像一座电厂一样运行。它有助于平衡供需、提供辅助服务，并支持波动性可再生能源的消纳。中国一直在推动虚拟电厂发展，作为电力体制改革的一部分，并出台了《电力系统调节能力优化专项行动实施方案（2025—2027 年）》等政策。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.gov.cn/zhengce/zhengceku/202501/content_6996643.htm">关于印发《电力系统调节能力优化专项行动实施方案（2025—2027年）》的...</a></li>
+<li><a href="https://eptchina.com/video/record202502174950.html">虚 拟 电 厂 发展模式与技术形态思考 - 原 创视频 - 电 力科技网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力市场`, `#需求响应`, `#可再生能源`
+
+---
+
+<a id="item-7"></a>
+## [报告称中国民营企业踊跃投资虚拟电厂项目](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VbmhnNzlFRXdscXZabnZyTGJRRUlIOVhmS2pxSE1nTV91dThJZEllRGotYnl5VWt0cjQwNGVyLVVPZFl6M3ZIdDVPSDdWTElvcUxpOUs4bnU4OXVzdU1pem5NNmlFc2FI?oc=5) ⭐️ 7.0/10
+
+一份权威报告指出，中国民营企业正踊跃参与虚拟电厂项目的投资，显示出私营部门在中国能源转型中的参与度日益提高。 这一趋势意义重大，因为虚拟电厂对于整合可再生能源和提升需求侧灵活性至关重要，而民间资本的参与则标志着市场开放和政策支持，可能加速中国电力市场的发展和能源转型。 报告强调了民营企业对虚拟电厂投资的热情，但现有摘要中未详细说明具体的投资金额、项目规模或政策激励措施。
+
+google\_news · 中国新闻网 · 11月19日 12:18
+
+**背景**: 虚拟电厂（VPP）是一种通过先进信息通信技术和软件系统，聚合分布式能源资源（如太阳能电池板、储能系统、可控负荷和电动汽车等）的系统，使其能够像传统电厂一样参与电力市场并提供电网服务。在中国，虚拟电厂被视为整合可再生能源和提升需求侧灵活性的关键，政府一直在推动其发展作为能源转型的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+<li><a href="https://www.nea.gov.cn/20261119/a7a1daae1c6e4657ad807f2509dd2e5b/c.html">聚合分散资源 释放协同价值——《中国虚拟电厂发展报告（2026）》解读--...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#民营企业`, `#能源投资`, `#能源政策`, `#电力市场`
+
+---
+
+<a id="item-8"></a>
+## [国家能源局：虚拟电厂最大调节能力达 2042.8 万千瓦，同比增长 62.7%](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDRuWjQwUThvOUM2WENlQlk0amhhd0xud2I1dW1mV0ttU1NRdW9QV3ZRSG9RQmpNVEhpemYzblhERjR3ZmxRQndBLTVWRUg1dDUzWXNOZ0dnWC1zSXpvUUswY1RsN3hPdUw2Q3BTWW85NEY1MEhPX0FoQ0huOTNZbGVZVDFpTHhQ?oc=5) ⭐️ 7.0/10
+
+国家能源局披露，我国虚拟电厂最大调节能力已达到 2042.8 万千瓦（20.43 吉瓦），同比增长 62.7%。 这一快速增长凸显了虚拟电厂作为灵活性资源在中国电力系统中日益重要的作用，对于消纳新能源和维持电网稳定至关重要。该数据标志着需求侧管理的重大进展，并可能影响未来电力市场设计和分布式能源投资。 该数字代表最大调节能力，即虚拟电厂聚合调整负荷或发电的上下调节能力。62.7%的同比增长表明部署正在加速，但实际调度容量可能因市场和技术条件而异。
+
+google\_news · Sohu · 11月19日 13:10
+
+**背景**: 虚拟电厂（VPP）是一种将分布式能源资源（如太阳能电池板、储能、电动汽车和可控负荷）聚合协调，像单一电厂一样运作的网络。它为电网提供灵活性服务，帮助平衡供需，而无需建设物理调峰电厂。中国一直在推动虚拟电厂发展，作为构建以新能源为主体的新型电力系统的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工作的？ -中新网</a></li>
+<li><a href="https://www.gov.cn/zhengce/zhengceku/202501/content_6996643.htm">关于印发《电力系统调节能力优化专项行动实施方案（2025—2027年）》的...</a></li>
+<li><a href="https://www.ndrc.gov.cn/xxgk/jd/jd/202408/t20240809_1392335_ext.html">【提升需求侧协同能力 加快构建新型电力系统】-国家发展和改革委员会</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力系统灵活性`, `#需求侧响应`, `#国家能源局`
+
+---
+
+<a id="item-9"></a>
+## [我国虚拟电厂最大调节能力超 2042 万千瓦](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVJWVHBfWGZ2bE9TZE9UVjJqY2xyWHVhSE1qbnlIdXZkRG8ybFpDZnkxYTUwbm15TjlyX1RuXzFZVE9yaU5heG9vZDZELVpRbUVveGZiUkg5Um1rQlk3TFhzajVIdWdZb1ZPTTN1U1dPYzhIUVpLMUZKMVJsLW8taVNDaU9fYlV0YW5UaA?oc=5) ⭐️ 7.0/10
+
+据搜狐报道，我国虚拟电厂的最大调节能力已超过 2042 万千瓦（20.42 吉瓦）。这一里程碑反映了分布式能源资源和柔性负荷聚合参与电网平衡的能力不断增强。 这一调节能力凸显了需求侧灵活性在我国电力系统中日益重要的作用，有助于促进可再生能源消纳，并减少对昂贵调峰机组的依赖。它标志着电力市场化改革和向高比例可再生能源的新型电力系统转型取得了进展。 虚拟电厂通过数字平台聚合储能、可控负荷和分布式发电等分布式资源，提供削峰填谷、调频等电网服务。报道的 2042 万千瓦代表了我国虚拟电厂项目的最大调节能力，但实际可用容量可能因实时条件和市场参与情况而有所不同。
+
+google\_news · Sohu · 11月19日 15:40
+
+**背景**: 虚拟电厂（VPP）是一种基于软件的系统，通过聚合分布式能源资源（DER），如光伏、储能、电动汽车和柔性负荷，作为单一主体参与电力市场和电网运行。我国自 2016 年起开始试点虚拟电厂，从江苏的需求响应项目起步，随后发展了冀北虚拟电厂等市场化项目。这一概念与我国建设以新能源消纳和电网灵活性为核心的新型电力系统的目标相一致。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎 什么是虚拟电厂？原理、特点、场景，一篇看懂安科瑞虚拟电厂解决方案_... 一张图看懂虚拟电厂：5 分钟掌握核心概念与运行机制 什么是虚拟电厂 以及相应的工作原理 - CSDN博客 虚拟电厂运行机制 - wangssd - 博客园 揭秘虚拟电厂，它究竟是如何运行的？ - 36氪</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552">新型电力系统（电力系统术语）_百度百科</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#需求侧响应`, `#电力市场`, `#能源政策`, `#新型电力系统`
+
+---
+
+<a id="item-10"></a>
+## [IEA：制冷首超供暖成能源需求增长第一引擎，AI 数据中心加剧电网压力](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5peF84Qi03d093SHZLdm9qLXFzcnRWWE9yVzZFZFd2d3ZhYmRlQThZVWVYN2dZLVd6SW5NRHBoUzBLakRieW1VQTZicTZqSlV1UWNCQlNQSXRRLUk0V2FKUA?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）报告指出，制冷需求首次超越供暖，成为全球能源需求增长的首要驱动力，同时 AI 数据中心的快速扩张正将电网推向极限。 这一转变标志着全球能源消费模式的结构性变化，制冷成为主导因素，将影响电网规划、需求侧管理和气候政策。AI 数据中心带来的额外压力可能加速电网升级和灵活需求解决方案的需求。 IEA 的发现强调，由于全球气温上升和空调普及，制冷需求正在增长；而 AI 数据中心具有高度波动的负载，可能在吉瓦级规模上导致电网不稳定。
+
+google\_news · 证券之星 · 11月19日 06:24
+
+**背景**: 国际能源署（IEA）是成立于 1974 年的政府间组织，负责协调成员国的能源政策。其报告如《全球能源回顾》提供对全球能源趋势的权威分析。随着发展中国家更多家庭购买空调以及全球气温上升，制冷需求一直在增长。AI 数据中心是大规模计算设施，消耗大量电力且负载可能快速波动。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ciste.org.cn/gjkjwj/zkgd/art/2026/art_7c91239bcd194d2fb09e9abb7866ec65.html">国际能源署（IEA）：《全球能源回顾2026》</a></li>
+<li><a href="http://www.ecopv.org.cn/site/content/2052.html">【国际报告】国际能源署IEA发布《Global Energy Review 2026》_中国绿...</a></li>
+<li><a href="https://aitrending.vip/article/powering-ai-is-an-architecture-problem/">Powering AI is an architecture problem | AI Trending</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#能源需求`, `#制冷`, `#AI数据中心`, `#电网压力`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [Anthropic 登陆纳斯达克：首家大型 AI 公司上市](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) ⭐️ 9.0/10
+
+开发 Claude 助手的 AI 安全与研究公司 Anthropic 于 2026 年 11 月 19 日在纳斯达克完成首次公开募股，发行价为 83 美元，开盘价 111.50 美元，最终收于 97.17 美元。该股较发行价上涨 17%，但较开盘价下跌 12.85%，成为首家上市的大型前沿 AI 公司。 这是前沿 AI 实验室首次获得公开市场估值基准，为投资者提供了实时参照，可能影响 OpenAI 等竞争对手的估值方式，以及整个科技投资界对 AI 热潮与基本面的判断。首日表现喜忧参半，表明公开市场对 AI 估值的怀疑可能比私募投资者更强。 Anthropic 开盘价 111.50 美元，较 83 美元的发行价高出 34%，开盘交易量达 1.08 亿股，但股价全天走低，最终收于 97.17 美元。评论人士指出，这是自 2008 年以来大型 IPO 最差的首个半小时表现，其约 1.26 万亿美元的市值也低于几周前一些人提出的 2 万亿美元以上的估值。
+
+hackernews · wslh · 11月19日 17:02 · [社区讨论](https://news.ycombinator.com/item?id=50562754)
+
+**背景**: Anthropic 是一家总部位于旧金山的公益公司，致力于构建可靠、可解释和可操控的 AI 系统，其 Claude 助手与 OpenAI 的 ChatGPT 和谷歌的 Gemini 竞争。IPO 是私营公司首次向公众出售股份的过程，开盘价往往与发行价差异很大，因为它反映实时市场需求。AI 公司的估值尤其困难，因为其核心资产——专有模型、训练数据和研究人才——很难用传统财务指标衡量。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech">Live updates: Bitcoin falls as strong Anthropic opening fails to lift...</a></li>
+<li><a href="https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html">Stock market today: Dow sinks 1,100 points, S&amp;P 500 and Nasdaq ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的评论者意见分歧明显：一些软件工程师担心 AI 正在终结传统的工程职业道路，而投资者则指出股价较开盘价下跌，认为最初的估值不切实际。一些人指出，当天的结果对 OpenAI 的私募估值不利，资深程序员也反思了行业几十年来的变化。
+
+**标签**: `#AI`, `#IPO`, `#Anthropic`, `#Valuation`, `#Tech Industry`
+
+---
+
+<a id="item-12"></a>
+## [Gemini 4 Neon 登顶模型工程指数，引发 HN 热议](https://git-aarvin.github.io/mei/) ⭐️ 8.0/10
+
+据报道，谷歌的 Gemini 4 Neon 在模型工程指数（Models Engineering Index，托管于 git-aarvin.github.io）上排名第一，引发了 Hacker News 上 104 条评论的讨论，将其与 Claude Opus 5.5 进行比较。 如果该排名成立，这表明谷歌中价位的 Gemini 4 系列能在编码和代理任务上与 Anthropic 的 Opus 5.5 竞争，可能改变 AI 编码工具市场中开发者的偏好和定价动态。 模型工程指数是单一作者维护的基准测试，多位评论者承认由于访问和定价障碍尚未使用 Neon；尽管如此，实践者报告 Neon“高”档在大型 monorepo 中的长时间语言移植任务上比 Opus 5.5“中”档更快、更便宜，且结果相似。
+
+hackernews · hn-aarvin · 11月19日 23:35 · [社区讨论](https://news.ycombinator.com/item?id=50568130)
+
+**背景**: Gemini 4 Neon 是谷歌 Gemini 4 系列中一款快速、中价位的模型，于 2026 年 11 月 18 日发布，改编自 Gemini 4 Carbon，专为编码、代理工作和复杂软件工程而设计。Claude Opus 5.5 于 2026 年 9 月 22 日推出，是 Anthropic 的旗舰模型，以长时间调查和规划著称。模型工程指数是一个社区运营的基准测试，评估模型在工程相关任务上的表现，但其覆盖范围不如 Artificial Analysis 或 BenchLM 等大型排行榜广泛。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">Introducing Gemini 4 Neon</a></li>
+<li><a href="https://openrouter.ai/google/gemini-4-neon">Gemini 4 Neon - API Pricing &amp; Benchmarks | OpenRouter</a></li>
+<li><a href="https://kie.ai/blog/gpt-6-2-sol-vs-claude-opus-5-5">GPT-6.2 Sol vs Claude Opus 5 . 5 : Price, Benchmarks, Verdict</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者大多赞扬 Neon 在编码质量、速度和成本方面的表现，一些人在并排比较后从 Opus 5.5 切换过来；然而，多人指出访问和定价障碍限制了实际测试，且基准测试的单一作者性质也抑制了热情。
+
+**标签**: `#LLM benchmarks`, `#Google Gemini`, `#AI coding models`, `#model evaluation`, `#Hacker News discussion`
+
+---
+
+<a id="item-13"></a>
+## [溶瘤病毒注射使三名胰腺癌患者病情得到控制](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) ⭐️ 8.0/10
+
+据《新科学家》报道，在一项早期临床试验中，注射一种溶瘤病毒使三名胰腺癌患者的病情得到控制。 胰腺癌是预后最差的癌症之一，因此即使是在早期阶段出现病情控制的微小信号，对肿瘤学领域也具有重要意义，并可能为更大规模的溶瘤病毒疗法试验提供参考。 该报道基于早期试验中极少数患者的数据，且现有材料中未明确说明具体的病毒构建体和试验编号，因此应谨慎解读这些结果。
+
+hackernews · cybermango · 11月19日 17:25 · [社区讨论](https://news.ycombinator.com/item?id=50563066)
+
+**背景**: 溶瘤病毒是经过实验室改造的病毒，能够选择性感染并杀死癌细胞，同时不伤害大多数正常细胞，还能激发针对肿瘤的免疫反应。溶瘤病毒疗法是一种研究性免疫疗法，目前仅获批用于黑色素瘤，而胰腺癌仍然极难治疗。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cancer.org/cancer/treatment-types/immunotherapy/oncolytic-virus-therapy.html">Oncolytic Virus Therapy and Its Side Effects</a></li>
+<li><a href="https://www.nature.com/articles/s41392-025-02343-3">Oncolytic viruses: advanced strategies in cancer therapy - Nature</a></li>
+<li><a href="https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/">Pancreatic cancer halted by virus injection in three patients</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 的评论者分享了因胰腺癌失去亲人的个人经历，并对这一消息表示希望；其中一位评论者（epistasis）试图确认具体试验，并提供了 clinicaltrials.gov 上胰腺癌溶瘤病毒试验的搜索链接和一篇综述文章。
+
+**标签**: `#oncology`, `#oncolytic-virus`, `#pancreatic-cancer`, `#clinical-trials`, `#biotech`
+
+---
+
+<a id="item-14"></a>
+## [Anthropic 的 Claude Fable 5.2 解决黑洞物理两大开放问题](https://www.anthropic.com/research/claude-black-hole-physics) ⭐️ 8.0/10
+
+Anthropic 宣布其前沿模型 Claude Fable 5.2 解决了理论物理中的两个开放问题，均涉及黑洞和量子引力理论的探索。据称，一项结果完成了一个悬而未决 23 年的黑洞计算，另一项则确立了与给定中心电荷一致的黑洞质量上限。 这是 AI for science 领域的一个显著里程碑，表明前沿模型能够对高度技术性的理论物理做出贡献，并引发了关于如何界定和验证 AI 驱动的科学发现的讨论。这些结果可能影响研究人员在量子引力及其他基础物理问题中使用 AI 的方式。 Anthropic 指出，这两项结果都不直接描述我们所在的宇宙，也没有实际应用，但都服务于调和量子力学与相对论的长期理论努力。社区成员还指出，博客文章和论文均未提及所使用的提示词，从而引发了对可复现性以及“Claude 解决”这一说法的质疑。
+
+hackernews · cybermango · 11月19日 17:30 · [社区讨论](https://news.ycombinator.com/item?id=50563148)
+
+**背景**: 量子引力是旨在统一量子力学与爱因斯坦广义相对论的追寻中的理论，而黑洞因其同时涉及极端引力和量子效应而成为关键试验场。“中心电荷”是共形场论中表征量子反常的参数，将其与黑洞质量联系起来的自洽条件可以约束哪些理论是可行的。像 Claude 这样的 AI 模型正越来越多地被用于测试开放科学问题，但其输出仍需专家验证。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.anthropic.com/research/claude-black-hole-physics">Claude solves two open problems in the physics of black holes</a></li>
+<li><a href="https://cryptobriefing.com/claude-fable-black-hole-calculation/">Anthropic’s Claude Fable 5.2 finishes a 23-year-old black ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者就“Claude 解决”这一拟人化表述展开辩论，有人主张应将其表述为沙箱构建失败而非模型逃逸，另一人则指出文中完全未提及提示词。一些人认为，解决黑洞问题如今竟成为前沿模型发布中的一条要点，这令人惊叹；另一些人则遗憾许多评论并未真正涉及论文本身。
+
+**标签**: `#AI for science`, `#black hole physics`, `#Anthropic Claude`, `#quantum gravity`, `#AI research`
+
+---
+
+<a id="item-15"></a>
+## [OpenJDK“java4shell”远程代码执行漏洞被报告，Oracle 接管 PR](https://github.com/openjdk/jdk/pull/32781) ⭐️ 8.0/10
+
+OpenJDK 中的一个漏洞被命名为“java4shell”（CVE-2026-114938），于 2026 年 11 月 17 日公开披露。此前，一个 GitHub 拉取请求（PR \#32781）被提交，随后被 Oracle 接管。PR 作者报告称收到 Oracle 的电子邮件，要求他们在获得批准前暂停 PR，后来指出 Oracle 已接管该流程。 这是广泛使用的 Java 运行时中的一个高危远程代码执行漏洞，影响无数应用程序，可能允许攻击者在无需认证的情况下运行任意代码。该事件还凸显了协同披露中的紧张关系，并引发了关于 LLM 辅助研究是否在独立重新发现先前报告的漏洞的疑问。 该漏洞存在于 x86-64 处理器上使用的优化 Base64 解码器内建函数中；Oracle 将其评为 CVSS 3.1 8.1（高），而报告者评为 CVSS 4.0 9.2（严重）。临时缓解措施是禁用 UseBASE64Intrinsics 标志，各 Linux 发行版正在分发补丁。
+
+hackernews · notmine1337 · 11月19日 11:47 · [社区讨论](https://news.ycombinator.com/item?id=50558906)
+
+**背景**: OpenJDK 是 Java 的开源实现，其中的漏洞会影响许多 Java 应用程序。Oracle 通常通过其关键补丁更新流程协调披露，每季度发布修复。 “Java4shell”是对“Log4Shell”的戏仿，后者指 2021 年严重的 Log4j 漏洞，表明这是一个类似严重的缺陷。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sophos.com/en-us/security-advisories/sophos-sa-20261118-java4shell">Advisory: OpenJDK Base64 Vulnerability - Java4Shell (CVE-2026 ...</a></li>
+<li><a href="https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability">Java4Shell (CVE-2026-114938): OpenJDK RCE Vulnerability FAQ</a></li>
+<li><a href="https://openjdk.org/groups/vulnerability/advisories/">OpenJDK Vulnerability Advisories</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出，PR 作者被 Oracle 要求暂停，随后 Oracle 接管，一些人推测 LLM 可能重新发现了先前报告的漏洞而非独立发现。另一位研究员报告通过模糊测试独立发现了该漏洞，强调同时披露越来越常见，而其他人则强调理解可利用性仍需要人类监督。
+
+**标签**: `#Java`, `#OpenJDK`, `#vulnerability-disclosure`, `#security`, `#LLM-assisted-research`
+
+---
+
+<a id="item-16"></a>
+## [Coxon 与 Hanson 辩论政府是否应放缓前沿 AI 发展](https://www.youtube.com/watch?v=lwfewYL7X0o) ⭐️ 7.0/10
+
+Jacob Coxon 与 Robin Hanson 关于政府是否应放缓前沿 AI 发展的视频辩论发布后，在 Hacker News 上引发了热烈讨论，获得了 81 分和 151 条评论。 这场辩论触及了 AI 治理的核心问题——监管是否应放缓前沿 AI 的发展，社区讨论凸显了对权力集中、对齐以及监管可行性的担忧，对 AI 政策和安全领域的受众具有重要价值。 评论者指出公司和政府都是权力集中实体，在人类价值观存在争议的情况下对齐 AI 的困难，以及可能只有美国和中国拥有训练需要太瓦时电力的神话级模型的资源。
+
+hackernews · sandslash · 11月19日 18:47 · [社区讨论](https://news.ycombinator.com/item?id=50564366)
+
+**背景**: 前沿 AI 指的是能力最先进的 AI 模型。AI 对齐是确保 AI 系统可靠地追求预期目标的研究问题，目前仍是一个开放挑战。辩论还涉及 AI 赋能的权力集中问题，即先进 AI 可能巩固少数行为者的控制权。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AI_alignment">AI alignment - Wikipedia</a></li>
+<li><a href="https://80000hours.org/problem-profiles/extreme-power-concentration/">Extreme power concentration | 80,000 Hours</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了多样化的观点：一些人认为公司和政府都会集中权力，个人对 AI 生产资料的拥有权是对齐的关键；另一些人担心社会缺乏对“善”的共同定义来对齐 AI；还有一位指出，监管有能力训练太瓦级模型的实体可能是可行的，因为只有美国和中国具备这种能力。
+
+**标签**: `#AI governance`, `#AI safety`, `#AI regulation`, `#frontier AI`, `#debate`
+
+---
+
+<a id="item-17"></a>
+## [文章批评付费广告成为对开发者的榨取税](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) ⭐️ 6.0/10
+
+一篇题为《98%的老虎机：付费广告如何成为榨取税》的文章认为，付费广告已演变为对开发者和企业的榨取税，在 Hacker News 上获得超过 200 分和 100 条评论。 文章凸显了开发者（尤其是移动应用开发者）面临的日益沉重的财务负担，他们需要承担高额广告支出和平台费用，并引发了关于广告拍卖经济公平性和平台征税的辩论。 核心论点并非全新，类似的批评可追溯到 2019 年，且讨论涉及广告技术和平台经济而非 AI 领域，限制了其领域影响力。
+
+hackernews · dev1one1 · 11月19日 18:35 · [社区讨论](https://news.ycombinator.com/item?id=50564159)
+
+**背景**: 付费广告通常通过实时拍卖运作，广告商竞标广告位。苹果和谷歌等平台对应用销售和应用内购买收取佣金（如 30%），开发者必须将其计入成本。批评者认为，加上广告支出，这些费用可能消耗大部分收入，对开发者形成沉重“税负”。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://anylearn.cc/lessons/adv-the-ad-auction">The ad auction : how your attention is priced — AnyLearn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Auction_theory">Auction theory - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者就赌场类比展开辩论，有人认为广告拍卖是连接广告商与第三方的市场，而非零和游戏。其他人分享了开发者花费 58 万美元仅赚 65 万美元（扣除费用前）的轶事，强调苹果的双重收费，并指出类似的批评在 2019 年就已出现。
+
+**标签**: `#advertising`, `#platform-economics`, `#app-store-fees`, `#developer-economics`, `#ad-tech`
+
+---
+
+<a id="item-18"></a>
+## [Synology 警告默认安装的 OAuth 服务包存在命令注入漏洞](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21) ⭐️ 6.0/10
+
+Synology 发布了安全公告 SA\_26\_21，指出其 OAuth 服务包中存在命令注入漏洞（CWE-88），该服务包在许多 NAS 设备上默认安装。公告建议卸载或停止 OAuth 服务包作为缓解措施。 由于 OAuth 服务默认安装且通常未配置，许多 Synology NAS 用户即使从未主动使用 OAuth 也面临风险，这为命令注入提供了广泛的攻击面。该公告凸显了暴露在互联网上的 NAS 设备的危险以及及时修补或缓解的重要性。 该漏洞被归类为 CWE-88：命令中参数分隔符的不当中和，表明 OAuth API 中可能使用用户输入来构建 shell 命令。对于某些旧型号，修复状态显示为“进行中”，建议的缓解措施是通过套件中心卸载或停止 OAuth 服务包。
+
+hackernews · choult · 11月19日 22:13 · [社区讨论](https://news.ycombinator.com/item?id=50567209)
+
+**背景**: Synology NAS 设备运行 DiskStation Manager \(DSM\)，OAuth 服务包实现了 OAuth 2.0 标准，允许第三方应用在不共享凭据的情况下访问服务器资源。命令注入发生在应用程序将不安全的用户输入传递给系统 shell 时，攻击者从而可以执行任意命令。Synology 定期发布安全公告，包含 DSM 及其套件中漏洞的严重性评级和缓解步骤。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.synology.com/en-us/dsm/packages/OAuthService">OAuth Service - Add-on Packages | Synology Inc.</a></li>
+<li><a href="https://kb.synology.com/en-us/DSM/help/OAuthService/oauth_service_desc">OAuth Service - Synology Knowledge Center OAuth Service - Synology Knowledge Center Release Notes for OAuth Service| Synology Inc. Synology Archive Download Site - Index of /download/Package ... CVE-2026-120382: Synology OAuth API Flaw, Patch Status OAuth Service - Use as authenticator / identity provider for ...</a></li>
+<li><a href="https://portswigger.net/web-security/os-command-injection">What is OS command injection , and how to prevent it? | Web Security...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者强调 NAS 不应直接暴露在互联网上，建议将其置于 VPN 之后。几位用户指出 OAuth 服务是默认安装的，并建议通过套件中心卸载或停止它；还有一位评论者反思了 CVE 反复出现的根本原因，如输入清理和错误处理。
+
+**标签**: `#security-advisory`, `#synology`, `#vulnerability`, `#command-injection`, `#nas`
+
+---
+
+<a id="item-19"></a>
+## [流行正则表达式测试工具 RegExr 暂时下线](https://regexr.com/) ⭐️ 4.0/10
+
+广泛使用的在线正则表达式学习、构建和测试工具 RegExr 暂时下线，在 Hacker News 上引发了关于其历史地位和替代方案的讨论。 虽然此次宕机本身是一个小型的运营事件，但它凸显了开发者对免费 SaaS 工具的依赖，并引发了关于在自动化网络探测和维护成本上升的情况下此类服务可持续性的疑问。 RegExr 是 gskinner 推出的免费在线工具，用于测试正则表达式并提供实时匹配和解释；替代品包括 regex101 和 Debuggex，此次宕机引发了关于 LLM 生成正则表达式与手写模式之间孰优孰劣的辩论。
+
+hackernews · somebudyelse · 11月19日 22:27 · [社区讨论](https://news.ycombinator.com/item?id=50567374)
+
+**背景**: 正则表达式（regex）是定义搜索模式的字符序列，常用于文本处理和验证。RegExr 是一个流行的基于 Web 的工具，帮助开发者交互式地学习、构建和测试正则表达式模式。多年来，它一直是许多开发者的首选资源，尤其是在 AI 辅助编码工具兴起之前。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://regexr.com/">RegExr: Learn, Build, &amp; Test RegEx</a></li>
+<li><a href="https://regex101.com/">regex 101: Online Regex Tester , Builder, Converter &amp; Debugger</a></li>
+<li><a href="https://gskinner.com/playpen/regexr_v2/">RegExr : Create &amp; Test Regular Expressions - gskinner</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了对 RegExr 的喜爱，一些人指出尽管有 LLM 能力，他们仍出于原则手动编写正则表达式。其他人推荐了 regex101 和 Debuggex 等替代品，一位评论者推测自动化网络探测将增加 SaaS 成本，并可能重新引发对桌面应用的兴趣。
+
+**标签**: `#regex`, `#developer-tools`, `#SaaS`, `#web-scraping`, `#LLM`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-20"></a>
+## [谷歌 DeepMind 发布 Gemini 4 Neon，高性价比准旗舰模型](http://www.geekpark.net/news/374196) ⭐️ 8.0/10
+
+11 月 18 日，Google DeepMind 发布了 Gemini 4 Neon，这是 Gemini 4 系列在七周内推出的第四款模型。Neon 以约竞争对手一半的成本提供接近旗舰级的性能，拥有 100 万 token 上下文窗口和可调节的思考深度。 Neon 的强劲性能和低成本使其成为一项重大竞争举措，可能通过以中端价格提供旗舰级智能来颠覆 AI 模型市场。这标志着谷歌强势回归 AI 竞赛，并可能迫使 OpenAI 和 Anthropic 等竞争对手调整其定价和产品。 Neon 在 AA Intelligence Index v5.0.1（xhigh 模式）上得分 61，全球排名第三，并在 AA Coding Agent Index 上获得 58.6 分，与 Claude Fable 5.2 和 Opus 5.5 持平，但每任务成本仅为其一半。然而，在 xhigh 模式下，它产生了 2.83 亿输出 token，首答延迟达 56.51 秒，并且临时价格倒挂使得 Neon 在 12 月 1 日前比折扣价的 Carbon 更贵。
+
+rss · 极客公园 · 11月19日 06:10
+
+**背景**: 谷歌的 Gemini 4 系列使用元素主题命名（Argon、Carbon、Hydrogen、Neon），不按原子序数或字母顺序排列，让开发者感到困惑。这些模型针对不同工作负载定位：Carbon 用于重型长周期项目，Hydrogen 用于快速日常执行，Neon 作为平衡的中端选项。AI 模型市场竞争激烈，谷歌、OpenAI 和 Anthropic 频繁发布更新。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aistudio.google.com/docs/models/gemini-4-neon">Gemini 4 Neon - Gemini API | Google AI Studio</a></li>
+<li><a href="https://deepmind.google/models/model-cards/gemini-4-neon/">Gemini 4 Neon - Model Card — Google DeepMind</a></li>
+<li><a href="https://www.orcarouter.ai/blog/gemini-4-neon-vs-gemini-4">Gemini 4 vs Gemini 4 Neon : Four Models, One Confusing Name</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Reddit 上的开发者称赞 Neon“便宜得离谱又强得可怕”，Hacker News 用户则调侃令人困惑的元素命名，建议谷歌是从帽子里随机抓取名字。一些用户已经开始要求用第 118 号元素“鿫”（Oganesson）作为下一个模型名称。
+
+**标签**: `#Google`, `#Gemini`, `#AI模型`, `#DeepMind`, `#大厂动态`
+
+---
+
+<a id="item-21"></a>
+## [比亚迪发布折叠方向盘，首搭方程豹钛 9，27.99 万元起](https://www.ifanr.com/1690430?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+比亚迪发布了量产版折叠方向盘，首次搭载于方程豹钛 9 SUV，起售价 27.99 万元。该公司声称这一创新通过让方向盘折叠收纳，颠覆了百年来的座舱布局。 这标志着业内首批量产折叠方向盘之一，随着车辆获得自动驾驶能力，它预示着内饰将向更灵活的方向转变。作为中国领先的汽车制造商，比亚迪的此举可能迫使竞争对手重新思考座舱设计，并加速智能座舱技术的创新。 折叠方向盘由比亚迪完全自主研发，并声称是业内首款量产产品。然而，折叠机制、安全功能和耐用性等具体技术细节尚未披露，该配置在不同车型版本中的可用性也不明确。
+
+rss · 爱范儿 · 11月19日 15:01
+
+**背景**: 方程豹（又称 Formula Bao）是比亚迪于 2023 年 6 月推出的高端越野品牌，钛 9 是一款三排插电式混合动力 SUV。供应商如 Autoliv 曾为自动驾驶车辆展示过可折叠方向盘，允许方向盘在车辆自动驾驶时缩入仪表板以释放空间。比亚迪的量产版本首次将这一概念带入消费级车辆。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=O4idh2yu3Q4">比亚迪全球首发量产折叠方向盘 | BYD unveils the... - YouTube</a></li>
+<li><a href="https://www.autoliv.com/safety-solutions/steering-wheels/foldable-steering-wheel">Foldable Steering Wheel | Autoliv</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BYD`, `#automotive`, `#steering wheel`, `#Fangchengbao`, `#product launch`
+
+---
+
+<a id="item-22"></a>
+## [阿里“散养”平头哥：从去 IOE 到去 CUDA 的战略新棋](https://www.tmtpost.com/8211617.html) ⭐️ 7.0/10
+
+据钛媒体分析，阿里巴巴正将其半导体子公司平头哥从内部芯片部门转向更独立、更外部化的运营模式。此举被置于从早期“去 IOE”到如今“去 CUDA”的国产芯片自主化新阶段背景下解读。 这一组织调整表明阿里可能正在重新思考芯片研发的资本配置方式，或将平头哥推向更开放的市场竞争。这也反映了中国半导体行业减少对英伟达 CUDA 生态依赖、构建国产 AI 芯片替代方案的更广泛趋势。 文章将这一转变描述为“资本配置的新模板”，但未提供具体操作细节，例如平头哥是否会寻求外部融资、合作或最终上市。平头哥于 2018 年由阿里收购的 CPU IP 公司中天微与达摩院芯片团队合并而成。
+
+rss · 钛媒体 · 11月20日 02:32
+
+**背景**: “去 IOE”是阿里巴巴约 2009 年提出的概念，指用开源和自研的云架构替代 IBM 小型机、Oracle 数据库和 EMC 存储设备。“去 CUDA”则指通过发展国产芯片平台和开源框架，减少对英伟达 CUDA AI 计算平台的依赖。平头哥是阿里旗下的自研半导体设计部门，以玄铁处理器核和 AI 芯片闻名。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E5%8E%BBioe/16631112">去IOE - 百度百科</a></li>
+<li><a href="https://m.yicai.com/news/100029138.html">刚刚， 阿 里 成立 半 导 体 公司，为何名叫“ 平 头 哥 ”</a></li>
+<li><a href="https://www.starverse-ai.com/guide/archives/5463">CUDA生态遭遇挑战：国产芯片加速推进去CUDA化进程 – 资讯及公告 – 星...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#阿里巴巴`, `#平头哥`, `#半导体`, `#去CUDA`, `#大厂战略`
+
+---
+
+<a id="item-23"></a>
+## [三个辍学 00 后创办的 Mercor 估值破 200 亿美元，英伟达、阿里抢投](https://www.tmtpost.com/8211639.html) ⭐️ 7.0/10
+
+由三名辍学的“泰尔奖学金”获得者于 2023 年创办的 AI 数据公司 Mercor，在获得英伟达、阿里巴巴等投资方注资后，估值已突破 200 亿美元。 这笔交易表明，用于训练和评估前沿 AI 模型的高质量人类专家数据需求正旺盛增长，而芯片和云巨头愿意支付溢价来锁定这一数据管道。 Mercor 的业务已从招聘决策支持转向招募高技能专业人士为 AI 模型提供训练和评估数据，填补了 Scale AI 退出后的市场空白；公司三位创始人因此在 2025 年成为最年轻的白手起家亿万富翁。
+
+rss · 钛媒体 · 11月20日 01:38
+
+**背景**: Mercor.io Corporation 是一家总部位于旧金山的 AI 数据初创公司，成立于 2023 年，致力于组织人类智能为 AI 经济提供动力。该公司提供领域专家来训练 AI 模型和聊天机器人，并与企业合作将真实工作流数据贡献给前沿 AI 研究。它与 Scale AI 等数据标注公司展开竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mercor">Mercor - Wikipedia</a></li>
+<li><a href="https://www.aibase.com/news/22304">Mercor Raises $350 Million in Funding, Accelerates AI Data ...</a></li>
+<li><a href="https://www.ai-startups.pro/compare/Mercor_vs_Scale_AI/">Mercor vs Scale AI vs other Data Annotation startups</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI 融资`, `#Mercor`, `#英伟达`, `#阿里巴巴`, `#大厂投资`
+
+---
+
+<a id="item-24"></a>
+## [腾讯收缩元宝投入，转向企业级 AI WorkBuddy](https://www.tmtpost.com/8211510.html) ⭐️ 7.0/10
+
+据钛媒体报道，腾讯正在减少对消费级 AI 助手元宝的投入，并将资源转向企业级 AI 智能体 WorkBuddy。此举标志着腾讯从消费级 AI 向企业级 AI 的战略转移，重新评估 AI 产品的商业价值。 这一转变反映了行业趋势：科技巨头更倾向于优先发展具有清晰变现路径的企业级 AI 解决方案，而非获客成本高昂的消费级 AI 产品。腾讯的决定可能会影响其他中国科技公司在消费级和企业级 AI 之间的资源分配，尤其是在消费级 AI 竞争日益激烈的背景下。 元宝于 2023 年推出，基于腾讯自研的混元大模型，集成了写作、搜索、图像识别和文件处理等功能。WorkBuddy 是面向办公专业人士的 AI 智能体，采用多智能体协作自主完成报告、演示文稿和电子表格等任务，并集成在企业微信中。
+
+rss · 钛媒体 · 11月20日 01:38
+
+**背景**: 腾讯元宝是 2023 年推出的消费级 AI 助手，基于腾讯混元大模型，旨在为工作、学习和日常生活提供 AI 辅助。WorkBuddy 是腾讯为企业办公打造的 AI 智能体，利用多智能体协作自动化复杂任务。腾讯的 AI 战略日益侧重于将 AI 嵌入其生态系统，包括微信、云服务和生产力工具，而非仅依赖单一消费级产品。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aipure.ai/products/txyb">Tencent Yuanbao : Reviews, Features, Pricing, Guides, and Alternatives</a></li>
+<li><a href="https://www.workbuddy.ai/">WorkBuddy - AI Agent for Everyday Office Work</a></li>
+<li><a href="https://enkiai.com/ai-market-intelligence/tencent-ai-strategy-2026-a-shift-to-dominance/">Tencent AI Strategy 2026: A Shift to Dominance</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Tencent`, `#AI strategy`, `#Yuanbao`, `#WorkBuddy`, `#enterprise AI`
+
+---
+
+<a id="item-25"></a>
+## [Anthropic 上市首日大涨、英伟达财报、Gemini 4 发布领衔 AI 要闻](https://www.tmtpost.com/8211809.html) ⭐️ 7.0/10
+
+Anthropic 以每股 83 美元登陆纳斯达克，首日大涨 34%，估值约 1.5 万亿美元；英伟达第三季度营收达 1158 亿美元，董事会接触 Arm CEO 雷内·哈斯讨论接替黄仁勋。OpenAI 因训练环境漏洞暂停训练 11 天，谷歌发布 Gemini 4 Neon，美国将 AI 出口管制扩展至 IaaS。 这些动态标志着 AI 行业的重大转变：Anthropic 的盛大 IPO 验证了投资者对 AI 公司的巨大热情，英伟达的财报和继任讨论凸显其核心地位与领导层过渡风险，而出口管制扩大可能重塑全球 AI 算力获取格局。这些事件共同影响投资者、云服务商以及依赖 AI 基础设施的企业。 亚马逊和谷歌合计持有 Anthropic 28.4%的股份，算力承诺接近 9000 亿美元；OpenAI 的停训与一个漏洞有关，亚利桑那州正在调查 AI 代理访问银行账户的情况。Gemini 4 Neon 支持 1,048,576 个 token 的上下文窗口和最多 65,536 个输出 token，而 AWS 的模型榜单和富智康的订单反映了模型评估和终端供应链的变化。
+
+rss · 钛媒体 · 11月20日 00:25
+
+**背景**: Anthropic 是一家 AI 安全与研究公司，由前 OpenAI 员工于 2021 年创立，以其 Claude 模型闻名。IPO（首次公开募股）是私人公司在证券交易所向公众发行股票的过程，首日大涨表明需求强劲。IaaS（基础设施即服务）通过互联网提供虚拟化计算资源，将出口管制扩展至 IaaS 意味着限制外国对基于云的 AI 算力的访问，而不仅仅是物理芯片。Gemini 4 Neon 是谷歌最新的大型语言模型，接替早期的 Gemini 版本。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/">US tightens AI chip export controls to deter Chinese ...</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">Introducing Gemini 4 Neon</a></li>
+<li><a href="https://kie.ai/gemini-4-neon">Gemini 4 Neon API: 1M-Context Gemini 4 Model | Kie.ai</a></li>
+
+</ul>
+</details>
+
+**标签**: `#大厂动态`, `#AI 产业`, `#IPO`, `#出口管制`, `#模型发布`
+
+---
+
+<a id="item-26"></a>
+## [英伟达官宣全员加薪，接班人话题持续升温](https://www.ifanr.com/1690288?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+英伟达宣布全员加薪，据报道 CEO 黄仁勋会亲自审核全部 4.2 万名员工的薪酬方案，几乎每次都会上调薪资。与此同时，关于黄仁勋接班人的讨论持续升温，CUDA 之父 Ian Buck 和黄仁勋的女儿成为被频繁提及的热门人选。 全员加薪与接班人猜测同时出现，表明英伟达正努力留住人才并为领导层过渡做准备，而它目前是全球市值最高的芯片公司，也是全球 AI 算力供应链的核心。英伟达如何管理领导梯队和薪酬，将影响员工留存、投资者信心以及更广泛的 AI 硬件生态。 黄仁勋公开主张企业应尽可能给员工高薪，而他亲自审核全部 4.2 万份薪酬方案的做法，对于如此规模公司的 CEO 来说并不常见。接班人猜测目前仍属非官方消息，Ian Buck 和黄仁勋女儿等名字主要出现在媒体报道中，并未得到英伟达确认。
+
+rss · 爱范儿 · 11月19日 02:59
+
+**背景**: 黄仁勋于 1993 年联合创立英伟达，已领导公司超过三十年，是科技行业最知名的 CEO 之一。英伟达的 GPU 和 CUDA 软件平台支撑了现代 AI 热潮的很大一部分，使公司具有战略重要性。Ian Buck 因在开发 CUDA 这一并行计算平台中发挥关键作用而被称为“CUDA 之父”，该平台让开发者能在英伟达 GPU 上运行通用计算任务。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1101543529_121968785">黄仁勋接班人候选名单曝光！CUDA之父和老黄亲女儿成头号热门</a></li>
+<li><a href="https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynifc1746706.shtml">英伟达寻觅黄仁勋接班人并非易事 猎头视野里有哪些人选？</a></li>
+<li><a href="https://m.zhibo8.com/news/web/other/2026-09-21/6ab0d8c82c357native.htm">英 伟 达 员 工平均年 薪 189...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#英伟达`, `#大厂人事`, `#薪酬`, `#接班人`, `#科技公司治理`
+
+---
+
+<a id="item-27"></a>
+## [资生堂被曝清空欧珀莱品牌，外资美妆在华战略引关注](https://www.tmtpost.com/8211887.html) ⭐️ 6.0/10
+
+据钛媒体报道，资生堂正在清空或逐步关停其在中国市场的欧珀莱（Aupres）品牌。这一举动标志着这家日本美妆巨头在其关键海外市场之一进行了重大战略调整。 欧珀莱是最早专为中国消费者研发的大众高端品牌之一，其收缩凸显了外资美妆品牌在国货竞争加剧背景下的整体重组趋势。此举可能影响资生堂的大众市场定位，并预示外资集团将进一步整合品牌组合。 该报道仅基于简短摘要，未透露具体时间表、范围，以及欧珀莱是将全面停运还是仅清理库存。欧珀莱最初通过合资公司资生堂丽源化妆品有限公司（SLC）推出，长期活跃于中国百货和化妆品零售渠道。
+
+rss · 钛媒体 · 11月20日 02:32
+
+**背景**: 欧珀莱是资生堂专为中国市场研发的护肤和彩妆品牌，最初通过与丽源的合资公司运营。它成为中国百货渠道的知名品牌，常被与欧莱雅的大众品牌相提并论。近年来，随着珀莱雅等国货品牌抢占份额，外资美妆集团在华增长放缓，促使它们重新审视品牌组合并调整战略。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinapp.com/gushi/82340">欧 珀 莱 化妆 品 品 牌 故事- 品 牌 故事- 品 牌 网 Chinapp.com</a></li>
+<li><a href="https://pinpai.smzdm.com/913/gushi/">【 欧 珀 莱 /AUPRES 品 牌 故事】 欧 珀 莱 /AUPRES...</a></li>
+<li><a href="https://www.xinhuanet.com/fashion/20260903/3f928d22380042dca6d090604aa4fd05/c.html">新消费观察｜外资复苏、国货分化，中国美妆市场进入结构性博弈期</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Shiseido`, `#Aupres`, `#foreign beauty brands`, `#China cosmetics market`, `#brand restructuring`
+
+---
+
+<a id="item-28"></a>
+## [英伟达 CFO 科莱特·克雷斯在财报电话会上表示“我们能搞定”](https://www.tmtpost.com/8212036.html) ⭐️ 6.0/10
+
+在英伟达季度财报电话会议上，首席财务官科莱特·克雷斯在回答提问时简短而自信地表示：“我们能搞定。” 电话会议中还有首席执行官黄仁勋参与，但提供的内容仅包含克雷斯的引述。 英伟达是人工智能和半导体行业的风向标，其财报电话会议备受关注，以寻找有关需求、供应和战略方向的信号。克雷斯简短的评论可能反映了对应对当前挑战的信心，但缺乏进一步背景，其意义有限。 “我们能搞定”这句话是电话会议中提供的唯一实质性细节，缺少财务数据、业绩指引以及克雷斯所回答的具体问题。该言论的背景——是指供应限制、竞争还是宏观经济因素——仍不清楚。
+
+rss · 钛媒体 · 11月20日 02:19
+
+**背景**: 英伟达是用于人工智能和游戏的 GPU 的领先设计商，其季度财报电话会议通常由首席执行官黄仁勋和首席财务官科莱特·克雷斯讨论财务业绩并回答分析师提问。这些会议对投资者和科技行业来说是重大事件，因为英伟达的业绩往往预示着人工智能支出和芯片需求的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.fool.com/earnings/call-transcripts/2026/02/25/nvidia-nvda-q4-2026-earnings-call-transcript/">NVIDIA (NVDA) Q4 2026 Earnings Call Transcript | The Motley Fool</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition">What is Nvidia without AI’s sugar daddy in charge? | The Verge</a></li>
+
+</ul>
+</details>
+
+**标签**: `#NVIDIA`, `#earnings`, `#Jensen Huang`, `#tech industry`, `#quarterly results`
+
+---
+
+<a id="item-29"></a>
+## [AI 办公的“入口之战”打完了吗？](https://www.tmtpost.com/8211777.html) ⭐️ 6.0/10
+
+11 月 18 日和 19 日，腾讯与字节跳动几乎同时公布了各自 AI 办公产品的最新数据：腾讯 WorkBuddy 日活用户突破 1000 万，日均 Token 调用量超过 100 万亿，年化收入超过 5 亿美元；字节旗下豆包工作也在上线不久后公布了新进展。 这表明 AI 办公入口的竞争正从用户获取转向变现和工作流整合，大型科技巨头正利用其生态系统抢占用户工作流中的默认决策节点，这可能重塑价值数千亿美元的生产力工具市场。 据报道，腾讯 WorkBuddy 的年化收入是腾讯会议的两倍以上，文章指出下一阶段的竞争将聚焦于“行为接管”——通过场景化小模型和动态知识图谱等技术，将 AI 嵌入工作流，使其在用户无感知的情况下触发默认决策。
+
+rss · 钛媒体 · 11月20日 01:46
+
+**背景**: AI 办公工具是指集成了人工智能以自动化文档创建、日程安排和数据分析等任务的生产力软件。“入口之战”指的是科技巨头之间争夺成为用户访问 AI 办公功能的主要界面的竞争，类似于早期搜索引擎或应用商店成为守门人的情况。随着 AI 能力的成熟，各公司正竞相抢占用户习惯，并通过基于 Token 的使用费或订阅制实现变现。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tmtpost.com/8211777.html">AI办公的“入口之战”打完了吗？-钛媒体官方网站</a></li>
+<li><a href="https://www.36kr.com/p/4024280490774404">AI入口大战2.0：腾讯、阿里、字节，谁是AI办公的隐形冠军？-36氪</a></li>
+<li><a href="https://blog.csdn.net/weixin_29073241/article/details/170315591">AI办公入口之争：从功能叠加到行为接管-CSDN博客</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI办公`, `#大厂动态`, `#行业趋势`, `#入口竞争`, `#生产力工具`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-30"></a>
+## [杭州报道：一名“云店员”远程管理 500 多家无人店，销售额增长 25%](https://news.google.com/rss/articles/CBMiggFBVV95cUxQajBrTFJPYjlKdzMzdjdZNVB2U3FVTjZGNmNtSGZ3WS1lcExob0w2cVFSWmh5Q21WLXFESGFxSHpEc2VVQ1hmb1RlTWZmdldOajBBcGJUdmJUZGx3LVAtbHNWdDRLN3ExbHAwWFB5Sk1uNHBrWnhFeFVWc3V4RUJOODNn?oc=5) ⭐️ 6.0/10
+
+杭州新闻报道称，一名“云店员”可以远程管理 500 多家无人便利店，今年前 9 个月销售额增长超过 25%。这表明在远程管理技术的推动下，无人零售模式正在复苏。 这展示了远程员工和 AI 辅助监控如何在零售中实现显著的运营规模，可能降低人工成本并提高无人店的效率。它标志着中国无人零售领域可能卷土重来，该领域此前曾面临挑战。 该模式依赖于远程云值守系统，处理身份核验、异常警报、远程开门和实时视频监控，使一人能管理数百家门店。然而，该报道是一则地方新闻，缺乏深入的技术分析，关于确切技术栈或可扩展性挑战的细节有限。
+
+rss · 客服行业动态 · 11月19日 23:17
+
+**背景**: 无人便利店是一种没有店员和收银员的零售概念，利用 RFID、计算机视觉和物联网等技术实现自动化运营。在中国，这类商店大约在 2017 年出现，但面临高成本和运营复杂性等障碍。此后，远程云值守系统被开发出来，提供 24/7 监控和客户服务，从而实现成本降低和可扩展性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Unmanned_store">Unmanned store - Wikipedia</a></li>
+<li><a href="https://www.leuke.cn/unmanned-store-solution/">无人便利店解决方案｜24小时无人值守·自助收银·云值守看店</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/471190361">无人便利店24小时经营，客服远程语音指引，1人可运营</a></li>
+
+</ul>
+</details>
+
+**标签**: `#unmanned retail`, `#remote customer service`, `#retail operations`, `#AI workforce`, `#China retail`
+
+---
+
+<a id="item-31"></a>
+## [为客服一线筑造 AI“许愿池”](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkREZ2b0hSZGM1ZkpiTXJQWkpYNEk3SDN1V0FpMFZVZTBfT0UwRzFXQWdsNlRFVUxWRDBLMUF5WWlBZllQLUVKVzFqcVBoTzZ0SE0wcEMyR3JlUG5NM1Jn?oc=5) ⭐️ 5.0/10
+
+中工网报道介绍了中移在线河北分公司高级技师、人工智能训练师苟平平，她用三年时间为客服一线打造了一座 AI“许愿池”，将一线客服提出的提效需求转化为实际工具方案。该工具解决了语音标注等痛点，此前人工逐句听打并对齐一段 3 分钟客服通话录音需要 20 分钟。 这体现了中国客服行业“AI 服务一线”的趋势，即由一线客服人员驱动工具开发，而非自上而下的 IT 指令。这种自下而上的 AI 应用有望提升客服效率和职业满意度，并为其他服务型组织提供实践案例。 该工具遵循“工具好不好用，一线说了算”的原则，将每个提效需求视为一个待实现的愿望。报道指出语音标注是初期的一大难题：一段 3 分钟的客服通话录音，人工逐句听打并对齐时间轴要花 20 分钟，二十多个人连轴转仍赶不上进度。
+
+rss · 客服行业动态 · 11月19日 05:04
+
+**背景**: 在中国客服行业，利用自然语言处理的 AI 工具正越来越多地用于处理常规咨询，有估计称 AI 系统已处理电商和服务领域超过 70%的客户咨询。像苟平平这样的人工智能训练师在一线需求与技术实现之间架起桥梁，他们往往不直接编写代码。“许愿池”的比喻体现了一种以用户为中心的方式，即客服人员提出需求，AI 训练师负责构建解决方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.workercn.cn/c/2026-11-19/8945211.shtml">为客服一线筑造AI“许愿池” - 人物 - 中工网</a></li>
+<li><a href="https://www.sohu.com/a/1103602046_122066679">AI许愿池火了！河北这位‘客服魔法师’让千万用户秒懂、秒解、秒满意｜...</a></li>
+<li><a href="https://www.toutiao.com/article/7709757021779690025/">为客服一线筑造AI“许愿池” - 今日头条</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#AI tools`, `#frontline support`, `#industry practice`, `#China`
+
+---
+
+<a id="item-32"></a>
+## [iPhone Duo 人脸解锁被照片骗过，苹果客服回应](https://news.google.com/rss/articles/CBMickFVX3lxTFA0WWF4UVhNSGJjaGpTbW1kbGxlVXN0R0d3QmhZcU5yMzktWTBfa3JGWUlPa1B2TTFKX3JncmRFVkJCYnRMY3J4Yk1TMVFUODZNbWhnN0lkcmYyX3ZtTlVJSmZFdlVlOTducFF3QWNxaXFHZw?oc=5) ⭐️ 5.0/10
+
+苹果向 iPhone Duo 推送了 iOS 27.3 Beta 2 开发者固件，新增了基于前置摄像头的人脸解锁功能，但有博主实测用一张照片就能骗过该功能。苹果客服随后回应了争议，说明了该功能的安全限制和内置防护措施。 这一事件凸显了在没有专用深度感知硬件的情况下实现生物识别认证所面临的安全权衡，也引发了苹果如何向用户传达此类限制的疑问。同时，它也为客户服务如何应对产品安全质疑提供了一个案例。 该人脸解锁依赖普通 2D 前置摄像头和软件算法，缺少 Face ID 所使用的 TrueDepth 硬件，因此即便加入了一定的活体检测，也无法达到 Face ID 的安全等级。苹果还加入了场景限制和 45 分钟重验等防护措施。
+
+rss · 客服行业动态 · 11月19日 03:40
+
+**背景**: 高端 iPhone 上的 Face ID 使用 TrueDepth 相机系统，投射数万个红外点来构建用户面部的 3D 深度图，因此能抵御照片欺骗。而 iPhone Duo 缺少这一硬件，一直仅依靠侧边指纹传感器进行生物识别认证。为了提升便利性，苹果利用普通前置摄像头推出了更简单的人脸解锁，但其安全性天然较低。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20261119A04E7O00">一张照片就能骗过！苹果iPhone Duo人脸解锁遭博主实测“打脸”</a></li>
+<li><a href="https://www.toutiao.com/article/7709757899081318940/">iPhone Duo人脸解锁被一张照片破解！苹果紧急回应，真相太打脸</a></li>
+<li><a href="https://www.163.com/dy/article/LC3AV47R05119MAU.html">一张照片就能骗过！苹果iPhone Duo人脸解锁遭博主实测“打脸”</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#Apple`, `#Face ID`, `#product support`, `#consumer electronics`
+
+---
