@@ -1,0 +1,901 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-21 (ZH)"
+date: 2026-11-21
+lang: zh
+---
+
+> 从 77 条内容中筛选出 38 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [中国虚拟电厂聚合容量提前达标至 2042.8 万千瓦](#item-1) ⭐️ 7.0/10
+2. [国际能源署：全球制冷需求首次超过供暖，东南亚能源需求增幅居首](#item-2) ⭐️ 7.0/10
+3. [国家电网发布助力“十五五”碳达峰目标若干举措](#item-3) ⭐️ 7.0/10
+4. [IEA：煤炭短期反弹难掩结构性退潮，电力行业峰值已过](#item-4) ⭐️ 7.0/10
+5. [IEA 与高盛观点分化，霍尔木兹危机如何定义油市未来？](#item-5) ⭐️ 6.0/10
+6. [特来电提出从卖电转向卖调度，推动车网互动规模化](#item-6) ⭐️ 6.0/10
+7. [东莞三联智光 100MW/200MWh 独立储能电站正式开工](#item-7) ⭐️ 6.0/10
+8. [珠海派诺科技获广东虚拟电厂准入资格](#item-8) ⭐️ 5.0/10
+9. [易天股份拟收购艾晨数字能源 37%股权并谋求控制权](#item-9) ⭐️ 5.0/10
+10. [新型电力系统下山西农村配电网焕新颜](#item-10) ⭐️ 5.0/10
+
+### 🤖 AI 科技
+
+11. [Levent Alpöge 声称证明广义黎曼猜想，并附 1.3GB Lean 形式化](#item-11) ⭐️ 9.0/10
+12. [陶哲轩报告无外力纳维-斯托克斯奇点和广义黎曼假设](#item-12) ⭐️ 9.0/10
+13. [Thinking Machines 发布 Inkling 2 Mini：采用循环 Transformer 架构并以 nvfp4 端到端训练](#item-13) ⭐️ 8.0/10
+14. [语言模型无需梯度即可重写自身权重](#item-14) ⭐️ 8.0/10
+15. [Signal 阻止移动操作系统 AI 代理捕获聊天数据](#item-15) ⭐️ 8.0/10
+16. [DreamCoder：Mastering Emacs 作者推出全新 AI 编码工具与 IDE](#item-16) ⭐️ 7.0/10
+17. [关于黎曼假设与 AI 的哲学文章引发辩论](#item-17) ⭐️ 7.0/10
+18. [工程师利用 AI 辅助编码设计推理芯片](#item-18) ⭐️ 7.0/10
+19. [AI 编程助手正悄然将开发者提升为架构师](#item-19) ⭐️ 6.0/10
+20. [文章借用伽利略典故反思 AI 对人类独立探索的冲击](#item-20) ⭐️ 6.0/10
+
+### 🏢 大厂要闻
+
+21. [贝佐斯重返一线，出任估值 410 亿美元 AI 公司 Prometheus 联席 CEO](#item-21) ⭐️ 8.0/10
+22. [华为发布全新子品牌 OSTA 星芒及首款鸿蒙 AI 手机](#item-22) ⭐️ 7.0/10
+23. [AI 交易雪崩：纳指单日狂泻 1261 点，市场不再相信“故事”](#item-23) ⭐️ 7.0/10
+24. [阿里 2027 财年 Q2：云 AI 收入增 53%，即时零售减亏](#item-24) ⭐️ 7.0/10
+25. [阿里 2715 亿营收、344 亿现金流出：利润拐点还是未完成的账单？](#item-25) ⭐️ 7.0/10
+26. [默沙东 BTK 抑制剂受挫，凸显 BTK 抑制剂第三次浪潮](#item-26) ⭐️ 7.0/10
+27. [AI 视频价格下跌推动市场转向平台经济](#item-27) ⭐️ 7.0/10
+28. [抖音生活服务换帅，剑指万亿 GMV](#item-28) ⭐️ 7.0/10
+29. [林俊旸 AI 初创公司语用科技估值翻倍至 50 亿美元；丁磊称短剧冲击游戏；华为星芒品牌发布阔直板手机](#item-29) ⭐️ 7.0/10
+30. [早报：Claude 黎曼猜想传闻、余承东更正表述、五月天 Vision Pro 演唱会](#item-30) ⭐️ 6.0/10
+
+### 🎧 客服行业动态
+
+31. [澳门警方警告假冒抖音客服电话诈骗再度猖獗](#item-31) ⭐️ 6.0/10
+32. [澳门司警五天内接报 17 宗假冒客服骗案，最高损失 43 万澳门元](#item-32) ⭐️ 6.0/10
+33. [网店 1 分钱睡衣引 200 万订单，平台取消并退款](#item-33) ⭐️ 6.0/10
+34. [AEON 信贷网上及手机 APP 服务中断逾 40 小时](#item-34) ⭐️ 6.0/10
+35. [男子在山姆买国航机票次卡，申请退款发现订单已核销](#item-35) ⭐️ 5.0/10
+36. [米糠云推出航司呼叫中心 AI 智能辅助](#item-36) ⭐️ 4.0/10
+37. [招商银行回应流水马赛克上盖章疑问](#item-37) ⭐️ 4.0/10
+38. [零跑 A10 后备厢装啤酒被压塌，客服确认承重约 40 公斤](#item-38) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [中国虚拟电厂聚合容量提前达标至 2042.8 万千瓦](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnhUR2NZamxyVjk1UDZ5ZmdKUXNTVERnV1FXT0dXYXdMbGNmUWo4N3lzOG9lN0l4Zy1Nel9hUV9yYUJmaGtYUUQwQ0p4TC1pczFWbW9vTXRXUXd1ODRxdl9GWUstdWROcFdGcl9NUER5WTFzNmNRRlFnQXJnWHBWSENMNUVxZkF6alBoOA?oc=5) ⭐️ 7.0/10
+
+据搜狐报道，中国虚拟电厂聚合容量已达到 2042.8 万千瓦（约 20.43 吉瓦），提前完成既定目标。与此同时，虚拟电厂的市场化运营加速推进，这些聚合的需求侧资源正越来越多地参与电力市场交易。 这一里程碑表明，随着新能源渗透率提升，中国需求侧灵活性资源的规模扩张已足以支撑电网平衡。它也标志着虚拟电厂从试点示范转向市场化参与，可能重塑全国电力交易方式和高峰负荷管理方式。 虚拟电厂本身并不发电，其核心功能是调节——聚合可控负荷、储能和小型发电等分布式资源以提供灵活性。市场规则将虚拟电厂分为负荷类和发电类，分别可参与与售电公司、批发用户或市场化电厂类似的交易。
+
+google\_news · Sohu · 11月20日 12:01
+
+**背景**: 虚拟电厂是基于云平台的分布式能源资源聚合体，将屋顶光伏、电池储能、电动汽车和可调节工业负荷等协调起来，像一座电厂一样运行。虚拟电厂不建实体发电设施，而是通过调整用电来平衡供需，这一概念被称为需求侧响应。中国一直在推动虚拟电厂发展，以在不新建昂贵调峰电厂的情况下消纳更多新能源并提升电网灵活性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工 作 的？ -中新网</a></li>
+<li><a href="https://news.bjx.com.cn/html/20261102/1518497.shtml">news.bjx.com.cn/html/20261102/1518497.shtml</a></li>
+<li><a href="https://lingtanweb.com/comprehensive/demand-response/demand-response-sub1/demand-response-sub1-wenda.html">需 求 侧 响 应 机 制 高频疑问解答：参与门槛与收益真相 - 零碳新能网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#电力市场`, `#需求侧响应`, `#新能源`
+
+---
+
+<a id="item-2"></a>
+## [国际能源署：全球制冷需求首次超过供暖，东南亚能源需求增幅居首](https://news.google.com/rss/articles/CBMia0FVX3lxTE11bTl1REs4ZjdfTndJbUMtd1BoMnpPMnVxQk5vc2hCZTVVbXYycjBTcVhVX19CaDgyd1VpOU4tQlNLUXlnQzlsYWNWYm5YcUxQOWR4dkpoV2xjbU1jU29KeXJQbUlRakQySkkw?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）报告指出，全球制冷需求首次超过供暖需求，而东南亚成为能源需求增长最快的地区。 这一里程碑标志着全球能源消费模式的转变，气候变化和经济发展推动制冷需求上升，尤其是在东南亚等热带地区。这对电力规划、能效政策和气候适应战略有直接影响，因为制冷需求增加会给电网带来压力并加剧温室气体排放。 国际能源署报告强调，东南亚的能源需求增长全球最高，这得益于人口增长、城市化和收入提高。制冷需求占主导地位的转变凸显了高效制冷技术和 resilient 电力基础设施的必要性，以应对峰值电力负荷。
+
+google\_news · 联合早报 · 11月20日 04:18
+
+**背景**: 国际能源署（IEA）是总部位于巴黎的政府间组织，就全球能源问题提供权威分析和政策建议。制冷需求指用于空调和制冷的电力，由于全球变暖和热浪，这一需求一直在上升。供暖需求传统上在寒冷气候中占主导，但随着发展中国家更多家庭购买空调，供暖需求正被超越。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.10jqka.com.cn/20260315/c675301924.shtml">国 际 能 源 署 （ IEA ...</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2022-11-04/doc-imqqsmrp4832338.shtml">别只盯着今年冬天！ IEA 警告欧洲 明年冬天才 是 天然气大挑战</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IEA`, `#制冷需求`, `#能源政策`, `#东南亚`, `#电力规划`
+
+---
+
+<a id="item-3"></a>
+## [国家电网发布助力“十五五”碳达峰目标若干举措](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZktEdmJQd0tQVXZzeURpS2JsdmlQNXF3OTk0ZGN1X2dPWjM0ckRiR2VWaUZQTWE1ZXNKUGdZcUM3QWVHQ2hRc1V3cTN6em1pSVpDeHVraHZ3WXZFTnh1X3g0R0l5MjAxUXYxbk9aVkpkYS1NLUg1d2hsbmF0TXlmUTRoNFJBSExa?oc=5) ⭐️ 7.0/10
+
+国家电网有限公司发布了助力国家“十五五”碳达峰目标实现的若干举措，重点涉及电网低碳转型与新能源发展。 作为中国最大的电网企业，国家电网的战略方向将深刻影响电力行业的低碳转型路径和新能源消纳预期，对电力企业、投资者及全国能源政策产生重要影响。 这些举措属于企业战略发布，缺乏具体的技术细节或量化目标；但它们表明国家电网将继续聚焦电网现代化和新能源消纳。
+
+google\_news · Sohu · 11月20日 11:24
+
+**背景**: 中国的“十五五”规划（2026-2030 年）是 2030 年前实现碳达峰的关键时期。国家电网运营着中国大部分电网，在整合可再生能源和降低电力碳强度方面发挥核心作用。该规划强调建设新型电力系统，增强电网灵活性，以消纳不断增长的风电和光伏发电。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://henb.nea.gov.cn/dtyw/hyxx/202412/t20241204_273376.html">逐“绿”前行 能 源 低 碳 转 型 持续推进_国家 能 源 局河南监管办公室</a></li>
+<li><a href="https://news.bjx.com.cn/html/20221212/1275913.shtml">news.bjx.com.cn/html/20221212/1275913.shtml</a></li>
+<li><a href="https://cpnn.com.cn/news/dianli2023/202509/t20250912_1831664_wap.html">cpnn.com.cn/news/dianli2023/202509/t20250912_1831664_wap.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#碳达峰`, `#国家电网`, `#能源政策`, `#电力转型`, `#十五五`
+
+---
+
+<a id="item-4"></a>
+## [IEA：煤炭短期反弹难掩结构性退潮，电力行业峰值已过](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BRTI2UHJnZi1DY205WDBiaXNWdGQ0VkROVVd5N2J3b2MtV2lFU2JmMWNJNGZwRkZRVFZwanJiU3dQLVowUzA5c0VJOTY0bzY1Wk1sTHFseVQwVG00YlFUMnJWcWQ?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）发布的《煤炭 2025》报告指出，全球燃煤发电量已经见顶，煤炭需求的短期反弹掩盖了由可再生能源、天然气和核能驱动的结构性下降趋势。报告还指出，2025 年全球煤炭贸易量自 2020 年以来首次下降，主要受中国进口减少的影响。 这一权威结论向政策制定者和投资者表明，全球电力行业向清洁能源转型、远离煤炭的趋势已不可逆转，这将影响脱碳规划、煤炭市场前景以及依赖煤炭地区的投资决策。这也意味着，尽管短期价格和需求仍有波动，煤炭出口商和矿业公司面临的是一个长期萎缩的市场。 IEA《煤炭 2025》报告强调，国际煤炭贸易面临压力，由于需求疲软、国内产量充足和库存充裕，2025 年全球进口量预计将下降约 5%，而冶金煤出口商的前景相对较好。报告强调，这一下降是结构性的而非周期性的，主要由可再生能源的采用和燃煤电厂的退役推动。
+
+google\_news · 煤炭资源网 · 11月20日 03:35
+
+**背景**: 国际能源署是一个政府间组织，提供关于全球能源行业的权威分析和数据。“燃煤发电峰值”是指燃煤发电量达到最高点并开始持续下降的时刻，这一概念有别于“煤炭峰值”（煤炭消费峰值）。IEA 的年度煤炭报告是各国政府、行业和分析师跟踪能源转型和脱碳进展的重要参考。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/coal-2025">Coal 2025 - IEA</a></li>
+<li><a href="https://www.iea.org/reports/coal-2025/executive-summary">Executive summary - Coal 2025 - IEA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Peak_coal">Peak coal - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal`, `#IEA`, `#energy policy`, `#decarbonization`, `#power sector`
+
+---
+
+<a id="item-5"></a>
+## [IEA 与高盛观点分化，霍尔木兹危机如何定义油市未来？](https://news.google.com/rss/articles/CBMibkFVX3lxTE1SZlNOYVRaV3BZRHFkTUtGZjVtdGt0V3FldHV0ejlkTkNjQzZBTW9hNWNMNE82WmpXQ1hxYW4xWmhuSG9WaGtMMllLRGdiTWcxN3o3UTVpbTlVUmF1SmNILVJMMUhlbUg2cWYwRHFB?oc=5) ⭐️ 6.0/10
+
+文章指出，国际能源署（IEA）与高盛对霍尔木兹海峡危机及其对全球石油市场的影响给出了不同评估。这种观点分化引发了市场对地缘政治紧张局势下油市走向的讨论。 霍尔木兹海峡是全球最重要的石油运输咽喉，2025 年日均通过约 2000 万桶原油和成品油，任何中断都可能大幅推高油价并影响全球能源安全。IEA 与高盛的观点分歧凸显了供应风险的不确定性，并影响投资与政策决策。 IEA 负责协调工业化国家的应急石油储备，倾向于强调供应安全与市场稳定；而高盛侧重于价格预测和情景分析，其近期预测认为若霍尔木兹中断持续，布伦特原油价格可能在每桶 76 至 93 美元区间波动。文章并未提供具体的新数据或政策公告，而是分析了两家机构立场的含义。
+
+google\_news · 中金在线 · 11月20日 04:43
+
+**背景**: 霍尔木兹海峡是位于伊朗与阿曼之间的狭窄水道，是波斯湾通往开阔海洋的唯一海上通道，对全球石油和液化天然气贸易至关重要。IEA 是 1973-1974 年石油危机后成立的政府间组织，旨在帮助各国应对石油供应中断，并发布广受关注的《石油市场报告》。高盛是一家大型投资银行，其大宗商品研究和油价预测备受交易员和政策制定者关注。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz : Oil and LNG Trade Facts - IEA - About - IEA</a></li>
+<li><a href="https://www.exchangerates.org.uk/news/45444/2026-03-10-goldman-sachs-oil-price-forecast-76-93-fair-value-hormuz-disruption.html">Goldman Sachs Oil Price Forecast : $76–$93 Fair Value If Hormuz...</a></li>
+<li><a href="https://energy.ec.europa.eu/topics/international-cooperation/international-organisations-and-initiatives/international-energy-agency_en">International Energy Agency</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy policy`, `#oil markets`, `#Strait of Hormuz`, `#IEA`, `#Goldman Sachs`
+
+---
+
+<a id="item-6"></a>
+## [特来电提出从卖电转向卖调度，推动车网互动规模化](https://news.google.com/rss/articles/CBMiWEFVX3lxTE40dEFaN0R0WllmM2dkTkotUTVWRzdCLV82WHJ6QkJwU3hNWnNaRE1QVG00dVlCenlnMGxfLVh3MUY2WUxyWTNvMWY2UGRCbDhUQ2lsX0c4MFQ?oc=5) ⭐️ 6.0/10
+
+中国领先的电动汽车充电运营商特来电提出了一种商业模式转变，即从卖电转向卖调度服务，作为车网互动（V2G）规模化的解决方案。该公告概述了一种通过聚焦调度服务而非简单能源销售来扩大 V2G 规模的实用方法。 这一转变可能通过为聚合商和电动汽车车主提供可行的收入模式，加速 V2G 技术的采用，有助于平衡电网负荷和整合可再生能源。它标志着中国在 V2G 方面的方法日趋成熟，而中国的电动汽车普及迅速，电网灵活性日益重要。 文章未提供具体技术细节或量化目标，但该概念涉及聚合电动汽车电池以提供调频和削峰等电网服务。特来电现有的网络以及与 XPeng 等汽车制造商的合作，可以支持基于调度的 V2G 服务的实施。
+
+google\_news · 国际充换电网 · 11月20日 02:41
+
+**背景**: 车网互动（V2G）是一种允许电动汽车向电网放电的技术，作为分布式储能帮助平衡供需。特来电成立于 2014 年，是中国最大的电动汽车充电网络运营商之一，并参与了 V2G 试点和合作。中国一直在推动 V2G 作为其能源转型目标的一部分，旨在整合更多可再生能源并提高电网稳定性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Vehicle-to-grid">Vehicle - to - grid - Wikipedia</a></li>
+<li><a href="https://www.cncarbonneutral.com/Corp/Detail?Id=123">特 来 电 Teld</a></li>
+
+</ul>
+</details>
+
+**标签**: `#V2G`, `#energy policy`, `#EV charging`, `#grid integration`, `#TELD`
+
+---
+
+<a id="item-7"></a>
+## [东莞三联智光 100MW/200MWh 独立储能电站正式开工](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jM3hFaFVjNnU4YkxzOFBqVk1BR3lCQUZkSHp6NjFYc3c5NFJVOU1UdlVDV1piQTRwcFN2MWN2aEJZNm9VWHVLMTBZUWdBN3VOVHB0N1p5Y1lTZTRsZVFaM0tn?oc=5) ⭐️ 6.0/10
+
+广东东莞三联智光 100MW/200MWh 独立储能电站项目正式开工建设。这标志着珠三角地区一个重要的电网侧储能设施进入施工阶段。 该项目有助于中国独立储能的快速扩张，这对整合可再生能源和增强电网灵活性至关重要。它反映了广东等工业地区大规模电池储能部署的增长趋势，支持该省的可再生能源目标。 该电站的功率容量为 100MW，能量容量为 200MWh，意味着它可以在满功率下持续放电 2 小时。此类独立储能项目旨在提供调峰、调频和备用电源等电网服务。
+
+google\_news · 国际储能网 · 11月20日 03:18
+
+**背景**: 独立储能电站是不与发电源共址的并网电池系统，能够为电网提供多种服务。中国一直在快速部署此类项目以支持其碳中和目标，多个省份出台了鼓励其发展的政策。100MW/200MWh 的规模是大型电网侧储能的典型配置，有助于平衡供需并整合光伏、风电等波动性可再生能源。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.cnesa.org/latest-news/tag/full-capacity+grid+connection">full-capacity grid connection — China Energy Storage Alliance...</a></li>
+<li><a href="https://electronics.stackexchange.com/questions/52284/confusion-between-mw-and-mwh">energy - Confusion between MW and MWh - Electrical Engineering...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy storage`, `#Guangdong`, `#independent storage`, `#project milestone`, `#renewable energy`
+
+---
+
+<a id="item-8"></a>
+## [珠海派诺科技获广东虚拟电厂准入资格](https://news.google.com/rss/articles/CBMid0FVX3lxTE9uWHM4SzliT2d4Xy10YnZZRVZER3RqWFpFVUxzT1J1dmR4WWJueEpaanlCVmdWTjJld2YwRTBmYXVuazhqLWduclNLV3dYOXJBSERteWctbV9CZHh0dzYwWjZWM0Zsbkc4c3c1OWMxUmxsNXdsVGhV?oc=5) ⭐️ 5.0/10
+
+据当地新闻报道，珠海派诺科技已获得参与广东虚拟电厂市场的资格。该公司正将自己定位为 AI 时代的电力管理者，利用这一准入资格来聚合和优化分布式能源资源。 这一里程碑反映了中国能源转型的更广泛趋势，虚拟电厂正成为整合分布式资源和增强电网灵活性的关键机制。它表明，随着 AI 驱动的能源管理日益普及，科技公司参与电力市场的机会正在增加。 该报道未提供派诺科技虚拟电厂容量、聚合规模或所需遵循的具体市场规则等技术细节。广东虚拟电厂市场要求注册负荷类虚拟电厂交易单元，并签订运营商与用户之间的需求响应合同。
+
+google\_news · 珠海网 · 11月20日 02:17
+
+**背景**: 虚拟电厂（VPP）是一种将分布式能源资源（如太阳能电池板、储能电池和柔性负荷）聚合协调、像单一电厂一样运行的网络，主要提供电网平衡和需求响应服务。中国一直在推动虚拟电厂试点以支持可再生能源消纳，并计划到 2030 年实现虚拟电厂调节能力超过 5000 万千瓦。广东作为重要的电力市场，已为虚拟电厂运营商和需求响应提供商制定了注册和交易规则。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工作的？ -中新网</a></li>
+<li><a href="https://news.bjx.com.cn/html/20260126/1481179.shtml">广 东 电 力市场开展2026...</a></li>
+<li><a href="https://gdshe.org/article/24246.html">gdshe.org/article/24246.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#能源政策`, `#广东电力市场`, `#AI能源管理`, `#企业动态`
+
+---
+
+<a id="item-9"></a>
+## [易天股份拟收购艾晨数字能源 37%股权并谋求控制权](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mR2ZRbnRSYl9YTTB3RUZmUXNkamd1UnVzUXR1OEhuQjZsS0V3blpXeDZMa0NYLWZNcFNjWk5JUXU0SXVNT0VLQ0JjUjhfT21vQWdPSVExSHhCTEE4c3Z1NUZTOFN2TE1MMTdoSFF0SDg?oc=5) ⭐️ 5.0/10
+
+易天股份\(300812.SZ\)宣布拟以现金收购深圳市艾晨数字能源有限公司 37%的股权，并筹划取得其控制权。该消息公布后，易天股份股价涨停。 此次收购标志着易天股份从核心显示设备业务向数字能源和储能领域的战略扩张。这反映了制造企业进军快速增长的储能和数据中心基础设施市场的更广泛趋势。 艾晨数字能源专注于数据中心关键基础设施（如模块化 UPS、微模块数据中心）以及新能源储能系统。该交易以现金方式收购 37%股权，并进一步筹划取得控制权。
+
+google\_news · 英为财情 Investing.com · 11月20日 14:03
+
+**背景**: 易天股份是一家深交所上市公司，主要从事显示设备制造。艾晨数字能源是一家总部位于深圳的公司，专注于数字能源解决方案，包括 UPS 系统和储能。此次收购符合中国推动数字能源和储能发展的政策方向。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260417A079AI00">news.qq.com/rain/a/20260417A079AI00</a></li>
+<li><a href="https://aiqicha.baidu.com/company_detail_49313661479516">深圳市 艾 晨 数 字 能 源 有限 公 司 - 艾 晨 数 字 - 爱企查</a></li>
+<li><a href="https://www.xueqiu.com/S/SZ300812">易 天 股 份 ( 300812 ) 股 票 股 价_ 股 价行情_财报_数据报告 - 雪球</a></li>
+
+</ul>
+</details>
+
+**标签**: `#M&amp;A`, `#digital energy`, `#energy policy`, `#corporate acquisition`, `#China`
+
+---
+
+<a id="item-10"></a>
+## [新型电力系统下山西农村配电网焕新颜](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFFIeTdwbEY2Mnp0a3hzRUd4NFNlRVRWRjlDNW8wUXJwbkEtcHZWZndDcTZVZ05BVjNSelBCV2tpWEFzSTg1ZVd1d1lWekNoVmk2UWRiWFlCOVA2VjUxUUlmVjJZR1lUNGUxd0RvMjM4M0xMUjBlTWtiSmF5MzZYVTRxTFJXVkNKdk1vcw?oc=5) ⭐️ 5.0/10
+
+搜狐报道了山西省农村配电网在新型电力系统框架下的改造升级，展示了当地电网基础设施的改善。 农村配电网升级对于消纳分布式可再生能源和提高偏远地区供电可靠性至关重要，反映了中国在全国范围内推动电力系统现代化的努力。 文章可能介绍了具体的电网容量和可靠性提升等技术改进，但作为地方案例，可能缺乏量化数据或政策分析。
+
+google\_news · Sohu · 11月20日 08:01
+
+**背景**: 中国的新型电力系统倡议旨在通过增强电网灵活性和稳定性来消纳更多可再生能源。农村配电网通常基础设施落后，目前正进行升级以支持分布式光伏并提高当地社区的供电质量。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nea.gov.cn/download/xxdlxtfzlpsgk.pdf">nea.gov.cn/download/xxdlxtfzlpsgk.pdf</a></li>
+<li><a href="https://epjournal.csee.org.cn/zh/article/doi/10.13882/j.cnki.ncdqh.2502A026/">农 村 配 电 网 分布式光伏接入策略研究</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新型电力系统`, `#农村配电网`, `#山西`, `#能源政策`, `#电网升级`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [Levent Alpöge 声称证明广义黎曼猜想，并附 1.3GB Lean 形式化](https://alpo.ge/remark.pdf) ⭐️ 9.0/10
+
+2026 年 11 月 20 日，数学家兼 Anthropic 员工 Levent Alpöge 宣布声称证明了广义黎曼猜想（GRH），并附有一个约 1.3GB、约 1500 万行代码的 Lean 形式化证明。同日，Ravi Vakil 发布了 Alessandro Masullo 的另一份草稿证明，该证明未使用 AI 辅助，正由 Brian Conrad 审阅。 如果得到验证，广义黎曼猜想的证明将是数论领域的范式转变事件，对素数分布及相关领域产生深远影响。大规模 Lean 形式化和 AI 辅助的参与使其成为 AI 数学领域的里程碑时刻，引发了关于 AI 在数学发现中作用的激烈辩论。 该证明以 1.3GB 压缩包形式分发，分为 14 个部分，解压后是一个约 1500 万行的 Lean 项目。形式化的庞大规模引发了验证可行性的疑问，同时 Masullo 的纯人类证明增加了署名和验证过程的复杂性。
+
+hackernews · iamronaldo · 11月20日 14:16 · [社区讨论](https://news.ycombinator.com/item?id=50574968)
+
+**背景**: 黎曼猜想是数学中最著名的未解决问题之一，它猜想黎曼 ζ 函数的所有非平凡零点都位于临界线 Re\(s\)=1/2 上。广义黎曼猜想将其推广到所有全局 L-函数，包括狄利克雷 L-函数和戴德金 ζ 函数。Lean 是一个证明助手和函数式编程语言，用于形式化数学证明，通过机器验证确保正确性。Levent Alpöge 是一位 34 岁的土耳其裔美国数学家，也是 Anthropic 的技术人员。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis">Generalized Riemann hypothesis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lean_%28proof_assistant%29">Lean (proof assistant) - Wikipedia</a></li>
+<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove... | Scientific American</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出还存在一个完全由人类完成的证明，一些人对黎曼猜想可能由 60/40 的 AI 与人类合作解决而非纯人类解决表示失望。其他人批评标题省略了 Alpöge 的名字和数学家身份，认为这会将功劳转移给 Anthropic，同时有人引用了 Terence Tao 此前对 AI 解决黎曼猜想能力的怀疑。
+
+**标签**: `#Riemann Hypothesis`, `#AI for Mathematics`, `#Lean Theorem Prover`, `#Formal Verification`, `#Mathematical Proof`
+
+---
+
+<a id="item-12"></a>
+## [陶哲轩报告无外力纳维-斯托克斯奇点和广义黎曼假设](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) ⭐️ 9.0/10
+
+2026 年 11 月 20 日，陶哲轩在其博客文章中宣布了无外力纳维-斯托克斯奇点和广义黎曼假设的证明，且很可能已在 Lean 中形式化。同日，Levent Alpöge 提出了 AI 辅助的 GRH 证明，Ravi Vakil 发布了 Alessandro Masullo 的证明草稿，该草稿正由 Brian Conrad 审阅，且未使用 AI 辅助。 这些成果是数学领域的重大突破，可能解决两个最著名的未解问题：纳维-斯托克斯存在性与光滑性千禧年大奖难题和广义黎曼假设。在 Lean 中使用形式化验证，且两个独立内核接受了证明，标志着数学证明可靠性新时代的到来，并可能对数论、流体力学及整个数学界产生深远影响。 该证明似乎充分利用了朗兰兹纲领和算术几何的现代发展，两个独立内核接受结果表明显然不存在内核漏洞利用。然而，形式化涉及约 1500 万行 Lean 代码，这引发了关于构建通过是否真正验证了预期命题而非平凡命题的疑问。
+
+hackernews · archon1410 · 11月20日 17:21 · [社区讨论](https://news.ycombinator.com/item?id=50578358)
+
+**背景**: 纳维-斯托克斯存在性与光滑性问题是克雷数学研究所的千禧年大奖难题之一，询问三维不可压缩纳维-斯托克斯方程的解是否始终光滑或会在有限时间内爆破。广义黎曼假设将经典黎曼假设推广到所有全局 L 函数，包括狄利克雷和戴德金 zeta 函数，是解析数论的核心猜想。Lean 是一个用于形式化验证的交互式定理证明器，证明由一个小型可信内核检查，若内核可靠则确保正确性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness">Navier – Stokes existence and smoothness - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis">Generalized Riemann hypothesis</a></li>
+<li><a href="https://leanprover.github.io/theorem_proving_in_lean/introduction.html">1. Introduction — Theorem Proving in Lean 3 (outdated)...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 上的讨论（357 分，146 条评论）反映了兴奋与担忧：一些人对突破的速度感到惊叹，指出这仅是当天第二大的成果，而另一些人则质疑新抽象是如何创造的，并担心职业不确定性。评论者还争论形式化验证的可靠性，询问如何确保 Lean 构建验证的是预期命题而非平凡命题，并批评陶哲轩未对黎曼假设结果的重要性发表评论。
+
+**标签**: `#Navier-Stokes`, `#Riemann Hypothesis`, `#formal verification`, `#Lean`, `#mathematics`
+
+---
+
+<a id="item-13"></a>
+## [Thinking Machines 发布 Inkling 2 Mini：采用循环 Transformer 架构并以 nvfp4 端到端训练](https://thinkingmachines.ai/news/inkling-2-mini/) ⭐️ 8.0/10
+
+Thinking Machines 发布了 Inkling 2 Mini，这是一个小型开放权重模型，总参数量 26B，每个 token 激活 5.4B 参数，并对中间层进行三次循环计算。该模型以 nvfp4 格式进行端到端训练，社区测试者称其本地使用性能接近 Qwen3-27B 水平。 这对本地 LLM 社区而言是一个重要发布，因为它表明循环 Transformer 架构能在小尺寸下提供有竞争力的性能，并且适合在消费级硬件上运行。如果基准测试结果成立，它可能会加速循环架构和 nvfp4 训练在开放模型中的采用。 该模型小到可以在 32GB 以上内存的 Mac 上运行，社区用户报告在 Ryzen 395 上通过 llama.cpp Vulkan 达到约 27 tokens/s，在 M1 Pro 32GB 上约为 10 tokens/s。用户还分享了一个约提升 30% 速度的小补丁，并指出若干尚未合并的 llama.cpp PR（32694、32657、32429、32704）。
+
+hackernews · jasondavies · 11月20日 20:12 · [社区讨论](https://news.ycombinator.com/item?id=50581260)
+
+**背景**: 循环 Transformer 是一种参数高效的设计，它重复应用固定的 Transformer 块来模拟深层网络的深度和推理能力，而不增加参数量。nvfp4 是一种 4 位浮点格式，专为在最新 NVIDIA GPU 上进行训练和推理而设计，可降低内存占用并加快计算速度。Inkling 2 Mini 结合了这些技术，对每个 token 进行更多计算而不是生成更多 token，这对智能体编程等推理密集型任务尤其有用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Introducing Inkling 2 Mini - Thinking Machines Lab</a></li>
+<li><a href="https://ollama.com/library/inkling-2-mini">inkling - 2 - mini</a></li>
+<li><a href="https://sebastianraschka.com/llm-architecture-gallery/looped-depth-sharing/">Looped Transformer | Sebastian Raschka, PhD</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区反应总体积极且注重实践：用户报告了真实基准测试、分享了加速补丁并指出未合并的 PR，表明得到了真实验证。一些人对开放权重模型采用循环架构表示兴奋，而另一些人在硬币识别等特定任务上分享了混合结果。也有研究者表示有兴趣进行更大规模的测试和 harness 调优。
+
+**标签**: `#local LLM`, `#model release`, `#looped transformer`, `#nvfp4`, `#llama.cpp`
+
+---
+
+<a id="item-14"></a>
+## [语言模型无需梯度即可重写自身权重](https://arxiv.org/abs/2611.21885) ⭐️ 8.0/10
+
+一篇新的 arXiv 论文（2611.21885）展示了一种语言模型，它可以通过推理重写自身权重来自我改进，而无需传统训练或梯度。在连续八次会话中，模型在练习题上测试其编辑，只提交有效的修改，准确率每次都有所上升。 这项工作代表了 AI 自我改进方面的重大技术进展，可能使模型无需昂贵的重新训练即可自主适应。它还引发了关于模型修改自身安全相关行为的重要 AI 安全担忧。 该方法涉及模型对自身权重进行推理并进行有针对性的编辑，然后在练习题上验证这些编辑。然而，社区分析表明，观察到的唯一改进是减少推理轨迹长度以避免令牌限制，这与权重空间编程研究的发现类似。
+
+hackernews · lwhsiao · 11月20日 16:29 · [社区讨论](https://news.ycombinator.com/item?id=50577265)
+
+**背景**: 传统上，语言模型通过梯度下降训练来改进，这需要大型数据集和计算资源。最近的研究探索了权重空间编程，即 LLM 通过推理直接编辑神经网络权重，以及谷歌的 Sleep 框架和达尔文哥德尔机等自我改进框架。本文将这些想法扩展到语言模型无需梯度即可重写自身权重。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://sakana.ai/dgm/">The Darwin Gödel Machine: AI that improves itself by rewriting its own...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者批判性地审视了这些主张，指出唯一的自我改进是减少推理轨迹长度，这与之前的权重空间编程结果类似。其他人将其与谷歌的 Sleep 框架进行比较，并对自主模型可能移除安全对齐提出了安全担忧。一些人质疑，尽管声称“无训练”，该过程实际上是否就是训练。
+
+**标签**: `#language models`, `#self-improvement`, `#weight editing`, `#AI safety`, `#machine learning`
+
+---
+
+<a id="item-15"></a>
+## [Signal 阻止移动操作系统 AI 代理捕获聊天数据](https://signal.org/blog/protecting-your-privacy/) ⭐️ 8.0/10
+
+Signal 宣布正在限制移动操作系统中内置的最新 AI 代理可能捕获和存储用户 Signal 数据的行为，此前已在 Windows 上采取过类似措施。该变更阻止了操作系统级 AI 助手（如 Gemini 和 Siri）可能用来读取消息的基于截图的数据捕获。 此举解决了一个关键的隐私漏洞：操作系统集成的 AI 代理可能通过捕获屏幕上的明文数据来破坏 Signal 的端到端加密保证。它为消息应用如何抵御移动平台中日益普遍的 AI 功能、保护用户隐私树立了先例。 Signal 正在限制 Android 和 iOS 上的截图功能，以防止 AI 代理读取消息，但这也阻止了用户对聊天进行合法截图。该组织对这些 AI 系统如何捕获数据进行了取证调查，但尚未公布调查结果。
+
+hackernews · dotcoma · 11月20日 09:42 · [社区讨论](https://news.ycombinator.com/item?id=50572348)
+
+**背景**: Signal 是一款以强大的端到端加密和隐私保护著称的消息应用。Android 和 iOS 等移动操作系统正越来越多地集成 AI 代理（如 Gemini、Siri），这些代理可以访问屏幕内容以提供情境化帮助。这造成了便捷的 AI 功能与应用保证数据私密性之间的紧张关系。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://signal.org/blog/protecting-your-privacy/">Signal &gt;&gt; Blog &gt;&gt; Signal is Serious About Protecting Your Privacy</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app">Signal is blocking Gemini and Siri AI from reading your... | The Verge</a></li>
+<li><a href="https://grapheneos.org/">GrapheneOS: the private and secure mobile OS</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍支持 Signal 的努力，但建议采取更进一步措施，例如提醒用户注意间谍软件并推荐 GrapheneOS 等注重隐私的操作系统替代方案。一些人对 Windows 上失去截图功能以及 VPN 相关的可用性问题表示不满，而另一些人则呼吁 Signal 公布其取证调查结果以惠及更广泛的社区。
+
+**标签**: `#privacy`, `#AI agents`, `#mobile OS`, `#Signal`, `#data security`
+
+---
+
+<a id="item-16"></a>
+## [DreamCoder：Mastering Emacs 作者推出全新 AI 编码工具与 IDE](https://www.masteringemacs.org/article/announcing-dreamcoder) ⭐️ 7.0/10
+
+著名《Mastering Emacs》一书的作者 Mickey Petersen 发布了 DreamCoder，这是一款将智能体编排与集成桌面环境相结合的 AI 编码工具和 IDE。该工具已在 dreamcoder.ai 上线，并在 Hacker News 上引发了讨论（123 分，21 条评论）。 这很重要，因为它为管理 AI 编码智能体带来了一种精致的、桌面集成的方法，而目前这一领域主要由基于命令行的工具和网页界面主导。它表明开发者对能在统一工作区内协调多个智能体的编排层的兴趣日益增长。 DreamCoder 强调在一流界面之下拥有最先进的智能体引擎，并支持在手机、平板和笔记本电脑等设备上恢复你离开时的确切布局。发布文章篇幅很长，一些评论者希望直接链接到工具本身。
+
+hackernews · facundo\_olano · 11月20日 20:03 · [社区讨论](https://news.ycombinator.com/item?id=50581110)
+
+**背景**: AI 编码助手已从简单的自动补全（如 GitHub Copilot）发展到能够执行多步任务的智能体工具（如 Claude Code 和 Cursor）。智能体编排平台（如 Vibe Kanban）旨在并行协调多个智能体。DreamCoder 以内置桌面 UI 为重点进入这一拥挤的领域，使其区别于基于终端的工具。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.dreamcoder.ai/">DreamCoder — Code in your sleep</a></li>
+<li><a href="https://medium.com/@gokulofficial18602/im-about-to-try-vibe-kanban-the-ai-agent-orchestration-platform-that-might-change-how-we-code-ed25f79ba262">I’m About to Try Vibe Kanban: The AI Agent Orchestration ... | Medium</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者总体持积极态度，有人称赞内置桌面是“管理智能体的正确方向”，另一人则称设计“非常清新”。其他人分享了相关工作流，例如在容器中同时运行 Codex 和 Emacs，或使用 Clojure REPL 驱动开发来管理 AI 会话，突显了社区对 Lisp 风格、交互式智能体编排的关注。
+
+**标签**: `#AI coding assistants`, `#agent orchestration`, `#IDE`, `#Emacs`, `#developer tools`
+
+---
+
+<a id="item-17"></a>
+## [关于黎曼假设与 AI 的哲学文章引发辩论](https://borretti.me/article/re-riemann) ⭐️ 7.0/10
+
+Fernando Borretti 的一篇题为《Re: Riemann》的哲学文章探讨了 AI 对黎曼假设和人类成就的影响，在 Hacker News 上引发了 131 条评论的讨论。 这场讨论反映了人们对 AI 在数学发现中的作用及其是否削弱人类目的的日益焦虑和辩论，随着 AI 系统越来越多地协助证明定理，这是一个及时的话题。 文章的忧郁基调引起了一些评论者的共鸣，他们称其读起来像一封“遗书”，而其他人则强调 AI 只是一个工具，人类仍然是其使用的指挥者。
+
+hackernews · \_dain\_ · 11月20日 23:42 · [社区讨论](https://news.ycombinator.com/item?id=50583982)
+
+**背景**: 黎曼假设由伯恩哈德·黎曼于 1859 年提出，是数学中最著名的未解决问题之一，涉及素数的分布。它是克雷数学研究所的千禧年大奖难题之一，证明者可获得 100 万美元奖金。近年来，AI 系统在数学发现中有所贡献，例如 DeepMind 在纽结理论上的工作以及 AI 辅助证明的声明，引发了关于 AI 在创造性数学中的作用的辩论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis</a></li>
+<li><a href="https://www.claymath.org/millennium/riemann-hypothesis/">Riemann Hypothesis - Clay Mathematics Institute</a></li>
+<li><a href="https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/">Anthropic mathematician claims AI -assisted proof of... | New Scientist</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了各种观点：一些人认为 AI 只是另一个工具，人类应因其指导而获得赞誉；而另一些人则认为文章的基调令人沮丧，一人称其读起来像遗书，另一人感叹许多人似乎支持一个人类智能变得无关紧要的未来。
+
+**标签**: `#AI`, `#mathematics`, `#philosophy`, `#Riemann Hypothesis`, `#human-AI collaboration`
+
+---
+
+<a id="item-18"></a>
+## [工程师利用 AI 辅助编码设计推理芯片](https://ankitg.me/blog/vibecoding-inference-chip/) ⭐️ 7.0/10
+
+一位工程师发布博客，记录了使用 AI 辅助编码（vibecoding）设计推理芯片的经历，并分享了技术细节和成本影响。该项目在 Hacker News 上引发了关于 AI 驱动硬件设计可行性和经济性的讨论。 该项目证明了 AI 可用于处理复杂的硬件设计任务，有望降低定制芯片开发的门槛。同时，它也凸显了 FPGA 制造产能和高额 token 成本等实际挑战，这些因素可能影响 AI 在硬件工程中的未来应用。 据报道，该工程师在项目上花费了超过 1 万美元的 AI token 费用，引发了关于成本效益的质疑。社区成员指出，尽管 FPGA 能提供快速的定制芯片，但制造产能限制可能使其在推理方面难以像 GPU 那样大规模扩展。
+
+hackernews · ankitvgupta · 11月20日 18:15 · [社区讨论](https://news.ycombinator.com/item?id=50579297)
+
+**背景**: Vibecoding 是由 AI 研究员 Andrej Karpathy 推广的术语，指开发者通过提示和快速迭代来构建软件的 AI 辅助编码方式。推理芯片是专为高效运行 AI 模型而设计的硬件，而 FPGA 是常用于原型设计的可重构芯片。该项目展示了 AI 工具如何被应用于传统上需要深厚专业知识的硬件设计领域。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html">A . I . and Vibecoding Helped Me to Create My Own Software - The New...</a></li>
+<li><a href="https://www.eenewseurope.com/en/ai-inference-at-the-crossroads/">AI inference at the crossroads ..</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-jalapeno-design-interview-transcript-hardware-vp-richard-ho-explains-how-ai-assisted-design-may-shape-the-future-of-inference-asics">OpenAI Jalapeño design interview transcript... | Tom&#x27;s Hardware</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者意见不一：有人认为花费 1 万美元以上的 token 费用对于好奇心项目来说过于昂贵，也有人分享了类似项目，并指出实现 Transformer 已成为 AI 辅助编码的新“hello world”。讨论还强调了在给 AI 大型任务时自动化指标的重要性，以及对 FPGA 制造产能限制推理芯片扩展的担忧。
+
+**标签**: `#AI-assisted design`, `#inference chip`, `#FPGA`, `#hardware design`, `#vibecoding`
+
+---
+
+<a id="item-19"></a>
+## [AI 编程助手正悄然将开发者提升为架构师](https://manidoraisamy.com/developer-to-architect.html) ⭐️ 6.0/10
+
+一篇博客文章认为，AI 编程助手实际上正在将开发者提升为架构师角色，却没有给予正式认可，因为开发者越来越多地将实际编码工作交给 AI，而自己专注于更高层次的设计决策。这篇文章在 Hacker News 上引发了辩论，讨论这种转变是真正的晋升还是仅仅是职责的变化。 这种转变可能从根本上改变软件工程职业，因为开发者与架构师之间的界限变得模糊，成功所需的技能也在变化。它影响到团队如何组织、工作如何被评估，以及初级开发者需要学习什么。 这篇文章是一篇观点文章，技术深度有限，但 Hacker News 上的讨论提供了实质性的反驳观点，包括担心 AI 可能并非真正提升开发者，而是让他们成为 AI 决策的“责任承担者”，以及 AI 工具常常引入过度日志记录等需要仔细管理的缺陷。
+
+hackernews · QueensGambit · 11月20日 18:17 · [社区讨论](https://news.ycombinator.com/item?id=50579331)
+
+**背景**: 像 Cursor 和 GitHub Copilot 这样的 AI 编程助手是使用大型语言模型来建议代码、补全函数甚至设计系统组件的工具。软件架构师角色通常涉及高层次的设计决策、系统结构和技术领导，而开发者则专注于编写代码。从开发者到架构师的转变传统上是一个正式的职业步骤，需要系统思维和设计方面的新技能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.altexsoft.com/blog/software-architect-role/">Who is Software Architect : Role , Responsibilities and Skills</a></li>
+<li><a href="https://devtoarch.com/chapters.html">Chapters — Developer to Architect</a></li>
+<li><a href="https://cursor.com/">AI Coding Agent for Building Ambitious Software | Cursor</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 上的评论者反驳了文章的前提，一些人认为开发者一直需要设计数据模型并对需求提出质疑，因此 AI 并非晋升，而是焦点的转移。其他人则怀疑 AI 是否会带来更好的薪酬或地位，警告开发者可能成为 AI 生成决策的“责任承担者”，并分享了管理 AI 缺陷（如过度日志记录）的实际经验。
+
+**标签**: `#AI`, `#software engineering`, `#career`, `#developer roles`, `#HN discussion`
+
+---
+
+<a id="item-20"></a>
+## [文章借用伽利略典故反思 AI 对人类独立探索的冲击](https://signoregalilei.com/2026/11/20/and-yet-it-moves/) ⭐️ 6.0/10
+
+2026 年 11 月 20 日，一篇题为《And yet, it moves》的博客文章借用伽利略传说中的“eppur si muove”一语，反思 AI 如何重塑人类的独立探索以及由此引发的存在性不安。该文章在 Hacker News 上引发了 52 条评论的实质性讨论，涉及对抽象层的信任、自我以及知识工作的未来。 这篇文章及其讨论凸显了一个日益增长的哲学担忧：随着 AI 系统能力增强，人类可能失去独立验证和理解世界的能力或信心。这触及了关于技术信任、专业知识的本质以及 AI 对知识工作者心理影响的更广泛辩论。 这篇文章是一篇反思性文章而非技术公告，社区讨论中包括这样的观点：编程已经依赖于信任 API 而无需完全理解底层细节；以及存在性焦虑源于将自我价值与“与众不同”绑定。
+
+hackernews · notfried · 11月20日 20:07 · [社区讨论](https://news.ycombinator.com/item?id=50581177)
+
+**背景**: 据传伽利略·伽利雷在被宗教裁判所强迫放弃地球绕太阳运动的观点后，低声说道“eppur si muove”（“但它仍在转动”）。这句话已成为知识反抗和真理不畏权威的象征。文章将这一典故应用于 AI，暗示尽管存在不安，技术仍在继续进步并重塑社会。
+
+**社区讨论**: 评论者表达了各种观点：一些人分享了对机器将不给普通人留下任何独立探索空间的存在性焦虑，而另一些人则认为信任抽象层（如 API）已是常态，坚持形式化验证并非答案。一位评论者指出，焦虑只源于将自我价值与“与众不同”绑定；另一位则提到，科学和数学长期以来也令人不安，这颇具讽刺意味。
+
+**标签**: `#AI philosophy`, `#existential risk`, `#human-AI relationship`, `#knowledge work`, `#commentary`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [贝佐斯重返一线，出任估值 410 亿美元 AI 公司 Prometheus 联席 CEO](http://www.geekpark.net/news/374282) ⭐️ 8.0/10
+
+2026 年 11 月 17 日，在加州门洛帕克举行的 Semafor“硅谷与世界”峰会上，杰夫·贝佐斯宣布自己是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO。该公司估值 410 亿美元，已筹集约 145 亿美元资金，致力于打造“通用 AI 工程师”，利用 AI 驱动的仿真在数小时内完成芯片、无线电设备等物理产品的设计，而非耗时数月。 这是贝佐斯自 2021 年卸任亚马逊 CEO 后首次重返一线运营岗位，标志着对“物理世界 AI”的重大押注——将 AI 应用于工程和制造，而非聊天机器人或编程智能体。若成功，Prometheus 可能重塑航空航天、半导体和工业设计等万亿美元级行业，其巨额融资和人才挖角也将加剧整个 AI 生态的竞争。 Prometheus 约有 250 名员工，声称其系统能在 12 小时内完成传统上需要 10 至 20 名工程师耗时 6 至 9 个月的芯片、无线电和阀门设计；蓝色起源已在两个内部项目中测试该工具。该公司通过自研多物理场仿真模型生成合成训练数据，避免依赖企业专有工业数据，并从 OpenAI、Google DeepMind、xAI、Waymo 和 Epic Games 等公司招揽人才。
+
+rss · 极客公园 · 11月20日 08:24
+
+**背景**: 像 GPT 这样的大语言模型是在互联网文本上训练的，但工程知识——例如如何铸造精密金属零件或设计无线电模块——很少被数字化，且常被制造商保密。Prometheus 试图通过构建神经代理模型和统一的多物理场仿真工具来克服这一障碍，让 AI 能同时推理热学、力学和电磁特性。贝佐斯的联席 CEO 维克·巴贾杰是一位物理学家，曾任 Verily（原 Google Life Sciences）首席科学官，公司名称源自希腊神话中为人类盗火的普罗米修斯。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Vik_Bajaj">Vik Bajaj - Wikipedia</a></li>
+<li><a href="https://quasa.io/media/what-is-physical-ai-and-how-jeff-bezos-startup-prometheus-aims-to-hack-the-system">What Is Physical AI and How Jeff Bezos ’ Startup Prometheus Aims to...</a></li>
+<li><a href="https://economictimes.indiatimes.com/tech/startups/who-is-vik-bajaj-co-ceo-of-jeff-bezos-ai-startup-project-prometheus/articleshow/125409707.cms?from=mdr">Who is Vik Bajaj , co-CEO of Jeff Bezos&#x27; AI startup Project Prometheus ?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#贝佐斯`, `#Prometheus`, `#AI初创`, `#物理世界AI`, `#大厂动态`
+
+---
+
+<a id="item-22"></a>
+## [华为发布全新子品牌 OSTA 星芒及首款鸿蒙 AI 手机](https://www.ifanr.com/1690642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 7.0/10
+
+华为推出了自 2020 年剥离荣耀以来的首个全新手机子品牌 OSTA 星芒，同时发布了首款鸿蒙 AI 手机，并推出名为「增援未来计划」的项目，在手机端探索 AI 的「平行宇宙」。 这是华为多年来首次推出全新手机子品牌，标志着其重启多品牌战略并加码以 AI 为核心的移动体验，可能重塑国产手机 AI 竞争格局并扩展鸿蒙生态。 OSTA 将拥有独立的品牌和社区运营，并计划搭建相对独立的研发组织与预算体系；不过，现有摘要中关于这款 AI 手机的具体规格和「增援未来计划」的细节仍然很少。
+
+rss · 爱范儿 · 11月20日 09:17
+
+**背景**: 鸿蒙 HarmonyOS 是华为自研的智能终端操作系统，旨在实现手机、平板和物联网设备之间的分布式体验。OSTA 是华为自 2020 年出售荣耀后推出的首个全新手机子品牌，反映了其细分产品线并瞄准新用户群体的战略。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.harmonyos.com/">华为 HarmonyOS 智能终端 操 作 系 统 官网 | 应用设备分布式开发者生态</a></li>
+<li><a href="https://www.guancha.cn/CaiJing/2026_11_20_909334.shtml">星 芒 登场， 华 为 没有冲向安卓手机温床</a></li>
+
+</ul>
+</details>
+
+**标签**: `#华为`, `#鸿蒙`, `#AI 手机`, `#新品牌`, `#国产手机`
+
+---
+
+<a id="item-23"></a>
+## [AI 交易雪崩：纳指单日狂泻 1261 点，市场不再相信“故事”](https://www.tmtpost.com/8213381.html) ⭐️ 7.0/10
+
+纳斯达克综合指数单日暴跌 1261 点，被形容为科技股的“黑色星期五”，投资者对 AI 驱动的叙事失去信心。此次抛售反映出市场对 AI 相关大型科技股估值的情绪急剧逆转。 这一事件标志着投资者对 AI 信心的潜在转折点，而 AI 一直是大型科技股估值和整体市场上涨的主要驱动力。信心持续丧失可能导致 AI 项目融资减少和科技股重新定价，影响从散户投资者到 AI 初创企业的广泛利益相关者。 文章除了“黑色星期五”的描述外细节极少，但 1261 点的跌幅是纳斯达克历史上最大的单日点数跌幅之一。此次抛售与对 AI 叙事的信心消退有关，但具体触发因素和受影响板块并未详细说明。
+
+rss · 钛媒体 · 11月21日 02:27
+
+**背景**: 纳斯达克综合指数是一个包含众多科技和互联网公司的股市指数，常被视为科技板块的基准。近年来，AI 一直是主导的投资主题，推动科技股大幅上涨，并引发了对潜在泡沫的担忧。市场术语中的“黑色星期五”指的是严重亏损的一天，此次事件与过去科技股领跌的抛售潮相呼应。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2kxcjlXd0VoSEI1MmQzT0V0eG95Z0FQAQ?hl=zh-TW&amp;gl=TW&amp;ceid=TW:zh-Hant">Google 新聞 - 總覽</a></li>
+<li><a href="https://www.youtube.com/watch?v=JaibUWPN88c">美 股 爆史詩級踩踏！ 市 值 蒸發6兆！ Anthropic... - YouTube</a></li>
+<li><a href="https://www.mrcxy.com/jeremy-grantham-interview-review/">Jeremy Grantham： AI 泡 沫 、美 股 高 估 与社会长期风险 | 星想是陈</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI泡沫`, `#纳斯达克`, `#美股暴跌`, `#科技股`, `#市场情绪`
+
+---
+
+<a id="item-24"></a>
+## [阿里 2027 财年 Q2：云 AI 收入增 53%，即时零售减亏](https://www.tmtpost.com/8212798.html) ⭐️ 7.0/10
+
+阿里巴巴发布 2027 财年第二季度财报，阿里云 AI 相关收入同比增长 53%，并已连续 13 个季度保持三位数增长。同时，即时零售业务亏损收窄，单位经济效益改善。 尽管增速放缓至 53%，但连续 13 个季度三位数增长仍是中国最大云厂商 AI 变现能力的关键指标，表明各行业企业算力需求持续旺盛。即时零售减亏也反映出本地生活竞争趋于理性。 阿里云 AI 收入增长得益于互联网、汽车、具身智能、金融、生物科技等行业客户持续扩大算力采购。该内容为财报摘要，未披露 AI 收入的绝对金额或各分部利润率等细节。
+
+rss · 钛媒体 · 11月20日 10:31
+
+**背景**: 阿里云是中国最大的公有云服务商，正将模型训练与推理等 AI 相关产品作为主要增长引擎。即时零售指一小时内送达的生鲜与日用商品按需配送业务，阿里在该领域与美团、京东竞争，此前大规模补贴导致巨额亏损。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260824A03NK200">减 亏 快于预期，淘宝闪购穿越效率临界点_腾讯新闻</a></li>
+<li><a href="https://www.tkww.hk/epaper/view/newsDetail/1784295275746168832.html">話你知/ 什 麼 是 「 具 身 智 能 」？ - 大公報 | 大公文匯 www.tkww.hk</a></li>
+
+</ul>
+</details>
+
+**标签**: `#阿里巴巴`, `#阿里云`, `#AI商业化`, `#财报`, `#即时零售`
+
+---
+
+<a id="item-25"></a>
+## [阿里 2715 亿营收、344 亿现金流出：利润拐点还是未完成的账单？](https://www.tmtpost.com/8211484.html) ⭐️ 7.0/10
+
+阿里巴巴公布了 2715 亿元营收和 344 亿元现金流出，14.5%的利润率表明投入方向正确，但代价尚未完全消化。分析认为，利润拐点不能仅凭单季度判断，而需通过现金流和 ROIC 持续验证。 这一点很重要，因为它将关注点从 headline 营收转向现金生成和投资资本回报率，这对于评估阿里巴巴在 AI 和云业务上的巨额投入是否见效至关重要。投资者和分析师将关注未来几个季度自由现金流的持续改善，而非一次性的利润率提升。 344 亿元的现金流出反映了持续的资本开支和投资，可能主要用于 AI 基础设施和云业务，这将对短期自由现金流造成压力。14.5%的利润率是一个积极信号，但文章提醒，拐点需要通过现金流和 ROIC 趋势的持续验证。
+
+rss · 钛媒体 · 11月20日 10:23
+
+**背景**: 阿里巴巴一直在大力投资 AI 和云计算，CEO 吴泳铭表示将增长置于短期盈利之上。ROIC（投资资本回报率）衡量公司利用资本创造利润的效率，而自由现金流代表资本开支后剩余的现金，两者都是评估长期价值创造的关键指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260513A09LY900?adChannelId=news_news_top">阿 里 单季 利 润 蒸发84%，吴泳铭称 拐 点 已至，继续加大AI的投入_腾讯新闻</a></li>
+<li><a href="https://news.10jqka.com.cn/m667964287/">同花顺资讯</a></li>
+
+</ul>
+</details>
+
+**标签**: `#阿里巴巴`, `#财务分析`, `#现金流`, `#利润率`, `#大厂财报`
+
+---
+
+<a id="item-26"></a>
+## [默沙东 BTK 抑制剂受挫，凸显 BTK 抑制剂第三次浪潮](https://www.tmtpost.com/8212799.html) ⭐️ 7.0/10
+
+默沙东在 BTK 抑制剂的开发中遭遇挫折，凸显了 BTK 抑制剂市场的竞争态势和持续演变，该领域正迎来“第三次浪潮”的创新。 这一进展意义重大，因为它标志着 BTK 抑制剂领域竞争态势的转变，新进入者必须在已有疗法和新兴耐药机制中实现差异化，影响患者和药物开发者的利益。 文章指出，每一轮 BTK 抑制剂浪潮都源于前一轮成功所制造的新问题，例如克服耐药突变和提高选择性；然而，摘要中未提供默沙东受挫的具体细节。
+
+rss · 钛媒体 · 11月20日 10:23
+
+**背景**: BTK 抑制剂靶向布鲁顿酪氨酸激酶，这是 B 细胞受体信号通路中的关键酶，用于治疗慢性淋巴细胞白血病等 B 细胞恶性肿瘤。第一代抑制剂（如伊布替尼）有效但存在脱靶效应；第二代抑制剂（如阿卡替尼、泽布替尼）选择性更高。共价抑制剂可能因 BTK 突变而产生耐药，推动非共价及下一代抑制剂的开发——即“第三次浪潮”。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bruton&#x27;s_tyrosine_kinase">Bruton&#x27;s tyrosine kinase - Wikipedia</a></li>
+<li><a href="https://www.drugs.com/drug-class/btk-inhibitors.html">List of BTK inhibitors (Bruton Tyrosine Kinase Inhibitor )</a></li>
+<li><a href="https://www.dovepress.com/use-of-btk-inhibitors-in-chronic-lymphocytic-leukemiasmall-lymphocytic-peer-reviewed-fulltext-article-BLCTT">Use of BTK Inhibitors in Chronic Lymphocytic Leukemia | BLCTT</a></li>
+
+</ul>
+</details>
+
+**标签**: `#BTK抑制剂`, `#默沙东`, `#制药行业`, `#药物研发`, `#大厂要闻`
+
+---
+
+<a id="item-27"></a>
+## [AI 视频价格下跌推动市场转向平台经济](https://www.tmtpost.com/8212911.html) ⭐️ 7.0/10
+
+OpenAI 在持续亏损后关闭了其 Sora AI 视频应用，而谷歌、字节跳动和快手则继续投资 AI 视频，通过云计算、广告和内容分发来消化成本。这一转变的背景是视频模型的每秒 API 价格下降，且各厂商的模型质量趋于同质化。 这表明平台经济——而非单纯的模型质量——正成为 AI 视频领域的决定性竞争优势，有利于那些能通过相邻业务补贴视频生成成本的大型科技公司。缺乏此类收入来源的独立模型厂商可能难以竞争，从而重塑 AI 视频格局。 2026 年，第一方 AI 视频 API 的收费在每生成秒 0.03 至 0.70 美元之间，112 个模型的标价从每秒 0.0050 美元到 1.4400 美元不等。快手的 Kling 4.0 提供 3 至 30 秒的 720p/1080p 片段，带原生音频，起价为每秒 0.157 美元。
+
+rss · 钛媒体 · 11月20日 09:54
+
+**背景**: AI 视频生成模型，如 OpenAI 的 Sora、谷歌的 Veo 和快手的 Kling，根据文本提示创建视频，并通过按输出秒数计费的 API 提供。随着这些模型的激增和质量的趋同，价格竞争加剧，迫使提供商寻找方法来抵消视频生成的高昂计算成本。平台公司可以将 AI 视频整合到云计算、广告和社交媒体等现有服务中，创造独立模型厂商难以轻易复制的协同效应。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/">OpenAI ’s Sora was the creepiest app on your phone... | TechCrunch</a></li>
+<li><a href="https://hypeart.ai/api-guides/ai-video-api-pricing-guide/">AI Video API Pricing Guide 2026: Costs, Models , Integration</a></li>
+<li><a href="https://apimodels.app/models/kling-4.0">Kling 4.0 API — 3–30s 720p/1080p video with audio, from $0.157/s</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI video`, `#platform economics`, `#OpenAI`, `#ByteDance`, `#big tech strategy`
+
+---
+
+<a id="item-28"></a>
+## [抖音生活服务换帅，剑指万亿 GMV](https://www.tmtpost.com/8211611.html) ⭐️ 7.0/10
+
+字节跳动旗下抖音生活服务宣布换帅，莫少君接任总裁一职。此次人事调整正值该业务冲击万亿级交易规模，并强化内容与线下商业结合之际。 此次换帅表明字节跳动正加大对本地生活服务的投入，这一巨大市场中抖音正挑战美团等成熟玩家。万亿 GMV 目标将使抖音成为线下商业的重要力量，影响商家、服务商及整个生态的竞争格局。 抖音生活服务通过服务商网络为商家提供专项服务和代运营服务，并为商家和达人提供本地直播专业版等工具。万亿 GMV 目标反映了抖音本地商业生态的规模，但具体时间表和当前 GMV 数据尚未披露。
+
+rss · 钛媒体 · 11月20日 09:23
+
+**背景**: 本地生活服务指餐饮、娱乐、美容等线下消费服务，用户通过线上发现并购买。抖音作为中国领先的短视频平台，利用其庞大用户基础和内容驱动的发现机制连接用户与本地商家，挑战美团的主导地位。GMV（商品交易总额）衡量平台交易总价值，是电商和本地生活业务的关键指标。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://eos.douyin.com/livesite/live/current">抖音 生 活 服 务 ｜ 本 地 直播专业版</a></li>
+<li><a href="https://morketing.com/detail/22583">morketing.com/detail/22583</a></li>
+<li><a href="https://www.woshipm.com/share/6164169.html">本 地 生 活 到店，做有烟火气的 生 意 | 人人都是产品经理</a></li>
+
+</ul>
+</details>
+
+**标签**: `#抖音`, `#本地生活`, `#字节跳动`, `#人事变动`, `#万亿GMV`
+
+---
+
+<a id="item-29"></a>
+## [林俊旸 AI 初创公司语用科技估值翻倍至 50 亿美元；丁磊称短剧冲击游戏；华为星芒品牌发布阔直板手机](http://www.geekpark.net/news/374299) ⭐️ 7.0/10
+
+由阿里巴巴前 AI 负责人林俊旸创办的 AI 初创公司语用科技（Pragmatik Labs）已完成新一轮融资，估值达到 50 亿美元，较 8 月份的 20 亿美元估值翻了一倍多。本轮融资筹集了数千万美元，新投资方包括华业天成资本、鼎晖投资以及吉利汽车。 估值的快速攀升表明投资者对中国 AI 智能体初创公司，尤其是由知名研究员领导的团队，抱有强烈兴趣。这也凸显出吉利等传统汽车制造商正加大 AI 投资以获取未来技术优势。 语用科技成立于 2026 年夏季，专注于开发面向数字世界和物理世界的 AI 智能体。其 8 月份的首轮融资从高榕创投、红杉中国、腾讯和上海未来产业基金筹集了数亿美元。
+
+rss · 极客公园 · 11月21日 00:17
+
+**背景**: 林俊旸曾是阿里巴巴通义千问大模型团队的技术负责人，于 2026 年 3 月离职。AI 智能体是能够感知环境并采取行动以实现目标的自主软件系统，被视为 AI 商业化的重要下一步。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.163.com/tech/article/L44GCULB00098IEO.html">林俊旸创办 Pragmatik Labs ，押注数字与物理世界下一代Agent</a></li>
+<li><a href="https://finance.sina.com.cn/tech/digi/2026-08-12/doc-inimzcpw5414167.shtml">从阿里离职五个月后，林俊旸官宣创办 AI 公司 语 用 科 技 Pragmatik Labs</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI startup`, `#valuation`, `#Huawei`, `#NetEase`, `#China tech`
+
+---
+
+<a id="item-30"></a>
+## [早报：Claude 黎曼猜想传闻、余承东更正表述、五月天 Vision Pro 演唱会](https://www.ifanr.com/1690759?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+一份科技早报汇总了多个热点：有传闻称 Anthropic 的 Claude 在黎曼猜想上取得突破，数学家陶哲轩对此作出回应；华为余承东更正发布会表述，强调辅助驾驶时司机不能睡觉；五月天公布 Vision Pro 演唱会体验，可在 Apple Store 预约。 Claude 与黎曼猜想的传闻及陶哲轩的回应在 AI 和数学界引发高度关注，既体现了 AI 在高等数学中的潜力，也反映了过度炒作的风险；Vision Pro 演唱会标志着空间计算内容的进一步拓展，而三星高层变动则预示手机和存储业务的战略调整。 据称 Claude 的推理过程经历了约 650 次失败尝试、60 个子代理接力、一天半的连续推导，但黎曼猜想本身并未被证明；余承东的更正源于其在发布会上暗示司机可以睡觉的表述；五月天的 Vision Pro 演唱会可在 Apple Store 预约体验。
+
+rss · 爱范儿 · 11月21日 00:25
+
+**背景**: 黎曼猜想是关于素数分布的著名未解难题，断言黎曼ζ函数的所有非平凡零点都位于实部为 1/2 的临界线上。像 Claude 这样的 AI 模型正越来越多地用于数学推理，但声称解决重大猜想需要严格的同行验证。Apple Vision Pro 是一款混合现实头显，可提供演唱会等沉浸式体验。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://pansci.asia/archives/147956">數學界的聖杯「 黎 曼 猜 想 證明」， 是 否已被人類得手？ - PanSci 泛科學</a></li>
+<li><a href="https://juejin.cn/post/7672283918334001198">用时1.5天， Claude 突破了 黎 曼 猜 想 的新纪录讲真的！ AI...</a></li>
+<li><a href="https://www.apple.com/fr/apple-vision-pro/">Apple Vision Pro - Apple (FR)</a></li>
+
+</ul>
+</details>
+
+**标签**: `#大厂要闻`, `#AI`, `#华为`, `#三星`, `#Apple Vision Pro`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-31"></a>
+## [澳门警方警告假冒抖音客服电话诈骗再度猖獗](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aRkpUSTV2OFhhbWtzS21OOWJpQTdvaC1qczhSVDZQRzFzSHg2eWVrY0Q1YmhCRXgweHBnYjh0N3RtWTFFUUxVQ2dDcmlJbFVT?oc=5) ⭐️ 6.0/10
+
+澳门警方在政府入口网站发布警情通告，警告假冒抖音客服人员的电话诈骗案件再度肆虐，诈骗分子会指示受害者进行同屏操作或转账。 这一警告凸显了客服行业面临的关键安全与信任问题，因为诈骗分子利用客服渠道损害品牌声誉，需要企业采取主动的防范措施。 诈骗分子通常会诱骗受害者安装同屏或远程控制应用程序，然后通过共享屏幕获取网上银行登录信息并转移资金；当局强调，任何正规客服都不会通过电话要求进行此类操作。
+
+rss · 客服行业动态 · 11月20日 09:31
+
+**背景**: 抖音是 TikTok 的中国版本，是一个与国际版分开运营的短视频平台，在中国大陆、香港和澳门广泛使用。假冒客服的电话诈骗在亚洲各地已变得常见，诈骗分子冒充平台工作人员，诱骗用户安装 AnyDesk 等远程控制工具。澳门当局定期通过政府入口网站发布公开警告，以提高公众意识并防止经济损失。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Douyin">Douyin</a></li>
+<li><a href="https://pakera.pk/stop-screen-sharing-app-scam-anydesk-pakistan/">Screen - Sharing App Scam in Pakistan: Never Install AnyDesk</a></li>
+<li><a href="https://www.newindianexpress.com/cities/vijayawada/2020/Jul/20/beware-of-clicking-on-unverified-links-installing-screen-sharing-apps-2172171.html">‘Beware of clicking on unverified links, installing screen sharing apps’</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#phone scam`, `#fraud alert`, `#Douyin`, `#Macau`
+
+---
+
+<a id="item-32"></a>
+## [澳门司警五天内接报 17 宗假冒客服骗案，最高损失 43 万澳门元](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVZHZkxUQVhxRUhnNEtNdXZ0a242bnpRWGcxVWVRQ3dhamswbzVPNmpjTmdyR213RGRUTEJDMnA3STM0eWY0Ukp3Sm1yS3B5cGx5T1oxWldDR1ZtVHpBRGhVelVlR3BhVmk0c2RnbzFIaE5pejdqTTdVMnNVNklXNG9EQQ?oc=5) ⭐️ 6.0/10
+
+澳门司法警察局在五天内共接获 17 宗假冒客服诈骗报案，其中单案最高损失达 43 万澳门元。 此类骗案激增凸显假冒诈骗对消费者信任和财务安全的威胁日益严重，既影响居民，也波及被骗子利用的客服行业。 骗徒冒充客服人员欺骗受害者，报案的损失金额凸显了提高公众意识和加强防诈措施的必要性。
+
+rss · 客服行业动态 · 11月20日 09:41
+
+**背景**: 假冒客服诈骗（又称“钓鱼客服”）是指犯罪分子冒充银行、科技公司或快递公司的客服人员，诱骗受害者泄露敏感信息或转账。此类骗局已超越传统电话形式，如今常出现在社交媒体和即时通讯平台上，骗子利用消费者对官方渠道的信任行骗。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://d2lvhbqifib4zm.cloudfront.net/blog/angler-phishing/">Angler phishing: What it is and how to avoid fake support scams</a></li>
+<li><a href="https://scamlens.org/en/blog/top-online-scams-2026">Top 5 Online Scams in 2026 (And How to Avoid Them) | ScamLens</a></li>
+<li><a href="https://www.yahoo.com/news/bogus-customer-just-latest-online-192229091.html">Bogus customer service is just the latest online scam you need to be...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#fraud`, `#impersonation`, `#consumer protection`, `#Macau`
+
+---
+
+<a id="item-33"></a>
+## [网店 1 分钱睡衣引 200 万订单，平台取消并退款](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbHdFSHdpbFR4b05KRHQ4N2FhSU5SZ2JQZUVGRUpQOVRHdUtsbm4zNlZuZGlWcEpYYkNWMWtieGF2ZUdUSGUzUjRjVVZYbnptTDFRX0VFeGpxb3JWVnRxbGJVR2pJdmp0QjIxUXVzd2oyTlpUaE9TbEZPMEVhLTR5aGFsRjVJUmtkcGNYZw?oc=5) ⭐️ 6.0/10
+
+一家网店以 1 分钱的价格上架睡衣，吸引了 200 万笔订单。由于顾客质疑商家动机，平台客服取消了这些异常订单并退款。 这一事件凸显了电商平台在处理大量异常订单时面临的挑战，并展示了通过取消订单和退款进行危机管理。它为客服专业人员管理大规模事件和执行政策提供了案例研究。 平台客服介入取消了异常订单并处理退款，但未说明判定“异常”的具体标准以及对商家的潜在影响。该事件还引发了关于可能被用于批量下单的自动化工具或机器人的疑问。
+
+rss · 客服行业动态 · 11月20日 03:38
+
+**背景**: 在中国电商中，“薅羊毛”指消费者利用促销或定价错误获取大幅折扣，有时由使用自动化工具的“羊毛党”组织。平台通常有政策取消因定价错误或恶意攻击导致的异常订单，如本例所示。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.dzplus.dzng.com/share/general/0/NEWS1952219UNYYIRRUSGYCD">起底“ 薅 羊 毛 ”黑灰产业链_大众新闻_大众新媒体大平台</a></li>
+<li><a href="https://hqtime.huanqiu.com/article/4KOm4YD4iD8">起底“ 薅 羊 毛 ”黑灰产业链</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#e-commerce`, `#order management`, `#crisis response`, `#consumer protection`
+
+---
+
+<a id="item-34"></a>
+## [AEON 信贷网上及手机 APP 服务中断逾 40 小时](https://news.google.com/rss/articles/CBMipwNBVV95cUxPYTZ5VVZpb05xSzJMeFRJQlZkY0R1ZG5LVmxlc2cyRDFDR2o5WF9MX01hamhVVUNraFZxWTRwY2dxRHV1MEFxY2kxeXF4Qm9IeDNDT1lZaDZDRC00UWJlZGliSHFUcGpfV01qRzd3SGZFeFdndjRfVzZKOVlzR2lGUmg5UnhpU1ZiX19sRG8xOTRrNW9kLVJadS1GQUsyeXExVmxhRkFvcWxiNm9fOWgySXdmb0NBTm9LNFlfdWFGNTUxVXpEblpmTTU5dTJYU1RESkxGeWsxRGh3RWc0QUR5QU1Od0luMlBaM3cxWGZLNEFUcnBobDlhQjZvWWQ3N2N3VWx0Y2lNZE5FRUlxV202eGtlcHBSMVZkTTA0cEF3RHh0a2ZkRlJZTTdZYlNzWGpjZXcybTI1b3p5UTNqbFhFVDFPZkFfNUg5Mkc3c2RBOE95ZU9qSmF0c2tKcEFaOGE3bzlGcmt5bjVVemJpeWVRLVNGdkx2WDEyWEVobmliMTFEVWxsaDR4OV91enEzLTV5bnY4Zm9GYUhYTHc5RUg0QWttMWQzQWs?oc=5) ⭐️ 6.0/10
+
+AEON 信贷的网上及手机 APP 服务已中断超过 40 小时，客服表示希望最快日内恢复服务。 金融机构服务长时间中断会影响客户查询余额、进行支付或管理账户，凸显了金融服务行业系统可靠性和危机沟通透明化的重要性。 此次中断已持续超过 40 小时，截至报道时，具体原因和完全恢复时间尚不明确；客服仅表示希望最快日内恢复服务。
+
+rss · 客服行业动态 · 11月20日 06:18
+
+**背景**: AEON 信贷是 AEON 集团旗下的金融服务公司，在香港及其他亚洲市场提供信用卡和消费贷款服务。网上银行和手机银行服务中断（例如美国主要银行因软件缺陷而经历的中断）可能源于技术故障或系统故障，通常需要协调恢复工作。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Aeon_%28company%29">Aeon (company) - Wikipedia</a></li>
+<li><a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-zelle-aeb4b0d6b6789c8c96bb2520454a6d1e">A look at online delays that affected major US banks | AP News</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#service outage`, `#financial services`, `#crisis management`, `#Hong Kong`
+
+---
+
+<a id="item-35"></a>
+## [男子在山姆买国航机票次卡，申请退款发现订单已核销](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGNrMm96b2FHck1VYS1WeVJ6R1k2NmZZeEk0SHlvU1FvRjVRM29hRUItT0RFcHNVU3ZrTlJyNkM5N3p6WlpwMkpyZjhJWG4xMUJXV3E2dllBbVh6em5LQlF0N0s3M2JkQldoVHVsMW90WGhKckFFbmpOQmc0RW5rNGRsRjlRM01MdlphZw?oc=5) ⭐️ 5.0/10
+
+一名男子在山姆会员店购买国航机票次卡，激活后未找到合适航班，申请退款时发现订单已被标记为“已核销”，导致无法退款。 此事件凸显了预付式机票次卡产品中的一个常见痛点：激活与核销之间的模糊界定可能导致消费者在无法找到合适航班时无法退款。这强调了旅游零售领域需要更清晰的退款政策和更好的客户服务。 订单在激活时就被标记为“已核销”，这通常意味着产品被视为已消费，不再符合退款条件。该男子的情况说明激活可能被等同于核销，使消费者选择有限。
+
+rss · 客服行业动态 · 11月20日 14:51
+
+**背景**: 机票次卡是一种预付式产品，允许消费者以固定价格或折扣预订一定次数的航班，通常通过直播间或山姆会员店等零售渠道销售。在中国电商中，“核销”指确认已购买的券或优惠券已被使用的过程，此后通常不允许退款。消费者常混淆激活与实际核销的区别，从而引发纠纷。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://m.traveldaily.cn/article/149730/">机 票 次 卡 ，会 是 随心飞后下一个“爆款”吗？ - 环球旅讯</a></li>
+<li><a href="https://post.smzdm.com/p/aggz93wm/">“不约可 退 ”暗藏三大陷阱！ 618...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#refund dispute`, `#flight pass`, `#consumer complaint`, `#order verification`
+
+---
+
+<a id="item-36"></a>
+## [米糠云推出航司呼叫中心 AI 智能辅助](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYazVEV0hWOTV5WUYwUzNVWk1tWW1pNTJmQ3Y0ck1ScnRkRTdkLVFGZTdrdlJfZktwMGpaMVUyVWE0ZW54eFBFQzZEdW5OR0FVNmItZVVMdElTRUFFSlRSY1FhME8?oc=5) ⭐️ 4.0/10
+
+米糠云推出了覆盖通话全流程的航司呼叫中心 AI 智能辅助，旨在解决航空客服业务中的难题。 这反映了将 AI 集成到联络中心以提高效率和客户体验的日益增长的趋势，尤其是在航空等呼叫量和客户期望都很高的复杂行业中。 该解决方案构建于米糠云的开放平台架构之上，可与企业生态系统无缝融合，并利用大语言模型能力为座席提供实时辅助。
+
+rss · 客服行业动态 · 11月20日 07:42
+
+**背景**: 呼叫中心正越来越多地采用 AI 来辅助人工座席完成意图识别、实时建议和自动回复等任务。米糠云是中国云通讯解决方案提供商，提供智能呼叫中心和 AI 客服系统等产品，拥有超过 15 年的行业经验。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.mixcom.cn/">大模型 智 能 联络 中 心 _ 云 呼 叫 中 心 平台_ 云 通讯方案- 米 糠 云</a></li>
+<li><a href="https://www.163.com/dy/article/K2GRO2P905561UHH.html">告别 “系统割裂” 黑洞！ 米 糠 云 AI 座席 辅 助 重塑企业服务效率</a></li>
+<li><a href="https://www.mixcom.cn/news/411-news_view.html">北京 呼 叫 中 心 系统的 供 应 商 有哪些，搭建费用多少？ -米糠云</a></li>
+
+</ul>
+</details>
+
+**标签**: `#呼叫中心`, `#智能客服`, `#航空客服`, `#AI辅助`, `#供应商推广`
+
+---
+
+<a id="item-37"></a>
+## [招商银行回应流水马赛克上盖章疑问](https://news.google.com/rss/articles/CBMijAFBVV95cUxPWk5LWnI5dVVCS1NIcU83RlZ5S00zM0VMcTlnbWYwZDJXLXhLZkdVY1N1X19mNmt3ZjVmM1c5NXVCM0JIT1JVSC1XbVVVNy1TaHpBeWVROERWU0RfdzJ0bjdHdk1Fd2lULVI2ZElmUEwtbklzT2lYS0VnM0tRRnNRVHRLbVhvOE8ydzdabQ?oc=5) ⭐️ 4.0/10
+
+招商银行客服回应了客户关于为何在厉娜的银行流水马赛克部分盖章的疑问。该回应针对具体投诉，但未详细解释这一做法。 这一事件凸显了客户对银行隐私和透明度的担忧，特别是银行如何处理敏感信息的遮盖。它可能促使银行审查其盖章流程以维护客户信任。 印章盖在马赛克区域上，这引发了关于遮盖是否恰当或印章本身是否会泄露信息的疑问。银行的回应未澄清在马赛克部分盖章的目的。
+
+rss · 客服行业动态 · 11月20日 06:23
+
+**背景**: 银行流水通常包含敏感的个人和财务信息，因此客户在分享前可能会遮盖部分内容。在中国，银行有时会在文件上盖章以证明其真实性，但在遮盖区域上盖章可能会令人困惑，如果处理不当还可能侵犯隐私。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.redactable.com/blog/redacted-bank-statement">What Is a Redacted Bank Statement &amp; How to Redact It in 2026</a></li>
+<li><a href="https://xodo.com/blog/how-to-redact-bank-statement-pdf">How to Redact a Bank Statement PDF Safely (on Any Device)</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#banking`, `#complaint handling`, `#privacy`, `#China Merchants Bank`
+
+---
+
+<a id="item-38"></a>
+## [零跑 A10 后备厢装啤酒被压塌，客服确认承重约 40 公斤](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnYtZHNqaUsxa3gyVVE4aHZNVEpVa0sxQ2Q2OFc2ZUlOX2pKREZSQ1V0OHJ1dFJLUDNRR3RfblZ1STZ6RGhHb2VEQjk0VWlDeV9IVE8yQ1VrbHBuYjh3LVAyWTZXU0ZNS0pMQzBmNzFPUVFOLW42RGt2dFZDOHZPNWpZVGpPM1Jn?oc=5) ⭐️ 4.0/10
+
+一位零跑 A10 车主反映，在后备厢装入几箱啤酒后底板被压塌，随后零跑客服确认该下沉式储物盒的最大承重约为 40 公斤。 该事件凸显了隐藏式储物空间承重标注不清可能导致实际损坏和用户不满，也说明车企有必要在说明书和宣传材料中明确告知此类限制。 40 公斤的限值仅针对后备厢底板下方的下沉式储物盒，而非整个后备厢；零跑 A10 是一款车长 4270 毫米、轴距 2605 毫米的紧凑型纯电跨界车。
+
+rss · 客服行业动态 · 11月20日 03:52
+
+**背景**: 零跑 A10 是中国车企零跑推出的一款低价小型纯电跨界车，零跑与 Stellantis 有合作关系，并正在拓展海外市场。许多现代电动车利用下沉式储物盒来提升载物灵活性，但这些储物盒通常采用较轻的材料，承重能力低于后备厢主底板。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.kolesa.ru/news/ocen-desevyi-no-ne-bednyi-krossover-leapmotor-a10-vyxodit-na-rynok">Очень дешёвый, но не бедный кроссовер Leapmotor A 10 выходит...</a></li>
+<li><a href="https://www.drive2.ru/b/741266276386615007/">Leapmotor A 10 : китайский... — «Новинки и премьеры» на DRIVE2</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#product specification`, `#automotive`, `#complaint handling`, `#Leapmotor`
+
+---
