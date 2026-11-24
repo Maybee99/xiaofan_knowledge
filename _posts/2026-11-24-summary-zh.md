@@ -1,0 +1,894 @@
+---
+layout: default
+title: "Horizon Summary: 2026-11-24 (ZH)"
+date: 2026-11-24
+lang: zh
+---
+
+> 从 96 条内容中筛选出 38 条重要资讯。
+
+---
+
+### 🔋 能源政策资讯
+
+1. [IEA 警告：LNG 运输风险加剧，全球煤炭需求或创新高](#item-1) ⭐️ 7.0/10
+2. [国网上海电力在徐家汇商圈建成区域级虚拟电厂](#item-2) ⭐️ 7.0/10
+3. [中国车网互动试点车主月收益超千元，规模化前夜标准与商业模式待突破](#item-3) ⭐️ 7.0/10
+4. [山东将大力建设虚拟电厂，确保新能源利用率保持在九成以上](#item-4) ⭐️ 7.0/10
+5. [山东明确“十五五”新型电力系统建设路径，按“3+3+3”总体布局推进](#item-5) ⭐️ 7.0/10
+6. [山东将构建适配新型电力系统的市场体系，适度提高现货价格上下限](#item-6) ⭐️ 7.0/10
+7. [山东四措并举破解绿电消纳与调节，虚拟电厂、绿电直连试点全面铺开](#item-7) ⭐️ 7.0/10
+8. [储能电芯价格从 0.26 元/Wh 涨至 0.39 元/Wh，独立储能项目加速落地](#item-8) ⭐️ 7.0/10
+9. [广东：到 2030 年粤港澳大湾区绿色低碳产业集群产值超 6 万亿元](#item-9) ⭐️ 7.0/10
+10. [山东 18 项指标勾勒新能源蓝图，2030 年非化石能源装机达 2 亿千瓦](#item-10) ⭐️ 7.0/10
+
+### 🤖 AI 科技
+
+11. [英伟达董事会征询政府意见后恢复黄仁勋 CEO 职务](#item-11) ⭐️ 9.0/10
+12. [从零构建的独立浏览器引擎 Ladybird 进入 alpha 阶段](#item-12) ⭐️ 8.0/10
+13. [Zed 的 GPUI 框架迁移至独立仓库](#item-13) ⭐️ 7.0/10
+14. [LeCun 指责 Amodei 夸大 AI 危险以禁止开源模型](#item-14) ⭐️ 7.0/10
+15. [Arm 要求关闭非官方文档网站](#item-15) ⭐️ 7.0/10
+16. [Stalwart 1.2.0 宣称可直接替代 Microsoft Exchange](#item-16) ⭐️ 6.0/10
+17. [博客文章详述如何解锁 iPod Nano 5G](#item-17) ⭐️ 6.0/10
+18. [WIMP 暗物质候选者的初步信号考验困境中的领域](#item-18) ⭐️ 6.0/10
+19. [纽约州禁止汽车订阅费和购后收费](#item-19) ⭐️ 6.0/10
+20. [爱好者指南教你如何让普通电视“刚刚够智能”](#item-20) ⭐️ 5.0/10
+
+### 🏢 大厂要闻
+
+21. [SpaceX 星舰完成首次轨道级二级回收，重塑太空经济格局](#item-21) ⭐️ 8.0/10
+22. [宇树涨停、珞石回 A，物理 AI 站到 AI 行情 C 位](#item-22) ⭐️ 7.0/10
+23. [香港百年财团拟转型私募股权投资](#item-23) ⭐️ 7.0/10
+24. [字节跳动需要自研手机以突破超级应用封锁](#item-24) ⭐️ 7.0/10
+25. [拼多多 Q3 利润增速降至 0.7%，平台加码商家补贴](#item-25) ⭐️ 7.0/10
+26. [苹果 iPhone 相机负责人退休，留下影像遗产与争议](#item-26) ⭐️ 6.0/10
+27. [小米自研芯片 XRING O1 将于 5 月发布，剑指旗舰性能](#item-27) ⭐️ 6.0/10
+28. [新鲜感过后，陪伴机器人面临留存与付费挑战](#item-28) ⭐️ 6.0/10
+29. [零跑汽车股价大跌 13%，市场焦点转向盈利能力](#item-29) ⭐️ 6.0/10
+30. [雷克萨斯纯电 ES 被批定价过高：33.99 万起售却仅配 400V 平台](#item-30) ⭐️ 5.0/10
+
+### 🎧 客服行业动态
+
+31. [中通快递携手阿里云伶鹊打造 AI 客服，日均服务量达数十万通](#item-31) ⭐️ 7.0/10
+32. [AI 仿冒名人带货屡禁不止：平台明拒暗接单](#item-32) ⭐️ 6.0/10
+33. [女子网店因与争议主播同名遭网暴，客服被迫关闭](#item-33) ⭐️ 6.0/10
+34. [四川新闻探讨如何当好解决拖欠账款的“总客服”](#item-34) ⭐️ 5.0/10
+35. [中国人寿运用 AI 工具重塑保险服务](#item-35) ⭐️ 5.0/10
+36. [新型电诈套路曝光：假冒车辆异地召回，奥迪客服澄清政策](#item-36) ⭐️ 5.0/10
+37. [消费者称好想来面包发霉致腹泻，客服称可赔约 70 元](#item-37) ⭐️ 4.0/10
+38. [小米多款笔记本涨价 300 至 500 元，客服回应随市场波动](#item-38) ⭐️ 4.0/10
+
+---
+
+## 🔋 能源政策资讯
+
+<a id="item-1"></a>
+## [IEA 警告：LNG 运输风险加剧，全球煤炭需求或创新高](https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5) ⭐️ 7.0/10
+
+国际能源署（IEA）警告称，全球煤炭需求可能创下新纪录，而如果 LNG 运输中断持续，明年需求可能再次打破纪录。这一警告发出之际，能源市场动荡且地缘政治紧张影响供应链。 这一预测凸显了能源安全与气候目标之间的紧张关系，因为煤炭需求上升可能削弱脱碳努力并影响全球能源市场。它预示着依赖 LNG 的国家可能面临挑战，并可能影响能源政策决策。 IEA 的《煤炭中期更新 2026》提供了对 2026 年和 2027 年的最新预测，考虑了近期市场动态和地缘政治发展，包括中国的情况。报告指出，2024 年燃煤发电量达到创纪录的 10,766 太瓦时。
+
+google\_news · 财联社 · 11月23日 06:10
+
+**背景**: 国际能源署（IEA）是一个政府间组织，提供关于全球能源市场的权威分析和预测。煤炭仍然是全球主要的发电来源，其需求受经济增长、能源安全关切以及 LNG 等替代燃料可用性等因素影响。LNG 运输中断（例如由地缘政治冲突引起）可能导致各国转向煤炭，从而推高需求。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/coal-mid-year-update-2026/demand">Demand - Coal Mid-Year Update 2026 - IEA</a></li>
+<li><a href="https://www.iea.org/reports/coal-mid-year-update-2025/demand">Demand - Coal Mid-Year Update 2025 - IEA</a></li>
+<li><a href="https://www.instituteforenergyresearch.org/fossil-fuels/coal/global-coal-demand-to-reach-a-new-record-high-this-year/">Global Coal Demand to Reach a New Record High this Year</a></li>
+
+</ul>
+</details>
+
+**标签**: `#coal demand`, `#IEA`, `#LNG shipping`, `#energy security`, `#energy policy`
+
+---
+
+<a id="item-2"></a>
+## [国网上海电力在徐家汇商圈建成区域级虚拟电厂](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lYm93MlpacjdKdGhaeks3QkR0UmFud0tLSHhwUjdDVHUwa0hMSHdxdDBXVm9zbTVqS2FZbm5nUVdVUWgzWm93Y3lsV0kzbmxkM1BFTW5DUG4tLTh1?oc=5) ⭐️ 7.0/10
+
+国网上海市南供电公司在徐家汇商圈打造了一个“看不见的电厂”——连片虚拟电厂，通过聚合分布式能源资源来支撑电网运行。这标志着需求侧灵活性聚合在大型城市商业区的一次具体落地。 这展示了需求侧灵活性聚合和本地能源市场机制的进展，而这两者正是中国能源转型和电力市场改革的核心。它可能为其他希望在不新建实体电厂的情况下平衡电网供需的城市区域提供范本。 该虚拟电厂聚合了商圈内的可调节负荷、分布式电源和储能等分散资源，实现统一调度并参与电网优化。目前公开摘要中未披露具体聚合容量和参与资源类型的细节。
+
+google\_news · 上观新闻 · 11月24日 02:39
+
+**背景**: 虚拟电厂是一种新型电力运行组织模式，通过先进的信息通信技术和软件系统，将分布式电源、可调节负荷、储能系统等分散资源聚合起来，协同参与电力系统优化和电力市场交易。它没有实体发电机组，却能像传统电厂一样稳定电力供应，甚至更灵活、更经济，堪称“能源管家”。2024 年 11 月，国家能源局在《关于支持电力领域新型经营主体创新发展的指导意见》中将虚拟电厂定义为资源聚合类新型经营主体。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/621994565">关于虚拟电厂，看这篇就够了！ - 知乎</a></li>
+<li><a href="https://www.sohu.com/a/953984467_121958964">一张图看懂虚拟电厂：5 分钟掌握核心概念与运行机制</a></li>
+<li><a href="https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E7%94%B5%E5%8E%82/69588164">虚拟电厂（聚合分散资源协同参与电力系统优化与电力市场交易的新型电...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#需求侧响应`, `#电力市场`, `#能源转型`, `#上海`
+
+---
+
+<a id="item-3"></a>
+## [中国车网互动试点车主月收益超千元，规模化前夜标准与商业模式待突破](https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzc0JLUGVycm5VdlFrQkI3T0pOb2JlWHdVTm1wTDVpdV91QUFwWGlSR1JLejBKdm9aN2tJbzJ6Sk1SVldTN1NtRg?oc=5) ⭐️ 7.0/10
+
+据财联社报道，中国车网互动（V2G）试点项目已取得阶段性成果，部分电动汽车车主通过向电网放电，每月收益超过 1000 元。然而，在规模化推广之前，统一的技术标准和可行的商业模式仍有待建立。 这展示了 V2G 对电动汽车车主的经济潜力，并可能通过将电动汽车转变为分布式储能资产来加速中国的能源转型。同时，它也凸显了从试点走向大规模应用所必须解决的政策和标准化挑战，这将影响电网企业、汽车制造商和消费者。 试点结果显示，部分参与者月收益超过 1000 元，但通信协议和双向充电设备缺乏统一标准，以及聚合与补偿模式不明确，仍是主要障碍。中国电力企业联合会的指导文件和地方团体标准正在出现，但尚未在全国范围内统一。
+
+google\_news · 财联社 · 11月23日 16:19
+
+**背景**: 车网互动（V2G）技术使电动汽车不仅能从电网充电，还能向电网放电，充当移动储能单元。这有助于平衡电网需求、整合可再生能源，并为电动汽车车主提供经济激励。中国一直在开展 V2G 试点，作为推动智能电网和电动汽车普及的一部分，但规模化应用需要标准化的硬件、通信和市场规则。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Vehicle-to-grid">Vehicle-to-grid - Wikipedia</a></li>
+<li><a href="https://ieeexplore.ieee.org/document/11517525">A Study on AC V2G EV-Pile Communication - IEEE Xplore</a></li>
+<li><a href="https://global.chinadaily.com.cn/a/202510/27/WS68fece02a310f735438b719c.html">EV charging network spurs V2G integration - Chinadaily.com.cn</a></li>
+
+</ul>
+</details>
+
+**标签**: `#V2G`, `#energy policy`, `#electric vehicles`, `#grid integration`, `#China`
+
+---
+
+<a id="item-4"></a>
+## [山东将大力建设虚拟电厂，确保新能源利用率保持在九成以上](https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1prRHZjSVQ1YXg3REpCcERhdk42X0o1enhPUDJNQWlZdUFIS3JwdTZsWHZ3Zm8tQ0dnZ1RnNGc0NnItVVFNbjUwQjNfeUZDdG85aGEyOEIxNVF0YUZTUTdWeG9JbnVsQU5ZdXU3X2JpdmsxUFYyc1NqTnFvblJ1VHVkRUJWNUFpc25nTQ?oc=5) ⭐️ 7.0/10
+
+山东省宣布将大力建设虚拟电厂，作为确保新能源利用率保持在 90%以上的关键举措。这一政策标志着该省在扩大需求侧灵活性资源、提升风电和光伏并网消纳能力方面的重要推进。 山东是中国最大的省级电力市场之一，也是领先的新能源生产大省，因此其对虚拟电厂的承诺可能为其他面临弃风弃光问题的省份提供示范。此举反映了中国在扩大波动性可再生能源装机背景下，向需求侧资源和市场化灵活性转型的更广泛趋势。 该公告未披露虚拟电厂的具体装机目标、投资金额或实施时间表，也未明确虚拟电厂参与山东电力市场的补偿机制。90%的利用率是政策目标而非保证结果，实现该目标还需依赖电网升级、储能和市场设计等多方面配合。
+
+google\_news · Sohu · 11月23日 22:08
+
+**背景**: 虚拟电厂并非实体电厂，而是一种聚合平台，将屋顶光伏、用户侧储能、电动汽车和可控工业负荷等分布式能源资源协调起来，像一座灵活电厂一样运作。它有助于平衡供需、提供电网灵活性服务，并支持波动性可再生能源的并网消纳。新能源利用率是指风电和光伏发电量中被实际消纳而非弃掉的比例，随着中国可再生能源装机激增，保持高利用率已成为重大挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工 作 的？ -中新网</a></li>
+<li><a href="https://news.bjx.com.cn/html/20221116/1269377.shtml">虚 拟 电 厂 将颠覆 什 么 ？ 其真正的魅力 是 什 么 ？ -北极星售 电 网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#虚拟电厂`, `#新能源消纳`, `#能源政策`, `#山东`, `#电力系统灵活性`
+
+---
+
+<a id="item-5"></a>
+## [山东明确“十五五”新型电力系统建设路径，按“3+3+3”总体布局推进](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3JjbllmMWZNbjlHbzJkR3dVbjFOYWJJLUE5elJLSmdMQTFOR21zeG9vOWEtNjdhbmFoQmNsUmc2d1B3WWpqQWZUNE5nbHdiUnotR1lKbzhMSzJLSzNVMG1vU0VmbV85RmRVM28yVzZOdGJFUUtQbEhsNUhsMWpjb3dXbTZlR2Vq?oc=5) ⭐️ 7.0/10
+
+山东省发布了“十五五”时期新型电力系统建设路径，将按照“3+3+3”总体布局推进。据搜狐报道，该规划为省级能源转型提供了政策框架。 山东作为能源大省，明确建设路径并采用“3+3+3”总体布局，对电力行业和能源政策领域释放了重要政策信号。这可能影响省级能源转型实践，并为其他地区的新型电力系统规划提供参考。 “3+3+3”总体布局可能由三大类、每类三个关键要素构成，但现有摘要未详细说明具体内容。该文件属于规划性文件，而非突破性技术或全国性重大政策。
+
+google\_news · Sohu · 11月24日 00:57
+
+**背景**: 新型电力系统是以新能源为主体的电力系统，旨在支撑碳达峰碳中和、保障能源安全，并通过坚强智能电网和源网荷储互动最大化消纳新能源。中国中央层面于 2021 年提出构建新型电力系统，“十五五”时期（2026-2030 年）是推进建设的关键窗口。山东等省级规划将国家方向转化为地方实施路径。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552">新型电力系统（电力系统术语）_百度百科</a></li>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_15020797">新型电力系统内涵解读：总框架与运行形态丨新型电力系统研究_澎湃号·...</a></li>
+<li><a href="https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/P020260803594268920789.pdf">新型电力系统建设 十五五 规划</a></li>
+
+</ul>
+</details>
+
+**标签**: `#新型电力系统`, `#能源政策`, `#山东`, `#十五五`, `#电力规划`
+
+---
+
+<a id="item-6"></a>
+## [山东将构建适配新型电力系统的市场体系，适度提高现货价格上下限](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGVzMXcyTk8zdjM4cTd2Zm02akRtNVpqcHlwZDZMU0FZNF8yVDhHX3lHN0NXNXVybUw1Y3pOLWNMUGVCSGlQcWstNXl1VHhCWWQxbjZZYVM3TmZHQkpSeVhjRUJUd2RsNHJhVnlydDBKWjVhc3dxajNTOXRmQnQ1UTFTLVV0U1doMndWLQ?oc=5) ⭐️ 7.0/10
+
+山东省能源局宣布将构建适配新型电力系统的市场体系，并适度提高现货市场价格上下限。这一表态标志着政策方向转向放宽价格区间，以更好地反映供需状况和新能源消纳成本。 调整现货市场价格上下限直接影响电价信号、灵活性资源投资以及中国最大用电省份之一的新能源消纳。此举可能为其他省份推进全国电力市场化改革提供范本。 公告未明确新的价格上下限具体数值或实施时间表，相关细节有待后续市场规则界定。这一调整是山东对接全国统一电力市场框架及其 2026 年市场建设方案的整体努力的一部分。
+
+google\_news · Sohu · 11月23日 10:26
+
+**背景**: 中国的新型电力系统旨在通过源网荷储互动和坚强智能电网最大化消纳新能源，以支撑碳达峰碳中和目标。电力现货市场是现代电力市场体系的核心，通过实时价格反映供需变化；价格上下限用于防止极端波动，同时允许成本传导。山东一直是电力市场化改革的先行者，其市场规则在 2025 年和 2026 年修订，以适应新能源全电量入市。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/58615552">新型电力系统（电力系统术语）_百度百科</a></li>
+<li><a href="https://sdb.nea.gov.cn/dtyw/tzgg/202605/t20260508_300824.html">关于印发《山东电力市场规则 (试行)》 (2026年4月修订版)的通知</a></li>
+<li><a href="https://sdb.nea.gov.cn/xxgk/zcjd/202512/t20251218_292572.html">新版《山东电力市场规则 (试行)》政策解读_国家能源局山东监管办公室</a></li>
+
+</ul>
+</details>
+
+**标签**: `#电力市场`, `#能源政策`, `#现货市场`, `#新型电力系统`, `#山东`
+
+---
+
+<a id="item-7"></a>
+## [山东四措并举破解绿电消纳与调节，虚拟电厂、绿电直连试点全面铺开](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnJHNW1mcV8zYzJPVHpPMjB5OHVvLTFtcmpTbnk5TDRIMURBOFA4X1ZwUUdKTk1XdXZkbVdPNXdUR1pyaDc5WGdQWUViLVhaT3BrMG8zUTN3TXN4V1RubVk2ZDNiZDRlamNZbjZaM0JqdjR2ZmZ0VU52V2xXTE9wdHNQb0VOUmVnZFpneA?oc=5) ⭐️ 7.0/10
+
+山东省宣布四项措施，以解决绿色电力消纳和电网调节问题，并将全面铺开虚拟电厂和绿电直连的试点建设。 作为可再生能源大省，山东的试点将为全国高比例风电和光伏消纳政策提供参考，影响能源规划者、电网运营商和工业用电企业。 这些措施可能包括需求侧响应、储能、聚合分布式资源的虚拟电厂以及大用户绿电直购；但报道未详细说明具体实施细则和时间表。
+
+google\_news · Sohu · 11月23日 10:35
+
+**背景**: 截至 2024 年底，中国风电、光伏累计装机达 14.1 亿千瓦，首次超越煤电成为第一大电源，这使得消纳和电网灵活性至关重要。虚拟电厂通过聚合屋顶光伏、电池和柔性负荷等分布式能源资源，无需建设实体电厂即可提供电网服务。绿电直连允许可再生能源发电通过专线直接向用户供电，绕过公共电网，目前正在国家政策下开展试点。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.bjx.com.cn/html/20250220/1428018.shtml">news.bjx.com.cn/html/20250220/1428018.shtml</a></li>
+<li><a href="https://mnewenergy.in-en.com/html/newenergy-2442016.shtml">政 策 解读丨 绿 电 直 连 试 点 政 策 三大亮 点 值得关注-国际新能源网</a></li>
+<li><a href="https://www.chinanews.com.cn/cj/2026/10-26/10721137.shtml">不建 厂 房、不烧一克煤，“ 虚 拟 电 厂 ” 是 怎 么 工 作 的？ -中新网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#绿电消纳`, `#虚拟电厂`, `#电力市场`, `#山东`
+
+---
+
+<a id="item-8"></a>
+## [储能电芯价格从 0.26 元/Wh 涨至 0.39 元/Wh，独立储能项目加速落地](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXF4NzNFaGhabjBMN0lXYnNiWEw2UUx6dXM0VHhzaGJuaTJkNWxLVkVRSmhnVHV3Q1QyR0hXRjNsTkpnUkw2aGdBSUNUdTM3Nm9hRXZXMTc3dXFmQUNmcEZPR18wTEYxNm91TUdzZWNFcGpydGVYUWxRZ2JtSTdvQ1ZUQ2Q3d0lJM1VKZA?oc=5) ⭐️ 7.0/10
+
+在 2026 零碳大会上，中国碳中和发展集团高级副总裁陈再强表示，储能电芯价格从去年的每瓦时 0.26 元上涨至今年的 0.39 元，涨幅约 50%。与此同时，独立储能项目加速落地，成为碳中和板块的核心催化因素。 电芯价格大幅上涨直接影响独立储能项目的经济性和投资决策，这类项目依赖容量租赁和现货市场套利等市场化收益。这一变化反映出储能行业供需趋紧以及政策驱动的需求，对项目开发商、投资者和整个新能源产业链都有重要影响。 涨价被归因于源头成本上升，但报道未具体说明是哪些上游材料或环节所致。这些数据在行业会议上公布，并由财闻等媒体报道；文章还指出，600Ah 以上的大容量电芯正推动行业分化为电芯制造和系统集成两大环节，二者的竞争格局各不相同。
+
+google\_news · Sohu · 11月24日 03:11
+
+**背景**: 储能电芯是电池储能系统的核心部件，其每瓦时价格是项目成本的关键驱动因素。独立储能指不与风电、光伏电站配套建设的独立储能电站，通过容量租赁、峰谷套利和辅助服务等获取收益。在可再生能源建设和政策支持下，中国储能市场快速发展，各省建立了新型储能项目库，其中绝大多数为独立储能电站项目。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-11-24/doc-inizvecm2209747.shtml">储能电芯价格从每瓦时两毛六涨至三毛九，独立储能项目加速落地_新浪财...</a></li>
+<li><a href="https://field.10jqka.com.cn/20261124/c682140640.shtml">储能电芯价格从每瓦时两毛六涨至三毛九，独立储能项目加速落地</a></li>
+<li><a href="https://www.hyperstrong.com/news/industry-insights/162">hyperstrong.com/news/industry-insights/162</a></li>
+
+</ul>
+</details>
+
+**标签**: `#储能`, `#电芯价格`, `#独立储能`, `#能源政策`, `#新能源`
+
+---
+
+<a id="item-9"></a>
+## [广东：到 2030 年粤港澳大湾区绿色低碳产业集群产值超 6 万亿元](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HMDhXekRqOE1iS2VMWjUyTGcwbUNhMWtQR2h5bGk1TklZQ3NNT0RfZHlWUEp5SVNGSVI5OUMwMmthaFM1VEY1Rw?oc=5) ⭐️ 7.0/10
+
+11 月 23 日，广东省政府公布《广东省推进粤港澳大湾区世界级绿色低碳产业集群建设实施方案》，提出到 2030 年粤港澳大湾区绿色低碳产业集群产值超 6 万亿元。 这是一项重要的区域能源政策信号，将引导粤港澳大湾区绿色产业的投资方向和监管重点，影响可再生能源、储能、氢能及相关供应链企业。 该方案提出联动五个圈层、聚焦六大领域、实施八大举措，旨在培育具有国际竞争力的绿色低碳企业，形成若干个万亿元级绿色低碳产业集群。
+
+google\_news · 格隆汇 · 11月23日 09:46
+
+**背景**: 粤港澳大湾区是国家战略，旨在将该区域打造为世界级经济枢纽。绿色低碳产业包括可再生能源、能效提升、清洁技术和碳减排服务等。6 万亿元目标是全国碳达峰（2030 年前）和碳中和（2060 年前）大目标的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%8E%A8%E8%BF%9B%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E4%B8%96%E7%95%8C%E7%BA%A7%E7%BB%BF%E8%89%B2%E4%BD%8E%E7%A2%B3%E4%BA%A7%E4%B8%9A%E9%9B%86%E7%BE%A4%E5%BB%BA%E8%AE%BE%E5%AE%9E%E6%96%BD%E6%96%B9%E6%A1%88/69837594">广东省推进粤港澳大湾区世界级绿色低碳产业集群建设实施方案</a></li>
+<li><a href="https://huacheng.gz-cmc.com/pages/2026/11/24/6c5330ca28d847e8b9d74010c6a8af7b.html">《广东省推进粤港澳大湾区世界级绿色低碳产业集群建设实施方案》发布</a></li>
+
+</ul>
+</details>
+
+**标签**: `#green low-carbon`, `#Greater Bay Area`, `#energy policy`, `#Guangdong`, `#industry cluster`
+
+---
+
+<a id="item-10"></a>
+## [山东 18 项指标勾勒新能源蓝图，2030 年非化石能源装机达 2 亿千瓦](https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHlKd1dRWFRNUEk1aTFzeDRtcFVtNldZMFJvMkwzU3htektXdXJGYXFQQ3lQYzdGZERBSXYwT3JUVTJ6OGxKWFNodGRsdE55NTM5Qm5PTzRBWUJrLW9CdzFkRHRMMnVqYjU2N1BSX0pUZHdLXzhHU1BRYzZJZGFfM1NSTGhyLXJkbkYzVmt3RQ?oc=5) ⭐️ 7.0/10
+
+山东省提出包含 18 项指标的新能源体系蓝图，目标到 2030 年非化石能源发电装机达到 2 亿千瓦。 这是一份重要的省级能源规划，可能为其他地区提供借鉴，并助力中国实现国家碳目标，影响山东的能源政策和投资。 该规划包含 18 项具体指标以指导新能源体系的发展，但摘要中未详细说明风能、太阳能等具体能源的构成比例。
+
+google\_news · Sohu · 11月23日 10:31
+
+**背景**: 非化石能源包括风能、太阳能、水能和核能等可再生能源，在运行过程中不产生碳排放。中国计划在 2030 年前实现碳达峰、2060 年前实现碳中和，山东等省份在这一转型中发挥关键作用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20250328A01QVE00">我国 非 化 石 能 源 发 电 装 机 首次达到20...</a></li>
+<li><a href="https://news.bjx.com.cn/html/20170302/811542.shtml">重磅丨四川省“十三五” 能 源 发 展规划：常规火 电 装 机 不超过1800...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#能源政策`, `#新能源`, `#山东`, `#非化石能源`, `#装机目标`
+
+---
+
+## 🤖 AI 科技
+
+<a id="item-11"></a>
+## [英伟达董事会征询政府意见后恢复黄仁勋 CEO 职务](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) ⭐️ 9.0/10
+
+2026 年 11 月 23 日，英伟达董事会一致投票决定恢复黄仁勋的总裁、首席执行官及董事会成员职务，即刻生效，此时距其被免职不到两周。董事会表示已收到美国高层政府的意见，并认定黄仁勋的复职不构成国家安全风险。 这一反转引发了对公司治理以及政府对 AI 芯片行业影响力的深刻质疑，因为一家领先半导体公司的领导层决策受到了国家安全考量的影响。它可能为地缘政治如何与关键技术领域的公司领导层交织树立先例。 董事会声明强调，其收到了美国高层政府官员的意见，并确信黄仁勋的复职不构成国家安全风险。尽管董事会在不到两周前迅速将其免职，但此次决定是一致通过的。
+
+hackernews · jaz · 11月23日 14:00 · [社区讨论](https://news.ycombinator.com/item?id=50611576)
+
+**背景**: 黄仁勋是英伟达的联合创始人兼长期首席执行官，该公司是用于 AI 训练和推理的 GPU 的领先设计者。英伟达的芯片对 AI 热潮至关重要，并受到美国出口管制，尤其是对中国的出口。这一事件与 2023 年 OpenAI 董事会危机相似，当时一位 CEO 被短暂免职后复职，凸显了名义治理与现实权力动态之间的紧张关系。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">NVIDIA Board Reinstates Jensen Huang as President, CEO and ...</a></li>
+<li><a href="https://www.usatoday.com/story/money/2026/11/23/jensen-huang-reinstated-nvidia-ceo/92828717007/">Jensen Huang reinstated as Nvidia CEO, Trump says he ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者关注董事会声明中关于收到美国高层政府官员意见的部分，认为这是关键操作点。一些人讨论了特拉华州 Caremark 先例以及董事会责任的高门槛，而另一些人则批评制裁执行中的虚伪，并指出公司的名义治理结构可能并不反映其实际治理结构。
+
+**标签**: `#Nvidia`, `#Jensen Huang`, `#corporate governance`, `#AI chips`, `#national security`
+
+---
+
+<a id="item-12"></a>
+## [从零构建的独立浏览器引擎 Ladybird 进入 alpha 阶段](https://ladybird.org/posts/alpha/) ⭐️ 8.0/10
+
+经过四年的独立开发，Ladybird 浏览器引擎已达到 alpha 版本，目前为 macOS 和 Linux 提供构建版本。该 alpha 版被描述为“ modest but functional”的测试版本，面向早期采用者，供其报告错误并提供反馈。 Ladybird 是少数不基于 Chromium、Gecko 或 WebKit 的浏览器引擎之一，在由 Google 的 Blink 主导的市场中提供了一个真正独立的替代方案。其 alpha 里程碑表明，从零构建的引擎能够处理真实世界的网站，可能减少对单一浏览器供应商的依赖，并促进网络标准实施方面的竞争。 alpha 版本目前可用于 macOS 和 Linux，尚无 Windows 版本，旨在用于测试而非日常使用。Ladybird 使用自己的 HTML 解析、CSS、布局、JavaScript 和 WebAssembly 实现，但在某些组件上采用了 SQLite 和 Skia 等生产级库。
+
+hackernews · janvdberg · 11月23日 16:13 · [社区讨论](https://news.ycombinator.com/item?id=50614249)
+
+**背景**: 浏览器引擎是解析 HTML、CSS 和 JavaScript 以渲染网页的核心软件。大多数现代浏览器都基于三大引擎之一：Google 的 Blink（用于 Chrome 和 Edge）、Mozilla 的 Gecko（Firefox）或 Apple 的 WebKit（Safari）。Ladybird 最初是 SerenityOS 项目的一部分，现在由一个 501\(c\)\(3\)非营利组织支持，旨在创建一个完全不依赖现有浏览器代码的独立引擎。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ladybird_%28web_browser%29">Ladybird (web browser ) - Wikipedia</a></li>
+<li><a href="https://ladybird.org/">Ladybird is a truly independent web browser , backed by a non-profit.</a></li>
+<li><a href="https://www.techpowerup.com/355140/independent-web-browser-engine-ladybird-goes-into-alpha-release">Independent Web Browser/Engine &quot;Ladybird&quot; Goes Into Alpha ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对 Ladybird 的网站兼容性印象深刻，一些人报告说，即使是 Proxmox 和 NoVNC 等复杂网站也能正确渲染且性能良好。其他人指出，采用 SQLite 和 Skia 等生产级库大大改进了浏览器，但有些人对最初从零开始的黑客精神感到怀念。有人提出了对指纹识别和安全的担忧，并希望 Ladybird 能实施强大的反指纹识别措施和细粒度权限。
+
+**标签**: `#browser-engine`, `#ladybird`, `#open-source`, `#web-rendering`, `#software-release`
+
+---
+
+<a id="item-13"></a>
+## [Zed 的 GPUI 框架迁移至独立仓库](https://github.com/zed-industries/gpui) ⭐️ 7.0/10
+
+Zed Industries 已将其 GPUI UI 框架从 Zed 编辑器主仓库中移出，放入独立的 GitHub 仓库 zed-industries/gpui。这使得这个 Rust GUI 库可以独立于 Zed 编辑器被访问和使用。 这对 Rust GUI 生态是一个有意义的里程碑，表明 GPUI 旨在成为通用框架而非 Zed 的内部组件。使用 Rust 构建高性能桌面应用的开发者现在有了更清晰的途径来采用 GPUI，与 egui 和 iced 等替代方案并列。 GPUI 是一个混合即时模式和保留模式、GPU 加速的 Rust UI 框架，旨在支持各种应用。此次迁移是仓库重组而非技术突破，该框架此前作为 crates/gpui/ 下的一系列 crate 在 Zed 仓库中开发。
+
+hackernews · EvilGoose · 11月23日 20:52 · [社区讨论](https://news.ycombinator.com/item?id=50619103)
+
+**背景**: Zed 是由 Zed Industries 开发的开源代码编辑器，使用 Rust 编写，由 Atom 创造者之一 Nathan Sobo 创立。GPUI 是驱动 Zed 界面的自定义 GPU 加速 UI 框架，自 2024 年 1 月起作为 Zed 仓库的一部分开源。egui、iced 和 Slint 等 Rust GUI 框架各有取舍，GPUI 的独立使其更容易作为独立选项进行评估。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/zed-industries/zed/blob/main/crates/gpui/README.md">zed /crates/ gpui /README.md at main · zed -industries/ zed · GitHub</a></li>
+<li><a href="https://gpui.rs/">GPUI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zed_%28text_editor%29">Zed (text editor) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者欢迎独立仓库，有人表示之前想用 GPUI 但觉得它位于编辑器仓库内很不方便。其他人称赞 gpui-kit 组件库并分享了 ArtCraft 等生产用例，同时有人批评 Rust 在 hello-world 示例中的冗长，并为 egui 辩护以回应线程中的负面看法。
+
+**标签**: `#rust`, `#gui-framework`, `#gpui`, `#zed`, `#open-source`
+
+---
+
+<a id="item-14"></a>
+## [LeCun 指责 Amodei 夸大 AI 危险以禁止开源模型](https://twitter.com/ylecun/status/2124550037912920090) ⭐️ 7.0/10
+
+Yann LeCun 在 X（原 Twitter）上发帖，指责 Anthropic CEO Dario Amodei 夸大 AI 风险，以推动禁止开源模型并维持对 AI 发展的控制。该帖子在 Hacker News 上引发了超过 800 条评论的大型讨论，辩论开源 AI 监管和实验室动机。 两位知名 AI 人物之间的公开冲突凸显了在 AI 安全和开源监管方面日益加深的分歧，这可能影响关于开放权重模型的政策决策和 AI 行业的竞争。这场辩论影响着依赖开源模型的开发者、研究人员和公司。 LeCun 的帖子特别指出 Amodei 的立场是出于控制欲，并提到 Amodei 离开 OpenAI 一事。HN 讨论中包含一些监管设想，如限制消费级 GPU 运行 LLM 的能力、要求计算资源注册等，但这些仅是推测。
+
+hackernews · MrBuddyCasino · 11月23日 17:07 · [社区讨论](https://news.ycombinator.com/item?id=50615308)
+
+**背景**: Anthropic CEO Dario Amodei 主张加强 AI 监管，包括对前沿模型进行强制性安全测试，这在 Anthropic 关于开放权重模型的立场文件中有所阐述。图灵奖得主、Meta AI 首席科学家 Yann LeCun 一直对此类安全担忧持批评态度，此前曾称 Amodei 对 AI 风险“妄想”。开放权重模型公开发布训练参数，引发了关于滥用风险与创新收益的争论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.anthropic.com/news/position-open-weights-models">Our position on open-weights models \ Anthropic</a></li>
+<li><a href="https://cortexnews.tech/2026/10/05/yann-lecun-vs-dario-amodei-the-frontier-ai-safety-clash/">Yann LeCun vs. Dario Amodei: The Frontier AI Safety Clash</a></li>
+<li><a href="https://opentools.ai/news/yann-lecun-calls-anthropic-ceo-dario-amodeis-ai-concerns-deluded">Yann LeCun Calls Anthropic CEO Dario Amodei&#x27;s AI Concerns ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者意见分歧：一些人同意 LeCun 的观点，认为实验室夸大危险以消除开源竞争并维持控制；另一些人则认为 AI 风险真实存在，监管是必要的。有人担忧监管俘获和对消费级硬件的潜在限制，并呼吁超越两极化的观点进行细致讨论。
+
+**标签**: `#open-source AI`, `#AI regulation`, `#AI safety`, `#frontier labs`, `#industry debate`
+
+---
+
+<a id="item-15"></a>
+## [Arm 要求关闭非官方文档网站](https://arm.jonpalmisc.com/) ⭐️ 7.0/10
+
+Arm 要求 jonpalmisc 在 2026 年 12 月 4 日前关闭其非官方文档网站（arm.jonpalmisc.com），理由是該网站托管 Arm 文档侵犯了商标和知识产权。 此次下架引发了关于知识产权、合理使用和技术信息获取的重大问题，尤其是对于依赖 Arm 架构非官方文档的开发者而言。它可能为公司如何对公开可用的技术规范执行商标权树立先例。 网站所有者指出，Arm 的主张基于商标和知识产权的使用，这使得在不侵权的情况下保持网站有用变得困难。社区成员建议镜像、采取法律行动或发布不含 Arm 知识产权的源代码。
+
+hackernews · tech234a · 11月23日 19:17 · [社区讨论](https://news.ycombinator.com/item?id=50617499)
+
+**背景**: Arm 是一家领先的半导体和软件设计公司，其架构为大多数移动设备提供动力。非官方文档网站通常提供 Arm 技术参考手册的更易访问或可搜索版本，而这些手册受版权保护。商标法允许公司控制其名称和徽标的使用，但合理使用可能允许某些引用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.arm.com/company/policies/trademarks/guidelines-trademarks">Trademark use guidelines – Arm® Arm Technical Writing Guide Trademarks – Arm® Technical Reference Manual Revision r1p2 PRINT - United States Patent and Trademark Office Armv8-M Architecture Reference Manual</a></li>
+<li><a href="https://support.arm.com/documentation/100500/0100/Formatting/Trademarks">Arm Technical Writing Guide</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者表达了不满和困惑，质疑 Arm 为何对看似合理使用的文档采取法律行动。一些人认为这种执法损害了社区并最终损害 Arm 自身利益，而另一些人提出了镜像或法律辩护等实际替代方案。
+
+**标签**: `#Arm`, `#documentation`, `#intellectual property`, `#fair use`, `#open source`
+
+---
+
+<a id="item-16"></a>
+## [Stalwart 1.2.0 宣称可直接替代 Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) ⭐️ 6.0/10
+
+Stalwart 发布了 1.2.0 版本，声称该开源邮件服务器可直接替代 Microsoft Exchange，使 Outlook、Apple Mail 和移动邮件应用能够像连接 Exchange 服务器一样连接，并在一个账户中管理邮件、日历、联系人、任务和笔记。 这是开源邮件基础设施的一个重要工程里程碑，可能降低组织从 Exchange 迁移的门槛并减少许可成本，但“直接替代”的说法存在争议。 该公告未详细说明完整的 MAPI 支持或 GoBD 等法规归档功能，社区成员指出微软新版 Outlook 会强制将 IMAP 邮件同步到微软云。
+
+hackernews · shaunpud · 11月23日 22:32 · [社区讨论](https://news.ycombinator.com/item?id=50620349)
+
+**背景**: Microsoft Exchange 是广泛使用的企业邮件和协作服务器，Outlook 是其主要客户端。Stalwart 是一个用 Rust 编写的开源邮件服务器，旨在现代化和去中心化电子邮件。“直接替代”意味着无需更改客户端或工作流程即可替换 Exchange，但完全兼容通常需要支持 MAPI 等专有协议。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://stalw.art/blog/microsoft-exchange-replacement/">Stalwart is now a drop-in replacement for Microsoft Exchange</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50620349">Stalwart is now a drop-in replacement for Microsoft Exchange ...</a></li>
+<li><a href="https://archive.vn/9wH8D">NLnet; Stalwart Mail Server</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对该说法展开辩论：一些人指出 GoBD 归档等法规缺口，另一些人警告支持微软协议会加剧锁定并损害开放邮件生态，还有人质疑鉴于 Outlook 集成和 Office 365 捆绑，Stalwart 是否真能替代 Exchange。
+
+**标签**: `#email`, `#open-source`, `#Microsoft Exchange`, `#self-hosting`, `#interoperability`
+
+---
+
+<a id="item-17"></a>
+## [博客文章详述如何解锁 iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd) ⭐️ 6.0/10
+
+Viktor Krapivin 的一篇新博客文章记录了如何“解放”或解锁第五代 iPod Nano 的方法，可能涉及绕过苹果的固件限制以启用自定义软件或功能。该文章在 Hacker News 上引发了讨论，获得 79 分和 9 条评论，聚焦于 Rockbox、旧款 iPod 和现代 MP3 播放器替代品。 这对复古计算和 DIY 硬件社区很重要，因为它延长了已停产设备的使用寿命，并展示了像 Rockbox 这样的开源固件的价值。它还突显了尽管智能手机无处不在，人们对专用音乐播放器的持久兴趣。 iPod Nano 5G 的显著特点是它是唯一一款带有摄像头和 FM 收音机的经典 iPod，但 Rockbox 对这些功能的支持尚不确定。解锁过程可能涉及利用固件中的漏洞，社区成员指出，旧款 iPod 上的 Rockbox 通常存在权衡，例如由于缺乏硬件解码而导致电池续航缩短。
+
+hackernews · rpm\_conservatio · 11月23日 23:03 · [社区讨论](https://news.ycombinator.com/item?id=50620721)
+
+**背景**: iPod Nano 是苹果公司已停产的便携式媒体播放器，于 2005 年首次推出。Rockbox 是一款免费开源的固件替代品，适用于数字音频播放器，提供超出原厂固件的功能，例如支持更多音频格式和文件浏览。第五代 iPod Nano 于 2009 年发布，包含摄像头、FM 收音机和更大的屏幕，使其成为收藏家的最爱。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Rockbox">Rockbox - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/IPod_Nano">iPod Nano - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了他们使用各种 iPod 型号的经验，称赞了 7G 的蓝牙功能和 6G 的夹子设计。一些人对 Rockbox 的现状表示兴趣，并询问现代硬件替代品，而另一些人则指出 Nano 5G 独特的摄像头和收音机功能，但质疑 Rockbox 对它们的支持。
+
+**标签**: `#retro-hardware`, `#iPod`, `#Rockbox`, `#hardware-hacking`, `#DIY`
+
+---
+
+<a id="item-18"></a>
+## [WIMP 暗物质候选者的初步信号考验困境中的领域](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/) ⭐️ 6.0/10
+
+《史密森尼》杂志的一篇文章报道了一个初步信号，它可能是弱相互作用大质量粒子（WIMP）——一种主要的暗物质候选者——的首次直接探测，并探讨这一单一结果能否为迄今未能证实暗物质的领域注入活力。 如果得到证实，WIMP 探测将解决物理学中最大的未解问题之一，并验证数十年的直接探测实验；如果未能证实，则会加剧人们对 WIMP 假说的怀疑，并可能推动该领域转向其他候选者或新策略。 该信号被描述为初步的，且基于单次探测，因此远未达到宣称发现所需的统计显著性（通常为 5 西格玛）；文章指出，尽管有许多灵敏的地下探测器，该领域在寻找确凿证据方面仍面临更广泛的困境。
+
+hackernews · apophatic · 11月23日 23:12 · [社区讨论](https://news.ycombinator.com/item?id=50620831)
+
+**背景**: 暗物质是一种不可见物质，其存在由它对星系和星系团的引力效应推断而来，被认为约占宇宙质量的 85%。WIMP 是一种假想粒子，仅通过引力和弱力相互作用，直接探测实验在地下探测器中寻找 WIMP 与原子核散射时产生的微小反冲，这些探测器被屏蔽以阻挡宇宙射线。迄今尚未发现确凿的 WIMP 信号，该领域已越来越多地探索轴子和超轻粒子等替代方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Weakly_interacting_massive_particle">Weakly interacting massive particle - Wikipedia</a></li>
+<li><a href="https://earthsky.org/space/did-we-see-detect-dark-matter-scientists-are-skeptical/">Did we just see dark matter? Scientists express skepticism</a></li>
+<li><a href="https://news.stanford.edu/stories/2026/09/dark-matter-detection-signal-lz">Scientists spot a possible dark matter signal | Stanford Report</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者对单次探测持怀疑态度，将其与 1982 年那次从未被重复的磁单极子声明相提并论，一些人还质疑暗物质是否必须通过引力以外的任何力发生相互作用。其他人指出，过去的异常现象（例如被认为过于古老的星系）后来被证明有平凡的解释，这加强了对过度解读初步信号的谨慎态度。
+
+**标签**: `#dark matter`, `#physics`, `#particle physics`, `#WIMP`, `#science journalism`
+
+---
+
+<a id="item-19"></a>
+## [纽约州禁止汽车订阅费和购后收费](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription) ⭐️ 6.0/10
+
+纽约州州长凯西·霍楚尔签署了 S.9348A/A.10411A 法案，禁止汽车制造商、经销商和第三方提供商对车辆内置功能收取订阅费或购后费用。该法律对导航系统更新、信息娱乐、卫星广播、车载 Wi-Fi、远程信息处理、道路救援以及依赖软件的驾驶辅助或自动化功能作出了豁免规定。 这是首批直接针对汽车制造商对已安装硬件（如加热座椅）收取 recurring 费用以解锁功能的州级法律之一。它可能为其他州树立先例，并迫使汽车行业重新思考售后货币化策略，影响消费者和制造商双方。 该法律将于 2027 年 2 月 27 日生效，并对每次违规处以每销售点最高 250 美元的民事罚款。对依赖软件的驾驶辅助和数据网络连接服务的豁免可能留下漏洞，批评者指出，像“蜂窝网络连接的座椅加热器”这样的功能可能被重新归类以落入豁免范围。
+
+hackernews · DeepLogin · 11月24日 02:27 · [社区讨论](https://news.ycombinator.com/item?id=50622774)
+
+**背景**: 近年来，汽车制造商越来越多地针对加热座椅、增强导航和免提驾驶等功能推出订阅服务和购后收费。这些做法让消费者感到不满，因为他们认为自己为已经内置在车中的硬件支付了额外费用。纽约州的法律是对这一趋势的回应，旨在保护消费者免受立法者所称的“剥削性费用”的影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription">Money in Your Pockets: Governor Hochul Signs Bill Restricting ...</a></li>
+<li><a href="https://www.nysenate.gov/legislation/bills/2025/A1095">NY State Assembly Bill 2025-A1095 - The New York State Senate</a></li>
+<li><a href="https://wgna.com/car-bill-extra-fees/">New York Bans Subscription And Post-Purchase Fees On Cars</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者指出，该法案的豁免条款可能使 SiriusXM 和特斯拉的增强巡航控制不受影响，而一些人认为该法律实际上是为了保护经销商的收入而非消费者。其他人警告说，制造商可能通过创建“蜂窝网络连接的座椅加热器”来利用驾驶辅助豁免条款，还有一位评论者强调了 2027 年 2 月 27 日的生效日期。
+
+**标签**: `#regulation`, `#automotive`, `#consumer-protection`, `#subscription-fees`, `#policy`
+
+---
+
+<a id="item-20"></a>
+## [爱好者指南教你如何让普通电视“刚刚够智能”](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/) ⭐️ 5.0/10
+
+一位爱好者在 qsantos.fr 上发布了一篇实用指南，介绍如何通过极简的自定义配置让“非智能”电视变得“刚刚够智能”，从而避开商业智能电视臃肿且充斥广告的界面。该文章在 Hacker News 上引发了讨论，读者们分享了各自替代性的 DIY 媒体中心和遥控方案。 这反映出人们对智能电视捆绑广告、追踪用户和界面卡顿的日益不满，用户正越来越多地转向开源媒体中心和标准协议以重新掌控自己的设备。对于希望在不购买新硬件的情况下获得尊重隐私、响应流畅的客厅体验的人来说，这一点很重要。 该方案的核心是让电视本身保持离线、不接入网络，而将播放和控制交给另一台设备；评论者也采用了类似模式，在 mini-ITX 硬件上运行裸 Kodi，并利用 HDMI-CEC 让一个遥控器控制所有设备。需要注意的是，这仍需要一定的动手调试，而且 CEC 提供的操作码有限，难以实现精细控制。
+
+hackernews · andai · 11月24日 02:46 · [社区讨论](https://news.ycombinator.com/item?id=50622934)
+
+**背景**: Kodi 是一款免费的开源媒体中心应用（原名 XBMC），其“10 英尺界面”专为电视和遥控器操作而设计。HDMI-CEC（消费电子控制）是 HDMI 标准中的一项功能，允许相连设备互相发送控制命令，因此一个遥控器就能开关电视、切换输入并操控媒体盒子。许多爱好者将运行 Kodi 的小型 PC 或树莓派与 CEC 结合，打造私密、无广告的智能电视替代方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Kodi_%28software%29">Kodi (software) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HDMI">HDMI - Wikipedia</a></li>
+<li><a href="https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter">Control your TV from Kodi, or vice versa! USB - CEC Adapter</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者分享了具体的替代方案：有人将笔记本电脑与廉价的迷你无线键盘遥控器配对；有人在 mini-ITX 机器上运行裸 Kodi，用原装遥控器配合中间的 Debian 系统统一控制；还有人通过 iOS 设备经 CEC 控制电视，以避免电视间谍软件和遥控器丢失。也有人指出 CEC 可能没有足够的操作码来实现精细控制，还有人提到了同一作者早前关于“为了乐趣和利润黑入暖气片”的文章。
+
+**标签**: `#DIY`, `#home-tech`, `#smart-tv`, `#kodi`, `#cec`
+
+---
+
+## 🏢 大厂要闻
+
+<a id="item-21"></a>
+## [SpaceX 星舰完成首次轨道级二级回收，重塑太空经济格局](http://www.geekpark.net/news/374355) ⭐️ 8.0/10
+
+2026 年 11 月 14 日，SpaceX 的星舰飞船在结束约 22.5 小时的轨道飞行后返回地球，被发射塔机械臂捕获，这是人类航天史上首次完成轨道级大载重飞船的回收工程验证。 这一里程碑可能显著降低太空进入的成本曲线，有望开启太空旅游、太空算力、太空基建等新市场，同时加大了中国商业航天追赶的紧迫性。 二级回收与一级回收有本质不同：它涉及从轨道速度（约 7.8 公里/秒）进行的无动力受控再入，需要先进的热防护、黑障通信缓解和精准着陆，返回过程长达 30-60 分钟，而一级回收仅需 6-7 分钟。
+
+rss · 极客公园 · 11月23日 07:49
+
+**背景**: 星舰是 SpaceX 的全可重复使用超重型运载火箭，由超级重型助推器（一级）和星舰飞船（二级）组成。SpaceX 于 2015 年实现一级回收，采用有动力返回着陆；而二级回收则需要飞船从轨道再入大气层并存活，最终被发射塔捕获，技术挑战大得多。二级回收的成功是迈向全可重复使用和大幅降低发射成本的关键一步。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnn.com/2026/11/13/science/live-news/spacex-starship-flight-15-ship-catch">Highlights: SpaceX Starship nails historic ship catch in... | CNN</a></li>
+<li><a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship">SpaceX launches Starship on ambitious 22-hour Flight 15 test... | Space</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Communications_blackout">Communications blackout - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#SpaceX`, `#Starship`, `#reusable rockets`, `#space economy`, `#commercial space`
+
+---
+
+<a id="item-22"></a>
+## [宇树涨停、珞石回 A，物理 AI 站到 AI 行情 C 位](https://www.tmtpost.com/8215619.html) ⭐️ 7.0/10
+
+宇树科技股票涨停，珞石机器人宣布回归 A 股市场，凸显了物理 AI 在当前 AI 投资周期中日益突出的地位。 这些资本市场动向表明，物理 AI——即机器人中的具身智能——正成为 AI 叙事中的核心主题，可能吸引更多投资并加速中国机器人技术的商业化进程。 新闻指出，两个资本市场可以支撑更多企业完成从技术突破到规模制造的跨越，但宇树涨停和珞石回 A 的具体财务细节并未披露。
+
+rss · 钛媒体 · 11月24日 04:24
+
+**背景**: 物理 AI 是指嵌入物理系统（如机器人）中的人工智能，使其能够感知并与现实世界互动。宇树科技是中国领先的四足和人形机器人开发商，而珞石机器人则专注于工业机器人、协作机器人及人形机器人，致力于“机器人+AI”的融合创新。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.unitree.com/">Unitree Robotics | Robot Dog_Quadruped_Humanoid Robotics...</a></li>
+<li><a href="https://cn.linkedin.com/company/rokae-robotics">ROKAE Robotics | 领英</a></li>
+
+</ul>
+</details>
+
+**标签**: `#physical AI`, `#robotics`, `#capital markets`, `#Unitree`, `#Rokae`
+
+---
+
+<a id="item-23"></a>
+## [香港百年财团拟转型私募股权投资](https://www.tmtpost.com/8215620.html) ⭐️ 7.0/10
+
+据报道，一家香港百年财团在由私募投资人掌舵后，正计划对外募资并转型为私募股权风格的投资公司。 这一转变标志着传统家族财团可能向私募股权模式转型，或重塑香港企业格局并吸引新的资本流动。 目前文章仅为预告，募资金额、时间表及财团名称等具体细节尚未披露。
+
+rss · 钛媒体 · 11月24日 04:12
+
+**背景**: 香港财团历来由家族控制，业务多元化，涉及房地产、零售和基础设施等领域。私募股权公司通常从机构投资者处募资，并利用杠杆收购和重组公司，最终退出获利。此举将标志着对传统财团模式的背离。
+
+**标签**: `#Hong Kong conglomerate`, `#private equity`, `#business transformation`, `#fundraising`, `#corporate strategy`
+
+---
+
+<a id="item-24"></a>
+## [字节跳动需要自研手机以突破超级应用封锁](http://www.geekpark.net/news/374374) ⭐️ 7.0/10
+
+极客公园发布分析文章指出，尽管字节跳动已通过中兴旗下努比亚推出两代豆包手机（2025 年 12 月的 M153 工程样机和 2026 年 9 月的 NaviX Ultra），但字节仍缺乏自己掌控的硬件入口。文章提到，包括微信、淘宝、美团在内的超过 150 款应用拒绝让豆包助手代用户操作其页面，且豆包手机 2026 年整体备货仅约 20 万台。 该分析揭示了 AI 助手面临的关键瓶颈：若无法掌控手机的系统级助手位置并拥有足够的出货量，即便是豆包这样能力强大的模型也无法进入超级应用的界面。这凸显了 AI 公司为何可能需要自研硬件才能与平台守门人谈判，而据报道 OpenAI 在进军手机时也面临同样的战略挑战。 豆包助手依赖 INJECT\_EVENTS 系统级权限来模拟点按和滑动，但该权限必须与手机深度绑定，无法从应用商店下载安装。字节跳动曾接触小米、OPPO、vivo、荣耀、联想和传音，商讨用豆包替换其原生助手，但多数厂商不愿交出服务分发权；据传与另一家手机大厂的合作项目将于 11 月内正式落地。
+
+rss · 极客公园 · 11月23日 15:47
+
+**背景**: 豆包是字节跳动的 AI 助手，自 2025 年底起通过与中兴旗下努比亚品牌的合作被集成到手机中。小米的小爱、荣耀的 YOYO 等系统级助手拥有深度操作系统权限，可以控制其他应用，而微信等超级应用会限制这种能力，因为它绕过了应用自身的界面和广告位。字节的困境与百度在自动驾驶领域 Apollo 的经历相似：仅提供软件层并未让百度获得控制权，即便后来与吉利合资造车（集度）也最终停摆。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.zaobao.com.sg/finance/china/story20261119-10024854">富士康旗下富智康据报获OpenAI手机组装订单 | 联合早报</a></li>
+<li><a href="https://caifuhao.eastmoney.com/news/20261119180255522871240">“富士康旗下富智康据报获OpenAI手机组装订单”解读</a></li>
+
+</ul>
+</details>
+
+**标签**: `#字节跳动`, `#AI手机`, `#豆包`, `#大厂战略`, `#AI助手生态`
+
+---
+
+<a id="item-25"></a>
+## [拼多多 Q3 利润增速降至 0.7%，平台加码商家补贴](http://www.geekpark.net/news/374348) ⭐️ 7.0/10
+
+拼多多发布 2026 年第三季度财报，营收 1083.41 亿元，同比仅增 0.1%；净利润 295.41 亿元，同比增长 0.7%，超出市场预期。同时，平台升级售后申诉体系，推出“申诉优赔”服务，主动为商家异常退款提供补偿，年度补偿规模预计达数十亿元。 营收近乎零增长与加大商家扶持并存，标志着拼多多战略重心从激进获客转向商家生态建设和运营效率提升。这可能重塑电商平台间的竞争格局，过去平台主要依靠补贴驱动增长。 经营利润同比增长 24.5%至 311.64 亿元，主要得益于成本削减：营业成本下降 3.4%，运营费用下降 12.3%，合计节省约 61 亿元。但非 GAAP 净利润同比下降 1%至 310.2 亿元，前三季度累计净利润同比下降 7.4%。
+
+rss · 极客公园 · 11月23日 07:18
+
+**背景**: 拼多多是中国最大的电商平台之一，以高投入换增长的模式闻名，过去依靠补贴和营销驱动高速扩张。近年来，平台推出“百亿减免”“千亿扶持”等计划，扶持商家并改善平台治理。“申诉优赔”服务是提升商家体验、响应监管要求平台承担更多消费纠纷责任的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.chinanews.com.cn/cj/2026/11-16/10732901.shtml">拼多多升级“申诉优赔”服务：单日处理申诉单达百万级，年度补偿商家数...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261119A0E9XL00">拼多多三季度营收1083亿元 净利润295亿元 超出市场预期_腾讯新闻</a></li>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhrsf0889641.shtml">拼多多发布Q3财报：营收1083亿元，净利润295亿元_新浪财经_新浪网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#拼多多`, `#财报解读`, `#电商平台`, `#商家生态`, `#战略转型`
+
+---
+
+<a id="item-26"></a>
+## [苹果 iPhone 相机负责人退休，留下影像遗产与争议](https://www.ifanr.com/1691162?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+苹果 iPhone 相机团队负责人即将退休，标志着该公司标志性影像部门的一次领导层变动。此次人事变动正值外界对定义近年 iPhone 摄影的“果味”照片处理持续争论之际。 这一领导层变动可能影响苹果计算摄影战略的方向，而该战略是 iPhone 在竞争激烈的智能手机市场中实现差异化的核心。这也凸显出外界对 AI 驱动处理应在多大程度上塑造最终图像的日益严格的审视。 该新闻仅提供标题和推广页脚，没有关于这位高管身份、任期或继任者的实质性细节。关于“果味”处理的争议指的是 Smart HDR 和 Deep Fusion 等功能中使用的重度多帧合成与色调映射，部分用户认为处理过度。
+
+rss · 爱范儿 · 11月24日 05:40
+
+**背景**: 苹果近年来的 iPhone 高度依赖计算摄影，即通过算法合并并增强多次曝光，以提升细节、动态范围和低光表现。Smart HDR 和 Deep Fusion 等技术会自动合成帧，通常用户无法关闭。这种方法使 iPhone 照片独具特色，但也引发了关于纹理不自然和过度锐化的抱怨。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://chobial.app/blog/why-iphone-photos-look-like-paintings/">Why iPhone photos look like paintings, and how to fix it</a></li>
+<li><a href="https://wolfewithane.com/deep-fusion-smart-hdr-night-mode">Deep Confusion. - wolfe with an e&#x27;s blog</a></li>
+<li><a href="https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart">Have iPhone Cameras Become Too Smart? - The New Yorker Your phone edits all your photos with AI - is it changing ... Computational Photography: How Algorithms Are Rewriting ... iPhone Camera Processing: From Sensor Capture to Smart HDR ... iPhone 17 Pro’s Computational Photography Leap: What Judges ... Why Gen-Z Is Sick of the iPhone’s Totally Over ... - Lifewire</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#iPhone`, `#camera`, `#executive change`, `#smartphone imaging`
+
+---
+
+<a id="item-27"></a>
+## [小米自研芯片 XRING O1 将于 5 月发布，剑指旗舰性能](https://www.ifanr.com/1691043?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+
+小米计划于 5 月发布其自研手机处理器 XRING O1，据报道该芯片将用于小米 15S Pro，并旨在提供旗舰级性能。 这标志着小米在开发核心半导体技术方面迈出了重要一步，可能减少对外部供应商的依赖，并加剧智能手机芯片市场的竞争。 据传 XRING O1 基于 4nm 工艺，可能采用三丛集 CPU 架构，但官方规格和性能基准尚未确认。
+
+rss · 爱范儿 · 11月23日 08:55
+
+**背景**: 自研芯片使智能手机制造商能够优化硬件和软件集成，实现产品差异化，并降低成本。小米此前在芯片设计方面的努力包括澎湃 S1 和多种协处理器，但 XRING O1 是一项更宏大的事业。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ifanr.com/1691043">自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练...</a></li>
+<li><a href="https://www.sohu.com/a/1105334096_122066678">自变量发布WALL-API-1.0，引领具身智能预训练新方向</a></li>
+<li><a href="https://www.sohu.com/a/1105334293_122004016">自变量发布WALL-API-1.0：重塑具身智能的未来</a></li>
+
+</ul>
+</details>
+
+**标签**: `#embodied AI`, `#API release`, `#benchmark`, `#pretraining`, `#big tech news`
+
+---
+
+<a id="item-28"></a>
+## [新鲜感过后，陪伴机器人面临留存与付费挑战](https://www.tmtpost.com/8212446.html) ⭐️ 6.0/10
+
+钛媒体近期的一篇文章探讨了陪伴机器人在新鲜感消退后，如何维持家庭的持续使用和付费意愿。文章提出了这些机器人还有多少被继续使用、又有多少家庭愿意持续付费的问题。 这一问题对消费机器人和智能硬件行业至关重要，因为它凸显了将初始兴趣转化为长期使用和持续收入的挑战。对于瞄准海外市场并寻求可持续商业模式的公司尤其具有参考价值。 文章偏重观察和提问，缺乏深度数据或突破性信息，属于中等水平的行业分析而非大厂重大动态。它聚焦于陪伴机器人领域在留存和商业化方面的实际挑战。
+
+rss · 钛媒体 · 11月25日 00:39
+
+**背景**: 陪伴机器人是旨在提供情感支持和互动的智能硬件设备，通常利用 AI 模拟对话和陪伴。近年来它们在海外市场尤其受欢迎，但面临硬件成本高、需要持续软件更新以及难以长期维持用户参与度等挑战。许多公司正在尝试订阅模式和增值服务来创造持续收入。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.aicompanionpick.com/how-ai-companion-apps-make-money-business">How AI Companion Apps Make Money: Business Models Explained</a></li>
+<li><a href="https://track360.io/blog/ai-companion-industry-report-market-size-growth-retention-2026">AI Companion Industry Report: Market Size &amp; Growth 2026</a></li>
+
+</ul>
+</details>
+
+**标签**: `#陪伴机器人`, `#智能硬件`, `#消费机器人`, `#商业化`, `#出海`
+
+---
+
+<a id="item-29"></a>
+## [零跑汽车股价大跌 13%，市场焦点转向盈利能力](https://www.tmtpost.com/8215444.html) ⭐️ 6.0/10
+
+零跑汽车股价单日重挫 13%，市场反应剧烈，投资者关注点从公司的规模增长叙事转向其实际盈利能力。 这一下跌反映了新能源汽车行业更广泛的估值逻辑转变，投资者越来越要求实实在在的盈利兑现，而不仅仅是销量增长，这将影响所有电动汽车制造商的估值方式。 该新闻报道较为简短，缺乏详细的财务数据，但 13%的跌幅凸显了在中国电动汽车市场竞争加剧的背景下，市场对盈利能力担忧的敏感性。
+
+rss · 钛媒体 · 11月24日 04:24
+
+**背景**: 零跑汽车是一家中国智能电动汽车制造商，以全域自研自造能力著称。在电动汽车行业，企业通常优先追求销量增长以实现规模效应，但投资者现在正将毛利率和净利润作为可持续商业模式的关键指标进行审视。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://leapmotor.cn/">leapmotor.cn</a></li>
+<li><a href="https://auto-time.36kr.com/p/1246798957356036">盈 利 “昙花一现”，理想 汽 车 回到“解放前”_36氪</a></li>
+
+</ul>
+</details>
+
+**标签**: `#零跑汽车`, `#新能源汽车`, `#股价波动`, `#盈利能力`, `#估值逻辑`
+
+---
+
+<a id="item-30"></a>
+## [雷克萨斯纯电 ES 被批定价过高：33.99 万起售却仅配 400V 平台](https://www.ifanr.com/1691012?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 5.0/10
+
+一篇批评性评论指出，雷克萨斯全新纯电 ES 起售价 33.99 万元过高，因其仅采用 400V 架构，且零百加速约 8 秒并采用前轮驱动。 这一批评凸显了传统豪华车企在定价上面临的压力，因为中国电动车竞争对手越来越多地以更低价格提供 800V 平台和更强性能，可能影响雷克萨斯在电动轿车市场的竞争力。 ES 纯电版采用 400V 电气架构，相比 800V 系统通常充电速度较慢，后者可将充电时间减半并减少发热。前轮驱动布局和 8 秒加速对于这一价位的豪华电动车来说被认为较为平庸。
+
+rss · 爱范儿 · 11月23日 08:17
+
+**背景**: 在电动车行业，800V 架构正成为关键卖点，因为它通过降低电流和发热来实现更快的充电和更高的效率。雷克萨斯是丰田旗下的豪华品牌，正在向电动化转型，新款 ES 被定位为接替已停产的 LS 轿车的旗舰角色。中国电动车市场竞争激烈，许多本土品牌以相近或更低的价格提供先进的 800V 平台。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.caranddriver.com/reviews/a71362521/2026-lexus-es-ev-drive/">Tested: 2026 Lexus ES Goes Electric and Must Play a New Role</a></li>
+<li><a href="https://jinyuautos.com/blog/2026-lexus-es-vs-genesis-g80/">2026 Lexus ES vs Genesis G80: Full Luxury Sedan... | Jinyu Autos</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Lexus`, `#electric vehicles`, `#pricing`, `#400V architecture`, `#auto industry`
+
+---
+
+## 🎧 客服行业动态
+
+<a id="item-31"></a>
+## [中通快递携手阿里云伶鹊打造 AI 客服，日均服务量达数十万通](https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cG1UNTBYUXMxeXdsN0d1d19KdTJUWjc2MThxVFprak9PdUUwZDZlQW82MHdRWV9JMkh0OXNHS2pIcm1TZGo3OEtVTWlOdw?oc=5) ⭐️ 7.0/10
+
+中通快递与阿里云伶鹊达成深度合作，打造企业级 AI 客服，并率先在小件末端配送场景落地智能语音热线和智能语音外呼两项能力。上线后，智能语音热线与智能语音外呼的“呼入+外呼”日均服务量已达数十万通，且 AI“呼入”热线带来的客户下单转化率提升近 20%。 这是物流行业 AI 客服的大规模真实落地案例，表明对话式 AI 能够处理高并发呼叫量并直接提升下单转化率等业务指标。它标志着企业正加速采用 AI 智能体处理客户服务，可能促使竞争对手跟进，并重塑末端配送的成本结构。 该合作覆盖消费者来电咨询与派件环节的外呼服务，其中 AI 热线使下单转化率提升近 20%。系统基于阿里云伶鹊企业级对话智能体平台构建，该平台采用基于千问调优的对话领域大模型和全双工实时语音交互引擎，具备 1.5 秒低延迟、情感识别和打断处理能力。
+
+rss · 客服行业动态 · 11月23日 07:28
+
+**背景**: 阿里云伶鹊是阿里云推出的企业级对话智能体平台，提供云联络中心、智能外呼、智能语音热线等服务，基于千问调优的对话领域大模型构建。中通快递是中国最大的快递企业之一，末端配送客服涉及大量咨询、投诉和派件协调电话。此次合作反映了物流企业利用 AI 实现客服自动化、降低人力成本的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.aliyun.com/product/voicepica">伶鹊 - 企业级对话智能体平台 - 用对话创造商业价值</a></li>
+<li><a href="https://help.aliyun.com/zh/ccs/what-is-lingque">什么是伶鹊-伶鹊 (Cloud Contact Center)-阿里云帮助中心</a></li>
+<li><a href="https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html">中通快递与阿里云伶鹊达成深度合作，智慧AI打造客服新体验</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI客服`, `#物流`, `#阿里云`, `#智能客服`, `#案例研究`
+
+---
+
+<a id="item-32"></a>
+## [AI 仿冒名人带货屡禁不止：平台明拒暗接单](https://news.google.com/rss/articles/CBMickFVX3lxTE1JdmpHODNfVnROelFMak8wdExCeG9CaGo1ajd0Tk5tVzRlZVVYZVhIVk1uZ3h0X3lGMU0yemZ3TUhNN1RCR2JkZXNuOTMxaGdLY0hPYmM0ekxhSzE3WlFEc0ZDMUZoS0dMSURzbEF6Q0otdw?oc=5) ⭐️ 6.0/10
+
+央广网报道指出，尽管电商平台公开禁止 AI 仿冒名人带货，但此类行为仍屡禁不止，形成平台内严肃拒绝、私下里积极接单的灰色市场。文章揭示了平台政策与执行之间的差距，以及地下服务商积极接单的现象。 这一问题的重要性在于，AI 仿冒名人带货损害消费者信任，给平台和品牌带来法律风险，同时也对平台治理和欺诈检测构成挑战，影响客服行业和监管合规。 文章指出，尽管平台明令禁止 AI 仿冒，但由于深度伪造技术易于获取且存在地下市场，执行难度较大。文章还提到，平台和监管机构需加强检测和处罚力度以遏制这一趋势。
+
+rss · 客服行业动态 · 11月23日 10:22
+
+**背景**: 深度伪造技术利用 AI 生成逼真的视频或音频，使人物看起来说了或做了他们从未做过的事。在电商领域，骗子利用深度伪造技术让名人看似代言产品，诱骗消费者购买劣质或欺诈性商品。平台虽有政策禁止此类内容，但由于伪造内容数量多且技术复杂，执行起来颇具挑战。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://factually.co/fact-checks/media/glycolean-ads-deepfake-evidence-dr-phil-endorsement-clarity-b59ebd">What Evidence Shows GlycoLean Ads Used Deepfakes and T...</a></li>
+<li><a href="https://www.aiornot.com/tracker/image/by-tag/celebrity-deepfake/deepfakes">Deepfake images tagged celebrity - deepfake — AI Image Tracker</a></li>
+<li><a href="https://portal.fidelisozuawala.com/blog/experts-warn-of-a-raging-scam-demic-fueled-by-ai-deepfake-technology">Experts Warn of a Raging Scam-demic Fueled by AI Deepfake ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI impersonation`, `#e-commerce fraud`, `#platform governance`, `#customer service`, `#regulatory compliance`
+
+---
+
+<a id="item-33"></a>
+## [女子网店因与争议主播同名遭网暴，客服被迫关闭](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xTUxzN01QdUJSbFlvM19CUE1udXlnM3g2enMwNnNlajF2czlMYWJyN29tejh2MjR5aVUweEJKaVJLV1FVUzFEQk9VS0dQN21KR0xiRF9B?oc=5) ⭐️ 6.0/10
+
+一名女子的网店账号因与一名私闯果园直播的争议主播同名而遭到误伤，遭遇网络暴力，导致其客服被骂到一度关闭。 这一事件凸显了误伤性网络暴力日益严峻的挑战，错误识别和病毒式传播的愤怒可能扰乱企业运营并损害声誉。它强调了客户服务中需要强有力的危机应对和声誉管理策略。 被误伤的网店也销售苹果，这可能加剧了混淆，店主表示客服被大量辱骂信息淹没，被迫暂时关闭。该案例说明了网络愤怒情绪如何迅速波及无关方。
+
+rss · 客服行业动态 · 11月23日 06:41
+
+**背景**: 争议始于 2026 年 11 月，一名拥有超过 120 万粉丝的主播未经许可在云南昭通的一个苹果园进行直播，切开 200 多斤苹果并将果肉丢弃。该事件引发了广泛愤怒和官方调查，但主播的名字成为网络暴力的目标，导致了对该女子网店的误伤。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/2026%E5%B9%B4%E6%98%AD%E9%80%9A%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E4%BA%8B%E4%BB%B6/69827951">2026年昭通主播私闯果园带货事件_百度百科</a></li>
+<li><a href="https://news.qq.com/rain/a/20261123A061XC00">百万主播私闯果园糟蹋181斤水果引争议，涉事方被曝连续两年无人参保</a></li>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_34537423">云南通报“百万粉丝主播私闯果园糟蹋千斤苹果”：主播找错地点误入相邻...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#cyberbullying`, `#reputation management`, `#e-commerce`, `#crisis response`
+
+---
+
+<a id="item-34"></a>
+## [四川新闻探讨如何当好解决拖欠账款的“总客服”](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wN09Vc0o4M24tOVVQMlpreWhxQVlMMlg5SkZVWFg0ZGlselRjMzhWWU00aFNmNHdZMlN6U0huNXg3NmY3VDFhUEFSclI0WkNOdkZwZHZJQUpiTmphajRKb2J0WQ?oc=5) ⭐️ 5.0/10
+
+四川新闻的一篇文章探讨了如何通过“总客服”角色有效解决拖欠账款问题，这里的“总客服”很可能指代协调企业债务解决的政府热线或服务平台。文章讨论了作为企业追讨欠款的核心联络点所涉及的机制和责任。 这一话题意义重大，因为拖欠账款——尤其是政府和大型企业拖欠中小企业款项——会造成现金流危机，进而波及供应链并削弱商业信心。有效的“总客服”机制可以加快纠纷解决、改善营商环境，对中国的中小企业尤为重要。 文章很可能借鉴了 12345 政务服务便民热线的实践，一些地区通过多部门协同和监督机制，已帮助企业追回超过 1000 万元的拖欠账款。不过，该文属于地方新闻报道，可能并未提出突破性解决方案或提供全国性数据。
+
+rss · 客服行业动态 · 11月23日 14:59
+
+**背景**: 在中国，拖欠账款——尤其是地方政府和大型企业拖欠中小企业款项——一直是顽疾，会加剧现金流紧张并可能引发债务连锁反应。中央政府多次推动清欠工作，包括通过专项债和加强支付监管等方式。像 12345 这样的政务服务便民热线越来越多地被企业用来反映欠款问题并寻求调解，因其协调作用而被称为“总客服”。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.163.com/dy/article/L0O3SBS50530QRMB.html">十年坚守架起“连心桥” 法治赋能打造“ 总 客 服 ”——海南12345...</a></li>
+<li><a href="https://news.10jqka.com.cn/20260822/c679193531.shtml">国 常会再部署企业 账 款 清 欠 ，强调打通 清 欠 “连环 清 ”链条 | 同花顺财经</a></li>
+<li><a href="http://paper.people.com.cn/zgjjzk/pc/content/202501/30/content_30061361.html">多措并举整治“ 拖 欠 顽疾”</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#debt collection`, `#service role`, `#China`, `#business operations`
+
+---
+
+<a id="item-35"></a>
+## [中国人寿运用 AI 工具重塑保险服务](https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MTJnakRrME5ZQU0tQmU3Wml3U21pZE1lcWlZNVkyaU9zV2U0YVZucG12NFJaeHB4V3l6R0JVUi1qbVdYRnNDblhOSUdWb3h4a0wxLUk5N2NJSTRUU0YzdUlzdjlPSzVLa0UySjJ4UGVjVzZRXzhRUw?oc=5) ⭐️ 5.0/10
+
+据新浪财经报道，中国人寿推出了包括空中客服、智慧双录和 AI 私教在内的一系列科技驱动服务，以重塑其保险服务模式。 这一部署展示了大型保险公司如何将 AI 和数字工具整合到客户服务中，有望提高效率和合规性，并为行业树立先例。 该文章主要是宣传性质，缺乏技术细节，但这些服务可能利用 AI 进行远程客户支持、用于合规的自动音视频录制以及个性化培训或建议。
+
+rss · 客服行业动态 · 11月23日 11:04
+
+**背景**: 智慧双录是指根据中国银保监会的要求，保险公司在销售过程中进行音视频录制以确保透明度并保护消费者的监管规定。空中客服通常涉及视频通话或聊天等远程服务渠道，而 AI 私教可能为客户或代理人提供个性化指导。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://xuexi.huize.com/special/zhoubian/bxsl/">保险双录_保险双录是什么意思_哪些险种需要双录-慧择保险网</a></li>
+<li><a href="https://www.zhihu.com/question/533976405">保险双录是什么意思？ - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI customer service`, `#insurance technology`, `#digital transformation`, `#China Life`, `#smart service`
+
+---
+
+<a id="item-36"></a>
+## [新型电诈套路曝光：假冒车辆异地召回，奥迪客服澄清政策](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGRlcHRCODY3endIWE1yOEloTGxydlhWOXd2MjcteWVFMzMyODViRFllTjVlUlNPOTdSdVdCYzBGM1F5M2ZXYnRhaTN0MXVpSTNuYlM0REhacGVQWFQ3WU5ZN25hOUxhOW9HRU1fZDNxZHlCVGJDMFVKeFU4c0dUMlcxbXBzWUs4?oc=5) ⭐️ 5.0/10
+
+近日曝光一种新型电信诈骗套路，骗子以“车辆异地召回”为名联系车主。奥迪客服回应称，召回不限制门店，车主可就近办理，警方提醒市民提高警惕。 该案例揭示了诈骗分子如何利用车企正规召回流程欺骗消费者，可能导致财产损失或个人信息泄露。这也凸显了企业主动宣传召回政策、消费者通过官方渠道核实召回信息的必要性。 奥迪客服明确表示，召回不限制特定门店，车主可在任何授权经销商处办理，这与骗子声称必须前往指定异地门店的说法相矛盾。警方提醒市民通过品牌官方渠道核实召回通知，不要轻信陌生来电。
+
+rss · 客服行业动态 · 11月23日 07:46
+
+**背景**: 汽车召回是汽车行业常见的安全措施，通常由制造商在发现缺陷后发起。官方召回通知一般通过授权经销商或品牌官方渠道发布，车主无需为召回维修支付费用。诈骗分子常冒充客服人员，诱骗受害者支付费用或泄露个人信息。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://post.smzdm.com/p/aggq28x7/">286...</a></li>
+<li><a href="https://jsnews.jschina.com.cn/jsyw/202610/t20261030_s6ae47d5ae4b0ed623b00d9b5.shtml">jsnews.jschina.com.cn/jsyw/202610/t20261030_s6ae47d5ae4b0ed623...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#telecom fraud`, `#customer service`, `#vehicle recall`, `#consumer protection`, `#fraud prevention`
+
+---
+
+<a id="item-37"></a>
+## [消费者称好想来面包发霉致腹泻，客服称可赔约 70 元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NY1BxV3pyTlZqenRKa1k0bGtuVE9GM1NCTEo0a2hia1FSejBzQ0thRE5ONUxkQm9GMnBidFpYRXRJTVZoSEhqbXpieTZCSFhmYVFSRzZhT01pcDlhMEV3TA?oc=5) ⭐️ 4.0/10
+
+一名消费者称食用在零食品牌好想来购买的面包后发现发霉，并导致拉肚子，好想来客服表示可赔偿约 70 元，并会进一步协商。 该事件凸显了大型零食连锁品牌在处理食品安全投诉时的应对方式，并引发对赔偿方案是否符合《食品安全法》十倍赔偿等法律标准的讨论。 约 70 元的初步赔偿远低于《食品安全法》第 148 条规定的 1000 元最低赔偿额，且好想来尚未确认面包发霉的原因或是否存在储存不当问题。
+
+rss · 客服行业动态 · 11月23日 08:07
+
+**背景**: 好想来是中国知名的零食连锁品牌，以销售各类包装零食为主。根据《食品安全法》，消费者购买到不符合食品安全标准的食品，除要求退还货款和赔偿损失外，还可主张价款十倍或损失三倍的赔偿金，增加赔偿的金额不足一千元的，为一千元。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.toutiao.com/zixun/7532664391293077513/">淘宝闪购 食 品 安 全 问题 赔 偿 标 准 - 今日头条</a></li>
+<li><a href="https://m.bjnews.com.cn/detail/1710402471129812.html">产 品 不合格被诉 十 倍 赔 偿 ，卖家以对方是职业打假人为由拒 赔</a></li>
+
+</ul>
+</details>
+
+**标签**: `#customer service`, `#food safety`, `#complaint handling`, `#consumer rights`, `#retail`
+
+---
+
+<a id="item-38"></a>
+## [小米多款笔记本涨价 300 至 500 元，客服回应随市场波动](https://news.google.com/rss/articles/CBMickFVX3lxTE9tdHFyQzV2QTNhZ3kwUVR2ZmxYdjl1ZS04S2NlLXNxMkhlSVZLdmxlZzBqb3huTGQ3dThkdk1WS1ppYjZyQTFRZzBNdWtFWXZiLWZWT0dRc3dzR2RYZElpMTRxTE9hbG9Pdm5vTlZuQW5wQQ?oc=5) ⭐️ 4.0/10
+
+小米多款笔记本电脑价格上调 300 至 500 元，客服表示价格随市场波动调整。 此次涨价可能影响计划购买小米笔记本的消费者，并可能预示着消费电子行业面临更广泛的成本压力，进而影响购买决策和竞争格局。 涨价涉及多款型号，具体涨幅因配置而异；小米客服将价格变动归因于市场价格波动，未提供更多细节。
+
+rss · 客服行业动态 · 11月23日 08:47
+
+**背景**: 小米是一家知名的中国电子制造商，以笔记本电脑和其他消费设备闻名。消费电子行业的价格调整通常受供应链成本、零部件价格和市场需求驱动。
+
+**标签**: `#customer service`, `#price increase`, `#Xiaomi`, `#consumer electronics`, `#market dynamics`
+
+---
