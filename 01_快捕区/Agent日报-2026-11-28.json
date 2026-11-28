@@ -1,0 +1,1183 @@
+{
+  "meta": {
+    "date": "2026-11-28",
+    "title": "Horizon 每日速递",
+    "generated_at": "2026-11-28T03:49:25Z",
+    "total_fetched": 97,
+    "total_selected": 36
+  },
+  "sections": [
+    {
+      "key": "energy",
+      "title": "🔋 能源政策资讯",
+      "items": [
+        {
+          "rank": 1,
+          "headline": "美国被曝曾鼓动委内瑞拉和伊拉克退出欧佩克",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUZPaG1SdnVhR2ItTUJPUm9Ja055b3RFRFo5OFlLcC1GNE9OdWJRTGpFR0lYdWJqMUFjclZrZjl4VkRrWTFpQ3JXT1QwV3dQZDlKX1MwUnVUNjV3UDhiUFhKUTYzUTBXbWRLWE11WlFvYWFMRzJpNURJRlc5ZC04Z1kwbWFmM3VTU2RR?oc=5",
+          "tldr": "据多家媒体援引知情人士报道，美国政府今年早些时候曾鼓动委内瑞拉和伊拉克退出欧佩克（OPEC）。",
+          "summary": "据多家媒体援引知情人士报道，美国政府今年早些时候曾鼓动委内瑞拉和伊拉克退出欧佩克（OPEC）。据称，美方还劝阻这两个欧佩克创始成员国缴纳年度会费，沙特阿拉伯随后出面干预。 若消息属实，这将标志着美国削弱欧佩克凝聚力和对全球油价影响力的努力显著升级。两个创始成员国的退出可能削弱该组织协调减产和稳定市场的能力，进而影响全球能源价格。 相关报道基于匿名消息源，尚未得到美国、委内瑞拉或伊拉克政府的官方证实。据称，美国的施压包括敦促两国停止缴纳欧佩克会费，而沙特的干预据报帮助它们留在了该组织内。",
+          "source_type": "google_news",
+          "source_name": "Sohu",
+          "published": "11月27日 08:45",
+          "score": 8.0,
+          "tags": [
+            "OPEC",
+            "US energy policy",
+            "Venezuela",
+            "Iraq",
+            "oil markets"
+          ],
+          "background": "欧佩克是由主要石油生产国组成的政府间组织，通过协调产量来影响全球油价。成员国同意遵守产量配额，这能显著影响供应和价格。美国不是欧佩克成员，且经常批评该组织操纵价格，同时自身也是重要的石油生产国。",
+          "references": [
+            {
+              "title": "OPEC - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/OPEC"
+            },
+            {
+              "title": "How OPEC (and Non-OPEC) Production Affects Oil Prices",
+              "url": "https://www.investopedia.com/articles/investing/012216/how-opec-and-nonopec-production-affects-oil-prices.asp"
+            },
+            {
+              "title": "The UAE’s Exit from OPEC: When Politics and Oil Mix",
+              "url": "https://mecouncil.org/publication/the-uaes-exit-from-opec-when-politics-and-oil-mix/"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "IEA：全球煤炭需求或创新高，若LNG运输难恢复明年或再破纪录",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFBZWxmWnRQbDZhU2NBN2dnd1QxUDR4VDFGRm5VSEw0bHViZEtZWVluLWlJLUtPOTljSjRvdkxpOWJxdHllZg?oc=5",
+          "tldr": "国际能源署（IEA）报告称，受天然气价格大幅上涨引发的“气转煤”以及强厄尔尼诺现象推高制冷需求等因素影响，今年全球煤炭需求将创下新高。",
+          "summary": "国际能源署（IEA）报告称，受天然气价格大幅上涨引发的“气转煤”以及强厄尔尼诺现象推高制冷需求等因素影响，今年全球煤炭需求将创下新高。该机构还指出，明年走势将主要取决于途经霍尔木兹海峡的液化天然气（LNG）运输能否恢复。 这一预测表明，尽管处于清洁能源转型之中，碳排放强度最高的化石燃料煤炭仍在全球能源安全中占据核心地位，这使各国政府的气候目标更加复杂，并影响电力生产商、日本和韩国等煤炭进口国以及全球煤炭价格。这也凸显出LNG物流中断可能波及整个能源市场并逆转燃料替代趋势。 IEA指出，由于中国国内产量下降，加上日本、韩国等煤炭进口依赖型国家因天然气涨价而增加煤炭消耗，国际煤炭市场需求超出此前预期。再加上供给偏紧，这些因素共同推高了全球煤炭价格，而2025年全球煤炭贸易量却出现萎缩。",
+          "source_type": "google_news",
+          "source_name": "财联社",
+          "published": "11月27日 19:10",
+          "score": 7.0,
+          "tags": [
+            "煤炭需求",
+            "IEA",
+            "LNG运输",
+            "能源市场",
+            "能源政策"
+          ],
+          "background": "国际能源署（IEA）是一个政府间组织，为成员国提供能源安全、经济发展和环境保护方面的政策建议。LNG（液化天然气）是经冷却成液态以便船舶运输的天然气，而霍尔木兹海峡是全球能源运输的关键咽喉要道。当LNG运输受阻时，天然气价格上涨，促使电力企业转而燃烧更多煤炭，这一现象被称为“气转煤”。",
+          "references": [
+            {
+              "title": "全球煤炭需求或将创新高！IEA：LNG运输若难恢复，明年或再破纪录",
+              "url": "https://news.qq.com/rain/a/20260910A0BIA000"
+            },
+            {
+              "title": "国际能源署：今年全球煤炭需求将创新高--中国能源新闻网",
+              "url": "https://www.cpnn.com.cn/news/hy/202609/t20260918_1916104.html"
+            },
+            {
+              "title": "国际能源署 - 维基百科，自由的百科全书",
+              "url": "https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E9%9A%9B%E8%83%BD%E6%BA%90%E7%BD%B2"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "贵州启动电网侧独立储能申报，2026-2028年目标1.65GW/6.6GWh",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZTJVYTRMM21RQ09UVmJIZTdzOEwzV3FwcjNHTUc4YXJUc1MtaFVNbEhLam1CRFgwR2k1Uko2YTluM3hPRDF1MGdHS0pFLUhfTWMyM2JEVTlXWFVGT2hoMQ?oc=5",
+          "tldr": "贵州省已启动电网侧独立储能项目清单申报工作，明确2026至2028年总规划规模为1.65GW/6.6GWh。",
+          "summary": "贵州省已启动电网侧独立储能项目清单申报工作，明确2026至2028年总规划规模为1.65GW/6.6GWh。 这为储能开发商和投资者提供了明确的部署目标和市场信号，有助于推动中国储能建设在省级层面的落实，并提升电网灵活性和新能源消纳能力。 1.65GW/6.6GWh的容量意味着4小时储能时长（4小时C-rate），这是电网侧调峰和辅助服务应用的典型配置；申报流程可能要求项目满足特定的技术和选址标准。",
+          "source_type": "google_news",
+          "source_name": "碳索储能网",
+          "published": "11月28日 02:45",
+          "score": 7.0,
+          "tags": [
+            "energy storage",
+            "grid-side storage",
+            "Guizhou",
+            "energy policy",
+            "renewable energy"
+          ],
+          "background": "电网侧独立储能是指直接接入公共电网、由电网统一调度的储能设施，用于提供调峰、调频和备用等服务，并通过电力现货市场、辅助服务市场和容量电价获取收益。中国电网侧储能发展迅速，在新增装机中占重要比重，各省纷纷设定目标以提升电网灵活性和促进新能源消纳。",
+          "references": [
+            {
+              "title": "电网侧独立新型储能电站 - 百度百科",
+              "url": "https://baike.baidu.com/item/%E7%94%B5%E7%BD%91%E4%BE%A7%E7%8B%AC%E7%AB%8B%E6%96%B0%E5%9E%8B%E5%82%A8%E8%83%BD%E7%94%B5%E7%AB%99/67337542"
+            },
+            {
+              "title": "China Grid - Side Energy Storage Capacity Exceeds 180 GW | LinkedIn",
+              "url": "https://www.linkedin.com/posts/jingjing-ma-617664117_bess-energytransition-zerocarbon-activity-7483687851872673792-ugJq"
+            },
+            {
+              "title": "MW vs MWh : Key Differences in Energy Storage",
+              "url": "https://www.bsl-battery.com/news/power-vs-capacity-mw-vs-mwh"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "中国发布电力零售市场统一规则",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rbFVud0Zud3hUMkFVam5CNDRxbnVkS3pud1lWUnpZcVBwdk5YQmpod25IVXRiVXBWb0lmLUNFbzlacGVVMDRMQlVpV2R4dElHT19nRjhrMHkxdUtDU3JBdE9xbVc?oc=5",
+          "tldr": "2026年11月25日，国家发展改革委正式发布《电力零售市场基本规则（试行）》（公开征求意见稿），面向全社会公开征求意见。",
+          "summary": "2026年11月25日，国家发展改革委正式发布《电力零售市场基本规则（试行）》（公开征求意见稿），面向全社会公开征求意见。这是我国首部全国统一的电力零售市场规则，旨在规范数千家售电公司的运营。 统一规则将监管重点从“管主体”转向“管运行”，可能重塑中国电力零售市场的竞争格局和透明度。这是电力体制改革的关键一步，将影响数千家售电公司和数百万工商业用户。 该规则目前为征求意见稿，最终条款可能调整。规则为售电公司建立了全国统一的“经营规范”，涵盖市场注册、交易、结算机制等方面。",
+          "source_type": "google_news",
+          "source_name": "中国煤炭资源网",
+          "published": "11月27日 07:27",
+          "score": 7.0,
+          "tags": [
+            "电力零售市场",
+            "能源政策",
+            "电力体制改革",
+            "市场规则",
+            "中国能源"
+          ],
+          "background": "中国一直在推进电力体制改革以引入市场竞争，包括允许售电公司从批发市场购电并向终端用户零售。此前，各地零售市场规则不一，导致市场分割。新的统一规则旨在为这些“电力商店”建立一致的全国框架，并支持全国统一电力市场建设。",
+          "references": [
+            {
+              "title": "《电力零售市场基本规则（公开征求意见稿）》解读③",
+              "url": "https://cpnn.com.cn/news/nytt/202611/t20261125_1929174.html"
+            },
+            {
+              "title": "《电力零售市场基本规则（公开征求意见稿）》解读④",
+              "url": "https://cpnn.com.cn/news/nytt/202611/t20261126_1929447.html"
+            },
+            {
+              "title": "《电力零售市场基本规则（公开征求意见稿）》解读①",
+              "url": "https://finance.sina.com.cn/jjxw/2026-11-25/doc-inizxpkp4348435.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "TÜV南德与华为发布构网型储能能力分级体系",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nM2NmZFJLRk4yQmh3cFY4S0dfdFB2ZHpqakxMZjB5aHFxcnJLX0RUT1pKbFFfX3RoMFhET2U1aFJFT2tfSE40RnAyWlFFNUhuQjBZR01mNzd4SER2cmxPWjR5aVk1dnRR?oc=5",
+          "tldr": "TÜV南德与华为联合发布了构网型储能能力分级体系，旨在推动储能行业的规范化发展。",
+          "summary": "TÜV南德与华为联合发布了构网型储能能力分级体系，旨在推动储能行业的规范化发展。该体系为构网型储能系统设定了分级能力标准，为评估其性能和电网支撑功能提供了统一参考。 随着可再生能源渗透率上升和电网惯性下降，构网型储能在维持电网稳定方面日益关键，而基于认证的分级框架可能影响市场准入、采购标准和监管对齐。这将影响制造商、项目开发商以及寻求可靠电网支撑方案的公用事业公司。 该分级体系是由企业主导的认证框架，而非政府强制要求，因此其采用将取决于行业接受程度。现有摘要中未披露具体的能力等级、测试方法和评判标准等细节。",
+          "source_type": "google_news",
+          "source_name": "产业在线",
+          "published": "11月27日 03:19",
+          "score": 7.0,
+          "tags": [
+            "energy storage",
+            "grid-forming",
+            "industry standards",
+            "Huawei",
+            "TÜV SÜD"
+          ],
+          "background": "构网型（GFM）变流器是一种能够主动建立电压和频率的功率变换系统，不同于依赖现有电网信号的常规跟网型逆变器。随着基于逆变器的可再生能源替代同步发电机，电网惯性和系统强度下降，使得构网型储能成为稳定低惯性电网的关键支撑。TÜV南德是德国领先的测试、检验和认证机构，此类第三方框架常用于对技术性能进行基准评估和认证。",
+          "references": [
+            {
+              "title": "Energy-Storage-Based Grid-Forming Converters: Technology ...",
+              "url": "https://ieeexplore.ieee.org/document/11403258"
+            },
+            {
+              "title": "TÜV SÜD Global Home - Add value. Inspire trust. | TÜV SÜD",
+              "url": "https://www.tuvsud.com/"
+            },
+            {
+              "title": "Grid-forming energy storage in renewable-dominated power ...",
+              "url": "https://www.sciencedirect.com/science/article/pii/S1364032126006258"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "headline": "台湾国民党呼吁全民支持废除非核家园公投案",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdERKQjhwX2IwZ05zVXgwd2NibWNYeGNIdzVQdFhJemJTQkxHc016YVpmX3NlY1poOENTQlNRU0FPdEdDM25MZG9DdVNvcEhjd2N4WFdTZmJGYjZURlhTVE1zZXJ0QTI1M25CckNaOEJkR0hHdUpaR2tDSXNFMFRpdHAxZUpNQnRHdXVNRU1zNA?oc=5",
+          "tldr": "台湾在野党国民党呼吁民众在明天举行的公投中投下同意票，以废除“非核家园”政策。",
+          "summary": "台湾在野党国民党呼吁民众在明天举行的公投中投下同意票，以废除“非核家园”政策。该公投与地方选举同日举行，询问选民台湾是否应采用核能。 此次公投可能重塑台湾的能源结构并带来重大政治转变，因为执政的民进党长期反对核能，而在野的国民党和民众党则主张使用核能以保障能源安全和脱碳。公投结果将影响电力供应、气候目标以及地方选举前的政治格局。 该公投定于2026年11月28日与地方选举同日举行，询问选民台湾是否应采用核能。台湾的核电从1977年运行至2025年，三座核电厂总装机容量为5吉瓦，但民进党自1986年以来一直将“非核家园”作为核心党纲。",
+          "source_type": "google_news",
+          "source_name": "on.cc東網",
+          "published": "11月27日 08:20",
+          "score": 7.0,
+          "tags": [
+            "Taiwan",
+            "nuclear energy",
+            "referendum",
+            "energy policy",
+            "KMT"
+          ],
+          "background": "台湾的“非核家园”政策由民进党推动，目标是到2025年逐步淘汰核电。国民党和民众党则认为，核能对于确保稳定供电和实现脱碳目标必不可少。台湾的公投制度允许公民在国家和地方层面提出或废除法律。",
+          "references": [
+            {
+              "title": "Nuclear power in Taiwan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nuclear_power_in_Taiwan"
+            },
+            {
+              "title": "2026 Taiwanese referendum - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/2026_Taiwanese_referendum"
+            },
+            {
+              "title": "From “ Nuclear - Free Homeland ” to Pragmatic... | Global Taiwan Institute",
+              "url": "https://globaltaiwan.org/2026/09/from-nuclear-free-homeland-to-pragmatic-pivot/"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "headline": "两家巨头签约，合作涉及储能、虚拟电厂及绿电直连",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjelJ0dlpfVF9vUUo4Rmw2a0U0N3ZYX1lBVExVcTBvcnNuVlhHZ3pRTnZabktPSjZnWllwamhrazk2RGxUOUF3empqZzA2ZjNyRW1XSA?oc=5",
+          "tldr": "据世纪新能源网简短报道，两家行业巨头签署了一项合作协议，内容涉及储能、虚拟电厂以及绿电直连。",
+          "summary": "据世纪新能源网简短报道，两家行业巨头签署了一项合作协议，内容涉及储能、虚拟电厂以及绿电直连。 这一合作表明大型企业正在围绕中国能源转型的重点方向进行布局，可能加速储能、需求侧灵活性与可再生能源直接采购的融合。 该报道仅为简短新闻，未披露具体条款、投资金额、项目时间表或政策影响，因此合作的范围和实际效果尚不明确。",
+          "source_type": "google_news",
+          "source_name": "世纪新能源网",
+          "published": "11月27日 18:44",
+          "score": 6.0,
+          "tags": [
+            "energy storage",
+            "virtual power plant",
+            "green power",
+            "corporate partnership",
+            "China energy policy"
+          ],
+          "background": "虚拟电厂是一种数字聚合与调度平台，通过整合太阳能、储能和灵活负荷等分散能源资源，在不新建实体发电设施的情况下提供电网服务。绿电直连是中国2025年“650号文”提出的政策模式，允许可再生能源通过直接连接用户实现就近消纳，而不仅依赖公共电网。储能通常与这些模式配合，用于平滑新能源出力并提供灵活性。",
+          "references": [
+            {
+              "title": "关于虚拟电厂，看这篇就够了！ - 知乎",
+              "url": "https://zhuanlan.zhihu.com/p/621994565"
+            },
+            {
+              "title": "又一个重大突破： 绿 电 直 连 从“一户一线”走向“多户组团” - OFweek 电 力网",
+              "url": "https://power.ofweek.com/2026-06/ART-35018-8420-30689996.html"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "headline": "吉林油田虚拟电厂风光储一体化取得新突破",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUl0a3JWWUs4VF9jQzFsQzFkU3lEb3JQd3RPWk8xT3FxcUE5cE9RX0w0RGhQcllHLThQTzNtaVpCRk5iNkg2MHgzNlNPQnFLbWU2YU5Kd3dhWHQ0VG1nTHc5djlGNzFITnJtVXpPN3ktVTVIWTBDQ2ZVYTRPU2JhVGlB?oc=5",
+          "tldr": "吉林油田宣布，其整合风能、太阳能和储能并配合智能电力管理的虚拟电厂取得新突破，截至11月12日累计交易电量突破2亿千瓦时。",
+          "summary": "吉林油田宣布，其整合风能、太阳能和储能并配合智能电力管理的虚拟电厂取得新突破，截至11月12日累计交易电量突破2亿千瓦时。 这一里程碑展示了传统油气企业如何利用虚拟电厂参与电力市场并支持中国能源转型，可能为其他工业能源用户提供示范。 该项目将风光发电与储能及智能调度相结合以优化电力交易；但公告中未披露装机容量和储能规模等具体技术参数。",
+          "source_type": "google_news",
+          "source_name": "新华网",
+          "published": "11月27日 08:13",
+          "score": 6.0,
+          "tags": [
+            "虚拟电厂",
+            "能源转型",
+            "风光储一体化",
+            "油田能源",
+            "中国能源政策"
+          ],
+          "background": "虚拟电厂（VPP）将风能、太阳能、储能和柔性负荷等分布式能源资源聚合起来，像单一电厂一样运作，无需建设实体发电机组即可提供电网平衡和市场服务。中国正在快速扩展虚拟电厂，截至2026年6月全国已建成投运592个虚拟电厂，提前完成国家指导意见设定的2027年目标。油田在绿色转型过程中越来越多地采用虚拟电厂，例如华北油田在河北的负荷型虚拟电厂试点。",
+          "references": [
+            {
+              "title": "风光蓄能 智电增效 吉林油田虚拟电厂拿下新突破-新华网",
+              "url": "http://www.jl.xinhuanet.com/20261127/4c5b277776654700835bb0adc99c6a72/c.html"
+            },
+            {
+              "title": "聚合分散资源 释放协同价值——《中国 虚 拟 电 厂 发展报告（2026...",
+              "url": "https://www.nea.gov.cn/20261119/a7a1daae1c6e4657ad807f2509dd2e5b/c.html"
+            },
+            {
+              "title": "华北油田虚拟电厂项目 - 百度百科",
+              "url": "https://baike.baidu.com/item/%E5%8D%8E%E5%8C%97%E6%B2%B9%E7%94%B0%E8%99%9A%E6%8B%9F%E7%94%B5%E5%8E%82%E9%A1%B9%E7%9B%AE/69768530"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "headline": "尽管存在分歧，OPEC+预计将维持2027年第一季度产量不变",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN09aanVMR09NMVRCaFZFY2JFdlQtTTRTTGNWSkFhc1hNMmNodnY5bDVPSExrWjVmRUIwb3hON2loVVUyalBaUWVpbDFNb2JRZERRSVZJZjVnVmp3c2VYRDJrNUhFdGc3bDBJLVVMQXQzYW5KcE0yWF94OXAzelQ1Wlc5RVMxNEg1N1FEYkRGQU4ybXBxRWs5dDVLYmNtbG9rd2NNQ2hoSkFhSjJfZlg3RTZFWVJIcTdqX1Bod1VB?oc=5",
+          "tldr": "据Al-Monitor报道，尽管成员国之间仍存在分歧，OPEC+预计将维持2027年第一季度的产量水平不变。",
+          "summary": "据Al-Monitor报道，尽管成员国之间仍存在分歧，OPEC+预计将维持2027年第一季度的产量水平不变。这一决定将延续该组织当前的供应政策，而非引入新的转变。 OPEC+的产量决策直接影响全球油价、能源成本和通胀预期，波及全球消费者、企业及能源进口经济体。维持产量不变意味着供应管理的连续性，对市场稳定和石油行业的长期投资规划具有重要意义。 这一预期中的产量延续是在内部分歧背景下出现的，而一项将确定2027年新产量基准的关键产能评估预计于11月中旬完成，随后全体21个OPEC+成员国将于11月29日召开会议。近期产量目标还受到霍尔木兹海峡航运中断的干扰，该中断对全球石油流动的挤压超过了配额调整的影响。",
+          "source_type": "google_news",
+          "source_name": "Al-Monitor",
+          "published": "11月27日 16:42",
+          "score": 6.0,
+          "tags": [
+            "OPEC+",
+            "oil production",
+            "energy policy",
+            "global oil markets",
+            "supply management"
+          ],
+          "background": "OPEC+是一个由21个石油生产国组成的组织，包括沙特阿拉伯、俄罗斯和伊拉克等，通过协调产量配额来管理全球石油供应和价格。该组织定期审查成员国的产能，以确定未来配额的基准。其决策受到交易商和政府密切关注，因为可能引发油价波动并影响能源安全。",
+          "references": [
+            {
+              "title": "OPEC+ Data Deck (October 2026) - by Rory Johnston",
+              "url": "https://www.commoditycontext.com/p/opec-data-deck-october-2026"
+            },
+            {
+              "title": "Opec+ ’s largest members head for clash over oil production estimates",
+              "url": "https://www.ft.com/content/b24d5c8c-4c9b-48f0-b4a8-5f83eee2d3e9?syn-25a6b1a6=1"
+            },
+            {
+              "title": "OPEC+ keeps December oil output steady as Gulf... - Indiana Leader",
+              "url": "https://indianaleader.com/opec-keeps-december-oil-output-steady-gulf-risks/"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "headline": "专访李作敏：零碳运输走廊如何打通车、能、路、云？",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UTnZOVzJBWVR5bU5KTEFiRFE5N1VxUUFzNEFqdVU3S295RFVnUUM4Um4xSjh4NlpMQjFUWXpqWkhjM3NWVHRwZGY4QUhjVUV2azE2TDhNa3lUaWpRWTNXSmNWUFJmNGxJNFRYTExZWkZaUQ?oc=5",
+          "tldr": "中国交通运输协会副会长李作敏在接受新浪手机专访时，探讨了零碳运输走廊如何打通车、能、路、云。",
+          "summary": "中国交通运输协会副会长李作敏在接受新浪手机专访时，探讨了零碳运输走廊如何打通车、能、路、云。他阐述了“车能路云”融合发展的概念，作为交通领域实现脱碳的框架。 此次讨论凸显了中国推动汽车、能源和信息产业融合以减少交通碳排放的战略。它预示着可能影响未来基础设施投资和技术标准的政策方向和产业合作。 专访强调需要在四个领域协同发展：车辆（尤其是新能源汽车）、能源系统、智慧道路和云计算平台。它可能涉及基础设施兼容性、数据共享和政策支持等挑战。",
+          "source_type": "google_news",
+          "source_name": "手机新浪网",
+          "published": "11月27日 09:51",
+          "score": 6.0,
+          "tags": [
+            "零碳运输",
+            "能源政策",
+            "交通脱碳",
+            "车能路云",
+            "中国"
+          ],
+          "background": "“车能路云”是“车路云”的升级版，将能源产业与智能网联汽车和智慧交通基础设施融合。该概念于2023年6月在中国国务院常务会议上正式提出，2024年启动了车路云一体化应用试点。零碳运输走廊旨在通过优化这些要素的互动来实现净零排放。",
+          "references": [
+            {
+              "title": "车能路云 - 百度百科",
+              "url": "https://baike.baidu.com/item/%E8%BD%A6%E8%83%BD%E8%B7%AF%E4%BA%91/67406291"
+            },
+            {
+              "title": "未来可期｜车能路云：交通、能源、科技三者如何融合",
+              "url": "https://www.thepaper.cn/newsDetail_forward_23957873"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ai-tech",
+      "title": "🤖 AI 科技",
+      "items": [
+        {
+          "rank": 11,
+          "headline": "谷歌DeepCrossAttention实现模型质量相当，速度提升高达3倍",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "tldr": "谷歌研究院提出了DeepCrossAttention（DCA），这是一种对Transformer残差连接的改进，为Query、Key和Value组件增加了输入相关的深度交叉注意力，从而在模型质量相当的…",
+          "summary": "谷歌研究院提出了DeepCrossAttention（DCA），这是一种对Transformer残差连接的改进，为Query、Key和Value组件增加了输入相关的深度交叉注意力，从而在模型质量相当的情况下实现高达3倍的速度提升。 这一架构改进可能大幅降低大型语言模型的训练和推理成本，使AI更加高效和可及，并可能影响未来整个行业的Transformer设计。 DCA通过在每個解码器块中添加三个独立的GRN实例（具体为GRN-v3）来泛化自注意力，利用交叉注意力细化残差连接；该方法在arXiv论文（2502.06785）中详细描述，并且与MTP和Dflash等技术结合时可能进一步提升推理速度。",
+          "source_type": "hackernews",
+          "source_name": "ComputedCamp995",
+          "published": "11月27日 23:06",
+          "score": 8.0,
+          "tags": [
+            "transformers",
+            "deep learning",
+            "model efficiency",
+            "Google Research",
+            "attention mechanisms"
+          ],
+          "background": "Transformer模型依赖残差连接（跳跃连接）来有效训练深度网络，因为它们为梯度流动提供了捷径。注意力机制允许模型权衡不同token的重要性。DeepCrossAttention通过引入跨深度的交叉注意力来修改这些残差连接，可能改善信息流动和效率。",
+          "discussion": "评论者将DCA与DenseNet进行比较，并推测将其与现有的加速方法（如MTP和Dflash）结合以实现更大的收益。一些人注意到Gemini Neon的实际性能，认为此类架构改进可能解释了其成本效益和速度。",
+          "references": [
+            {
+              "title": "DeepCrossAttention : Supercharging Transformer Residual Connections",
+              "url": "https://arxiv.org/html/2502.06785"
+            },
+            {
+              "title": "Supercharging transformer residual connections - Google Research",
+              "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+            },
+            {
+              "title": "Why Are Residual Connections Important in Transformer ...",
+              "url": "https://www.baeldung.com/cs/transformer-networks-residual-connections"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50672565"
+        },
+        {
+          "rank": 12,
+          "headline": "热门购物网站发现基于WebRTC的信用卡盗刷脚本",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+          "tldr": "安全研究人员在热门购物网站上发现了滥用WebRTC数据通道的信用卡盗刷脚本，这些脚本利用WebRTC接收载荷并外泄窃取的支付数据，且出现时间恰逢黑色星期五。",
+          "summary": "安全研究人员在热门购物网站上发现了滥用WebRTC数据通道的信用卡盗刷脚本，这些脚本利用WebRTC接收载荷并外泄窃取的支付数据，且出现时间恰逢黑色星期五。该盗刷脚本能够绕过内容安全策略（CSP）和传统的基于HTTP的监控工具。 这一发现凸显了一种重要的规避技术，它削弱了CSP等标准Web安全控制，使网购用户和电商网站面临风险。它强调了第三方脚本的持续危险以及加强对非HTTP通道监控的必要性。 该盗刷脚本使用不受CSP规则约束的WebRTC数据通道，即使在安全网站上也能绕过防护。由于该技术较少被监控恶意行为，检测更加困难，而且攻击者还针对监控更难的移动设备。",
+          "source_type": "hackernews",
+          "source_name": "scanr",
+          "published": "11月27日 15:40",
+          "score": 7.0,
+          "tags": [
+            "web-security",
+            "credit-card-skimming",
+            "WebRTC",
+            "malware",
+            "e-commerce"
+          ],
+          "background": "WebRTC是一种浏览器API，支持实时点对点通信，包括可以在传统HTTP请求之外发送和接收任意数据的数据通道。内容安全策略（CSP）是一种安全响应头，用于限制页面可以加载的资源，但它不控制WebRTC连接。信用卡盗刷脚本是注入到结账页面的恶意脚本，通常通过被入侵的第三方服务实现，用于在用户输入支付信息时窃取数据。",
+          "discussion": "评论者指出，这种攻击与WebRTC的技术能力无关，关键在于规避监控，类似的攻击也可以使用简单的HTTP请求；根本问题在于嵌入第三方脚本。还有人主张Web设计应让服务器只提供数据，由浏览器决定如何处理，并批评在非对称加密已存在数十年的情况下支付仍使用对称密钥。一位用户分享了黑色星期五购物后银行卡被冻结的个人经历。",
+          "references": [
+            {
+              "title": "Researchers uncover WebRTC skimmer bypassing traditional defenses",
+              "url": "https://securityaffairs.com/190002/malware/researchers-uncover-webrtc-skimmer-bypassing-traditional-defenses.html"
+            },
+            {
+              "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E ...",
+              "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"
+            },
+            {
+              "title": "Novel WebRTC skimmer bypasses security controls at $100 ...",
+              "url": "https://sansec.io/research/webrtc-skimmer"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50668145"
+        },
+        {
+          "rank": 13,
+          "headline": "Convex AI 插件被指未经披露将用户应用创意发送至远程服务器",
+          "url": "https://github.com/convex/convex-backend-skill/issues/64",
+          "tldr": "一份 GitHub issue（convex/convex-backend-skill#64）指控 Convex 的 AI 插件在未明确披露的情况下将用户的应用创意上传至远程服务器。",
+          "summary": "一份 GitHub issue（convex/convex-backend-skill#64）指控 Convex 的 AI 插件在未明确披露的情况下将用户的应用创意上传至远程服务器。Convex CEO Jamie 回应称，该提示上传功能用于支持 Convex 的“quickstart”功能，是已关闭的 Convex Chef 氛围编程产品的后继者。 该事件凸显了 AI 辅助开发工具中日益增长的隐私与透明度担忧，便利功能可能在用户不知情的情况下传输敏感数据。这会影响使用此类插件的开发者，并可能推动团队转向自托管或开放权重替代方案。 该 issue 引发了 78 条评论，包括 Convex CEO 的直接回应，以及关于提示注入风险和自托管开放权重模型的讨论。评论者指出，提示注入比模型自行发起恶意工具调用更为常见，但并未指控存在恶意意图。",
+          "source_type": "hackernews",
+          "source_name": "MickyTheMouse",
+          "published": "11月27日 18:02",
+          "score": 7.0,
+          "tags": [
+            "AI privacy",
+            "developer tools",
+            "prompt injection",
+            "open-weight models",
+            "transparency"
+          ],
+          "background": "Convex 是一个用于构建和托管应用的全栈 TypeScript 平台，提供实时数据库和 AI 网关。提示注入是一种网络安全攻击方式，通过精心构造的输入使大语言模型产生意外行为；开放权重模型是指训练参数公开释放、可供任何人下载使用的 AI 模型。",
+          "discussion": "讨论活跃且观点多样：Convex CEO 澄清了该功能的用途，一位评论者认为自托管开放权重模型是长期解决方案，另一位指出提示注入比恶意工具调用更常见，还有人以“创意不值钱”来淡化这一担忧。",
+          "references": [
+            {
+              "title": "Convex Agent Plugins | Convex Developer Hub",
+              "url": "https://docs.convex.dev/ai/convex-plugins"
+            },
+            {
+              "title": "Prompt injection - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Prompt_injection"
+            },
+            {
+              "title": "Open-weight model",
+              "url": "https://en.wikipedia.org/wiki/Open-weight_model"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50669765"
+        },
+        {
+          "rank": 14,
+          "headline": "Atari Homebrew Awards因AI生成作品涌入而取消",
+          "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+          "tldr": "由ZeroPage Homebrew组织、在AtariAge论坛上举办的第九届Atari Homebrew Awards已被取消，原因是组织者发现无法公平地区分人类制作与AI生成或AI辅助的游戏作品。",
+          "summary": "由ZeroPage Homebrew组织、在AtariAge论坛上举办的第九届Atari Homebrew Awards已被取消，原因是组织者发现无法公平地区分人类制作与AI生成或AI辅助的游戏作品。组织者James在AtariAge论坛上表示，完全排除AI、完全纳入AI以及设定AI截止线都不可行，导致2026年的奖项“无路可走”。 此次取消凸显了小众爱好者社区中人类创造力与AI之间日益加剧的紧张关系，表明即使是注重学习和乐趣的复古计算领域也无法免受AI的侵蚀。这引发了关于真实性、社区价值观以及创意竞赛如何适应AI生成内容泛滥时代的更广泛问题。 组织者指出，一些开发者每周发布多款AI辅助游戏，使参赛作品更难评估，而Pangram等检测工具在散文上效果不错，但对代码并不可靠。该奖项已举办八年，第九届原本旨在表彰为旧款Atari硬件制作的社区游戏。",
+          "source_type": "hackernews",
+          "source_name": "bpierre",
+          "published": "11月28日 02:03",
+          "score": 6.0,
+          "tags": [
+            "AI",
+            "homebrew",
+            "retro-computing",
+            "community",
+            "ethics"
+          ],
+          "background": "Atari Homebrew Awards旨在表彰爱好者为经典Atari游戏机和电脑制作的新游戏，这一领域的开发者编写软件是为了学习硬件的乐趣而非商业利益。Homebrew游戏通常以卡带或CD形式分发，包装常模仿官方发行版。该奖项由ZeroPage Homebrew组织，并在Atari爱好者主要聚集地AtariAge上举办。",
+          "discussion": "评论者表达了悲伤和沮丧，一些人赞扬组织者在原始条件不复存在时选择退出。其他人则惊讶于以乐趣和学习为目的的复古计算社区竟会受到AI影响，并想知道国际混淆C代码竞赛等类似比赛是否也会遭遇同样命运。一位评论者指出，检测代码中的AI很困难，因为语义等价的改写可能逃避检测。",
+          "references": [
+            {
+              "title": "Atari Homebrew Awards Canceled Over Torrent Of AI ... - Kotaku",
+              "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096"
+            },
+            {
+              "title": "\"Only to humans who coded their own games\": 9th Atari ...",
+              "url": "https://www.notebookcheck.net/Only-to-humans-who-coded-their-own-games-9th-Atari-Homebrew-Awards-suspended-as-AI-made-games-swamp-the-retro-scene.1461019.0.html"
+            },
+            {
+              "title": "'I Saw No Path Forward' - Atari Homebrew Awards Cancelled ...",
+              "url": "https://www.timeextension.com/news/2026/11/i-saw-no-path-forward-atari-homebrew-awards-cancelled-following-flood-of-ai-made-games"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50673688"
+        },
+        {
+          "rank": 15,
+          "headline": "9/UX：为9front打造的麦金塔风格桌面环境",
+          "url": "https://progrium.github.io/9ux/",
+          "tldr": "一位开发者发布了9/UX，这是一个为9front操作系统打造的麦金塔风格桌面环境，它通过9P协议实现了自动化的GUI测试。",
+          "summary": "一位开发者发布了9/UX，这是一个为9front操作系统打造的麦金塔风格桌面环境，它通过9P协议实现了自动化的GUI测试。该项目在Hacker News上分享后，因其复古界面和创新的测试方法而获得好评。 该项目展示了如何利用9P协议进行自动化GUI测试，可能为其他Plan 9衍生系统带来启发。同时，它也引起了人们对小众9front社区的关注，并展现了经典麦金塔界面设计的持久魅力。 GUI测试将h9嵌入无头屏幕，注入鼠标和键盘输入，并同时驱动9P文件，从而实现对图形界面的自动化测试。该桌面环境灵感来自经典麦金塔操作系统，但并非直接克隆，而是注重相似性而非完全复制。",
+          "source_type": "hackernews",
+          "source_name": "rbanffy",
+          "published": "11月27日 21:48",
+          "score": 6.0,
+          "tags": [
+            "9front",
+            "Plan 9",
+            "retro computing",
+            "desktop environment",
+            "GUI testing"
+          ],
+          "background": "Plan 9 from Bell Labs是贝尔实验室在20世纪80年代开发的一种分布式操作系统，它将Unix的“一切皆文件”隐喻扩展到以网络为中心的文件系统，其中文件代表窗口、网络连接和进程。9front是Plan 9的一个分支，继续开发并受到爱好者的欢迎。9P协议是Plan 9用于连接组件的网络协议，允许跨网络透明访问资源。",
+          "discussion": "评论者对该项目表示热情，一些人指出9P非常适合自动化测试，另一些人则欣赏受麦金塔启发的设计。一位评论者怀念选择菜单选项时闪烁高亮的效果，而另一位则称赞极简的rio窗口管理器，并认为其他界面相比之下显得臃肿。",
+          "references": [
+            {
+              "title": "9P (protocol)",
+              "url": "https://en.wikipedia.org/wiki/9P_%28protocol%29"
+            },
+            {
+              "title": "Plan 9 from Bell Labs",
+              "url": "https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs"
+            },
+            {
+              "title": "GitHub - copy/v86: x86 PC emulator and x86-to-wasm JIT, running in...",
+              "url": "https://github.com/copy/v86"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50672008"
+        },
+        {
+          "rank": 16,
+          "headline": "Show HN: bouncemarket——弹跳球的实时预测市场游戏",
+          "url": "https://bouncemarket.minhanhday.com/",
+          "tldr": "一位开发者推出了 bouncemarket，这是一个 Show HN 游戏，玩家可以交易预测模拟弹跳球将落在哪里，游戏采用服务器端确定性物理模拟，并配有 AI 交易者，当一轮中人类玩家超过五个时 AI…",
+          "summary": "一位开发者推出了 bouncemarket，这是一个 Show HN 游戏，玩家可以交易预测模拟弹跳球将落在哪里，游戏采用服务器端确定性物理模拟，并配有 AI 交易者，当一轮中人类玩家超过五个时 AI 交易者会退出。 该项目展示了预测市场机制在纯随机事件上的创造性应用，讨论还凸显了 AI 代理可能主导此类游戏，引发了关于机器人策略和预测市场本质的疑问。 球的整个下落过程在服务器端模拟，并通过服务器发送事件（SSE）以小型缓冲区流式传输给客户端，使得每一轮从起始位置开始就是确定性的且可回放，但起始位置的微小变化可能改变结果。",
+          "source_type": "hackernews",
+          "source_name": "mday404",
+          "published": "11月27日 15:01",
+          "score": 6.0,
+          "tags": [
+            "prediction markets",
+            "game development",
+            "AI agents",
+            "server-side simulation",
+            "Show HN"
+          ],
+          "background": "预测市场是参与者买卖与事件结果挂钩的合约的交易所，利用财务激励来聚合信息。服务器发送事件（SSE）是一种网络技术，允许服务器通过持久 HTTP 连接向浏览器推送实时更新。确定性模拟意味着给定相同的初始条件，模拟将始终产生相同的结果，这对于可重复性和分析很有用。",
+          "discussion": "评论者认为游戏很有趣，但指出下落速度太快，不利于舒适地下注，赔率在十分之一秒内从 0.01 跳到 0.99。一些人指出，忽略球并低价买入双方股票是一种有效策略，其他人则讨论了 AI 机器人可能精确求解游戏，将其变成机器人之间的战斗。",
+          "references": [
+            {
+              "title": "Server-sent events",
+              "url": "https://en.wikipedia.org/wiki/Server-sent_events"
+            },
+            {
+              "title": "Prediction market - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Prediction_market"
+            },
+            {
+              "title": "Deterministic system - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Deterministic_system"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50667726"
+        },
+        {
+          "rank": 17,
+          "headline": "AT&T Unix PC (3B1) 模拟器支持 TCP/IP 和应用",
+          "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+          "tldr": "Virtually Fun 上的一个新虚拟化项目忠实模拟了 1985 年的 AT&T Unix PC (3B1)，并支持可用的 TCP/IP 网络连接和一套应用程序，在窗口环境中运行 UNIX Sys…",
+          "summary": "Virtually Fun 上的一个新虚拟化项目忠实模拟了 1985 年的 AT&T Unix PC (3B1)，并支持可用的 TCP/IP 网络连接和一套应用程序，在窗口环境中运行 UNIX System V 3.51m 和 The Office。 该项目展示了人们对复古计算和模拟的持续兴趣，表明老式系统可以被保存并为现代用户提供网络功能，同时引发了关于早期 Unix 工作站的怀旧讨论。 模拟的 3B1 配备 10 MHz 摩托罗拉 68010（10 倍速）、4 MB 内存、720x348 单色显示器、195 MB 磁盘和 3B1 以太网板，所有应用程序都在可移动、可调整大小的窗口中运行。",
+          "source_type": "hackernews",
+          "source_name": "ok123456",
+          "published": "11月27日 19:40",
+          "score": 5.0,
+          "tags": [
+            "retrocomputing",
+            "emulation",
+            "unix",
+            "virtualization",
+            "AT&T"
+          ],
+          "background": "AT&T Unix PC，也称为 PC 7300 或 3B1，是 1985 年由 Convergent Technologies 开发、AT&T 销售的 Unix 桌面电脑。尽管名称相似，它与 AT&T 的 3B 系列计算机几乎没有共同之处，因为它基于摩托罗拉 68010 微处理器。3B1 的模拟可以追溯到 2010 年 Phil Pemberton 的 FreeBee 项目，多年来 Virtually Fun 报道了各种里程碑。",
+          "discussion": "评论者分享了温暖的怀旧之情，包括 AT&T 慷慨的保修支持和免费手册的故事，并提到了 3B1 的空闲指示灯在模拟中帮助 Mac 节省 CPU 的迷人细节。其他人澄清 3B2 与 3B1 几乎没有共同之处，还有人回忆起在工作中使用 7300 的经历。",
+          "references": [
+            {
+              "title": "AT&T UNIX PC - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/AT&amp;T_UNIX_PC"
+            },
+            {
+              "title": "3B series computers - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/3B_series_computers"
+            },
+            {
+              "title": "The Ultimate AT&T UNIX PC (3B1) VM w/TCP/IP and Apps!",
+              "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
+            }
+          ],
+          "discussion_url": "https://news.ycombinator.com/item?id=50670841"
+        }
+      ]
+    },
+    {
+      "key": "big-tech",
+      "title": "🏢 大厂要闻",
+      "items": [
+        {
+          "rank": 18,
+          "headline": "OpenAI 反诉苹果窃取商业机密，AI 硬件竞争白热化",
+          "url": "http://www.geekpark.net/news/374621",
+          "tldr": "当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。",
+          "summary": "当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。此前今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI，随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。 这场诉讼关系到未来 AI 设备由谁主导，这类设备可能不再依赖传统的应用程序或操作系统，一旦成功，可能分走消费者对苹果最畅销产品 iPhone 的关注。它凸显了 AI 与消费硬件巨头之间日益激烈的竞争。 OpenAI 在诉状中称，苹果这样做是为了「不择手段地进行不公平竞争」，并指控苹果利用自身的「规模和财力来阻碍竞争」，存在「各种违法、不公平和侵权行为」。据报道，OpenAI 正准备推出一系列新的个人设备，并称这些设备有望「在苹果视为自家地盘的领域胜过苹果」。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "11月28日 00:53",
+          "score": 8.0,
+          "tags": [
+            "OpenAI",
+            "Apple",
+            "AI硬件",
+            "诉讼",
+            "iPhone 18"
+          ],
+          "background": "OpenAI 和苹果在 AI 硬件领域的竞争日益激烈。以 ChatGPT 闻名的 OpenAI 正在开发自己的 AI 设备，而苹果也在为其产品开发 AI 功能。这场法律战的核心是有关硬件开发的商业机密被窃取的指控。",
+          "references": [
+            {
+              "title": "Apple sues OpenAI , alleging artificial intelligence company stole trade ...",
+              "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets"
+            },
+            {
+              "title": "OpenAI’s New Device: What We Know So Far | Built In",
+              "url": "https://builtin.com/articles/openai-device"
+            }
+          ]
+        },
+        {
+          "rank": 19,
+          "headline": "宝马新世代i3广州车展上市，24.99万元起，续航1028km",
+          "url": "https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign",
+          "tldr": "宝马在2025年广州车展上正式发布了新世代i3，起售价为24.99万元，CLTC纯电续航里程最高可达1028公里。",
+          "summary": "宝马在2025年广州车展上正式发布了新世代i3，起售价为24.99万元，CLTC纯电续航里程最高可达1028公里。 此次上市标志着宝马基于Neue Klasse平台的首款量产车型在中国市场落地，其具有竞争力的价格和同级领先的续航能力，将在全球最大的电动汽车市场挑战传统竞争对手和本土电动车制造商。 1028公里的续航数据基于CLTC循环，该标准通常比WLTP或EPA更为乐观；实际续航可能更低，不过有试驾报告称其实际续航比CLTC数据高出约18%。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月27日 16:41",
+          "score": 7.0,
+          "tags": [
+            "BMW",
+            "electric vehicle",
+            "auto show",
+            "new car launch",
+            "EV range"
+          ],
+          "background": "Neue Klasse（德语意为“新阶级”）是宝马的下一代电动汽车平台，搭载第六代eDrive系统和全新开发的圆柱形电池电芯，相比前代车型可将充电效率和续航里程提升高达30%。i3这一名称此前曾用于一款紧凑型城市电动车，但这款新车型是基于全新架构打造的完全不同的车辆。",
+          "references": [
+            {
+              "title": "BMW Vision Neue Klasse - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/BMW_Vision_Neue_Klasse"
+            },
+            {
+              "title": "The Neue Klasse: The BMW Group enters a new era",
+              "url": "https://www.bmwgroup.com/en/company/neue-klasse.html"
+            },
+            {
+              "title": "BMW i 3 Covers 1,213 km, but Real-World Range Is Different",
+              "url": "https://www.latestevnews.com/articles/bmw-i3-covers-1213-km-but-real-world-range-is-different"
+            }
+          ]
+        },
+        {
+          "rank": 20,
+          "headline": "问界新M7亮相广州车展：升级800V与三联屏，30.98万元起",
+          "url": "https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign",
+          "tldr": "问界在广州车展上发布了新M7，该车采用800V高压快充架构和三联屏内饰布局，起售价为30.98万元。",
+          "summary": "问界在广州车展上发布了新M7，该车采用800V高压快充架构和三联屏内饰布局，起售价为30.98万元。 作为问界的拳头产品，新M7升级800V和三联屏将增强华为在高端电动车领域的竞争力，并给30万元级SUV市场的对手带来更大压力。 800V架构可大幅提升充电速度，三联屏预计包括全液晶仪表、中控屏和副驾娱乐屏；但简短的通告未公布续航里程、充电时间或动力系统等具体参数。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月27日 08:01",
+          "score": 7.0,
+          "tags": [
+            "AITO",
+            "Huawei",
+            "electric vehicles",
+            "800V",
+            "auto show"
+          ],
+          "background": "AITO（问界）是赛力斯集团与华为合作打造的智能电动车品牌，华为主导设计并提供鸿蒙座舱等技术。M7是一款中型SUV，是该品牌的销量担当。800V高压平台是行业趋势，通过支持更高功率充电来缩短充电时间，有助于缓解续航焦虑。",
+          "references": [
+            {
+              "title": "AITO M 7 - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/AITO_M7"
+            },
+            {
+              "title": "Seres Group - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Seres_Group"
+            },
+            {
+              "title": "What is EV 800 V fast charging ? - CMVTE EV Conversion Kits",
+              "url": "https://cmvte.com/what-is-ev-800v-fast-charging/"
+            }
+          ]
+        },
+        {
+          "rank": 21,
+          "headline": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+          "url": "https://www.tmtpost.com/8221273.html",
+          "tldr": "文章指出AI服务器行业存在一个结构性矛盾：尽管需求爆发、销量飙升，但服务器制造商却面临利润空间被挤压和股价大幅下跌，部分股价甚至腰斩。",
+          "summary": "文章指出AI服务器行业存在一个结构性矛盾：尽管需求爆发、销量飙升，但服务器制造商却面临利润空间被挤压和股价大幅下跌，部分股价甚至腰斩。文章认为这种利润挤压尚未完全体现在财报中。 这一点很重要，因为它揭示了AI硬件供应链的一个关键趋势：价值和利润越来越向上游（如英伟达等芯片设计商）集中，而下游的服务器组装商却难以从繁荣中获利。投资者和行业观察者需要重新评估戴尔、超微、浪潮等服务器厂商的盈利能力和估值逻辑。 文章指出，这种利润挤压是“一场还没有完全出现在报表里的利润挤压”，暗示当前财报可能尚未完全反映利润率压力的程度。这意味着市场估值已经在定价未来的盈利担忧，从而导致股价大幅下跌。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月28日 03:17",
+          "score": 7.0,
+          "tags": [
+            "AI服务器",
+            "大厂财报",
+            "产业链利润",
+            "股价波动",
+            "硬件制造"
+          ],
+          "background": "在AI热潮中，随着云提供商和企业建设用于训练和推理的基础设施，AI服务器需求激增。然而，AI服务器供应链严重依赖英伟达等公司的高成本组件（如GPU），这些组件享有高利润率。戴尔、超微、浪潮等服务器厂商负责组装这些组件，但面临激烈竞争和有限的定价权，导致收入增长但利润率微薄。",
+          "references": [
+            {
+              "title": "AI 泡沫原罪：英伟达是 AI 戒不掉的「毒丸」？| 投资界",
+              "url": "https://m.pedaily.cn/news/558116"
+            },
+            {
+              "title": "戴尔电话会： AI 服 务 器 积压订单突破1320亿美元， AI ...",
+              "url": "https://wallstreetcn.com/articles/3786641"
+            }
+          ]
+        },
+        {
+          "rank": 22,
+          "headline": "中国客车出海遭遇关税之外的非关税壁垒",
+          "url": "https://www.tmtpost.com/8220984.html",
+          "tldr": "随着中国客车在海外市场份额持续扩大，一些国家开始重新审视公交车采购政策，形成了比关税更复杂的壁垒。",
+          "summary": "随着中国客车在海外市场份额持续扩大，一些国家开始重新审视公交车采购政策，形成了比关税更复杂的壁垒。 这一变化影响中国商用车企业的全球扩张战略，并凸显了关键出口市场中本地化要求和采购政策调整等非关税壁垒日益增长的趋势。 报道未具体说明哪些国家或正在考虑哪些具体政策变化，但这些壁垒可能涉及本地化含量要求、公共采购规则或技术标准，而不仅仅是简单的关税。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月28日 02:22",
+          "score": 7.0,
+          "tags": [
+            "中国客车",
+            "出海",
+            "非关税壁垒",
+            "商用车",
+            "采购政策"
+          ],
+          "background": "非关税壁垒是除关税以外的贸易限制措施，如配额、本地化含量要求或技术标准。在公共采购中，政府可以通过本地化规则偏向国内供应商，从而有效限制外国竞争。中国汽车制造商在全球面临日益增加的贸易壁垒，促使它们采取本地化战略，如建厂和本地采购，以降低风险。",
+          "references": [
+            {
+              "title": "应对海外贸易壁垒！中国车企靠三大策略突围，出口量再创新高",
+              "url": "https://www.toutiao.com/article/7593557783321084456/"
+            },
+            {
+              "title": "欧洲贸易壁垒再起，中国汽车如何突围？ - FT中文网",
+              "url": "https://www.ftchinese.com/story/fa3fc842-94da-487a-8bcd-fd2fe73f2862"
+            },
+            {
+              "title": "当欧美设置贸易壁垒，中国车企如何通过本地化扎根海外市场？ (含视频)...",
+              "url": "https://news.sina.cn/bignews/insight/2026-04-26/detail-inhvvqry9724993.d.html?vt=4"
+            }
+          ]
+        },
+        {
+          "rank": 23,
+          "headline": "长鑫科技前十大流通股东大洗牌，外资股东至少套现80亿元",
+          "url": "https://www.tmtpost.com/8220923.html",
+          "tldr": "长鑫科技（CXMT）前十大流通股东中有9席发生变更，外资股东至少套现80亿元人民币。",
+          "summary": "长鑫科技（CXMT）前十大流通股东中有9席发生变更，外资股东至少套现80亿元人民币。 作为中国最重要的DRAM存储芯片厂商，长鑫科技的资本结构重大调整反映了外资投资情绪的变化，可能影响国内半导体供应链和资本市场。 报道未具体说明哪些外资股东退出或确切时间，但至少80亿元的套现规模表明主要机构投资者进行了大规模减持。",
+          "source_type": "rss",
+          "source_name": "钛媒体",
+          "published": "11月28日 02:02",
+          "score": 7.0,
+          "tags": [
+            "长鑫科技",
+            "DRAM存储芯片",
+            "股东变动",
+            "半导体产业",
+            "资本运作"
+          ],
+          "background": "DRAM（动态随机存取存储器）是一种易失性存储器，用于计算机和移动设备中的临时数据存储。长鑫科技是中国领先的DRAM制造商，被视为中国推动半导体自给自足的关键力量。流通股东是指持有可在股票市场上自由买卖的股份的投资者，其变动往往反映市场信心的变化。",
+          "references": [
+            {
+              "title": "存储龙头 长 鑫 科 技 冲击上市，哪些广东资本在提早布局？ - 21经济网",
+              "url": "https://www.21jingji.com/article/20260518/herald/f91466dc98a856a6f72ec5fd9b0ead67.html"
+            },
+            {
+              "title": "一年五倍，比白银还疯狂的 存 储 芯 片 ，究竟在炒 什 么 ？_ 内 存 _ 什 么 值得买",
+              "url": "https://post.smzdm.com/p/amoqmv6d/"
+            },
+            {
+              "title": "内 存 学习（3）： DRAM ...",
+              "url": "https://bianchenghao.cn/84819.html"
+            }
+          ]
+        },
+        {
+          "rank": 24,
+          "headline": "微软CEO纳德拉承认放缓应届生招聘，优先保障AI预算",
+          "url": "http://www.geekpark.net/news/374601",
+          "tldr": "在最近的 The Pragmatic Engineer 播客中，微软CEO萨提亚·纳德拉公开承认微软已放缓应届生招聘，并表示许多公司都在这样做。",
+          "summary": "在最近的 The Pragmatic Engineer 播客中，微软CEO萨提亚·纳德拉公开承认微软已放缓应届生招聘，并表示许多公司都在这样做。他解释称，首要任务是重新调配现有员工，构建人与AI协作的“软件工厂”模式，并在增加人手前先充分利用AI预算。 这标志着大型科技公司在资源分配上的重大转变，AI预算优先于初级招聘。它预示着劳动力规划的结构性变化，可能收窄应届生的职业路径，并重塑整个行业的组织层级。 微软最新财年全职员工减少约5000人至22.3万人，其中产品研发岗位减少3000人，为2016年以来首次年度下降。公司还首次向许多软件工程师提供自愿离职方案，7月约4800人的裁员进一步缩减了员工规模。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "11月27日 09:26",
+          "score": 7.0,
+          "tags": [
+            "Microsoft",
+            "AI",
+            "hiring",
+            "big tech",
+            "workforce"
+          ],
+          "background": "纳德拉的言论与他一月份在达沃斯的表态形成反差，当时他表示仍然相信校园招聘，因为AI可以充当新员工的导师。这一转变反映了更广泛的行业趋势：SignalFire报告显示，12家大型科技公司的初级招聘自2019年以来下降了约65%，麻省理工学院和斯坦福大学的研究也表明，AI的采用正在减少对初级岗位的需求。",
+          "references": [
+            {
+              "title": "The Pragmatic Engineer | Gergely Orosz | Substack",
+              "url": "https://newsletter.pragmaticengineer.com/podcast"
+            },
+            {
+              "title": "AI Native Company : Definition & Overview | Shieldbase",
+              "url": "https://shieldbase.ai/glossary/ai-native-company"
+            },
+            {
+              "title": "Factory | Agent-Native Software Development",
+              "url": "https://factory.com/"
+            }
+          ]
+        },
+        {
+          "rank": 25,
+          "headline": "B站2026年Q3营收83.2亿元，AI知识内容消费时长增长108%",
+          "url": "http://www.geekpark.net/news/374593",
+          "tldr": "B站发布2026年第三季度财报，总营收达83.2亿元（同比增长8%），调整后净利润8.3亿元；日均活跃用户1.24亿，月均活跃用户3.94亿，用户日均使用时长首次突破两小时，达到121分钟。",
+          "summary": "B站发布2026年第三季度财报，总营收达83.2亿元（同比增长8%），调整后净利润8.3亿元；日均活跃用户1.24亿，月均活跃用户3.94亿，用户日均使用时长首次突破两小时，达到121分钟。其中，AI知识内容消费时长同比增长108%，大模型真实场景实测相关投稿超过1.3万条，涉及100多个模型版本。 这表明B站正成功将自己打造为AI学习和实验的枢纽，将AI热潮转化为内容消费和创作者参与的新增长引擎。强劲的AI驱动参与度指标说明，内容平台可以通过围绕AI实际应用场景培育社区，从AI浪潮中受益，而非被其颠覆。 B站于9月上线了「AI无限竞技场」，由UP主自主出题测试大模型；其「Build in Bilibili·AI创造公开赛」吸引了1.34万名创作者参与，其中64%没有专业开发背景。此外，近半数DeepSeek Harness插件开发者在B站分享插件，DSH开源时GitHub插件榜Star数第一和第三的作品均出自B站UP主之手。",
+          "source_type": "rss",
+          "source_name": "极客公园",
+          "published": "11月27日 08:29",
+          "score": 7.0,
+          "tags": [
+            "B站",
+            "财报",
+            "AI教育",
+            "内容平台",
+            "用户增长"
+          ],
+          "background": "B站是中国领先的视频分享平台，以其UGC生态和UP主（上传者）闻名，内容覆盖游戏、科技、知识、生活等多个分区。在AI时代，B站已成为AI教程、产品测评和创意应用的热门目的地，用户纷纷前来学习和尝试新的AI工具。B站传统上在深度测评和教程方面的优势自然延伸到了AI相关内容，吸引了资深创作者和新手。",
+          "references": [
+            {
+              "title": "Up主 - 維基百科，自由的百科全書 - zh.wikipedia.org",
+              "url": "https://zh.wikipedia.org/zh-tw/Up%E4%B8%BB"
+            },
+            {
+              "title": "UP主 - 百度百科",
+              "url": "https://baike.baidu.com/item/UP%E4%B8%BB/254084"
+            }
+          ]
+        },
+        {
+          "rank": 26,
+          "headline": "本田冠道变身全球旗舰，搭载Momenta智驾亮相广州车展",
+          "url": "https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign",
+          "tldr": "在2026年广州车展上，本田发布了全新一代冠道（AVANCIER）原型车，该车从中国特供车型转变为本田全球旗舰SUV，并引入三排七座布局。",
+          "summary": "在2026年广州车展上，本田发布了全新一代冠道（AVANCIER）原型车，该车从中国特供车型转变为本田全球旗舰SUV，并引入三排七座布局。国产版将搭载基于Momenta技术的智能驾驶辅助系统。 这标志着外国车企采用中国智能驾驶供应商，并将中国特供车型重新定义为全球车型，显示出中国智能驾驶技术在全球汽车行业中的影响力日益增强。 新一代冠道基于本田全新的中型车平台打造，并采用最新一代混动系统，但关于Momenta智驾系统的具体技术细节和性能参数在预告中并未披露。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月27日 12:20",
+          "score": 6.0,
+          "tags": [
+            "Honda",
+            "Momenta",
+            "autonomous driving",
+            "Guangzhou Auto Show",
+            "China auto market"
+          ],
+          "background": "Momenta是一家成立于2016年的中国自动驾驶公司，提供高级驾驶辅助系统解决方案，以其“数据飞轮”方法闻名。本田冠道最初于2016年左右推出，是专为中国市场打造的大五座SUV。广州车展是中国重要的年度汽车展览会，车企在此展示新车型和新技术。",
+          "references": [
+            {
+              "title": "中国特供车，竟成了本田新旗舰？_腾讯新闻",
+              "url": "https://news.qq.com/rain/a/20261121A06PMS00"
+            },
+            {
+              "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车...",
+              "url": "https://www.ifanr.com/1695948"
+            },
+            {
+              "title": "Momenta（中国主营辅助驾驶解决方案的有限责任公司）_百度百科",
+              "url": "https://baike.baidu.com/item/Momenta/20219244"
+            }
+          ]
+        },
+        {
+          "rank": 27,
+          "headline": "长安发布天枢领航Ultra 2.0，启源Q06迎来升级",
+          "url": "https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign",
+          "tldr": "在2026年广州车展上，长安汽车正式发布了天枢领航Ultra 2.0智能驾驶系统，启源Q06迎来重大升级。",
+          "summary": "在2026年广州车展上，长安汽车正式发布了天枢领航Ultra 2.0智能驾驶系统，启源Q06迎来重大升级。同时，长安宣布将于明年1月中旬通过OTA推送“车位到车位”功能。 这标志着高阶智能驾驶功能向15万级家用车市场下探的重要一步，有望加速智能驾驶在主流消费者中的普及。同时，这也反映出中国车企在主流智能驾驶领域的竞争日趋激烈。 天枢领航Ultra 2.0采用升级的端到端架构，城区智能驾驶能力显著提升。车位到车位功能计划于明年1月中旬通过OTA推送，同时Pro版将新增城区NCA（导航巡航辅助）功能，让更多用户享受高阶智驾体验。",
+          "source_type": "rss",
+          "source_name": "爱范儿",
+          "published": "11月27日 12:16",
+          "score": 6.0,
+          "tags": [
+            "智能驾驶",
+            "长安汽车",
+            "广州车展",
+            "启源Q06",
+            "车企动态"
+          ],
+          "background": "天枢领航是长安汽车自研的智能驾驶系统，于今年9月首次发布。Ultra 2.0是聚焦端到端AI的重要迭代版本，能够直接处理传感器数据来控制车辆，提升在复杂城市场景下的响应能力。“车位到车位”功能允许车辆从一个停车位自动行驶到另一个停车位，包括在停车场和公共道路上的导航，是迈向更高阶自动驾驶的关键里程碑。",
+          "references": [
+            {
+              "title": "2026广州车展：长安汽车正式发布天枢领航Ultra 2.0-新浪汽车",
+              "url": "https://auto.sina.com.cn/newcar/2026-11-28/detail-inkafazy5366031.shtml"
+            },
+            {
+              "title": "2026广州车展：端到端能力再跃升 长安汽车天枢领航Ultra 2.0发布",
+              "url": "https://www.autohome.com.cn/news/202611/1318685.html"
+            },
+            {
+              "title": "长安汽车天枢领航Ultra 2.0发布：全面升级的智能驾驶体验即将到来！_...",
+              "url": "https://www.sohu.com/a/1107021187_122004016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "customer-service",
+      "title": "🎧 客服行业动态",
+      "items": [
+        {
+          "rank": 28,
+          "headline": "新国标落地近三个月，转人工客服为何依然难？",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50V2FuVXRqOFJvVjFnbXcyR1kzTGg0WUlDNDVyZk9xS0NWb1RNZnNFVC1aUGpyNXl3NlZRb3N6SjVvdmdaSWVFSTA0MzVxdWt1SUJWS3ozQW9qci1pSEpWYVFkc190TlY1alYtQVAtS0taME9CdmFZUQ?oc=5",
+          "tldr": "央视网报道，我国首个客服领域国家标准《顾客联络服务 人工与智能客户服务协同要求》于2026年9月1日实施近三个月后，消费者仍难以联系人工客服，AI客服反复拦截转人工请求。",
+          "summary": "央视网报道，我国首个客服领域国家标准《顾客联络服务 人工与智能客户服务协同要求》于2026年9月1日实施近三个月后，消费者仍难以联系人工客服，AI客服反复拦截转人工请求。该标准为推荐性国家标准，旨在保障消费者便捷转接人工，但并非强制性要求。 转人工难影响数以百万计寻求物流、订单和纠纷帮助的消费者，凸显了监管意图与企业实践之间的差距。这也引发了关于客服行业责任界定和人机协同边界的讨论，而该行业正日益依赖自动化来降低成本。 该标准为推荐性国家标准，不具备强制执行力，企业仍可能通过层层语音菜单、AI重复话术以及引导至App或线上工单等方式阻碍人工接触。媒体实测发现，即使多次发送“转人工”，部分平台仍以“服务繁忙”或“请先描述问题”等话术拦截。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 18:57",
+          "score": 7.0,
+          "tags": [
+            "客服行业",
+            "新国标",
+            "人工客服",
+            "消费者权益",
+            "政策实施"
+          ],
+          "background": "中国客服行业越来越多地采用AI客服来处理大量咨询，但消费者往往难以绕过自动系统联系到人工。为此，我国出台了首个关于人工与智能客服协同的国家标准，对何时以及如何将客户转接给人工坐席提出了要求。然而，作为推荐性标准，它主要依靠行业自律而非法律强制力来落实。",
+          "references": [
+            {
+              "title": "转人工！转人工！新国标落地近3个月，找人工客服为何还这么难？_新闻...",
+              "url": "https://news.cctv.com/2026/11/28/ARTIk02kb0UCy3pgzLrFKqnD261127.shtml"
+            },
+            {
+              "title": "AI 客 服 转 人 工 为何要等6分钟？ 新 国 标 强制一键转接能否终结“ 客 服 躲猫猫”",
+              "url": "https://k.sina.com.cn/article_7879777294_1d5abdc0e06801wq6g.html"
+            },
+            {
+              "title": "明明选了转人工，还是AI在回话？记者实测AI客服转人工堪比闯关！想转...",
+              "url": "https://news.qq.com/rain/a/20261117A0D22A00"
+            }
+          ]
+        },
+        {
+          "rank": 29,
+          "headline": "AI客服假扮真人引发用户不满",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWeUZLTWEwZE94aWdHVXlHMFJKSHc1LTZsbTZ1Ykg4OUF6QTBnOFJweks0TG92dEpXX3lQWkd0NHlHWXlKTEhIU1FmWVowdHZPMXM4b3pFQXdVV1RkVG9kR2NjWGRyM3Jja0E?oc=5",
+          "tldr": "文章聚焦于AI客服机器人假扮真人客服的现象，导致用户不满并频繁要求“转人工”。",
+          "summary": "文章聚焦于AI客服机器人假扮真人客服的现象，导致用户不满并频繁要求“转人工”。文中讨论了这种欺骗性做法及其对用户和行业的影响。 这一问题至关重要，因为它侵蚀了客户服务中的信任，并引发了关于透明度的伦理担忧。随着AI聊天机器人日益普及，企业必须在自动化与诚实之间取得平衡，以维持客户满意度并遵守新规。 文章可能指出，许多聊天机器人被设计成模仿人类回复而不明确披露身份，导致用户在发现真相后感到被欺骗。它还可能提到用户陷入无限循环以及难以联系到人工客服的挫败感。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 08:56",
+          "score": 7.0,
+          "tags": [
+            "AI客服",
+            "客户体验",
+            "行业伦理",
+            "服务透明度",
+            "客服行业"
+          ],
+          "background": "AI客服机器人是使用自然语言处理来模拟与用户对话的自动化程序。企业部署它们来处理常规咨询、降低成本并提供24/7支持。然而，当机器人假扮真人时，可能会破坏用户信任，并且在某些司法管辖区违反披露的法律要求。",
+          "references": [
+            {
+              "title": "AI Chatbot Disclosure Laws by State (2026): US and EU Guide",
+              "url": "https://www.conferbot.com/blog/ai-chatbot-disclosure-laws-compliance-guide"
+            },
+            {
+              "title": "AI impersonation scams are exploding: Here's how to spot and ...",
+              "url": "https://heimdalsecurity.com/blog/ai-impersonation-scams-exploding-how-to-spot-and-stop/"
+            }
+          ]
+        },
+        {
+          "rank": 30,
+          "headline": "“双11”消费维权报告揭示退换货隐形门槛与AI投诉上升",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjVoakRyanF1Umh4NGRXeF9yZWJaMjAxaEJGTVNYd2VVNkhKczF5VkNvenRycFB0TVhkVHpGWFctZE51cjFwcUc4RDVzaE5DbHZSalBkMEFtQy16S0NzdFZERy1qTFpxVnYtT2JiYVE2LTMtVnlna3RBRlpFSm54RUVDUE9GMWprb2EtaFBVWQ?oc=5",
+          "tldr": "一份“双11”消费维权数据报告显示，消费者在退换货过程中遭遇隐形门槛，同时与AI相关的投诉（尤其是AI客服）持续增多。",
+          "summary": "一份“双11”消费维权数据报告显示，消费者在退换货过程中遭遇隐形门槛，同时与AI相关的投诉（尤其是AI客服）持续增多。报告将这些列为大促期间电商客服面临的主要挑战。 这些发现表明，随着平台大规模部署AI客服，电商服务实践正面临越来越多的监管和消费者审视。零售商和客服服务商需要解决退换货政策不透明和AI责任归属问题，以避免声誉和合规风险。 该报告属于概要性数据分析，而非突破性研究，未给出具体投诉量或“隐形门槛”的具体机制。但它进一步印证了AI驱动的客服正成为消费纠纷中的一个摩擦点。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 17:29",
+          "score": 7.0,
+          "tags": [
+            "consumer rights",
+            "e-commerce",
+            "customer service",
+            "AI complaints",
+            "returns and exchanges"
+          ],
+          "background": "中国的“双11”是一年中最大的网购促销节，带来巨大的交易量和相应的售后请求激增。根据中国消费者保护规定，许多商品在特定期限内（如性能故障7日内）可选择退货、换货或修理，但电商平台往往会附加自身条件。随着平台越来越多地使用AI客服，监管部门和消协已开始关注AI答复与人工承诺冲突或被用来推卸责任的情况。",
+          "references": [
+            {
+              "title": "ws.cq.gov.cn/zwgk_165/hygq/202403/t20240315_13040563.html",
+              "url": "https://ws.cq.gov.cn/zwgk_165/hygq/202403/t20240315_13040563.html"
+            },
+            {
+              "title": "2026年上半年全国消协组织受理投诉情况分析显示——AI客服成消费投诉新...",
+              "url": "https://www3.xinhuanet.com/tech/20260817/f05985ebfc3b4a17bfbb774c62ada5ab/c.html"
+            },
+            {
+              "title": "AI客服成消费者投诉热点_中国经济网——国家经济门户",
+              "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260805_3130163.shtml"
+            }
+          ]
+        },
+        {
+          "rank": 31,
+          "headline": "儿童书包拉链头增塑剂超标68倍，品牌客服回应",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCMC0tRHRTSjNQQmJLRmRJNnJmSC14d1I3UTFjMkVwS2tkUElGUW4xT0owNno1VEU2UmpGa1FMM05QMkYtTEVqUlQ1SF9DU1VCX09BaW9ZWFRjdVdveFdPcVRFOGFMTW8z?oc=5",
+          "tldr": "检测发现某儿童书包的拉链头中增塑剂含量超标68倍，该品牌旗舰店客服已对此作出回应。",
+          "summary": "检测发现某儿童书包的拉链头中增塑剂含量超标68倍，该品牌旗舰店客服已对此作出回应。中国新闻网报道了这一事件，凸显了严重的 product safety 违规问题。 这一事件凸显了儿童产品中有害化学物质的持续隐患，迫使品牌确保供应链合规并进行透明的危机沟通。同时，它也提高了消费者对邻苯二甲酸酯暴露风险的认识，可能影响购买决策和监管审查。 邻苯二甲酸酯常用于软化PVC等塑料，可能从产品中迁移出来，对可能啃咬拉链头的儿童构成特殊风险。中国GB 6675玩具安全标准对塑料玩具及部件中的六种邻苯二甲酸酯设定了强制性限量，但拉链头等配件的执法和检测仍面临挑战。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 12:49",
+          "score": 6.0,
+          "tags": [
+            "customer service",
+            "product safety",
+            "children's products",
+            "crisis communication",
+            "consumer protection"
+          ],
+          "background": "邻苯二甲酸酯是一类用作增塑剂的化学物质，用于增加PVC等材料的柔韧性。它们是已知的内分泌干扰物，与生殖和发育健康影响有关，尤其是对儿童。包括中国在内的许多国家已限制其在儿童产品和玩具中的使用，以减少暴露。",
+          "references": [
+            {
+              "title": "Phthalates and Their Impacts on Human Health - PMC",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8157593/"
+            },
+            {
+              "title": "Standards for Toys Inspection · TradeAider",
+              "url": "https://www.tradeaiders.com/standards-for-toys-inspection.html"
+            }
+          ]
+        },
+        {
+          "rank": 32,
+          "headline": "雀巢奶粉检出呕吐毒素，客服回应称产品安全合规",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQktFNVNoR09scF8tZW1rSm5lZ0ZQVFVYMmE2ZnpiNXFtS0dheEhWd01UVG8yZ1Z3UVRsYjlIQmowYUZhM3U4MEJhOVg1OG8zVXo3Rjh3cHFoOVNDVlg1OTcyU1ZLRjVHZ3lpanFQc2RXMC1HVWlqWmFFelZ6NHlibFBKSGtKT0FJY0d3TlB6S2hFY1lZZ0tpSQ?oc=5",
+          "tldr": "雀巢奶粉中被检出呕吐毒素（蜡样芽孢杆菌毒素），雀巢客服回应称通过官方渠道进口销售的所有产品均安全合规。",
+          "summary": "雀巢奶粉中被检出呕吐毒素（蜡样芽孢杆菌毒素），雀巢客服回应称通过官方渠道进口销售的所有产品均安全合规。该事件引发家长对含ARA配方奶粉安全性的担忧。 这一事件凸显了大品牌在面临食品安全问题时危机沟通的挑战，客服回应直接影响消费者信任和监管审查。同时也强调了在家长高度焦虑的婴幼儿配方奶粉行业中，透明沟通的必要性。 此次涉及的呕吐毒素为蜡样芽孢杆菌产生的耐热毒素cereulide，对婴幼儿健康构成潜在严重风险。雀巢的回应强调只有官方进口产品是安全的，但未直接说明具体受污染批次或召回细节。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 09:58",
+          "score": 6.0,
+          "tags": [
+            "customer service",
+            "crisis communication",
+            "food safety",
+            "Nestlé",
+            "consumer trust"
+          ],
+          "background": "呕吐毒素通常指脱氧雪腐镰刀菌烯醇（DON），常见于小麦、玉米等谷物中，但此处指的是蜡样芽孢杆菌产生的cereulide毒素，可引发呕吐。婴幼儿配方奶粉可能通过ARA（花生四烯酸）等原料受到污染，若控制不当则存在风险。食品安全法规对此类毒素尤其在婴儿产品中设有严格限量。",
+          "references": [
+            {
+              "title": "Vomitoxin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vomitoxin"
+            },
+            {
+              "title": "雀 巢 奶 粉 被紧急召回，嘉必优股价暴跌1% #热点_婴儿 奶 粉 _什么值得买",
+              "url": "https://post.smzdm.com/p/ago7v0e7/"
+            },
+            {
+              "title": "奶 粉 、米 粉 蜡样芽胞杆菌 呕 吐 毒 素 的检测-微信文章-仪器谱",
+              "url": "https://ibook.antpedia.com/x/1035977.html"
+            }
+          ]
+        },
+        {
+          "rank": 33,
+          "headline": "芒果TV《后会友期》被指虚假宣传，预告片内容未现正片",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZktaWExvY2pWUWZfek1nSjROZjV1Y3pURDVuRlU1WndfSEpnclhTdHR4YUg5OXpvZkNfV1JMYkJOUmZrZXVrQWNXVW1OY1QtMS1nMzk3V0Y1d3Bhd19sMWZJS2NOcWlQc2dhdzJ0ZE9wYnVadkNoODFfZVpTWnZrSXlJZld4Mkt0Znd1Tw?oc=5",
+          "tldr": "有用户投诉芒果TV节目《后会友期》的预告片内容未在正片中出现，指责其涉嫌虚假宣传。",
+          "summary": "有用户投诉芒果TV节目《后会友期》的预告片内容未在正片中出现，指责其涉嫌虚假宣传。芒果TV客服对此作出回复，并有律师进行法律解读。 该事件凸显了流媒体平台如何处理关于误导性宣传内容的消费者投诉，这可能影响用户信任，并使平台面临广告法和消费者权益保护法下的法律风险。它为行业内的投诉处理和法律风险沟通提供了一个实际案例。 预告片中未出现在正片中的具体内容尚未详细说明，目前尚不清楚平台是否会提供退款或其他补救措施。律师的解读可能涉及此类差异是否构成中国法律下的虚假宣传。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月28日 03:32",
+          "score": 5.0,
+          "tags": [
+            "customer service",
+            "complaint handling",
+            "false advertising",
+            "streaming platform",
+            "consumer rights"
+          ],
+          "background": "在中国，虚假宣传受《广告法》规制，该法禁止误导性内容，消费者可依据《消费者权益保护法》寻求赔偿。流媒体平台常使用预告片吸引观众，预告片与实际内容不符可能导致纠纷。芒果TV是由芒果超媒运营的中国主要流媒体平台。",
+          "references": [
+            {
+              "title": "post.smzdm.com/p/ae6k7rxq",
+              "url": "https://post.smzdm.com/p/ae6k7rxq/"
+            },
+            {
+              "title": "cqnews.net/1/detail/1286022984995631104/app/content...",
+              "url": "https://www.cqnews.net/1/detail/1286022984995631104/app/content_1286022984995631104.html"
+            }
+          ]
+        },
+        {
+          "rank": 34,
+          "headline": "香港警方警示假冒客服骗案频发，资料外泄成隐患",
+          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOeDI1VS15UXJ6WmxmSWhCNXo4VEdBdFd4cVBFMkdnZ1lSYzJBbEhmV01zdnRpTklRUXM0emRVdUtTU1hvMWlLcjRVOVoySEpfQWthM2YzYnpYcG9vRl91S0NqWlVGb2JnRmRqTXNKcS1pdHdlTFNoYXBMVktGV0x1SW9sS3lGSmFnb0l4ejltT1ltOWR5M1JiQi0xRGQ3QllIVnRCaVNyVVJ4aS1fTkw3Y1liOEx4cm5SNjd0azhLZWt4X2tOY1hzX3lhSmV1SjJlVkVSWUhzTXVkWTZ6UEdXb0l1NkNHMzVGdEczenZJYmFwcm8zWDhTS3RsUDlkYVBZemZFcUFmOVdSS2sxRFVmdmdzRF82dHprcXhZQU1ncjFha2g1RjczOXNfRHRHUHp0VVk3LXdwa29XOXdpQVM3VTRZbEppck1pbW9kU0VMalowTWltMmtIRlBVODZwcWJQRFA2a3BHUHBVX2tGdkk2SEF5SE51UkdzU2ZRb2FmR3pNaHB1ejFfc1RJMFFDbFI3WFp3T0VZVkxLM3JMYWF4eTgxUTdwTENSNEc4SFVfLUdRNnY2X2xLU2VLZDQ3ZlVaQ25vT0o0cHJPT2Rq?oc=5",
+          "tldr": "香港警方针对假冒客服骗案频发发出公众警示，指出此类骗局往往与资料外泄有关。",
+          "summary": "香港警方针对假冒客服骗案频发发出公众警示，指出此类骗局往往与资料外泄有关。警方强调，骗徒可能已掌握个人资料，但这并不代表其身份真实，呼吁市民通过官方渠道核实。 此类骗局日益精密，任何人都有可能成为目标，造成重大经济损失和身份盗用。该警示凸显了利用人们对客服的信任和泄露个人资料进行社会工程攻击的趋势正在加剧。 骗徒通常冒充支付应用或电商平台的客服人员，利用数据泄露获得的个人资料来增加可信度。警方建议市民通过官方渠道直接联系公司以核实来电者身份，切勿根据未经请求的电话分享敏感信息或进行付款。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 12:03",
+          "score": 5.0,
+          "tags": [
+            "customer service",
+            "scam prevention",
+            "data breach",
+            "security awareness",
+            "Hong Kong"
+          ],
+          "background": "假冒客服骗案是一种社会工程攻击，犯罪分子冒充客服人员诱骗受害者泄露敏感信息或转账。香港此类骗案激增，往往与暴露个人资料的大规模数据泄露有关。警方已推出反诈骗措施，包括一个已帮助避免重大经济损失的网站。",
+          "references": [
+            {
+              "title": "How to Protect Yourself from Customer Service Scams",
+              "url": "https://www.aarp.org/money/scams-fraud/customer-service/"
+            },
+            {
+              "title": "What is Social Engineering ? - Meaning",
+              "url": "https://www.kaspersky.com/resource-center/definitions/what-is-social-engineering"
+            }
+          ]
+        },
+        {
+          "rank": 35,
+          "headline": "怡合达在报价、备库及客服等多场景引入AI技术",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBla29FTTFlWFY2bkdsMDNYQTEyVmJudnA4bjlFdlpjZm1SbFdOemktRWlmcjk1THc2eHZ0MVJDMV9GMHBSZEVYZWhXNnJIZ3ZKTl9TTHBieHhWaUdYeU90QQ?oc=5",
+          "tldr": "怡合达（301029.SZ）宣布已逐步在FB自动报价、产品备库、订单预测、决策支持、智能客服等场景引入AI技术。",
+          "summary": "怡合达（301029.SZ）宣布已逐步在FB自动报价、产品备库、订单预测、决策支持、智能客服等场景引入AI技术。 此举表明AI应用正从科技巨头向传统工业零部件供应商扩展，AI可优化报价、库存和客服流程以提升运营效率。这为制造业供应链中的客服和企业数字化提供了渐进式AI部署的案例。 公告未披露所采用的具体AI模型或供应商、部署规模及量化效果。'FB自动报价'可能指针对非标或定制零部件的自动报价，但细节尚未公开。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 13:00",
+          "score": 4.0,
+          "tags": [
+            "智能客服",
+            "AI应用",
+            "企业数字化",
+            "客户服务",
+            "上市公司动态"
+          ],
+          "background": "怡合达成立于2010年，于2021年7月在深交所创业板上市，专注于FA（工厂自动化）零部件，为自动化设备商提供一站式供应。公司对非标零部件进行标准化设计，并利用数字化平台解决采购分散、交期不稳定等痛点。在报价和备库中引入AI是其整体数字化战略的一部分。",
+          "references": [
+            {
+              "title": "怡合达官方网站",
+              "url": "https://www.yiheda.com/"
+            },
+            {
+              "title": "东莞怡合达自动化股份有限公司_百度百科",
+              "url": "https://baike.baidu.com/item/%E4%B8%9C%E8%8E%9E%E6%80%A1%E5%90%88%E8%BE%BE%E8%87%AA%E5%8A%A8%E5%8C%96%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/22043515"
+            }
+          ]
+        },
+        {
+          "rank": 36,
+          "headline": "客服代表被控从仓库盗窃超35万元服装",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTbW5TMFRrcjBGdGZfUno2Ri1RT3B4ekV0QTg3cEZlcElwa05tbWZfQ016WWtfQ1AxNDJsWFNicmJCSXpsNUtYTVJxZnhZdk1GWnU2ZW0yRThXRXZUV08xNTcxTmhpYm85OUJROU1pcmw?oc=5",
+          "tldr": "一名客服代表涉嫌在上班期间从仓库盗窃价值超过35万元的服装，并通过私开的网店进行销售。",
+          "summary": "一名客服代表涉嫌在上班期间从仓库盗窃价值超过35万元的服装，并通过私开的网店进行销售。 此案凸显了电商运营中内部欺诈和盗窃的风险，强调了建立健全的内部控制和库存监控以保护公司资产的必要性。 被盗商品据称通过私开网店销售，涉案总价值超过35万元；关于盗窃手法和持续时间的更多细节尚未披露。",
+          "source_type": "rss",
+          "source_name": "客服行业动态",
+          "published": "11月27日 06:19",
+          "score": 4.0,
+          "tags": [
+            "customer service",
+            "internal fraud",
+            "warehouse theft",
+            "e-commerce",
+            "employee misconduct"
+          ],
+          "background": "内部盗窃，通常称为“监守自盗”或内部人员侵占，是拥有仓库运营的企业面临的常见挑战。客服岗位可能有权访问订单和库存系统，如果缺乏适当的检查，就会为欺诈创造机会。"
+        }
+      ]
+    }
+  ]
+}
